@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="An interactive mastery course for Edward Feser's Five Proofs of the Existence of God.">
+  <title>Five Proofs — Mastery Course</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Libre+Caslon+Display&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar" aria-label="Course navigation">
+      <div class="brand">
+        <div class="brand-mark">V</div>
+        <div><strong>Five Proofs</strong><span>Mastery course</span></div>
+      </div>
+      <div class="progress-card">
+        <div class="progress-row"><span>Course mastery</span><strong id="overall-percent">0%</strong></div>
+        <div class="progress-track"><div id="overall-bar"></div></div>
+        <small id="overall-detail">Begin with the foundations</small>
+      </div>
+      <nav id="chapter-nav"></nav>
+      <button class="nav-utility" id="open-capstone">◇ Final oral defense</button>
+      <button class="nav-utility" id="reset-progress">↺ Reset progress</button>
+    </aside>
+
+    <main>
+      <header class="topbar">
+        <button class="mobile-menu" id="mobile-menu" aria-label="Open course menu">☰</button>
+        <div class="breadcrumbs"><span>FESER</span><i>/</i><strong id="crumb-title">Course map</strong></div>
+        <div class="study-streak"><span class="pulse"></span><span id="streak-label">Study session ready</span></div>
+      </header>
+
+      <div id="course-view">
+        <section class="course-intro">
+          <div class="eyebrow">A guided apprenticeship in natural theology</div>
+          <h1>Understand the proofs.<br><em>Defend every premise.</em></h1>
+          <p>This course turns seven dense chapters into a repeatable cycle: understand, reconstruct, challenge, explain, and teach. Your progress stays on this device.</p>
+          <div class="intro-actions">
+            <button class="primary" id="begin-course">Begin chapter 1 <span>→</span></button>
+            <button class="secondary" id="resume-course">Resume last lesson</button>
+          </div>
+          <div class="course-stats">
+            <div><strong>7</strong><span>mastery units</span></div>
+            <div><strong>35</strong><span>core concepts</span></div>
+            <div><strong>42</strong><span>assessment prompts</span></div>
+            <div><strong>1</strong><span>final oral defense</span></div>
+          </div>
+        </section>
+
+        <section class="method-panel">
+          <div>
+            <div class="eyebrow">The mastery loop</div>
+            <h2>Five passes through every chapter</h2>
+          </div>
+          <ol class="method-steps">
+            <li><b>01</b><span><strong>Orient</strong>See the question and destination.</span></li>
+            <li><b>02</b><span><strong>Map</strong>Rebuild the argument in sequence.</span></li>
+            <li><b>03</b><span><strong>Stress-test</strong>Locate the true point of dispute.</span></li>
+            <li><b>04</b><span><strong>Explain</strong>Translate without distorting.</span></li>
+            <li><b>05</b><span><strong>Defend</strong>Answer objections with charity.</span></li>
+          </ol>
+        </section>
+
+        <section class="curriculum-section">
+          <div class="section-heading"><div><span>Curriculum</span><h2>Your path through the book</h2></div><p>Complete the five mastery checks in each unit. Quiz scores of 80% or higher count as passed.</p></div>
+          <div id="course-grid" class="course-grid"></div>
+        </section>
+      </div>
+
+      <div id="chapter-view" hidden></div>
+      <div id="capstone-view" hidden></div>
+    </main>
+  </div>
+  <div id="toast" role="status" aria-live="polite"></div>
+  <script src="course-data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

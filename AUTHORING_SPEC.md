@@ -1,0 +1,155 @@
+# Authoring spec — "Five Proofs" mastery course
+
+You are writing ONE module of an exhaustive self-study course on Edward Feser's
+*Five Proofs of the Existence of God* (Ignatius Press, 2017). The learner wants to
+**(1) understand** every argument deeply, **(2) explain** it clearly to anyone, and
+**(3) persuade** thoughtful skeptics honestly and effectively.
+
+Source text (extracted from the PDF, with `=====PAGE n=====` markers — page n in
+the markers is the PDF page, the printed page number usually appears in running
+heads) lives in:
+`C:\Users\mleet\AppData\Local\Temp\claude\C--Users-mleet-Desktop-house\06017739-d316-49e3-acef-54ca2c6333bb\scratchpad\ch\`
+
+Read your assigned source file(s) **completely and carefully** before writing
+(use Read with offset/limit in chunks — the files are long). Accuracy to Feser's
+actual reasoning, terminology, examples and replies is the top priority. Do not
+invent claims and attribute them to Feser. Where you add your own analogies or
+persuasion advice, that is fine — mark illustrations with `"source": "course"`.
+
+## Copyright rules (mandatory)
+- Write everything **in your own words**. Do NOT copy sentences or paragraphs
+  from the book. Do not transcribe Feser's numbered formal argument verbatim —
+  restate each step in fresh wording (keeping the logical structure and step
+  count is fine).
+- Short quotations of a key phrase are allowed only rarely: under 15 words each,
+  in quotation marks, at most ~3 per module.
+
+## Output 1 — module JSON
+Path: `C:\Users\mleet\Desktop\house\five-proofs-course\content\<id>.json`
+
+Because the file is large, build it in parts to avoid giant single writes:
+write `content\_parts\<id>\p1.json` … `p5.json` (each a JSON object holding some
+of the top-level keys below), then merge them with a small Python script into
+`content\<id>.json`, then validate:
+`python -c "import json;d=json.load(open(r'...\\content\\<id>.json',encoding='utf-8'));print(list(d))"`
+Fix any JSON errors until it loads. (Watch out for unescaped double quotes
+inside strings — prefer typographic quotes “ ” ‘ ’ inside prose.)
+
+Text fields marked **md** use a tiny Markdown subset that the site renders:
+paragraphs separated by a blank line (`\n\n`), `**bold**`, `*italic*`,
+lines starting `- ` for bullets, `1. ` for numbered lists, `> ` for a callout.
+No HTML, no headings inside md fields, no links.
+
+```jsonc
+{
+  "id": "ch1",                       // given in your assignment
+  "order": 1,                        // given
+  "label": "Chapter 1",              // given
+  "title": "The Aristotelian Proof", // given
+  "tagline": "From change to the Unmoved Mover",   // short, evocative
+  "bookPages": "17–68",              // printed page range, given
+  "estMinutes": 150,                 // realistic study time for this module
+  "oneSentence": "The chapter's thesis in one sentence.",
+  "bigPicture": "md — 2–4 paragraphs: what this chapter does, where it fits in the book's overall project, why it matters, what makes it distinctive among the five proofs.",
+  "objectives": ["Explain why …", "Distinguish …", "Answer the objection that …"],   // 6–9 concrete, testable
+
+  "summary": [                       // THE DETAILED CHAPTER SUMMARY — follows the book's own section order
+    { "heading": "Stage 1: …", "body": "md" }
+  ],
+  // Summary must be genuinely detailed: every section/subsection of the chapter
+  // covered, every important example, distinction, argument move, and objection
+  // represented. Target total length: ~250 words per 5 book pages (so a
+  // 50-page chapter ≈ 3,000–4,000 words). Explain, don't just list.
+
+  "argument": {                      // the chapter's formal argument (or, for non-proof modules, the main line of reasoning)
+    "name": "…",
+    "overview": "md — how the argument is organized (stages, what each stage secures)",
+    "stages": [ { "title": "Stage 1 — …", "range": "1–14", "gist": "one or two sentences" } ],
+    "steps": [
+      { "n": 1, "kind": "premise",    "text": "restated step", "why": "plain-English support: why this is true / which earlier steps it follows from / what Feser says to defend it" },
+      { "n": 3, "kind": "inference",  "text": "…", "why": "follows from 1 and 2 because …" },
+      { "n": 14, "kind": "conclusion", "text": "…", "why": "…" }
+    ]
+    // kind ∈ premise | inference | conclusion. Include EVERY step of Feser's formal statement (paraphrased).
+  },
+
+  "keyTerms": [ { "term": "Actuality", "definition": "…", "example": "…" } ],   // 15–30
+  "distinctions": [                  // 3–8 crucial conceptual contrasts
+    { "name": "Per se vs. per accidens causal series",
+      "left":  { "label": "Per accidens (linear)",       "desc": "…" },
+      "right": { "label": "Per se (hierarchical)",       "desc": "…" },
+      "whyItMatters": "…" }
+  ],
+  "illustrations": [                 // 5–10: the book's key examples retold in your words + your own new analogies
+    { "title": "The hand, the stick, and the stone", "body": "md", "source": "book" }
+  ],
+
+  "objections": [                    // EVERY objection the chapter discusses, plus 1–3 common modern ones it equips you to answer
+    { "title": "short name",
+      "whoRaises": "Hume / Russell / Dawkins / typical skeptic …",
+      "objection": "md — the objection stated at its strongest",
+      "reply": "md — Feser's reply, step by step, in your words",
+      "pushback": "md — what to say if the objector presses further",
+      "difficulty": 2 }              // 1 easy, 2 moderate, 3 hard
+  ],
+  "misconceptions": [ { "myth": "…", "correction": "…" } ],   // 6–10
+
+  "explain": {
+    "tweet": "≤ 280 characters",
+    "elevator": "a spoken 30-second version (≈80 words)",
+    "twoMinute": "md — ≈300–400 word spoken explanation for a smart friend",
+    "eli12": "md — explanation a 12-year-old could follow",
+    "whiteboard": ["what to draw/write first and what to say", "…"],   // 6–10 steps
+    "keyAnalogy": "the single best analogy for this chapter and how to use it"
+  },
+
+  "persuade": {
+    "coreInsight": "md — the one idea that, once someone grasps it, makes the argument click (and the usual reason it fails to click)",
+    "audiences": [                   // 4–6 kinds of listener
+      { "who": "Science-minded naturalist", "startingPoint": "what they already believe/assume",
+        "approach": "md — how to present the argument to them", "openingQuestion": "a question to open with",
+        "avoid": "what not to do with this audience" }
+    ],
+    "dialogue": [ { "speaker": "Skeptic", "line": "…" }, { "speaker": "You", "line": "…" } ],   // 16–26 turns, realistic, the skeptic is smart and raises real objections; you answer using the chapter
+    "socratic": ["question that leads someone to see a premise for themselves", "…"],   // 8–12
+    "traps": [ { "trap": "a common way people botch presenting this", "fix": "…" } ]   // 5–8
+  },
+
+  "connections": [ { "to": "ch6a", "note": "how this module relates to another module" } ],   // valid ids: intro, ch1, ch2, ch3, ch4, ch5, ch6a, ch6b, ch7a, ch7b, capstone
+
+  "quiz": [                          // 18–25 multiple choice; vary the position of the correct answer (0–3) evenly
+    { "q": "…", "options": ["…","…","…","…"], "answer": 2, "explanation": "why the right answer is right and the tempting wrong one wrong", "level": "recall" }
+    // level ∈ recall | understand | apply | analyze — mix them; at least 40% understand/apply/analyze. Distractors should be plausible misreadings, not jokes.
+  ],
+  "shortAnswer": [ { "q": "…", "model": "md — a model answer", "rubric": ["point a strong answer must include", "…"] } ],   // 8–12
+  "flashcards": [ { "front": "…", "back": "…" } ],   // 25–40
+  "teachBack": "md — a Feynman-style challenge: what to explain out loud, to whom, with what constraints, and how to check yourself",
+  "videoPrompt": "Text the learner pastes into NotebookLM's Video Overview 'customize' box — tell it the audience, the key ideas to emphasize in order, the examples to use, the misconceptions to correct, and the tone (≈80–150 words)."
+}
+```
+
+## Output 2 — NotebookLM source document
+Path: `C:\Users\mleet\Desktop\house\five-proofs-course\notebooklm\<NN>-<slug>.md` (given in your assignment)
+
+A **standalone, very detailed** study document the learner will upload to Google
+NotebookLM to generate a video overview. NotebookLM will see ONLY this file, so it
+must be self-contained and richly explanatory. Plain Markdown (headings allowed).
+Length: 4,000–7,000 words (scale with chapter length). Structure:
+
+1. Title, one-paragraph orientation (book, chapter, where it sits in the course)
+2. Why this chapter matters
+3. Key concepts and vocabulary (defined clearly, with examples)
+4. The argument told as a story — informally, stage by stage, with the book's examples
+5. The formal argument, step by step (paraphrased), with a one-line justification per step
+6. Every objection discussed and the reply to each
+7. Common misunderstandings
+8. How to explain it to others (simple version + best analogy)
+9. Key takeaways (bullet list) and 10 review questions with brief answers
+
+Write in your own words (copyright rules above apply). Make it vivid and teachable.
+
+## Finish
+When both files exist and the JSON validates, reply with: file paths, word count
+of the NotebookLM doc, counts of summary sections / steps / objections / quiz /
+flashcards, and any places where the extracted text was garbled so you had to
+infer.

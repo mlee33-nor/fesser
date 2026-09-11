@@ -1,0 +1,120 @@
+{
+  "explain": {
+    "tweet": "Feser's Five Proofs: not probabilistic design arguments but attempted demonstrations. Each moves from a basic fact (change, parts, abstract truths, existence, explanation) to a cause that sustains everything now — the simple God of classical theism.",
+    "elevator": "Most people think arguments for God are guesses — “the universe looks designed, so probably someone designed it.” Feser's book defends a different, older kind of argument. Starting from things no one can deny — that things change, have parts, exist contingently — it tries to prove, step by step, that there must be a cause keeping everything in existence right now, and that this cause must be one, eternal, all-powerful, all-knowing, and good. Not a first domino — the ground of everything.",
+    "twoMinute": "Here's what Feser's *Five Proofs of the Existence of God* is trying to do. It's a book of **natural theology** — asking what reason alone, without scripture or revelation, can tell us about God.\n\nThe first surprise is the *kind* of argument. Most people know design arguments: the eye is complex like a watch, so probably it had a designer. Those are probability arguments, and critics say, fair enough, maybe evolution or a multiverse is a better explanation. Feser's arguments aren't like that. They aim at **demonstration**: premises you can't reasonably deny, and a conclusion that follows necessarily. So to refute them you have to find a false premise or a logical gap — not just say “maybe there's a simpler explanation.”\n\nThe second surprise is *which* cause they're after. They're not about the Big Bang or whether the universe had a beginning — Feser happily grants it might not have. Think of a cup resting on a desk on a floor on a foundation: none of those holds anything up by its own power, right now. The proofs ask what keeps anything in existence at this very moment. The answer can't be one more thing with borrowed existence; it has to be something that just *is* existence — pure actuality, absolutely simple, with no parts.\n\nThere are five routes: from change (Aristotle), from things having parts (Plotinus), from abstract truths like math (Augustine), from the difference between what a thing is and that it is (Aquinas), and from the principle that everything has an explanation (Leibniz). Each has two stages: first show that such a cause exists, then show it must be one, eternal, immaterial, all-powerful, all-knowing, and perfectly good.\n\nThe God that emerges isn't a big person in the sky — one being among others — but the classical God of Aristotle, Augustine, Maimonides, Avicenna, and Aquinas: the source of all being. And Feser's bold claim is that if these arguments work, the serious debate isn't atheism versus theism anymore; it's among theists, about what God may have revealed.",
+    "eli12": "Imagine you see a cup sitting on a table. Why doesn't it fall? Because the table holds it up. And the table? The floor holds it up. And the floor? The ground. Each one only holds something up because something else is holding *it* up, right now.\n\nA philosopher named Edward Feser wrote a book with five ways of asking a question like that about *everything*: What keeps anything existing right now? Not “who started the world long ago” — but what's holding it all up this very second?\n\nHe argues that you can't just have an endless stack of things that borrow their existence from each other, like a stack of tables with nothing underneath. Something has to have existence all on its own, not borrowed. And he argues that whatever that is must be only one, can't change, isn't made of stuff, knows everything, can do anything, and is perfectly good. That's what people mean by God.\n\nThese aren't guesses like “the world looks designed, so maybe someone designed it.” They're more like math proofs: if the starting facts are true and each step follows, the answer has to be true. Feser also says his book won't tell you which religion is right — just that God is real, so the next big question is what God might have told us.",
+    "whiteboard": [
+      "Write NATURAL THEOLOGY at the top and underneath: “reason alone — no revelation.” Say: this is the game we're playing; no Bible verses as premises.",
+      "Draw two columns: DEMONSTRATION vs. PROBABILITY. Under probability write “design argument, best explanation, rivals possible.” Under demonstration write “certain premises, valid steps, no rival possible.” Say: Feser's proofs live in the left column, so “maybe there's a simpler theory” isn't a refutation.",
+      "Draw a vertical stack: cup / desk / floor / foundation / ? Label it HERE AND NOW. Next to it draw a horizontal line of dominoes labeled BACK IN TIME and cross it out. Say: the proofs are about what holds things in being now, not about a first moment.",
+      "Draw five arrows converging on one circle. Label the arrow tails: change, parts, abstract truths, essence/existence, explanation (PSR). Label the circle: pure actuality / the One / divine intellect / subsistent existence / necessary being.",
+      "Split each arrow into two segments: STAGE 1 (something fitting a description exists) and STAGE 2 (it has the divine attributes). List attributes beside Stage 2: one, eternal, immaterial, omnipotent, omniscient, good.",
+      "Draw two figures: a giant person labeled “theistic personalism — greatest being among beings” and a sun-like source radiating arrows to everything labeled “classical theism — being itself.” Cross out the first. Say: the proofs reach the second or nothing.",
+      "Write CH 6 and CH 7 at the bottom: ch 6 = one God, attributes, conservation, concurrence, miracles; ch 7 = objections answered.",
+      "Finish with a line: ATHEISM vs. THEISM → among theists (which revelation?). Say: the book aims to settle the first question and leave the second open."
+    ],
+    "keyAnalogy": "The cup on the desk on the floor. It captures the three things people most often get wrong about these proofs at once: (1) the causes are simultaneous and hierarchical, not a chain back in time, so a beginningless universe doesn't matter; (2) each intermediate cause has only borrowed power, so adding more of them — even infinitely many — explains nothing; (3) the “first” cause is first in having underived power, not in coming earliest. Use it early, then say: now replace “being held up” with “being kept in existence” and apply it to everything."
+  },
+  "persuade": {
+    "coreInsight": "The idea that makes everything click is that these are **arguments about what is holding things in existence right now, by way of demonstration** — not guesses about what started the universe long ago. Once someone sees that the question is “what keeps anything existing at this moment, given that nothing here has existence on its own?”, the usual objections (the Big Bang, the multiverse, evolution, “simpler explanations,” “what caused God?”) visibly fall off, because each was aimed at a different kind of argument.\n\nThe usual reason it fails to click is that people come in with a mental template of the design argument or the Kalam-style “the universe began, so something began it.” They then hear every step through that template. The persuader's first job is not to argue but to replace the template: show the difference between a linear chain in time and a hierarchical series here and now, and between a probabilistic hypothesis and a demonstration.",
+    "audiences": [
+      {
+        "who": "Science-minded naturalist",
+        "startingPoint": "Believes science is our best (maybe only) route to knowledge; sees God as a failed or unnecessary hypothesis; assumes arguments for God are gap-fillers.",
+        "approach": "Start by agreeing that God as a scientific hypothesis would be a bad one — then explain these arguments aren't hypotheses. Show that their starting points (change, contingency, the existence of things with parts) are what any experiment presupposes: every observation is itself a change. Ask what grounds the laws of nature themselves. Emphasize that the arguments are compatible with any cosmology, including an eternal multiverse, so no future discovery can threaten them — which should interest someone who wants claims that can't just be overturned tomorrow.",
+        "openingQuestion": "Is the claim that science is the only source of knowledge itself something science has discovered?",
+        "avoid": "Don't cite scientific gaps (origin of life, fine-tuning) as evidence for God; it reinforces exactly the picture you need to dislodge."
+      },
+      {
+        "who": "Philosophy student taught that Hume and Kant refuted the arguments",
+        "startingPoint": "Knows the textbook versions of the cosmological argument and their standard refutations; considers natural theology a closed chapter.",
+        "approach": "Point out that the textbook versions typically begin with “everything has a cause” — a premise none of Feser's proofs use. Walk through the per se / per accidens distinction and the notion of demonstration. Invite them to identify which specific premise Hume or Kant actually refutes. Note the double standard: disputed arguments for materialism stay “on the table,” but theistic ones are treated as permanently closed.",
+        "openingQuestion": "Can you state the premise of the cosmological argument that Hume refuted — and check whether it appears in any of these five proofs?",
+        "avoid": "Don't dismiss Hume or Kant as stupid; engage their specific objections and show why they miss these formulations."
+      },
+      {
+        "who": "Religious believer who thinks faith shouldn't need arguments",
+        "startingPoint": "Sees God as known by faith or experience; suspects philosophical proofs are cold, presumptuous, or about a different God.",
+        "approach": "Explain that natural theology doesn't replace faith but clears the ground for it — the book explicitly leaves revelation to a separate inquiry. Stress that classical theism is the mainstream view of Augustine, Maimonides, Avicenna, and Aquinas, and that the ordinary believer's God (uncaused, all-powerful, all-knowing, good creator) is the same God, understood less technically — like the layperson's atoms. Show that classical theism attributes intellect, will, and love to God.",
+        "openingQuestion": "When you say God created and sustains the world, do you mean he's one very powerful being among others, or the source of everything's existence?",
+        "avoid": "Don't imply that faith without philosophical proof is irrational or that believers must master metaphysics."
+      },
+      {
+        "who": "Agnostic who thinks certainty is impossible",
+        "startingPoint": "Believes questions about God are unanswerable either way; finds claims of proof arrogant.",
+        "approach": "Separate the tone from the logic. Explain what a demonstration is and ask whether they're certain change occurs (they can't coherently doubt it — doubting is itself a change). Then ask whether they accept that a potential can't actualize itself. Proceed step by step so that any hesitation is located at a particular premise rather than in a general mood of uncertainty. Note that “we can't know” is itself a strong philosophical claim.",
+        "openingQuestion": "Is there anything you think we can know with certainty — for instance, that things change?",
+        "avoid": "Don't demand they concede the whole argument at once; aim for them to see which step they would need to deny."
+      },
+      {
+        "who": "Theist who defends God with design and probabilistic arguments",
+        "startingPoint": "Uses fine-tuning, Intelligent Design, or cumulative-case apologetics; may picture God as a supremely great person.",
+        "approach": "Show how classical demonstrative arguments avoid the weaknesses of design arguments (dependence on current science, vulnerability to better naturalistic explanations, the “complex designer” objection). Introduce the classical theism / theistic personalism distinction and why divine simplicity matters: a composite God would need a cause, and the proofs reach only a simple one.",
+        "openingQuestion": "If evolution or a multiverse explained fine-tuning tomorrow, would your case for God collapse — and would you want it to depend on that?",
+        "avoid": "Don't disparage their faith or their arguments wholesale; present the classical approach as a stronger foundation, not a rebuke."
+      }
+    ],
+    "dialogue": [
+      { "speaker": "Skeptic", "line": "I've heard the arguments for God. The universe looks designed, so someone designed it. Evolution killed that one." },
+      { "speaker": "You", "line": "Agreed that's a probabilistic argument, and it's vulnerable exactly as you say. But the book I'm reading defends a different kind — attempts at demonstration, where the conclusion is supposed to follow necessarily. None of them mentions biology at all." },
+      { "speaker": "Skeptic", "line": "Necessarily? That's a big word. If it were a proof, everyone would accept it." },
+      { "speaker": "You", "line": "Would you apply that test to other philosophical arguments? Arguments for materialism, or against free will, have plenty of intelligent critics, yet nobody says they automatically fail. A demonstration needs to survive scrutiny, not win unanimous applause." },
+      { "speaker": "Skeptic", "line": "Fine. So what's the proof — everything has a cause, so the universe has a cause?" },
+      { "speaker": "You", "line": "No, and that's important. None of the five arguments uses “everything has a cause.” The first one says: things change, and change means a potential becoming actual. A potential can't actualize itself; only something already actual can." },
+      { "speaker": "Skeptic", "line": "Sure, the coffee cools because the air cools it, the air because of the AC, back and back. Then you say there must be a first cause at the Big Bang. But maybe the universe is eternal." },
+      { "speaker": "You", "line": "Feser grants that it might be. The argument isn't about a chain going back in time. Think of a cup held up by a desk, held up by the floor, held up by the foundation — all right now. None of them holds anything up on its own power." },
+      { "speaker": "Skeptic", "line": "So the earth holds it up. Or gravity and electromagnetism. Physics handles that." },
+      { "speaker": "You", "line": "Physics tells us the mechanism. But now ask the same question about existence itself. What makes the water in the coffee exist right now, rather than just hydrogen and oxygen? The atoms' arrangement. And what keeps that arrangement actual? You get a stack of things that each exist only because something else is actualizing them at this moment." },
+      { "speaker": "Skeptic", "line": "Why can't the stack go on forever?" },
+      { "speaker": "You", "line": "Because every member only has borrowed power. An infinitely long paintbrush handle still can't move itself. Adding more borrowers never produces a lender. There has to be something whose existence isn't borrowed — something purely actual." },
+      { "speaker": "Skeptic", "line": "OK, but then what caused that? You can't just exempt it." },
+      { "speaker": "You", "line": "It isn't an arbitrary exemption. Things need a cause because they have potentials needing actualization. Something purely actual has no potential to be actualized, so it not only has no cause — it couldn't have one." },
+      { "speaker": "Skeptic", "line": "Even if I grant some “purely actual” thing, why call it God? Maybe it's a quantum field." },
+      { "speaker": "You", "line": "That's what the second stage of each proof addresses. A quantum field has potentials — it changes, fluctuates, takes on states. What's purely actual can't change, so it's eternal; can't be material; can't be two of it, since nothing could distinguish them; and as the source of all actualizing power, it's omnipotent. The book argues for knowledge and goodness too." },
+      { "speaker": "Skeptic", "line": "This sounds like a big invisible person upstairs. And a big person would be complex, so Dawkins's point stands: who designed the designer?" },
+      { "speaker": "You", "line": "Actually these arguments agree with Dawkins that anything complex would need a cause — that's why they conclude to something absolutely simple, with no parts at all. The God of classical theism isn't a big person among other beings; he's being itself, the source of whatever being anything else has." },
+      { "speaker": "Skeptic", "line": "Then it's not the God of the Bible. Nobody prays to “pure actuality.”" },
+      { "speaker": "You", "line": "The book doesn't try to prove the Bible, or any religion. It aims at what natural theology can reach. But classical theists say it's the same God believers pray to, just understood more precisely — like the layman's atoms and the physicist's atoms." },
+      { "speaker": "Skeptic", "line": "Suppose it all works. What then?" },
+      { "speaker": "You", "line": "Then atheism is off the table, and the live question becomes which theism is right — whether God has revealed anything, and what. Feser deliberately doesn't try to settle that. He just wants the conversation to start from there." },
+      { "speaker": "Skeptic", "line": "I'm not convinced. I'd want to look hard at that claim that existence is being ‘actualized’ at every moment." },
+      { "speaker": "You", "line": "Good — that's exactly the right place to press, and it's a specific premise, not a vague feeling. Chapter 1 and chapter 4 argue for it in detail. Want to go through it?" }
+    ],
+    "socratic": [
+      "When you doubt that change occurs, does your mind pass from one thought to another? What does that tell you about whether change is real?",
+      "Can something that is only potentially hot make itself actually hot? What would have to be true for it to do so?",
+      "If a cup is held up by a desk that is held up by a floor, does it matter to the cup's position right now how long ago the desk was built?",
+      "Would adding more desks under the cup — even infinitely many — ever explain why any of them is held up, if none can hold itself up?",
+      "Is there a difference between showing that something is the best available explanation and showing that there is no possible alternative? Which kind of argument can be refuted by a new rival theory?",
+      "Is the claim “only science gives knowledge” something that could be discovered by a scientific experiment?",
+      "If God were composed of parts, what would have to put those parts together? Would that thing then be more ultimate than God?",
+      "When believers say God made and keeps the world in being, do they mean he is one more being in the world, or the source of the world's being?",
+      "If an argument showed that atheism is false but didn't tell you which religion is true, would that make the argument worthless?",
+      "If an argument has intelligent critics, does it follow that the argument fails? Do you apply that rule to other philosophical views you hold?",
+      "What would a skeptic have to show, specifically, in order to refute a demonstration rather than merely express doubt about its conclusion?"
+    ],
+    "traps": [
+      { "trap": "Opening with the Big Bang or the beginning of the universe.", "fix": "Say up front that the proofs grant a possibly beginningless universe and concern what sustains things in existence now. Use the cup–desk–floor example before anything else." },
+      { "trap": "Presenting the proofs as “the best explanation” or saying God is “more likely.”", "fix": "Explain that they are attempted demonstrations, and invite the listener to identify a false premise or invalid step rather than weigh probabilities." },
+      { "trap": "Stating the premise as “everything has a cause.”", "fix": "Use the actual principles: whatever is actualized needs an actualizer; composite things need a cause of their composition; contingent things need an explanation. Then the “what caused God?” reply becomes obvious." },
+      { "trap": "Stopping at Stage 1 and calling the result “God.”", "fix": "Always sketch Stage 2: why the first cause must be one, eternal, immaterial, omnipotent, omniscient, and good. Otherwise you invite “that's not God” immediately." },
+      { "trap": "Talking about God as a very powerful person or cosmic designer.", "fix": "Introduce classical theism early: God is not a being among beings but subsistent being itself, absolutely simple. This prevents the “one god further” and “complex designer” objections from even arising." },
+      { "trap": "Leaning on scientific gaps (fine-tuning, origin of life) to add plausibility.", "fix": "Keep the case metaphysical. Mixing in gap arguments makes the whole thing look hostage to future science." },
+      { "trap": "Launching into the formal numbered steps without explaining the concepts.", "fix": "Follow Feser's own method: informal explanation first, with examples, then the formal statement as a summary." },
+      { "trap": "Claiming the proofs establish Christianity (or any specific religion).", "fix": "Be clear about scope: the proofs refute atheism and establish the God of classical theism; revelation is a further question the book leaves open." }
+    ]
+  },
+  "connections": [
+    { "to": "ch1", "note": "The Aristotelian proof is the introduction's first roadmap item and the place where the key tools the introduction presupposes — actuality/potentiality and the hierarchical vs. linear causal series — are first developed, along with the two-stage structure in action." },
+    { "to": "ch2", "note": "The Neo-Platonic proof delivers on the introduction's promise to restore divine simplicity — the heart of classical theism — to its proper place." },
+    { "to": "ch3", "note": "The Augustinian proof, which the introduction says is presented more systematically than before, shows natural theology reaching God from abstract objects rather than from causal change." },
+    { "to": "ch4", "note": "The Thomistic proof develops the “uncaused cause of the existence of things” — the introduction's own sample Stage 1 description — via the essence–existence distinction." },
+    { "to": "ch5", "note": "The rationalist proof explains why the introduction calls it “rationalist” only in a qualified sense: committed to PSR, but not to innate ideas or continental rationalist epistemology." },
+    { "to": "ch6a", "note": "Chapter 6 (first part) supplies the three background principles and derives the divine attributes, showing that all five proofs reach one and the same God — and contrasts classical theism with theistic personalism." },
+    { "to": "ch6b", "note": "Chapter 6 (second part) develops divine conservation and concurrence, rules out pantheism, panentheism, occasionalism, and deism, and discusses miracles — the hinge to revealed theology the introduction mentions." },
+    { "to": "ch7a", "note": "Chapter 7 (first part) delivers on the introduction's confident promise by answering “What caused God?”, the beginning-of-the-universe objection, god-of-the-gaps, and scientism." },
+    { "to": "ch7b", "note": "Chapter 7 (second part) ends the book with the reply to “No one can claim a proof” — the clearest account of what demonstration means — closing the loop opened by the introduction's confident claim." },
+    { "to": "capstone", "note": "The introduction's framing — demonstration, classical theism, here-and-now causation, and the scope limits of natural theology — is the lens the capstone uses to integrate all five proofs." }
+  ]
+}

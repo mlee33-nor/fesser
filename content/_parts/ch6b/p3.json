@@ -1,0 +1,104 @@
+{
+  "distinctions": [
+    {
+      "name": "Occasionalism vs. mere conservationism (and the concurrentist middle)",
+      "left": { "label": "Occasionalism", "desc": "Only God causes anything. Creatures are mere occasions: God melts the ice when the sun is out, and moves the eight ball when the cue ball touches it. The first cause is the only cause." },
+      "right": { "label": "Mere conservationism", "desc": "God keeps creatures in existence, but once sustained they exercise their causal powers on their own. The sun melts the ice independently of God. In effect this is deism: creatures could carry on without him." },
+      "whyItMatters": "Both extremes fail by agere sequitur esse: what does nothing would not exist (so occasionalism leaves only God), and what could act independently could exist independently (so mere conservationism denies conservation). Both also destroy the starting points of the proofs. The truth is concurrentism: creatures are real but secondary causes, making a genuine contribution while acting only with God's concurrence. This is the key to seeing that God and creatures are not competitors for the same causal job."
+    },
+    {
+      "name": "Observational knowledge vs. knowledge by being the cause",
+      "left": { "label": "Observational (spectator) knowledge", "desc": "Knowing something by receiving information from it — perceiving, being told, waiting for it to happen. The knower depends on the known, changes by learning, and must be present to it in time." },
+      "right": { "label": "Knowledge as cause (author's knowledge)", "desc": "Knowing something by knowing oneself as its cause, as an author knows his characters by knowing his own intentions. The known depends on the knower. This is how God knows the world: in one timeless act of self-knowledge." },
+      "whyItMatters": "Almost every puzzle about divine knowledge assumes the spectator model: that God must ‘see’ the future (so the future must already exist, as four-dimensionalism says), or that he learns what we will do. Once God's knowledge is understood as an author's knowledge, those puzzles lose their grip, and his knowledge no more crowds out our freedom than an author's writing crowds out a character's."
+    },
+    {
+      "name": "Cause of the whole story vs. cause within the story",
+      "left": { "label": "Hypnotist (cause alongside)", "desc": "A character within the story who interferes with other characters, making them do what they otherwise would not. Such causation competes with and overrides the agent's own choice." },
+      "right": { "label": "Author (cause of the whole)", "desc": "The source of the entire story, including the characters and their free choices. He does not interfere with anyone because he is not one of them; his causality is of a completely different order." },
+      "whyItMatters": "This contrast answers the free-will objections, grounds the account of concurrence, and explains why God does not ‘intervene’ in miracles. Nearly every objection to classical theism in this module quietly models God as a hypnotist — a very powerful character — instead of as an author."
+    },
+    {
+      "name": "Privation vs. mere absence",
+      "left": { "label": "Mere absence (negation)", "desc": "Lacking something a thing's nature does not call for. A triangle lacking a fourth side, a tree lacking wings, a stone lacking sight: no defect at all." },
+      "right": { "label": "Privation", "desc": "Lacking something a thing's nature does call for. A triangle with a wavy side, a tree with weak roots, a blind dog, a will lacking the intention to respect others' rights." },
+      "whyItMatters": "The privation theory does not say evil is ‘nothing at all’ or unreal; it says evil is a real lack of what ought to be there. That is what lets Feser say God is the source of all positive reality without being the source of evil, and why the objection that the theory denies evil's reality misses its target."
+    },
+    {
+      "name": "What usually accompanies an activity vs. what is essential to it",
+      "left": { "label": "Accidental accompaniment", "desc": "Features our acts of loving, choosing, or acting happen to involve because we are bodily, temporal, changeable creatures: feelings rising and falling, actualizing potentials, undergoing change." },
+      "right": { "label": "Essence of the activity", "desc": "What makes the activity what it is: love is willing the good of the beloved; freedom is not being compelled from within or without; acting is producing an effect in another." },
+      "whyItMatters": "Confusing the two is the fallacy of accident, and it drives the objections that an immutable God cannot love, a simple God cannot choose freely, and an unchanging God cannot act. Once the essence is isolated, the attribute can be ascribed to God analogically without its creaturely baggage."
+    },
+    {
+      "name": "Comprehending God loosely vs. comprehending him strictly",
+      "left": { "label": "Loose comprehension (possible)", "desc": "Genuine understanding that God exists and what he is not (apophatic knowledge), plus literal analogical knowledge of his positive attributes (power, knowledge, goodness, will, love)." },
+      "right": { "label": "Strict comprehension (impossible)", "desc": "Understanding a thing fully by analyzing it into parts and their arrangement, or into genus and specific difference. God, being simple, has no such structure, so our positive concepts of him ‘thin out.’" },
+      "whyItMatters": "It lets you hold both that natural theology yields real knowledge (against fideism and pure negative theology) and that God remains mysterious (against the charge that the theist claims to have God figured out). The mystery is not a dodge; the arguments predict it, as physics predicts strangeness at its frontiers."
+    },
+    {
+      "name": "Violation (breach) of a law vs. suspension of a law",
+      "left": { "label": "Violation / breach", "desc": "The law stays in force but is not obeyed: the conditions for fire burning are all present and sustained, yet the fire somehow acts against its own nature. Feser says this is metaphysically impossible, since laws express natures. Compare a government that keeps a law on the books but declines to enforce it." },
+      "right": { "label": "Suspension", "desc": "The law temporarily does not apply because some of what it presupposes is withdrawn: God refrains from conserving or concurring with some factors, so the normal effect simply does not arise. Compare a government temporarily revoking a law." },
+      "whyItMatters": "It shows how miracles are possible even though laws of nature are metaphysically necessary. Additive miracles elevate nature beyond its powers; subtractive miracles (the fiery furnace) involve God not doing something rather than forcing something."
+    },
+    {
+      "name": "Supernatural vs. preternatural",
+      "left": { "label": "Preternatural", "desc": "Extraordinary effects within the power of some created nature, such as an angel, if angels exist. Still part of the natural order broadly construed, since such beings are creatures conserved and concurred with by God." },
+      "right": { "label": "Supernatural", "desc": "Effects that elevate a thing to a power no created nature can account for, and whose cause lies outside the natural order altogether. Only God can produce them. (Contrast also the subnatural: defects that fall short of a nature.)" },
+      "whyItMatters": "Only a strictly supernatural effect can serve as God's ‘seal’ on a revelation, because nothing but God could produce it. It also shows why miracles are nothing like magic or advanced technology, which are just more (hidden) natural causes."
+    }
+  ],
+  "illustrations": [
+    {
+      "title": "The author who conceives the whole story in a flash",
+      "body": "Imagine an author who comes up with an entire novel in one instantaneous insight. At that instant he cannot be mistaken about whether a certain character is in the story or what happens to her, because she is there only because he put her there. He does not find out about his characters by watching them; he knows them by knowing his own creative intentions.\n\nFeser uses this to explain three things: why God cannot be mistaken (he makes true what he knows), how God meets the ‘reliable process’ condition on knowledge (nothing is more reliable than being the one who makes p true), and why God's knowledge of the world is really his self-knowledge. A human author can forget, but only because he is temporal, changeable, dependent on a brain, and subject to outside forces — none of which applies to God.",
+      "source": "book"
+    },
+    {
+      "title": "The crime novel: author vs. hypnotist",
+      "body": "In a crime novel a character plots a murder for money, carries it out, is caught, and is justly punished. It would be silly to say he didn't act freely because the author wrote it that way. But if a later chapter revealed that another character had hypnotized him, we would say: ‘So it wasn't free after all.’\n\nThe difference is that the hypnotist is a character alongside the murderer, interfering with him, while the author is not in the story at all and interferes with no one; his causality is of a different order entirely. Use this whenever someone says that God's knowing or causing everything must crowd out human freedom: they are picturing God as the hypnotist.",
+      "source": "book"
+    },
+    {
+      "title": "The prism and the lump of dough",
+      "body": "White light contains all the colors of the spectrum in a unified way; a prism draws out distinct beams of green, red, and so on. A lump of dough virtually contains countless cookie shapes; cutters draw out a star, a circle, a heart. If you knew the white light perfectly, you would know every color it could yield; if you knew the dough perfectly, every shape it could yield.\n\nGod is unlimited actuality, and each kind of creature is a limited way of being actual — being actual *as a dog* rather than as a tree, as green is color limited to green. So by knowing himself perfectly, God knows every finite way of being that could be drawn from him, in one undivided act. Feser flags the limits: creatures are not made *out of* God as cookies are made of dough, since God is not a material with potentials.",
+      "source": "book"
+    },
+    {
+      "title": "Triangles on a bus seat and in a lecture",
+      "body": "A triangle scrawled on the cracked seat of a moving bus has gaps and wobbly sides; one drawn carefully with a ruler and art pen comes much closer to the essence of triangularity. Calling the second a good triangle and the first a bad one is not a matter of taste; it follows from what a triangle is. Badness here is just a shortfall: the straightness that is missing.\n\nNow suppose a lecturer draws two sides and deliberately stops partway through the third, to make a philosophical point. The badness of the figure is not something extra he put there; it is what he left out. And his leaving it out is no defect in him, since the whole situation — lecture, audience, understanding — is good in a way it could not have been otherwise. That is Feser's model for how God can create a world containing evil without evil being in God.",
+      "source": "book"
+    },
+    {
+      "title": "The diamond that need not cut any glass",
+      "body": "A flawless diamond is a perfect diamond whether it cuts a sheet of glass an eighth of an inch thick, a quarter of an inch thick, or never cuts anything. Its perfection comes from what it is. Because action follows being, it has the capacity to cut many kinds of glass, but its perfection does not depend on which it cuts or whether it cuts at all.\n\nFeser uses this against Rowe's claim that if there is no best possible world, there can be no most perfect being (since a being that made a better world would be more perfect). God's perfection flows from his pure actuality, not from his products, so whether he makes a world with x forests, x + 1, or none is irrelevant to it.",
+      "source": "book"
+    },
+    {
+      "title": "The blue chalk and the moon",
+      "body": "When you draw a square on a chalkboard with blue chalk (Alfred Freddoso's example), you and the chalk are joint causes. You are why there is a square at all; the chalk is why it is blue. Red chalk or a pencil would produce a different effect, so the chalk contributes something real. But with no hand pressing it, nothing happens at all.\n\nOr take the moon: its appearance in the night sky depends on its own surface and material, so it contributes something real, yet it gives no light at all without the sun. That is concurrence: creatures are true causes (their natures make a difference to the effect) and secondary causes (their activity depends at every instant on the first cause).",
+      "source": "book"
+    },
+    {
+      "title": "The father guiding his son's hand",
+      "body": "A father teaches his young son to write the letter A by guiding his hand (David Oderberg's example). The child can resist and pull his hand the wrong way, or cooperate and let it be guided. Nothing in the father's guidance as such rules out either, so the child's choice makes a real contribution. Yet no letter A appears on the page without the father's guidance.\n\nFeser offers this as a picture of how God's concurrence with our free acts leaves them genuinely ours. It is an analogy, not a mechanism — God does not push against us as one force against another.",
+      "source": "book"
+    },
+    {
+      "title": "The jazz musician, the director's cut, and the second edition",
+      "body": "Think of the world as music and God as the musician. The ordinary course of nature is his playing from the score; a miracle is like a jazz improvisation. He doesn't have to force the music anywhere, since every note, written or improvised, is his; yet the improvisation adds something the score did not contain. Or the world is a film: the natural order is the theatrical release and miracles belong to the director's cut. Or it is a novel, and miracles are new material in a second edition.\n\nIn each case the original was complete and good, so a miracle is not a repair job but a raising of something good to a higher level. Subtractive miracles fit too: the musician omits notes, the director cuts a scene. Contrast the misleading picture of an airplane on autopilot with a pilot occasionally grabbing the controls.",
+      "source": "book"
+    },
+    {
+      "title": "Climbing the ladder and blasting it away",
+      "body": "Someone slowly and carefully climbs a ladder, then pulls out a ray gun and blasts it out from under himself. He falls, and his careful climb was pointless.\n\nFeser uses this image twice. Occasionalism does it by concluding that creatures do nothing (and so, by action-follows-being, are nothing), when the proofs began from real, changing, composite things that need a cause. Mere conservationism does it by concluding that creatures can act, and so exist, independently of God, when the proofs began from the fact that they cannot exist on their own even for an instant. Any account of God's relation to the world must keep the rungs we climbed on.",
+      "source": "book"
+    },
+    {
+      "title": "The singer and the song",
+      "body": "A painting, once finished, can survive its painter's death; a song, by contrast, exists only while someone is singing it. Stop singing and the song does not slowly fade by inertia — it simply is not there. Feser's doctrine of conservation says the world is related to God more like the song to the singer than like the painting to the painter.\n\nThe analogy also helps with concurrence and miracles. Every note is truly a note, with its own pitch and place in the melody (secondary causes are real), yet none sounds without the singer (they act only with God's concurrence). And the singer doesn't ‘intervene’ in his own song when he adds an ornament or holds a note longer; he is producing all of it. Limit: a singer is in time and can tire; God is neither.",
+      "source": "course"
+    }
+  ]
+}
