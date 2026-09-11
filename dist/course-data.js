@@ -189,3 +189,88 @@ window.CAPSTONE = {
     "End with the strongest reason a thoughtful skeptic should continue investigating—and one question you still need to study."
   ]
 };
+
+window.VOCAB_EXAMPLES = {
+  "Actuality":"A cup of water is actually warm before it cools.",
+  "Potentiality":"The same warm water has the potential to become cool.",
+  "Essentially ordered series":"A hand moves a stick that moves a stone; the stick acts only while moved.",
+  "Pure act":"Unlike the coffee, a purely actual source would have no unrealized state waiting to be acquired.",
+  "Principle of causality":"A cold environment can actualize the coffee’s capacity to cool because it is already cold in the relevant respect.",
+  "Composite":"A bronze statue involves bronze and organizing form; neither alone is this statue.",
+  "The One":"The ultimate source of unity would not be another bundle whose parts need unifying.",
+  "Concurrent cause":"A chandelier depends on the ceiling’s support while it hangs, not only when first installed.",
+  "Divine simplicity":"God would not be assembled from a nature plus a separate act of existence.",
+  "Participation":"A red apple has redness in a limited way; it is not redness itself.",
+  "Abstract object":"Triangularity is not identical to any one ink triangle, since badly drawn triangles can still represent it.",
+  "Nominalism":"On one nominalist approach, ‘red’ is a label applied to many particulars rather than a shared universal.",
+  "Conceptualism":"Triangularity exists as a concept in thinkers rather than as a separate object.",
+  "Scholastic realism":"The nature of oak exists in individual oaks, in our concepts, and as an intelligible pattern in the divine intellect.",
+  "Necessary truth":"No square can be a circle, regardless of what anyone thinks or which world exists.",
+  "Essence":"The essence of a triangle is what makes it a three-sided plane figure.",
+  "Existence":"A defined species in a field guide may have an essence even if no living specimen remains.",
+  "Real distinction":"A tree’s nature does not include its present act of existing; it can cease while other trees remain.",
+  "Contingent being":"This particular tree need not have existed and can cease to exist.",
+  "Subsistent existence":"The ultimate source would not receive existence as trees do; its nature would be to exist.",
+  "Principle of sufficient reason":"A sudden instrument reading prompts investigation because we expect an adequate explanation.",
+  "Contingent":"The lamp is on, but it could be off; its current state calls for an explanation outside the state itself.",
+  "Necessary being":"Unlike a contingent lamp, necessary reality could not fail to exist because its reason is intrinsic.",
+  "Brute fact":"Saying ‘the law just is that way’ stops the question without supplying an account.",
+  "Explanatory regress":"Each suspended hook hangs from another hook, leaving the support of the whole chain unresolved.",
+  "Classical theism":"God is understood as the sustaining source of being, not a powerful object located somewhere in the universe.",
+  "Analogy":"Human wisdom and divine wisdom are genuinely related, but divine knowing is not discursive learning.",
+  "Conservation":"A creature depends on God for its existence at noon just as truly as at its first moment.",
+  "Concurrence":"When a carpenter builds, the carpenter is a real cause while God sustains the agent and causal powers.",
+  "Miracle":"A resurrection would exceed the natural powers of a corpse without entailing a logical contradiction.",
+  "Agere sequitur esse":"Fire heats because of the kind of thing it is; its action expresses its mode of being.",
+  "Straw man":"Refuting ‘everything has a cause’ does not refute an argument whose premise is ‘whatever has potential requires actualization.’",
+  "Fallacy of composition":"Every brick is small, but it does not follow that the wall is small.",
+  "Scientism":"Demanding a laboratory experiment to validate the rule ‘only experiments yield knowledge’ applies a rule that is not itself experimental.",
+  "God of the gaps":"Invoking God merely because the mechanism of lightning is unknown would be a gap argument; asking why causal powers exist is a different question.",
+  "Theodicy":"A soul-making account proposes reasons God might permit suffering; it goes beyond showing that God and suffering are logically compatible.",
+  "Divine hiddenness":"A nonresistant seeker who cannot believe is presented as evidence against a God who desires relationship."
+};
+
+window.EXTRA_QUIZZES = {
+  1:[
+    {q:"Which change is analyzed in act–potency terms?",a:["Only movement through space","Any transition from a capacity to an actual state","Only conscious choice","Only chemical reaction"],correct:1,why:"The analysis is general and includes qualitative, substantial, and local change."},
+    {q:"Why is a hierarchical cause called derivative?",a:["It occurs later","Its causal power is borrowed here and now","It is imaginary","It is less physical"],correct:1,why:"An instrumental member acts only insofar as a more fundamental member actualizes it."},
+    {q:"Would an eternal universe by itself defeat the proof?",a:["Yes, because no first day exists","No, because present actualization still requires grounding","Yes, because eternity entails pure act","No, because time is unreal"],correct:1,why:"The proof is compatible for argument’s sake with infinite temporal history."},
+    {q:"What makes the first actualizer unique?",a:["It occupies all space","Two would require differentiating features and thus unrealized potential","It is the earliest event","Uniqueness is assumed"],correct:1,why:"Differentiation is incompatible with unqualified pure actuality."}
+  ],
+  2:[
+    {q:"Which is a metaphysical composition?",a:["Only gears in a clock","Essence together with received existence","A simple melody","A mathematical point"],correct:1,why:"Composition includes principles more basic than physical separability."},
+    {q:"Why do parts not fully explain the whole?",a:["Parts are unreal","Their being these unified constituents is an additional actuality","Wholes have no parts","Every whole is conscious"],correct:1,why:"The proof targets the actual unity of constituents into one being."},
+    {q:"Could an infinite set of composite unifiers be ultimate?",a:["Yes, number alone produces unity","No, every member still borrows its unity and unifying power","Only if temporal","Only in mathematics"],correct:1,why:"More derivative members do not yield a nonderivative source."},
+    {q:"What would a critic need to show?",a:["That some objects have many atoms","That composition can be finally explained without a simple source","That design arguments fail","That the past is infinite"],correct:1,why:"This addresses the proof’s actual explanatory transition."}
+  ],
+  3:[
+    {q:"What is stronger than agreement?",a:["Popularity","Objectivity: truth independent of our assent","Tradition","Complexity"],correct:1,why:"The argument relies on mind-independent truth, not polling."},
+    {q:"Why do inscriptions not ground propositions?",a:["Ink is invisible","Different inscriptions can express the same proposition and one mark can be misread","Writing is recent","Propositions are sounds"],correct:1,why:"The content is not identical with any particular physical token."},
+    {q:"What connects the system of ideas to omniscience?",a:["Every idea is a brain event","Logical relations form an interlocking intelligible order present to the necessary intellect","Numbers cause thoughts","Finite minds know everything"],correct:1,why:"The ground is not an isolated knower of one truth but of the unified system."},
+    {q:"Does the proof directly depend on a cosmic beginning?",a:["Yes","No; it begins from abstract truth and necessity","Only if numbers began","Only for nominalists"],correct:1,why:"Its starting point is the status of abstract objects."}
+  ],
+  4:[
+    {q:"Can a complete definition settle whether its object exists?",a:["Always","Not for ordinary finite things","Only in physics","Definitions never convey essences"],correct:1,why:"That gap motivates the real essence–existence distinction."},
+    {q:"Why must impartation of existence be concurrent?",a:["Causes repeat every second","The essence–existence distinction persists for as long as the thing exists","Time has discrete frames","Creation is a motion"],correct:1,why:"The dependency is ontological and present, not periodic."},
+    {q:"Why is subsistent existence not in a genus?",a:["It has no definition","Genus membership requires limiting differentiators and composition","It is spatially infinite","Geni are linguistic only"],correct:1,why:"Unreceived existence is not bounded as one species among others."},
+    {q:"Which analogy is safest?",a:["A chain of receivers that never owns the existence it passes on","A craftsman who leaves the artifact independent","A first explosion","A giant object"],correct:0,why:"The receivers analogy preserves concurrent derivation better than a past maker analogy."}
+  ],
+  5:[
+    {q:"Does PSR promise that humans can find every explanation?",a:["Yes","No; ontological intelligibility exceeds our knowledge","Only theologians can","Only science can"],correct:1,why:"A fact can have a reason even when finite investigators do not know it."},
+    {q:"What is selective skepticism about PSR?",a:["Using explanations in ordinary inquiry but rejecting them without principle at the ultimate level","Rejecting every explanation","Accepting logic","Studying probability"],correct:0,why:"Feser argues the restriction needs a non-arbitrary justification."},
+    {q:"What is the difference between causal and constitutive explanation?",a:["None","One may cite another agent or event; the other may cite a thing’s nature","Only causal explanations are real","Constitutive explanations are temporal"],correct:1,why:"PSR allows explanation through another or through what a necessary thing is."},
+    {q:"What makes necessary being explanatory rather than another stopping label?",a:["It is very old","Its sufficient reason lies in its nature","It is unknown","It is outside language"],correct:1,why:"The claim is self-explanation through metaphysical necessity, which must itself be defended."}
+  ],
+  6:[
+    {q:"Does simplicity make every divine predicate synonymous?",a:["Yes","No; our concepts differ even when the divine reality is not composed","Only moral predicates differ","Predicates never apply"],correct:1,why:"Conceptual distinctions need not mark distinct parts in God."},
+    {q:"What is eternity in classical theism?",a:["An endlessly long sequence","Life without intrinsic succession or beginning and end","Timeless unconsciousness","Travel through time"],correct:1,why:"Immutability rules out temporal becoming intrinsic to God."},
+    {q:"Why does pantheism conflict with the argument?",a:["Nature is valuable","The changing composite world cannot be identical with its simple immutable cause","Pantheists reject science","The universe is too large"],correct:1,why:"Cause and effect differ in the very features established by the proofs."},
+    {q:"Does a miracle prove a religion by definition?",a:["Yes","No; whether an event occurred and what it signifies require historical argument","Only ancient miracles do","Miracles are contradictions"],correct:1,why:"The metaphysical category and the evidential case must be distinguished."}
+  ],
+  7:[
+    {q:"Does exposing a straw man establish the original proof?",a:["Yes","No; it clears a bad objection but the premises still need defense","Only in theology","Only if popular"],correct:1,why:"Refuting a refutation is not yet a complete positive demonstration."},
+    {q:"What makes scientism self-undermining on a narrow definition?",a:["It dislikes laboratories","The claim that only science yields knowledge is not itself established scientifically","It denies mathematics","It proves God"],correct:1,why:"Its universal epistemic rule exceeds the method it licenses."},
+    {q:"What should precede a philosophical answer to suffering?",a:["A joke","Recognition of the person’s experience and the distinction between pastoral and logical needs","A proof from authority","A change of topic"],correct:1,why:"Rigor and humane communication are both essential."},
+    {q:"What does hiddenness most directly challenge?",a:["Whether triangles exist","The expected evidence and relational aims of a loving God","Whether matter changes","The logic of PSR"],correct:1,why:"The objection depends on claims about divine love, openness, and nonresistant nonbelief."}
+  ]
+};
