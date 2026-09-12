@@ -1,0 +1,704 @@
+{
+  "argument": {
+    "name": "The Aristotelian Proof (Feser’s 50-step formal statement, paraphrased)",
+    "overview": "The formal argument restates the informal one in two big movements.\n\n**Stage 1 (steps 1–14)** secures the existence of a **purely actual actualizer**. It begins with the reality of change, analyzes change as actualization of potential, applies the principle of causality, and then — the crucial pivot at steps 6–8 — moves from the *changes* a substance undergoes to the substance’s very *existence* at any moment. Existence at a moment requires a concurrent actualizer; if that actualizer is itself a mix of act and potency, a regress of concurrent actualizers begins. Such a regress is a **hierarchical (per se)** series, which cannot go on infinitely, so it must end in something purely actual.\n\n**Stage 2 (steps 15–50)** derives the divine attributes from pure actuality, in blocks: unity (15–18), immutability (19–21), eternity (22–23), immateriality and incorporeality (24–27), perfection (28–29), full goodness (30–32), omnipotence (33–37), and intelligence and omniscience (38–47), the last using the **principle of proportionate causality**. Steps 48–50 gather the results and identify the purely actual cause with God.\n\nNotice what is *not* a premise anywhere: that the universe began, that the universe as a whole needs a cause, or that everything has a cause.",
+    "stages": [
+      {
+        "title": "Stage 1 — From change to a purely actual actualizer",
+        "range": "1–14",
+        "gist": "Change is real and is the actualizing of potential by something actual; a changing thing’s very existence at each moment needs a concurrent actualizer; a regress of such actualizers is hierarchical and must end in pure actuality."
+      },
+      {
+        "title": "Stage 2a — Unity",
+        "range": "15–18",
+        "gist": "Two purely actual beings would need a differentiating feature, which would mean an unactualized potential; so there is only one."
+      },
+      {
+        "title": "Stage 2b — Immutability, eternity, immateriality, incorporeality",
+        "range": "19–27",
+        "gist": "No potentials means no change; no change means no time; no change or time means no matter and no body."
+      },
+      {
+        "title": "Stage 2c — Perfection and goodness",
+        "range": "28–32",
+        "gist": "Imperfection and badness are unrealized potential or privation, which pure actuality cannot have."
+      },
+      {
+        "title": "Stage 2d — Omnipotence",
+        "range": "33–37",
+        "gist": "Power is the ability to actualize; all actualization traces to the purely actual actualizer, so all power derives from it."
+      },
+      {
+        "title": "Stage 2e — Intelligence and omniscience",
+        "range": "38–47",
+        "gist": "By proportionate causality, the forms of all things it causes must be in it, and they can only be there abstractly, as in an intellect; since the forms of all things are there, nothing escapes its thought."
+      },
+      {
+        "title": "Conclusion — God exists",
+        "range": "48–50",
+        "gist": "A single purely actual cause with all these attributes is just what God is; so God exists."
+      }
+    ],
+    "steps": [
+      {
+        "n": 1,
+        "kind": "premise",
+        "text": "Things really do change; change is a genuine feature of the world.",
+        "why": "Sense experience shows it (the coffee cools, the leaf falls). Even if the senses deceived us, our thoughts and experiences succeed one another, and any attempt to argue that change is unreal is itself a process of moving from premise to conclusion — so denying change presupposes it.",
+        "example": "The coffee on your desk starts hot and ends up cold; a leaf lets go of the branch and lands on the lawn; a puddle spreads as the rain keeps falling; you swat a fly and it dies. Those four cases are Feser’s opening illustrations of change in quality, in place, in quantity and in substance.",
+        "challenge": "Maybe change is only how things look to us — Parmenides argued that change is strictly impossible, and some physicists describe reality as a “block universe” in which nothing really happens.",
+        "answer": "Feser’s reply is that you cannot deny change without changing: entertaining one premise, then the next, then the conclusion is itself one thought giving way to another. Even if your whole life were a Matrix-style hallucination, one experience would still succeed another. And the claim needed here is tiny — that at least something, somewhere, changes."
+      },
+      {
+        "n": 2,
+        "kind": "premise",
+        "text": "To change is for some potential to become actual.",
+        "why": "Aristotle’s answer to Parmenides: change isn’t something coming from nothing, because what a thing becomes was already there potentially (hot coffee can become cold but not become chicken soup). Change is the actualizing of such real potentials.",
+        "example": "Hot coffee can grow cold, can stain the carpet, and can make you alert — but it cannot fuel a car or turn itself into chicken soup, still less into a live chicken. What it can become is already in it as potential; growing cold is that potential being made actual.",
+        "challenge": "Isn’t “potentiality” just a fancy label for “what hasn’t happened yet” — an empty word dressed up as an explanation?",
+        "answer": "No, because it marks a real difference in the coffee itself: the coffee genuinely can cool and genuinely cannot squawk, and no relabelling makes those the same. Aristotle introduced potentiality precisely to answer Parmenides — since a potential is not simply nothing, change is not a case of something coming from nothing."
+      },
+      {
+        "n": 3,
+        "kind": "inference",
+        "text": "Therefore potentials really are actualized in the world.",
+        "why": "Follows directly from 1 and 2: if change is real and change just is actualization of potential, then actualization of potential is real.",
+        "example": "Saying “the coffee got cold” and saying “the coffee’s potential coldness was made actual” are two ways of describing one and the same everyday fact.",
+        "challenge": "",
+        "answer": ""
+      },
+      {
+        "n": 4,
+        "kind": "premise",
+        "text": "A potential can be actualized only by something that is already actual (the principle of causality).",
+        "why": "What is merely potential doesn’t yet exist in act and so can’t do anything, including actualize itself; only what is actual can act. The coffee’s potential coldness can’t make itself actual — the actual coolness of the air or actual ice cubes must do it. Note: this is not ‘everything has a cause’.",
+        "example": "Merely potential coldness cannot chill anything — if it could, the coffee would already be cold while it is still hot. Something already actual has to do the job: the actual coolness of the room’s air, or actual ice cubes dropped in.",
+        "challenge": "Hume claimed we can imagine something popping into existence out of nothing, so nothing guarantees that an actualized potential always has an actualizer.",
+        "answer": "Feser answers that picturing an empty space in which a cup suddenly appears is not the same as conceiving the cup as uncaused — at most you have pictured it without picturing its cause, which proves nothing (you can picture a three-sided closed figure without thinking the word “triangle”). Anscombe adds that Hume cannot even tell his own story: without causes there is no way to distinguish a cup coming into being from a cup simply being moved there from somewhere else."
+      },
+      {
+        "n": 5,
+        "kind": "inference",
+        "text": "Therefore every change is caused by something already actual.",
+        "why": "From 2 and 4: every change is an actualization of potential, and every such actualization requires an already-actual actualizer.",
+        "example": "The room’s air cools the coffee; the air conditioner cooled the air; your finger pressed the switch; motor neurons fired to move your finger. At every link, something already actual does the actualizing.",
+        "challenge": "",
+        "answer": ""
+      },
+      {
+        "n": 6,
+        "kind": "premise",
+        "text": "Any change presupposes some thing — a substance — that undergoes it.",
+        "why": "There is no cooling without something that cools; the coffee can only get cold, or be held up, if it exists. Change is always change *of* something.",
+        "example": "There is no cooling without coffee that cools, and no falling without a leaf that falls. Take the coffee away and you do not get a change with nothing changing — you get no change at all.",
+        "challenge": "Modern physics describes fields and events rather than enduring things; maybe there are changes with no substance underneath them.",
+        "answer": "Feser’s point survives the rephrasing: whatever the fundamental items turn out to be — particles, fields, something else — the changes are changes *of* them, and those items have to exist at the moment they change. He stresses that the notions of act and potency apply whether we talk about desks holding up cups or about clouds of particles colliding."
+      },
+      {
+        "n": 7,
+        "kind": "premise",
+        "text": "For that substance to exist at any given moment, its potential for existence must be actualized at that very moment.",
+        "why": "The pivot of the argument. The matter now making up water could exist instead as separate hydrogen and oxygen; that it is water *right now* is an actualized potential. Past causes explain how it got here; the absence of disruptors explains how it might cease; neither explains what keeps it existing now.",
+        "example": "The very same matter that now makes up the water in your coffee could instead exist as separate quantities of hydrogen and oxygen. That it is water *right now* is a potential being actualized right now — and pointing to how the water was brewed, or to the fact that nothing has yet split it apart, answers a completely different question.",
+        "challenge": "Why should existing need explaining at every moment? Once a thing exists, surely it simply keeps existing until something destroys it.",
+        "answer": "Feser refuses to treat that as a brute fact: the atoms have the potential to be bonded in many ways, and that *this* bonding rather than another is actual here and now is exactly an actualized potential. Appealing to chemical bonding, or to the structure of the atom, only rephrases the question and pushes it down a level — it never reaches something that just is actual with no potential in play."
+      },
+      {
+        "n": 8,
+        "kind": "inference",
+        "text": "So every substance has, at each moment it exists, something that actualizes its existence.",
+        "why": "From 4 and 7: an actualized potential for existence needs a concurrently acting actualizer (call it A).",
+        "example": "The coffee exists now only because the water does; the water only because the atoms are bonded this way now; the atoms only because the subatomic particles are arranged this way now. It is the cup-on-desk-on-floor picture again, but about existing rather than about height.",
+        "challenge": "Perhaps this chain bottoms out quickly, in fundamental particles or fields that simply exist and need nothing to hold them in being.",
+        "answer": "That would only be an answer if those fundamental items had no unactualized potential for existence at all — which is just to say that they are purely actual, the very conclusion the argument is heading toward. Anything that could have been otherwise, or could have failed to exist, still has a potential being actualized, and so still needs an actualizer."
+      },
+      {
+        "n": 9,
+        "kind": "premise",
+        "text": "At the moment A actualizes the substance, A’s own existence requires either (a) that A’s potential for existence is itself being actualized at that moment, or (b) that A is purely actual.",
+        "why": "An exhaustive disjunction: either A is a mix of potential and actual (and so, by 4 and 7, needs its own existence actualized), or it has no potential for existence at all.",
+        "example": "Take whatever is keeping the water in being right now, and call it A. Either A is the sort of thing that could have failed to exist — a mixture of actual and potential, needing its own existence actualized — or it is not that sort of thing at all. There is no third option.",
+        "challenge": "Isn’t “purely actual” a category invented on the spot just to stop the regress?",
+        "answer": "It is not invented for the occasion; it simply names one half of an exhaustive either/or — the case where nothing in a thing is left to be actualized. Feser also insists this is not special pleading: the reason other things need a cause is that they have potentials needing actualization, so something with none is precisely the one thing that could not need one."
+      },
+      {
+        "n": 10,
+        "kind": "premise",
+        "text": "If option (a) holds, there is a regress of concurrent actualizers that either goes on infinitely or ends in a purely actual actualizer.",
+        "why": "Whatever actualizes A is, in turn, either a mix of act and potency (continuing the regress) or pure act (ending it). Those are the only options — like the water depending on atoms depending on subatomic particles, and so on.",
+        "example": "Water depends on atoms being bonded a certain way, which depend on subatomic particles being arranged a certain way, and so on — each link either handing the question to a further actualizer or stopping because there is nothing in it left to actualize.",
+        "challenge": "Why not simply say the series never ends — an infinite chain of dependent actualizers, each one explained by the next?",
+        "answer": "That is exactly what step 11 rules out: every member here has only borrowed power, and borrowing with no lender explains nothing however long the chain runs. Feser’s paintbrush makes the point — an infinitely long handle is no better at moving itself than a short one, because wood has no built-in power of movement."
+      },
+      {
+        "n": 11,
+        "kind": "premise",
+        "text": "Such a regress of concurrent actualizers would be a hierarchical causal series, and a hierarchical series cannot regress infinitely.",
+        "why": "Each member has only derived, instrumental power to actualize — like the desk that holds the cup only because the floor holds the desk. Borrowed power needs a source that has it unborrowed; an infinite series of instruments is as powerless as one (the infinitely long brush handle, mirror images with no face). Without a first member we just pass the explanatory buck forever.",
+        "example": "The cup is three feet up because the desk holds it, the desk because the floor does, the floor because the foundation does. None of them has any holding-up power of its own — as it is not the brush that paints but the painter using the brush. And an infinitely long brush handle still could not move itself; a mirror reflecting a mirror reflecting a mirror forever still needs an actual face somewhere outside the series.",
+        "challenge": "Mathematics is full of infinite series with no first member, and cosmologists take seriously a universe or multiverse with no beginning — so why can’t a causal series run on forever?",
+        "answer": "Feser replies that infinite mathematical series involve no instrumental and primary causes — no causation at all — so they are not counterexamples, and that a beginningless universe is beside the point because it concerns linear series, which Aristotelians already allow to be infinite. What cannot go on forever is a series of borrowers with no lender."
+      },
+      {
+        "n": 12,
+        "kind": "inference",
+        "text": "So either A is itself purely actual, or a purely actual actualizer ends the regress that starts with whatever actualizes A.",
+        "why": "From 9, 10 and 11: option (b) gives a purely actual A directly; option (a) gives a regress that, since it can’t be infinite, must end in pure actuality.",
+        "example": "Whatever is holding the water in being at this instant is either itself purely actual, or it passes the question along to something that eventually is.",
+        "challenge": "Even if each chain has to stop somewhere, why must it stop in one purely actual thing rather than in several equally basic somethings?",
+        "answer": "This step does not yet claim there is only one — that is argued separately at steps 15–18. All that is claimed here is that each hierarchical series terminates in something whose power is underived, which means something with no potential for existence waiting to be actualized."
+      },
+      {
+        "n": 13,
+        "kind": "inference",
+        "text": "So the occurrence of any change, and so the existence of any changing substance at any moment, presupposes a purely actual actualizer.",
+        "why": "From 6, 8 and 12: every change requires a changing substance, whose existence right now requires an actualizer, which leads to pure act either immediately or at the end of a finite hierarchical series.",
+        "example": "The fly could not have been swatted unless it existed at that instant; its existing at that instant required something actualizing it; so even the most trivial everyday change is leaning, right now, on a purely actual actualizer.",
+        "challenge": "This seems to prove far too much far too quickly — you have gone from a cooling cup of coffee to a cosmic conclusion in a handful of moves.",
+        "answer": "Feser makes the starting point deliberately trivial: any ordinary object existing here and now is enough, because the argument never needs a premise about the universe as a whole or about its having a beginning. That the conclusion then applies to everything is a result the argument reaches, not an assumption it makes."
+      },
+      {
+        "n": 14,
+        "kind": "conclusion",
+        "text": "Therefore a purely actual actualizer exists.",
+        "why": "From 1 and 13: step 13 says what any change presupposes, and step 1 says change really does occur — so what it presupposes exists. This ends Stage 1: an unactualized actualizer — Aristotle’s Unmoved Mover.",
+        "example": "Stage 1 ends here: something exists whose own existing is not a potential being actualized at all. Aristotle called it the Unmoved Mover; Feser prefers the more exact label, an unactualized actualizer.",
+        "challenge": "Why call the end of the chain “purely actual” rather than just “the thing that happens not to need a cause”?",
+        "answer": "Because the regress stops only if the terminus has nothing in it left to be actualized. A thing that merely happened to be uncaused would still have a potential for existence, and so would still need an actualizer. Feser is careful about the difference: this is not something that merely lacks a cause, but something that could not in principle have or need one."
+      },
+      {
+        "n": 15,
+        "kind": "premise",
+        "text": "For there to be more than one purely actual actualizer, some differentiating feature would have to belong to one and not the others.",
+        "why": "Two or more things of a kind are distinct only if something distinguishes them — size, location, time, or some perfection or privation one has and another lacks.",
+        "example": "You tell two identical-looking coffee cups apart by where each one sits, how big it is, or some chip one has that the other lacks. Strip away every such feature and there is nothing left to make them two rather than one.",
+        "challenge": "Maybe two things can just be two, with no further feature explaining it — bare numerical difference, full stop.",
+        "answer": "Feser’s point is that for two things of a kind, the difference has to come from somewhere, and in every case we know it does: it is material, or temporal, or a matter of one having some perfection or privation the other lacks. He then closes each of those routes off in step 16."
+      },
+      {
+        "n": 16,
+        "kind": "premise",
+        "text": "But a differentiating feature could exist only if a purely actual actualizer had some unactualized potential — and being purely actual, it has none.",
+        "why": "The formal step turns on one general point: **any** differentiating feature would be a perfection one has and the other lacks, and to lack a perfection you could have had is to have an unactualized potential — which pure actuality excludes.\n\nInformally Feser also rules out the familiar material and temporal differences (bigger, taller, earlier), but that route leans on immateriality and eternity, which the numbered list does not reach until steps 23 and 25. In the formal order it is the perfection/privation point that carries the weight.",
+        "example": "Feser’s own case of a real difference of this kind: this squirrel has its tail, that one has lost its. That is a genuine difference — but it consists in one of them *lacking* something its nature called for, which is exactly an unactualized potential. Once size, place and date are off the table, that is the only sort of difference left, and it is the one pure actuality cannot have.",
+        "challenge": "Couldn’t two purely actual beings have all the same attributes and still simply be two, the way two perfect circles can be two?",
+        "answer": "Two drawn circles are two because of where each sits and what it is drawn on — a material and temporal difference. Strip that away and the only difference left is one of perfection or privation: one has some actuality the other lacks. That lack is an unactualized potential, and pure actuality has none. So the reply does not have to borrow the later results about immateriality and eternity — the perfection route alone closes the gap."
+      },
+      {
+        "n": 17,
+        "kind": "inference",
+        "text": "So there can be no differentiating feature, and hence no way for there to be more than one purely actual actualizer.",
+        "why": "From 15 and 16.",
+        "example": "Nothing is left that could mark off one purely actual actualizer from another — no size, no place, no date, no strength, no shortcoming.",
+        "challenge": "",
+        "answer": ""
+      },
+      {
+        "n": 18,
+        "kind": "inference",
+        "text": "So there is exactly one purely actual actualizer.",
+        "why": "From 14 and 17: at least one exists, and there cannot be more than one. The attribute of unity — the same single cause sustains everything.",
+        "example": "The same one cause is holding the coffee, the cup, the desk, the floor and the earth in being at this moment. Feser calls this result the attribute of unity: everything owes its existence to the same single unactualized actualizer.",
+        "challenge": "Polytheism divided the work among many gods; why couldn’t different purely actual causes sustain different parts of the world?",
+        "answer": "Dividing the work would require the causes to differ — this one doing that job, that one doing this — and steps 15 and 16 show there is no feature available to tell them apart. So there is not even in principle room for more than one, and everything traces back to the same actualizer."
+      },
+      {
+        "n": 19,
+        "kind": "premise",
+        "text": "To be capable of change, the purely actual actualizer would need potentials that could be actualized.",
+        "why": "Change just is the actualization of potential (step 2).",
+        "example": "For the purely actual actualizer to change, it would have to be able to go from being one way to being another — that is, it would have to have some potential sitting there waiting to be actualized.",
+        "challenge": "Isn’t that definition of change too narrow? Surely something could change in some other sense of the word.",
+        "answer": "Step 2 already fixed what change is: the actualization of a potential — and that account was defended on its own merits, as Aristotle’s answer to Parmenides, long before God entered the discussion. Anything called change that does not fit that description is simply a different subject."
+      },
+      {
+        "n": 20,
+        "kind": "premise",
+        "text": "But because it is purely actual, it has no such potentials.",
+        "why": "That is what ‘purely actual’ means: no unrealized potential whatsoever.",
+        "example": "“Purely actual” means exactly this: not one single respect in which the thing could be brought to be some way it currently isn’t.",
+        "challenge": "Isn’t it suspicious that the very definition used to stop the regress then hands over every divine attribute for free?",
+        "answer": "That is the argument’s design rather than a trick. Stage 1 argues on independent grounds that the regress must end in something with no unactualized potential; Stage 2 then just spells out what such a thing would have to be like. Anyone who wants to block the attributes has to attack the Stage 1 reasoning, not the bookkeeping here."
+      },
+      {
+        "n": 21,
+        "kind": "inference",
+        "text": "So it is immutable — incapable of change.",
+        "why": "From 19 and 20.",
+        "example": "The purely actual actualizer cannot cool down, grow, move, learn, age or decay — not because it is frozen stiff, but because there is nothing in it left to be brought about.",
+        "challenge": "An unchanging God sounds inert. How could such a thing act in the world, create, or respond to anyone?",
+        "answer": "Feser notes that actualizing something else does not require changing yourself — that assumption comes from the only actualizers we have met, which have to change because they are limited mixtures of act and potency (your arm can move the stick to a new spot only because the arm itself goes from being actually here to actually there). Something with no such limitation can actualize without undergoing anything. He treats divine action at length in his later chapter on the divine attributes."
+      },
+      {
+        "n": 22,
+        "kind": "premise",
+        "text": "If the purely actual actualizer existed in time, it would be capable of change — which it is not.",
+        "why": "Existing in time entails changeability (moving from one moment to the next, having a before and after); step 21 rules changeability out.",
+        "example": "To exist in time is to have a before and an after — to be one way at one moment and another way at the next, which is just to be changeable.",
+        "challenge": "Couldn’t it exist in time and simply never happen to change — everlasting rather than timeless?",
+        "answer": "The claim is stronger than “it never changes”: existing in time entails being *capable* of change, and step 21 ruled out the capability, not merely its exercise. So what follows is timelessness rather than unlimited duration."
+      },
+      {
+        "n": 23,
+        "kind": "inference",
+        "text": "So it is eternal, existing outside time altogether.",
+        "why": "From 21 and 22. ‘Eternal’ here means timeless — without beginning, end, or succession — not merely everlasting.",
+        "example": "“Eternal” here does not mean lasting a very long time, or even lasting forever. It means standing outside the run of moments altogether — no beginning, no end, no before and after within it.",
+        "challenge": "A timeless being seems unable to do anything at all, since every action happens at some time.",
+        "answer": "The timing belongs to the effect, not to the cause: the water is being held in being at this moment, but nothing in the cause has to move from one moment to the next for that to be true. Feser flags that the full defence of divine eternity belongs to his later chapter on the divine attributes."
+      },
+      {
+        "n": 24,
+        "kind": "premise",
+        "text": "If the purely actual actualizer were material, it would be changeable and in time — which it is not.",
+        "why": "Being material entails being changeable and temporal; steps 21 and 23 exclude both.",
+        "example": "Anything made of matter can be heated, dented, moved or broken apart, and it has a history running through time — which is to say it carries potentials waiting to be actualized.",
+        "challenge": "Physics keeps finding that matter is far stranger than common sense suggests; maybe some exotic form of matter isn’t changeable in the relevant way.",
+        "answer": "The step does not depend on any particular physics. Whatever matter turns out to be, being material means being the kind of thing that could be otherwise — and that is exactly a mixture of actuality and potentiality, which pure actuality excludes. Feser makes the same point when he answers the “outdated science” objection: the specific physical details affect how we apply act and potency, not whether we must."
+      },
+      {
+        "n": 25,
+        "kind": "inference",
+        "text": "So it is immaterial.",
+        "why": "From 21, 23 and 24.",
+        "example": "Being immaterial here does not mean being made of some thin ghostly stuff. It means not being made of anything that could have been otherwise.",
+        "challenge": "An immaterial cause is unobservable in principle — precisely the sort of thing we have no business believing in.",
+        "answer": "This is Kant’s worry, and Feser answers that although we learn the principle of causality from experience, what the principle rests on is not experience but the fact that a potential cannot actualize itself — and that holds quite generally. His comparison: we learn geometry from figures drawn in black ink, but what we learn applies to figures of any colour and of no colour at all."
+      },
+      {
+        "n": 26,
+        "kind": "premise",
+        "text": "If it were corporeal (had a body), it would be material — which it is not.",
+        "why": "Having a body entails being material.",
+        "example": "A body is a parcel of matter with a size and a location. Anything with one is material, and so inherits everything that follows from being material.",
+        "challenge": "Some traditions do picture God with a body, or identify God with the physical universe itself.",
+        "answer": "Both are excluded by the same reasoning rather than by preference: having a body means being material, and being material brings changeability and existence in time with it — which steps 21 and 23 have already ruled out for a purely actual cause."
+      },
+      {
+        "n": 27,
+        "kind": "inference",
+        "text": "So it is incorporeal.",
+        "why": "From 25 and 26.",
+        "example": "The purely actual actualizer has no shape, no size, no location and no parts to be pushed around.",
+        "challenge": "",
+        "answer": ""
+      },
+      {
+        "n": 28,
+        "kind": "premise",
+        "text": "If the purely actual actualizer were imperfect in any respect, it would have some unactualized potential — which it does not.",
+        "why": "Imperfection is a privation: failing to realize a potential proper to one’s nature (the injured squirrel, the tree with damaged roots).",
+        "example": "A squirrel hit by a car can no longer outrun predators; a tree with damaged roots cannot draw the water it needs. Each falls short of something its own nature called for — a privation, which is simply a potential left unrealized.",
+        "challenge": "Calling it “perfect” sounds like a compliment smuggled into a metaphysical argument.",
+        "answer": "Feser is using perfection in a strictly metaphysical sense: a thing is perfect to the extent that it has actualized the potentials proper to it and has no privations. Something with no unactualized potential whatsoever is therefore perfect in that sense automatically, with no praise implied."
+      },
+      {
+        "n": 29,
+        "kind": "inference",
+        "text": "So it is perfect.",
+        "why": "From 20 and 28.",
+        "example": "Nothing can be missing from a thing that has no potential left to realize — there is no gap in it for a defect to sit in.",
+        "challenge": "",
+        "answer": ""
+      },
+      {
+        "n": 30,
+        "kind": "premise",
+        "text": "To be less than fully good is to have a privation — to fail to actualize some feature proper to oneself.",
+        "why": "A thing is good insofar as it realizes the potentials of its kind and bad insofar as it doesn’t (the good vs. the bad painter).",
+        "example": "A bad painter is bad because he never acquired the craftsmanship, composition and skill the art calls for; a good painter is good because he has. Goodness in this general sense is a matter of realizing what your kind of thing is for.",
+        "challenge": "This makes goodness a matter of functioning well, which has nothing to do with moral goodness — so calling the cause “fully good” is a bait and switch.",
+        "answer": "Feser is explicit that he means goodness in a general, metaphysical sense at this stage of the book, and that the personal and moral implications need separate argument, which he supplies in his later chapter on the divine attributes. The step itself claims only that falling short of full goodness means lacking something you could have had."
+      },
+      {
+        "n": 31,
+        "kind": "premise",
+        "text": "Being purely actual, the purely actual actualizer can have no privation.",
+        "why": "A privation is an unactualized potential, and it has none.",
+        "example": "A privation is a hole in a thing — some potential proper to it that has never been realized, like the squirrel’s lost speed or the tree’s ruined roots. Pure actuality has no holes, because it has no unrealized potentials to begin with.",
+        "challenge": "Then what about evil? If the source of everything is fully good, the world’s suffering looks like evidence against it.",
+        "answer": "The problem of evil is an objection to where the argument arrives, not to this step: here “good” means having no privation, and a purely actual actualizer has none by construction. Feser postpones evil and the divine attributes to a later chapter rather than answering them in this one."
+      },
+      {
+        "n": 32,
+        "kind": "inference",
+        "text": "So it is fully good.",
+        "why": "From 30 and 31.",
+        "example": "The purely actual actualizer is not good in a competitive sense, as a good painter is better than a bad one. It is a thing with nothing at all lacking in it.",
+        "challenge": "",
+        "answer": ""
+      },
+      {
+        "n": 33,
+        "kind": "premise",
+        "text": "Having power means being able to actualize potentials.",
+        "why": "Power is just the ability to make something happen, i.e., to actualize a potential.",
+        "example": "Lighting a match, lifting a cup, warming a room, cooling coffee — in each case having power means nothing more than being able to bring about something that was until then only possible.",
+        "challenge": "That defines power so broadly that anything which does anything has it, so nothing about God follows yet.",
+        "answer": "Quite so — this step is only a definition, and it is meant to be uncontroversial. The work is done by step 34, which locates where every such ability ultimately comes from."
+      },
+      {
+        "n": 34,
+        "kind": "premise",
+        "text": "Every potential that gets actualized is actualized either by the purely actual actualizer directly or by a series of actualizers that ends in it.",
+        "why": "This is the upshot of Stage 1: every actualizer is either pure act or depends, here and now, on a hierarchical series terminating in pure act — and there is only one such (step 18).",
+        "example": "The room’s air cools the coffee, the air conditioner cooled the air, the power station drives the air conditioner — and every one of those actualizers exists at this moment only because the purely actual actualizer is holding it in being at this moment.",
+        "challenge": "This simply recycles Stage 1; if Stage 1 fails, this collapses with it.",
+        "answer": "That is true, and Feser does not hide it: Stage 2 draws out the consequences of there being a purely actual actualizer, so it stands or falls with Stage 1. The extra work here is done by the unity result of step 18, which makes it one source of power rather than many."
+      },
+      {
+        "n": 35,
+        "kind": "inference",
+        "text": "So all power derives from the purely actual actualizer.",
+        "why": "From 33 and 34: all actualizing traces back to it, so every power anything has is derived from it.",
+        "example": "Every ability anything has to make anything happen is, in the end, on loan from the same lender.",
+        "challenge": "",
+        "answer": ""
+      },
+      {
+        "n": 36,
+        "kind": "premise",
+        "text": "To be the source from which all power derives is to be omnipotent.",
+        "why": "A being that is the source of every possible actualizing power, and is pure actuality itself rather than one actual thing among others, has all power.",
+        "example": "The purely actual actualizer is not one powerful thing among others, drawing on a supply of power; it is actuality itself, the source from which every actualizing power anything has is derived.",
+        "challenge": "The classic puzzle: could it make a stone too heavy for it to lift, or make a contradiction true?",
+        "answer": "Omnipotence here means being the source of all actualizing power, not being able to perform describable nonsense — “a stone too heavy for an unlimited power to lift” names no possible task at all. Feser flags that a careful treatment of omnipotence belongs to his later chapter on the divine attributes."
+      },
+      {
+        "n": 37,
+        "kind": "inference",
+        "text": "So it is omnipotent.",
+        "why": "From 35 and 36.",
+        "example": "All power derives from it, and being that from which all power derives is what omnipotence amounts to.",
+        "challenge": "",
+        "answer": ""
+      },
+      {
+        "n": 38,
+        "kind": "premise",
+        "text": "Whatever is in an effect is in its cause in some way — formally, virtually, or eminently (the principle of proportionate causality).",
+        "why": "A cause can’t give what it doesn’t have. The $20 example: I may have the bill in hand (formally), have access to it via the bank (virtually), or have the power to print twenties (eminently).",
+        "example": "To give you $20 I must have it somehow: a bill in my wallet (formally), credit in my bank account I can draw on (virtually), or the legal power to have twenties printed (eminently). What I cannot do is hand over what I have in none of those ways.",
+        "challenge": "Causes obviously produce things they don’t contain — a fire produces smoke but isn’t smoky, and parents produce a child who isn’t a copy of them.",
+        "answer": "That is exactly why the principle allows three ways of having: the fire has smoke virtually, in its power to produce it. The principle says only that a cause cannot give what it has in no way at all — which is why nobody expects a struck match to produce a symphony."
+      },
+      {
+        "n": 39,
+        "kind": "premise",
+        "text": "The purely actual actualizer is the cause of all things.",
+        "why": "From Stage 1 and step 18: it is what actualizes the existence of everything that exists.",
+        "example": "Cats, trees, stones, galaxies, people — every one of them exists at this instant only because this one cause is holding it in being (steps 13, 14 and 18).",
+        "challenge": "Perhaps it sustains only the deepest layer of reality, and everything above that layer is built up by ordinary causes.",
+        "answer": "On Feser’s reasoning no layer escapes: anything with a potential for existence needs actualizing here and now, and every such chain runs back to the same terminus. Ordinary causes are perfectly real, but they operate as instruments inside those chains rather than as replacements for them."
+      },
+      {
+        "n": 40,
+        "kind": "inference",
+        "text": "So the forms or patterns found in all the things it causes must somehow be in it.",
+        "why": "From 38 and 39: to cause a thing is to cause something of a definite kind (a stone, not a tree), so the cause must possess those forms in some way.",
+        "example": "To hold a cat in being is not to hold a vague blur in being — it is to hold *this kind of thing* in being rather than a stone or a tree. So whatever makes a cat be a cat has to be present in its cause in some way.",
+        "challenge": "Why must the pattern itself be in the cause, rather than merely the power to produce things of that kind?",
+        "answer": "Having the power to produce things of that kind is already one of the three ways of having it — virtually or eminently rather than formally. The step claims only that the pattern is in the cause somehow, not that the cause is furry."
+      },
+      {
+        "n": 41,
+        "kind": "premise",
+        "text": "Forms can exist in one of two ways: concretely, as in individual things, or abstractly, as in the thoughts of an intellect.",
+        "why": "A material triangle has triangularity by being a triangle; a mind has it by thinking of triangularity without becoming a triangle.",
+        "example": "A wooden triangle has triangularity by *being* a triangle. Your mind has triangularity when you think about what it is to be a triangle — without your head becoming three-sided. Those are the two ways a pattern can be had.",
+        "challenge": "Aren’t there other options — forms existing in language, in mathematics, or in some Platonic realm of their own?",
+        "answer": "Feser is drawing the distinction that the argument needs: a form is either instantiated in a concrete individual or held abstractly, apart from any particular instance. Words and equations are themselves either concrete marks on paper or things held in thought, so they do not supply a third, independent way."
+      },
+      {
+        "n": 42,
+        "kind": "premise",
+        "text": "The forms cannot exist in the purely actual actualizer the way they exist in individual things.",
+        "why": "It is immaterial and one (steps 18, 25); it is not itself a cat or a tree. Also, as the cause of every possible instance of each form, it must have the forms universally, not as this or that particular.",
+        "example": "The cause of every possible cat is not itself a cat: it is immaterial (step 25) and one (step 18), and it has to have catness in a way that covers every possible cat, not just the particular one on your mat.",
+        "challenge": "Maybe the cause has the forms in some third way we simply cannot imagine.",
+        "answer": "Feser’s move is elimination among the ways a form can exist, and the concrete way is closed off by results already secured — the cause is immaterial, and it must relate to every possible instance universally rather than to this or that particular. A third way would have to be described and defended, not merely gestured at."
+      },
+      {
+        "n": 43,
+        "kind": "inference",
+        "text": "So they exist in it abstractly, in the way forms exist in the thoughts of an intellect.",
+        "why": "From 40, 41 and 42 by elimination.",
+        "example": "The pattern of every possible cat, tree and stone is present in the cause the way triangularity is present in a mind contemplating triangles: universally, abstracted from any particular instance.",
+        "challenge": "Saying the forms are in it “like thoughts” may be a helpful image rather than an argument.",
+        "answer": "The step rests on the two-way distinction of step 41 plus the elimination of step 42, not on how attractive the picture is. The structural point is what matters: having a form universally, rather than by being an instance of it, is precisely what having it abstractly means."
+      },
+      {
+        "n": 44,
+        "kind": "inference",
+        "text": "So the purely actual actualizer has intellect — it is intelligent.",
+        "why": "Having forms abstractly or universally is the core capacity of intellect. And since it also causes the relations among things (all men being mortal, this cat being on this mat), these pre-exist in it as combinations of forms — i.e., as thoughts, like a craftsman’s plans.",
+        "example": "A craftsman has the vase in mind before it exists in clay. On this reasoning the patterns of everything that could exist pre-exist in the purely actual cause in something like that way — including their combinations, such as all men being mortal, or this cat being on this mat.",
+        "challenge": "Intelligence as we know it involves consciousness, a brain, and learning things you didn’t know before; calling this cause “intelligent” stretches the word past recognition.",
+        "answer": "Feser defines intelligence by its three capacities — grasping universal concepts, combining them into complete thoughts, and inferring one thought from others — with the first as the most fundamental, and none of the three requires a brain or a process of learning. He is explicit that this is only a sketch, with the full account of divine intellect reserved for his later chapter."
+      },
+      {
+        "n": 45,
+        "kind": "premise",
+        "text": "Since the forms of all things are in this intellect’s thoughts, nothing lies outside the range of those thoughts.",
+        "why": "It causes everything that exists or could exist, so every form and every combination of forms is in it.",
+        "example": "There is no possible cat, no possible arrangement of matter, and no possible fact about how such things are related that falls outside the range of a cause that is causing every possible form and every possible combination of forms.",
+        "challenge": "Could it know things that are not forms or combinations of forms — what pain feels like, say, or what a free creature will choose?",
+        "answer": "Feser’s sketch here stays at the level of forms and their combinations, because that is what the principle of proportionate causality delivers. Knowledge of particulars and of free acts he explicitly defers to his later chapter on the divine attributes."
+      },
+      {
+        "n": 46,
+        "kind": "premise",
+        "text": "For nothing to lie outside the range of something’s thoughts is for that thing to be omniscient.",
+        "why": "A definition of omniscience.",
+        "example": "Omniscience means there is nothing left over — no fact standing outside what this cause knows.",
+        "challenge": "This is a stipulated definition; someone could define omniscience differently and the conclusion would change.",
+        "answer": "It is the standard definition, and the argument uses it only to put a familiar name on what step 45 has already established. If you prefer a different word, the substance is untouched: nothing that exists or could exist lies outside the range of this cause’s thoughts."
+      },
+      {
+        "n": 47,
+        "kind": "inference",
+        "text": "So the purely actual actualizer is omniscient.",
+        "why": "From 45 and 46.",
+        "example": "Nothing that exists or could exist falls outside its knowledge, and that is what it is to be all-knowing.",
+        "challenge": "",
+        "answer": ""
+      },
+      {
+        "n": 48,
+        "kind": "inference",
+        "text": "So there exists a purely actual cause of the existence of things that is one, immutable, eternal, immaterial, incorporeal, perfect, fully good, omnipotent, intelligent and omniscient.",
+        "why": "Gathers steps 14, 18, 21, 23, 25, 27, 29, 32, 37, 44 and 47.",
+        "example": "One immaterial, timeless, changeless, perfect, fully good, all-powerful, intelligent and all-knowing cause is keeping your coffee cup — and everything else — in existence at this very instant.",
+        "challenge": "This is a chain of eleven separate sub-arguments; if any one of them fails, the whole description of the cause collapses.",
+        "answer": "Feser is candid that Stage 2 is a sketch and that objections to the divine attributes get a whole chapter of their own later in the book. But the attributes are not independent add-ons bolted together: every one of them is derived from the same single feature — having no unactualized potential — so they stand or fall with Stage 1 rather than one at a time."
+      },
+      {
+        "n": 49,
+        "kind": "premise",
+        "text": "For such a cause of things to exist is exactly what it is for God to exist.",
+        "why": "These are the defining attributes of God as traditionally conceived, and God is, whatever else he is, the ultimate cause of things — here, the cause that keeps them in being at every moment.",
+        "example": "What people mean by God is not merely some very powerful being, but the ultimate cause of things — and here that means the cause keeping everything in being at every moment it exists.",
+        "challenge": "This is the God of the philosophers, not the God of any living religion: no love, no revelation, no commandments.",
+        "answer": "Feser’s claim at this point is that the argument already delivers far more than a bare first cause — unity, immutability, eternity, immateriality, incorporeality, perfection, goodness, omnipotence, intellect and omniscience — which is the traditional description of God, not a generic something. He readily grants that much more must be said, and devotes a whole later chapter to the divine attributes."
+      },
+      {
+        "n": 50,
+        "kind": "conclusion",
+        "text": "Therefore God exists.",
+        "why": "From 48 and 49.",
+        "example": "If every step holds, then the thing whose existence has just been demonstrated is what the classical tradition has always meant by the word God.",
+        "challenge": "",
+        "answer": ""
+      }
+    ]
+  },
+  "objections": [
+    {
+      "title": "A first cause isn’t the God of theism",
+      "whoRaises": "Typical skeptic; many popular critics of cosmological arguments",
+      "objection": "Even if the argument gets you to some first cause, it can’t tell you what that cause is like. For all it shows, the cause could be an impersonal force, a quantum field, or a committee of gods. Calling it ‘God’ is a bait-and-switch.",
+      "reply": "Feser calls this objection common but entirely ungrounded. The Aristotelian argument doesn’t reach a vague ‘something’; it reaches something **purely actual**, and pure actuality has consequences:\n\n1. No potential means no change: **immutable**.\n2. No change means no time: **eternal**.\n3. No change or time means no matter: **immaterial, incorporeal**.\n4. No unrealized potential means no privation: **perfect** and **fully good**.\n5. Nothing to differentiate two such beings: **one**.\n6. The source of all actualizing power: **omnipotent**.\n7. By proportionate causality, the forms of everything must be in it abstractly: **intelligent** and **omniscient**.\n\nThat is the traditional concept of God, and it is derived, not assumed. A fuller defense of each attribute comes in the later chapter on the divine nature.",
+      "pushback": "If they say ‘those derivations rest on contested assumptions’, agree that they need defending — Feser says so himself — but point out that the objection has now changed. It is no longer ‘a first-cause argument *can’t* tell you anything about the cause’; it’s ‘I dispute step 16 (or 28, or 42)’. That is a specific premise you can examine together. Also note that an impersonal force or quantum field has potentials (it can be in different states), so it can’t be what is purely actual.",
+      "difficulty": 2
+    },
+    {
+      "title": "The universe may not have had a beginning",
+      "whoRaises": "Readers who assume every theistic argument is a ‘Big Bang’ argument; defenders of eternal or cyclic cosmologies",
+      "objection": "The argument says that if you trace causes back in time you reach God at the beginning of the universe. But we don’t know the universe had a beginning — the Big Bang might have come from an earlier universe, and an infinite multiverse might have no start at all.",
+      "reply": "This is a misreading. Feser explicitly **grants**, for argument’s sake, that the universe — or a series of universes — might stretch infinitely into the past. Aristotle himself believed the world was eternal. Whether the cosmos had a beginning is **irrelevant** because the argument concerns a **hierarchical** series of causes that sustain things **here and now**, not a linear series running back through time. Even in a beginningless universe, the water in your coffee exists at this moment only because its potential to exist as water is being actualized at this moment.",
+      "pushback": "If they still insist ‘but the chain has to go back to God at some point’, draw two diagrams: a horizontal line of events (linear — can be infinite) and a vertical stack of dependencies at a single moment (hierarchical — needs a top). Ask them which one the argument uses. Beginningless-multiverse cosmologies speak only to the horizontal line.",
+      "difficulty": 1
+    },
+    {
+      "title": "Fallacy of composition: the whole universe needn’t have a cause",
+      "whoRaises": "Hume- and Russell-style critics; introductory philosophy textbooks (Feser names no one for this objection in the chapter)",
+      "objection": "Even if every part of the universe has a cause, it doesn’t follow that the universe as a whole has one. Inferring a cause of the whole from causes of the parts is a fallacy of composition.",
+      "reply": "No premise of the argument is about the universe as a whole. It begins with **any single object existing now** — a stone, a cup of coffee — and shows that for *that one thing* to exist even for a moment, a purely actual cause must be actualizing it at that moment. Feser does go on to say this applies to every material thing, and so to the universe as a whole — but that is a **consequence** drawn from the argument, not a premise it relies on.",
+      "pushback": "If they say ‘generalizing from the coffee to everything is still composition’, point out that it’s not composition but ordinary universal instantiation: the reasoning applies to *each* thing with a potential for existence, one at a time, because each has that potential. No claim about the whole is inferred from the parts.",
+      "difficulty": 1
+    },
+    {
+      "title": "‘If everything has a cause, what caused God?’",
+      "whoRaises": "Popular atheist writers; the most common objection in casual conversation",
+      "objection": "The argument says everything needs a cause, then exempts God. If God can exist uncaused, why not the universe? This is special pleading.",
+      "reply": "Two points.\n\n1. The argument never says ‘everything has a cause’. Its principle is that **whatever goes from potential to actual** needs an actualizer.\n2. The exemption is not arbitrary; it follows from the principle’s own rationale. Things need causes *because* they have potentials that must be actualized. What is **purely actual** has no potentials — nothing in it that needs to be, or even could be, actualized. So it is the one thing that neither needs nor could have a cause.\n\nThe universe, by contrast, is full of potentiality — it changes constantly — so it is exactly the sort of thing that needs an actualizer.",
+      "pushback": "If they reply ‘there’s no real difference between those two principles’, give Feser’s analogy: that’s like saying there’s no real difference between ‘all triangles have three sides’ and ‘all geometrical figures have three sides’. The first is restricted to a kind, for a reason; the second isn’t.",
+      "difficulty": 1
+    },
+    {
+      "title": "‘The potential-to-actual formulation is an ad hoc dodge’",
+      "whoRaises": "Critics trying to rescue the ‘What caused God?’ objection",
+      "objection": "Theists only avoid saying ‘everything has a cause’ because they know it invites ‘What caused God?’. The careful formulation was invented to escape the objection.",
+      "reply": "Feser identifies three problems.\n\n1. **Ad hominem.** Even if the motive were suspect, that wouldn’t show the principle is false or the argument unsound. Motives don’t refute arguments.\n2. **Historically false.** For over twenty-three centuries — Aristotle, Aquinas, and their successors to today — defenders of the argument have *always* stated it this way. It wasn’t cooked up to answer modern critics.\n3. **Not ad hoc at all.** The principle falls straight out of Aristotle’s analysis of change, independent of any argument for God. You don’t need to believe in God to find it implausible that a mere potential could actualize itself.\n\nIf anything is ad hoc, it is the attempt to save an objection aimed at a straw man.",
+      "pushback": "If they say ‘fine, but it still conveniently lets God off the hook’, ask them to state a principle that would require a purely actual being to have a cause. They will have to show that pure actuality has some potential needing actualization — which contradicts what ‘purely actual’ means.",
+      "difficulty": 2
+    },
+    {
+      "title": "Hume: we can conceive of something popping into existence uncaused",
+      "whoRaises": "David Hume and empiricists following him",
+      "objection": "I can imagine an empty space in which a stone suddenly appears with nothing causing it. Whatever is conceivable is possible, so an uncaused beginning is possible — and then perhaps something can go from potential to actual with no actualizer.",
+      "reply": "Feser gives three replies.\n\n1. **Imagining without a cause isn’t imagining no cause.** Picturing the stone appearing is only conceiving of it *without also conceiving of* its cause. You can think of a trilateral without thinking of it as a triangle, or of a man without thinking of his height — but no trilateral fails to be a triangle and no man lacks a height. Conceiving A without B is not conceiving A existing without B.\n2. **Anscombe’s point.** What makes the scenario one of *coming into existence* rather than the stone’s being *transported* from somewhere? The only difference lies in the kind of cause involved (being made versus being moved). So spelling out the scenario brings causation back in.\n3. **Experience strongly supports the principle.** We find causes when we look; when we don’t (an unsolved murder) we reasonably assume they are there. If the principle were false, nothing would be needed to produce anything — as W. Norris Clarke says, elephants and hotels could appear on your lawn, and should do so constantly. They don’t. The best explanation is that potentiality by its nature requires actualization.",
+      "pushback": "If they say ‘maybe the regularity is just a brute fact’, point out that it would then be a colossal, unexplained coincidence that the world behaves exactly as it would if the principle were true. An empiricist of all people should follow the evidence, and the evidence overwhelmingly favors the principle.",
+      "difficulty": 2
+    },
+    {
+      "title": "Kant: causality applies only within experience",
+      "whoRaises": "Immanuel Kant and Kantian critics",
+      "objection": "We learn about causation from the empirical world. Even if the principle holds there, what entitles us to extend it beyond all possible experience to something immaterial, timeless and unobservable?",
+      "reply": "We do learn the principle from experience, but that doesn’t limit its scope. We conclude that the things we experience need causes not **because we experience them** but **because they are merely potential until made actual**. The principle that no potential actualizes itself is fully general, so it applies wherever there is potentiality, observable or not. Feser’s analogy: we learn Euclidean geometry from diagrams, usually in black ink, but its theorems apply to figures of any color or none. Restricting causality to what we can experience is like restricting geometry to figures we can see.",
+      "pushback": "If they press the full Kantian view that causality is just a category our minds impose, note that the argument can start from change in our own experience — which even a Kantian grants — and that the Kantian theory itself makes sweeping claims about how minds and appearances are related (causal-sounding claims) that go beyond experience. More in the later chapter on objections.",
+      "difficulty": 2
+    },
+    {
+      "title": "Russell: physics has no place for causes",
+      "whoRaises": "Bertrand Russell (‘On the Notion of Cause’, 1912) and eliminativists about causation",
+      "objection": "Mature physics describes the world with differential equations relating events. Nowhere in the equations is there a ‘cause’ — just a formula. Causation is a pre-scientific relic.",
+      "reply": "Feser gives four replies.\n\n1. **It proves too much.** ‘Event’, ‘law’ and ‘explanation’ don’t appear in the equations either, yet science can’t do without them. As Jonathan Schaffer puts it, this is like saying mathematics has eliminated the variable because the word ‘variable’ is never written in the equations.\n2. **Physics does use causal notions.** C. B. Martin notes that fundamental particles have dispositions — tendencies to produce effects when they interact in certain ways.\n3. **Other sciences clearly use causation**, and they aren’t reducible to physics — biology, the social sciences, arguably chemistry. And naturalists themselves defend causal theories of knowledge, perception and meaning.\n4. **Physics isn’t exhaustive.** It captures only the mathematically describable structure of things; the later Russell admitted it says nothing about the intrinsic nature of what changes. Inferring that nothing lies beyond its reach is like concluding there’s no wood because your metal detector didn’t beep.\n\nMoreover, something must make the world actually follow these equations, and if what the equations describe is real change, that change is actualization of potential — causation.",
+      "pushback": "If they say ‘fine, causation is only in our experience, not in reality’, reply that then causation is at least in our experience — one experience actualizing the next, as when setting up an experiment is followed by observing the result — and that is enough actualization of potential to start the argument. And our knowledge of physics depends on the world causally affecting our senses.",
+      "difficulty": 2
+    },
+    {
+      "title": "Newton’s law of inertia: motion continues without a cause",
+      "whoRaises": "Critics of Aristotle’s ‘whatever is moved is moved by another’; many philosophers of physics",
+      "objection": "Newton’s first law says a body in uniform motion keeps moving with no force acting on it. So change (continued motion) happens without any cause, and the principle of causality is false.",
+      "reply": "Three responses.\n\n1. **Different question.** Inertia concerns events in time — how molecules move through a cup. The argument is about what actualizes a thing’s **existence** at a moment — what makes these components constitute a water molecule right now. Newton’s law presupposes such things; it can’t explain their existence.\n2. **Laws presuppose natures.** A law of nature is shorthand for how things with a certain nature tend to behave. What makes it the case that there are things with *this* nature, following *this* law rather than another? What actualizes that? Mechanics can’t say.\n3. **Mathematical abstraction.** As James Weisheipl argues, mathematical physics doesn’t prove inertia; it *assumes* it. To write equations, it treats uniform motion as a baseline needing no explanation and quantifies only *changes* in motion. Newton set aside physical causes and sought quantities that could be equated. So such physics can neither affirm nor deny causal realities.\n\nInertia therefore doesn’t refute the principle of causality — it *couldn’t*. However inertia is interpreted, it must be made compatible with the principle, which reaches deeper than physics.",
+      "pushback": "If they ask what the Aristotelian does say about inertial motion, mention Feser’s footnote: following Aquinas’ idea of motions that follow ‘spontaneously’ from a thing’s nature, some contemporary Aristotelians treat inertia as the way a body tends to move given its form. The efficient cause is what generated the body with that nature — and ultimately what sustains it in being. So inertial motion isn’t uncaused; it just doesn’t need a continuously pushing external mover.",
+      "difficulty": 3
+    },
+    {
+      "title": "Einstein’s block universe: change is an illusion",
+      "whoRaises": "Eternalist interpreters of relativity (following Minkowski); some physicists and philosophers of time",
+      "objection": "On the four-dimensional block universe, past, present and future are all equally real, like places on a map. Nothing ever passes from potential to actual; the flow of time is just how consciousness represents things. So the argument’s first premise fails.",
+      "reply": "Feser notes that the block interpretation is controversial even among physicists (he points to Lee Smolin), but he doesn’t need to settle it.\n\n1. **Self-undermining.** Relativity rests on observation and experiment — making predictions and then testing them, going from ignorance to knowledge. All that is change. So denying change entirely undercuts the evidence for the theory itself (a point made by Richard Healey). At most one could say change exists only in the mind, and change in the mind is still actualization of potential.\n2. **Existence still needs an actualizer.** Even if nothing changed anywhere, a thing’s very existence involves actualized potential. The block universe as a whole — this block rather than some other, or none — would still need an actualizer distinct from it.\n\nRelativity at most affects **how** we apply the principle of causality, not **whether** we must.",
+      "pushback": "If they say ‘change in the mind is also an illusion’, point out that an illusion is itself a mental event that comes and goes, and that coming to believe the block theory is a change of mind. Denying all change is not a position anyone can coherently hold — any more than Parmenides could.",
+      "difficulty": 3
+    },
+    {
+      "title": "Quantum indeterminism means some events have no cause",
+      "whoRaises": "Popular science writers; some physicists",
+      "objection": "Quantum events are fundamentally probabilistic. Nothing determines when a particular atom decays or where an electron is detected. So there are changes without causes.",
+      "reply": "Some point out that de Broglie–Bohm’s hidden-variable interpretation makes quantum mechanics deterministic after all. But the deeper point is that **causation doesn’t require determinism**. A cause must make its effect *intelligible*, not *necessary*. Even on the indeterministic Copenhagen interpretation, as Robert Koons notes, every transition has causal antecedents — the prior wave state, or the prior state plus the measurement.\n\nAnd more fundamentally: mathematical physics abstracts from causal and qualitative content. That a theory assigns no deterministic cause doesn’t show there is no cause; **absence from the representation isn’t a representation of absence**.",
+      "pushback": "If they say ‘then your “cause” is doing no work’, notice that the argument does not actually need the decay’s *timing* to be caused. Even a genuinely uncaused quantum transition would be a transition *in* something — an atom, a field — and that something exists at that instant only because its potential to exist as that kind of thing is being actualized. The argument runs on existence at a moment, not on predictability.",
+      "difficulty": 2
+    },
+    {
+      "title": "The Bell inequalities show uncaused correlations",
+      "whoRaises": "Philosophers of physics; popularizers of quantum entanglement",
+      "objection": "Experiments confirming violations of the Bell inequalities show correlations between distant measurements that can’t be explained by any common cause or by signals traveling at or below light speed. So there are correlations with no causal explanation.",
+      "reply": "Feser notes several proposals that preserve causality: allowing causal influences faster than light, backward causation, an absolute reference frame, or a law according to which the correlations hold (options discussed by Koons and Alexander Pruss). All raise questions, as does every interpretation of quantum mechanics.\n\nBut the decisive point is methodological. Quantum theory is a mathematical representation that by its nature leaves causal content out. That it doesn’t *show* a cause is no evidence there isn’t one — just as a black-and-white drawing is no evidence that the scene lacks color. And the entangled systems themselves exist and have their natures only because their potentials are being actualized.",
+      "pushback": "If they say you’re just ‘hiding behind metaphysics’, note that the burden runs the other way: the objection claims physics proves something (no cause) that physics’ method is incapable of detecting either way. Feser’s point is that such objections aren’t even well-formulated.",
+      "difficulty": 3
+    },
+    {
+      "title": "Virtual particles pop into existence from nothing",
+      "whoRaises": "Popular cosmology (e.g. claims that a ‘universe from nothing’ is possible)",
+      "objection": "Quantum field theory says particles come into and go out of existence at random in the vacuum. That is something coming into being with no cause.",
+      "reply": "Pruss suggests either a hidden-variable account or treating the system described by quantum field theory as the indeterministic cause of these events. More importantly, a quantum vacuum isn’t *nothing*: it is a physical system with a definite structure, governed by laws, and bursting with potentialities. Particles emerging from it are **potentials of the field being actualized** — exactly what the principle of causality addresses, not a counterexample to it. And the field itself exists here and now with that nature only because its potential for existence is being actualized.",
+      "pushback": "If they insist the events are random, return to the point that randomness isn’t causelessness (indeterministic causation) and that laws describe the behavior of things with natures — so the question becomes: what actualizes the existence of a field with *this* nature?",
+      "difficulty": 2
+    },
+    {
+      "title": "Radioactive decay is uncaused",
+      "whoRaises": "Philosophers of science; popular critics",
+      "objection": "A lead-210 atom may decay into mercury-206 with no outside interference, at a time nothing determines. Only a probability can be assigned. So the decay has no cause.",
+      "reply": "Using Phil Dowe’s example, Feser answers that lead-210 behaves according to its **nature or form**, as all natural things do (copper conducts electricity, trees send down roots, dogs chase squirrels). Its nature includes probability *x* of decaying in the next minute. So the decay has:\n\n- a **formal cause** — the nature of lead-210, which makes the decay intelligible even though it isn’t deterministic;\n- an **efficient cause** — whatever originally generated the atom;\n- and, most important, a **deeper efficient cause** — whatever keeps the atom existing *now* as lead-210, rather than as something else or nothing.\n\nDowe adds that scientists call decay the *production* of mercury-206, and ‘production’ is nearly a synonym for causation. And the bucket-of-lead example shows indeterministic causes still ground responsibility.",
+      "pushback": "If they say ‘calling it the atom’s nature is just a label’, reply that it is exactly what physicists appeal to: lead-210 has this half-life *because* it is lead-210 and not some other isotope. That is grounding in the kind of thing it is — which is what a formal cause is.",
+      "difficulty": 2
+    },
+    {
+      "title": "Aristotelianism was refuted by modern science",
+      "whoRaises": "Popular histories of the Scientific Revolution; many scientists",
+      "objection": "Modern science overthrew Aristotle. An Aristotelian argument for God is as obsolete as Aristotelian astronomy.",
+      "reply": "Feser calls this sloppy: it lumps together very different ideas. ‘Aristotelianism’ labels a huge body of scientific, philosophical, theological and political claims. Some specifically **scientific** ones — geocentrism, the four elements, natural places — really were refuted. But the claim that change is actualization of potential is **metaphysical**, and science hasn’t refuted it. On the contrary, science presupposes change (observation and experiment involve moving from one experience to another), so every possible scientific theory presupposes the actualization of potential. The book’s arguments rest on these deeper metaphysical foundations, not on revisable scientific claims.",
+      "pushback": "If they say ‘metaphysics has been replaced by science’, ask what scientific experiment could establish that only science yields knowledge. That claim is itself philosophical — and a later chapter shows science rests on metaphysical foundations it cannot justify on its own.",
+      "difficulty": 1
+    },
+    {
+      "title": "Eddington’s two tables: the examples are scientifically naïve",
+      "whoRaises": "Readers of Arthur Eddington’s The Nature of the Physical World; scientistic critics",
+      "objection": "Physics shows a desk is really a cloud of particles in mostly empty space; cups ‘rest’ on it only because particles keep colliding. So talk of a desk holding up a cup, a floor holding up a desk, etc., gets the science wrong, and an argument built on such examples is poorly grounded.",
+      "reply": "Feser thinks this sounds sophisticated but is silly, for three reasons.\n\n1. **No competition.** It assumes common sense and physics compete. That the floor, desk and cup are made of colliding particles doesn’t mean the floor doesn’t really hold up the desk; physics just describes the **mechanism** by which it does.\n2. **Selective.** No one accuses an engineer (how thick a foundation must be to support a building) or a doctor (how a herniated disk fails to support the spine) of outdated science for ignoring particle physics.\n3. **Irrelevant.** The examples were only meant to introduce actualization of potential and the linear/hierarchical distinction. Those concepts apply whether we speak of desks or particle clouds. The details affect **how**, not **whether**, we apply them. We don’t object to a physicist’s thought experiment about riding a light beam that photons are too small to sit on.",
+      "pushback": "If they still worry, restate the example at the particle level: the cup’s particles are held at a certain height by electromagnetic interactions with the desk’s particles, which depend on the floor’s, and so on — still a hierarchical series of actualizers, just described more finely. And the deeper series (of existence) runs from molecules to atoms to subatomic particles anyway.",
+      "difficulty": 1
+    },
+    {
+      "title": "There are no truly simultaneous causes",
+      "whoRaises": "Humean critics; physics-minded skeptics",
+      "objection": "Hierarchical series rely on causes acting simultaneously with their effects. But precise measurement would show a time lag between stick and stone, desk and cup. And if immediate causes were simultaneous, every causal chain would collapse into one instant. Besides, relativity makes simultaneity observer-relative.",
+      "reply": "Feser answers point by point.\n\n1. **Simultaneous isn’t instantaneous.** Pushing a stone takes time, but the stick’s moving it and its being moved are one event. Clarke: it takes time to push a chair across a room, but there is no time between the pushing and the chair’s being pushed.\n2. **Immediate causes are simultaneous with effects.** Following Mumford and Anjum: it isn’t ball A’s earlier motion that strictly causes B’s, but A’s impact on B, which is one event with B’s being impacted. It isn’t the throw that immediately breaks the glass but the brick pressing into it.\n3. **No collapse.** Distinguish causation *within* one process from one process setting up conditions for another. Sugar dissolving in tea, the tea being drunk, the tea being digested: each is a causal process, but the dissolving doesn’t cause the drinking in the same sense; it just sets the stage.\n4. **Relativity is irrelevant.** Relativity of simultaneity concerns distinct, spatially separated events; here cause and effect are parts of the same event at the same place.\n5. **Not the point anyway.** What makes a series hierarchical is derivative, instrumental power, not simultaneity. And the argument’s key series concerns a thing’s existence at an instant — which raises no issue of duration at all.",
+      "pushback": "If they keep pressing on timing, grant it and move to point 5: ‘Forget stones and sticks. At this instant, the water exists as water rather than as separate hydrogen and oxygen. What actualizes that?’ The question arises at any instant, however events are timed.",
+      "difficulty": 3
+    },
+    {
+      "title": "Infinite series are possible, so why not an infinite hierarchical regress?",
+      "whoRaises": "Graham Oppy (Arguing about Gods) and others who say no reason is given to rule out infinite regress",
+      "objection": "Mathematics is full of infinite series — the natural numbers go on forever without a first. Aquinas and Feser give no real reason why a causal series couldn’t do the same.",
+      "reply": "Oppy ignores the crucial role of **instrumental** causation. Mathematical series involve no instrumental and primary causes — indeed no causation at all — so they’re not relevant counterexamples. Aristotelians don’t reject infinite series as such: they allow infinite mathematical series and even beginningless *linear* causal series. What they deny is a hierarchical series with no source of underived power. In such a series every member acts only by power received; if nothing has the power unreceived, nothing acts at all. An infinitely long brush handle still can’t move itself; an infinite hall of mirrors still needs a real face. Without a first cause we just pass the explanatory buck forever.",
+      "pushback": "If they say ‘each member is explained by the previous one, so every member is explained’, reply that in a per se series, no member explains the *power* it passes along — it only transmits what it receives. Explaining each transmission by another transmission never explains where the power comes from, just as adding more boxcars never explains how the train moves.",
+      "difficulty": 2
+    },
+    {
+      "title": "Calling causes ‘instrumental’ begs the question",
+      "whoRaises": "Jordan Howard Sobel (Logic and Theism)",
+      "objection": "To call the intermediate causes ‘instruments’ already assumes there is some first cause using them. We have no reason to think things depend on hierarchical series of that kind unless we already accept theism.",
+      "reply": "No question is begged. Calling something an instrumental cause means only that it **derives its causal power from something else**. That description doesn’t itself say that a series of such causes can’t go to infinity, or that some cause has underived power — those are conclusions argued for separately. Even a skeptic understands that a stick can’t move a stone under its own power, whatever he goes on to say about whether a regress of moved movers must end.",
+      "pushback": "If they say ‘but why believe ordinary things depend on hierarchical series at all?’, go back to the water: its matter could be separate gases, so its being water now is an actualized potential; bonding and atomic structure just push the question down a level. That dependence is shown by analyzing ordinary cases, not by presupposing God.",
+      "difficulty": 3
+    },
+    {
+      "title": "Unmoved isn’t unmovable: the first mover might have unrealized potentials",
+      "whoRaises": "Sophisticated critics of the attribute derivations",
+      "objection": "Grant a first actualizer that isn’t being actualized while it acts. Why must it be *purely* actual? It could have potentials that are actualized at other times, or never. Then it wouldn’t be one, eternal, immaterial or perfect.",
+      "reply": "The regress that matters is of actualizers of **existence**. The first actualizer is first because it actualizes others’ existence without its own existence needing to be actualized. Suppose it had a potential that must be actualized for it to exist. What actualizes it?\n\n- **Something else?** Then it isn’t the first actualizer after all.\n- **A purely actual part of itself?** Then *that part* is the real first actualizer, and the potential ‘part’ is just its first effect.\n- **A part mixing act and potency?** Then what actualizes *that part’s* potentials? Another mixed part — a vicious regress.\n\nSo there is no coherent first actualizer of existence that isn’t purely actual. To admit a first actualizer at all is to admit pure actuality, with all the attributes that follow from it.",
+      "pushback": "If they say ‘maybe its extra potentials have nothing to do with its existence — they’re just unused capacities’, reply that any unrealized potential makes a thing a composite of act and potency, and a composite exists only if something makes that combination actual. For the supposed first actualizer, that ‘something’ must be either another being or a part of itself — which lands you straight back in the three-way dilemma. (The Neo-Platonic and Thomistic chapters, and the chapter on the divine attributes, develop this further.)",
+      "difficulty": 3
+    },
+    {
+      "title": "A purely actual actualizer is incoherent — to cause is to change",
+      "whoRaises": "Critics who argue causation always involves the cause’s own change",
+      "objection": "Anything that actualizes another thing must itself undergo change in doing so, so it must have potentials being actualized. A cause that acts without changing is a contradiction.",
+      "reply": "Three responses.\n\n1. **It begs the question.** The argument claims to prove no potential could be actualized without a purely actual actualizer. If the premises are true and the logic valid, the conclusion is true and so coherent. The critic must find a false premise or bad inference, not just assert the conclusion is impossible. Otherwise the argument shows a purely actual actualizer is possible, since actual.\n2. **Fallacy of accident.** Observed causes change when they act — your arm moves to move the stick. But that’s a contingent feature of the causes we meet, not an essential feature of causing. Compare: every U.S. president so far has been under seven feet tall, but it doesn’t follow no one taller *could* be president.\n3. **No contradiction.** An ‘immortal mortal’ is contradictory; a ‘purely actual actualizer’ is simply something that actualizes without being actualized. And we can say *why* our causes must change: they are **limited** — an arm is actually here and only potentially there, so to get the stick there its own potential must be actualized. Pure act has no such limits.",
+      "pushback": "If they ask ‘but how can something act without changing?’, compare it to the way a truth ‘makes’ a conclusion follow without anything happening to it, or the way an attractive object draws you without itself moving (Aristotle’s own image). These are imperfect analogies, but they show that ‘acting’ and ‘undergoing change’ are not the same concept.",
+      "difficulty": 3
+    },
+    {
+      "title": "Why not let the universe, energy, or the laws of physics be the purely actual thing?",
+      "whoRaises": "Modern naturalists (a common response, not discussed by name in the chapter)",
+      "objection": "Fine — something has to be at the bottom of the hierarchy. Why not the universe itself, or conserved mass-energy, or the fundamental laws of physics? Why go beyond nature?",
+      "reply": "Apply the chapter’s own test: does the candidate have any **potentiality**? The universe changes constantly, so it is shot through with potentiality. Mass-energy takes different forms at different times — it is potentially otherwise than it is. Fundamental particles and fields have states they could be in but aren’t. And laws, the chapter argues, are shorthand for how things with certain natures behave; they don’t exist on their own, and the question remains what makes it the case that things with *these* natures exist rather than others. Anything with potential needs an actualizer, so none of these can be the terminus. And whatever is purely actual must be immutable, eternal and immaterial — unlike anything physical.",
+      "pushback": "If they say ‘maybe the universe’s existence is just a brute fact’, point out that the argument doesn’t need the principle of sufficient reason; it needs only the principle that a mere potential can’t actualize itself. A brute-fact universe would be a vast collection of potentials actualized by nothing — the very thing Hume’s ‘pop into existence’ scenario tried and failed to make coherent.",
+      "difficulty": 2
+    },
+    {
+      "title": "‘God of the gaps’: science will eventually explain it",
+      "whoRaises": "Scientifically minded skeptics (a common modern objection)",
+      "objection": "Every time religion has pointed to something science couldn’t explain, science eventually explained it. The ‘sustaining cause’ is just another gap that physics will fill.",
+      "reply": "The argument doesn’t point to a gap in scientific knowledge; it points to something every scientific explanation **presupposes**. Science explains how things behave given that they exist with certain natures and follow certain laws. The Aristotelian question is what actualizes the existence of things with those natures here and now. Filling in more physics (a deeper particle, a new field) just adds more members to the hierarchical series — each with potentials needing actualization. No amount of physics can reach the terminus, because anything physical is a mix of act and potency. That is why Feser treats objections from physics as not even well-formulated: physics’ method abstracts from exactly what the argument is about.",
+      "pushback": "If they say ‘then the argument is unfalsifiable’, reply that it can be challenged the normal philosophical way — by attacking a premise or an inference, and many have tried. Being beyond the reach of experiments is not a defect; so are the laws of logic and the claim that only experiments yield knowledge.",
+      "difficulty": 2
+    }
+  ],
+  "report": {
+    "steps_changed": 3,
+    "errors_fixed": [
+      "Step 10 — said ‘a regress of simultaneous actualizers’; Feser’s step 10 says ‘concurrent actualizes [actualizers]’, and the chapter elsewhere insists simultaneity is *not* what makes a series hierarchical: ‘What makes these series hierarchical in the relevant sense, though, is not that they are simultaneous, but that there is a certain sort of dependence of the later members on the earlier ones.’ Changed ‘simultaneous’ to ‘concurrent’ so the wording does not prime the mistake objection 17 has to undo. (Steps 8 and 11 and the overview already said ‘concurrent’; step 10 was the lone outlier.)",
+      "Step 14 `why` — said ‘From 3 and 13’; the premise that licenses the detachment is step 1 (‘Change is a real feature of the world’), not step 3 (‘the actualization of potential is a real feature of the world’). Step 13’s antecedent is ‘the occurrence of C’, so it is step 1 that discharges it. The old text’s own parenthetical (‘change really does occur’) was already quoting step 1. Changed to ‘From 1 and 13’.",
+      "Step 16 `why` and `answer` — both justified the step by saying ‘Material and temporal differences are ruled out (pure act is immaterial and eternal)’. That is Feser’s *informal* route (p. 30: ‘since what is purely actual is immaterial and eternal, one purely actual thing could not be differentiated from another in terms of such features’), and in the numbered list it is circular: immateriality is step 25 and eternity step 23, both *after* unity at step 18. Feser’s formal step 16 does not use it — it says only ‘there could be such a differentiating feature only if a purely actual actualizer had some unactualized potential’, which is his ‘More generally, two or more things of a kind are to be differentiated in terms of some perfection or privation that one has and the other lacks.’ Rewritten so the perfection/privation point carries the step and the material/temporal route is flagged as the informal presentation’s shortcut.",
+      "Step 16 `example` — was a restatement of the step (‘One purely actual thing could differ from another only by having something the other lacks…’), not an example. Replaced with Feser’s own instance of a privation-difference from the same passage: ‘this squirrel is lacking its tail while the other has its tail.’",
+      "Objection 11 `pushback` — used Dowe’s bucket-of-lead-210 / moral-responsibility argument, which is already the reply in objection 14, where the book actually puts it (p. 56). Replaced with a distinct pushback drawn from the chapter’s own pivot: the argument runs on a thing’s existence at a moment, so even a genuinely uncaused transition would still be a transition in something whose existence is an actualized potential.",
+      "Objection 3 `whoRaises` — read ‘Bertrand Russell–style critics; introductory philosophy textbooks’, which invites confusion with objection 8, where Feser really does name Russell (‘On the Notion of Cause’). In the composition passage Feser attributes the objection to no one (‘some might suppose that the argument proceeds from the assumption that the entire universe has to have some cause’). Hedged to name Hume and Russell as the classical sources and to say the chapter names no one."
+    ],
+    "cut": [
+      "Nothing cut. All 23 objections map to distinct material and none is filler: 1 = ‘a first cause isn’t God’ (the ‘common but entirely ungrounded objection’ Feser answers at the head of ‘Some objections rebutted’); 2–3 = his two ‘common misunderstandings’ (beginning of the universe; universe as a whole); 4–5 = ‘What caused God?’ and the separate ‘but the formulation is ad hoc’ rescue, which Feser answers with three numbered problems of its own; 6–7 = Hume and Kant; 8 = Russell; 9 = inertia; 10 = the block universe; 11–13 = Feser’s own three quantum objections (indeterminism, Bell, vacuum particles); 14 = the radioactive-decay/Dowe discussion, which is a separate extended passage and adds the formal-cause analysis; 15–16 = his two forms of the ‘outdated science’ objection; 17 = simultaneity; 18–19 = Oppy and Sobel; 20–21 = the two closing objections about pure actuality. 22–23 are not from the chapter and say so in `whoRaises`, but each poses a distinct challenge answered from chapter material.",
+      "Removed from objection 11’s pushback: the duplicated Dowe bucket-of-lead example (kept in full in objection 14)."
+    ],
+    "notes": [
+      "Everything else checked out. All 50 step `text` fields say what Feser’s corresponding numbered step says — no step overstates or softens him, the disjunctions at 9 and 10 are exhaustive as he states them, and the attribute list at step 48 matches his order exactly (one, immutable, eternal, immaterial, incorporeal, perfect, fully good, omnipotent, intelligent, omniscient). Numbering is 1–50 with no gaps and the stage boundaries match his blocks: 1–14 Stage 1, 15–18 unity, 19–27 immutability/eternity/immateriality/incorporeality, 28–32 perfection and goodness, 33–37 omnipotence, 38–47 intelligence and omniscience, 48–50 the conclusion.",
+      "Step 16 raises a real question about Feser’s own list, not just about our paraphrase: his formal ordering puts unity (15–18) before immateriality (25) and eternity (23), while his informal derivation of unity leans on both. The formal step survives on the perfection/privation point alone, which is what the corrected `why` now says — but the owner may want a short sidebar on this, because a sharp reader who compares pp. 30 and 36 will notice it.",
+      "Ten steps (3, 5, 17, 27, 29, 32, 35, 37, 47, 50) have empty `challenge`/`answer`. Every one is a step where Feser merely detaches a conclusion from two earlier steps, so there is no distinct place to object — the objections belong to the premises they combine. This looks deliberate and I left it alone; confirm it is intended rather than unfinished.",
+      "Objection 13’s reply includes ‘a quantum vacuum isn’t *nothing*’. That is Feser’s settled view but he does not argue it in this chapter — here he gives only Pruss’s two options (a hidden-variable account, or the QFT system as an indeterministic cause) plus the general ‘absence from the representation is not a representation of absence’ point. Kept, because it is his position and it strengthens the reply, but the owner may want it marked as drawn from outside the chapter.",
+      "Step 5’s `example` runs the coffee chain and the fly chain together (‘your finger pressed the switch; motor neurons fired to move your finger’ — the motor neurons are Feser’s flyswatter example, not his air-conditioner example). Nothing false follows and it reads well, so I left it; flagging only in case the owner wants the two chains kept separate for teaching.",
+      "A few `example` fields on the definitional steps (19, 20, 46) are restatements rather than illustrations. That is close to unavoidable — the steps are definitions of ‘capable of change’, ‘purely actual’ and ‘omniscient’ — so I left them rather than pad. Step 16 was the one case where the source supplied a genuine concrete example, and that one is now fixed."
+    ]
+  }
+}

@@ -24,7 +24,9 @@ def variants(base):
             elif base.endswith('ism') and ' ' not in base: out.update([base[:-3] + 'ist', base[:-3] + 'ists'])
     if base.endswith('ence') and ' ' not in base and len(base) > 7: out.add(base[:-4] + 'ent')
     if base.endswith('ance') and ' ' not in base and len(base) > 7: out.add(base[:-4] + 'ant')
-    if ' ' in base and not base.endswith('s'): out.add(base + 's')
+    if ' ' in base and not base.endswith('s'):
+        if base.endswith('y') and base[-2:-1] not in 'aeiou': out.add(base[:-1] + 'ies')
+        else: out.add(base + 's')
     return out
 forms, seen = {}, {}
 for f in sorted(glob.glob('content/*.json')):
