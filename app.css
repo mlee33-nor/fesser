@@ -641,3 +641,8 @@ details.doc .prose { padding: 4px 26px 30px; max-height: 70vh; overflow-y: auto;
 .gpop .gp-x.btn { justify-self: start; margin-top: 2px; }
 .gpop .gp-h .gp-x { font-size: 30px; line-height: .8; padding: 2px 10px; }
 @media (max-width: 680px) { .gpop.sheet .gp-x.btn { width: 100%; justify-self: stretch; padding: 13px; } }
+
+/* step cross-links */
+.step-link { color: var(--accent); text-decoration: none; font-weight: 600; border-bottom: 1px solid color-mix(in srgb, var(--accent) 45%, transparent); white-space: nowrap; }
+.step-link:hover { border-bottom-color: var(--accent); background: var(--accent-soft); border-radius: 3px; }
+.step.step-target { background: var(--accent-soft); border-radius: 14px; box-shadow: 0 0 0 10px var(--accent-soft); }
