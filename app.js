@@ -332,6 +332,10 @@
     if (!GL) buildGL();
     const e = GL.byKey.get(btn.dataset.k); if (!e) return;
     popFor = btn; pop.innerHTML = popHTML(e); pop.hidden = false; popBack.hidden = false;
+    Array.prototype.forEach.call(pop.querySelectorAll('.gp-x'), function (b) {
+      b.addEventListener('click', function (ev) { ev.preventDefault(); ev.stopPropagation(); hidePop(); });
+      b.addEventListener('pointerup', function (ev) { ev.preventDefault(); ev.stopPropagation(); hidePop(); });
+    }); popBack.hidden = false;
     const sheet = window.innerWidth <= 680; pop.classList.toggle('sheet', sheet);
     if (!sheet) {
       const r = btn.getBoundingClientRect(); const w = Math.min(400, window.innerWidth - 24);
