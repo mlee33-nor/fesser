@@ -1,0 +1,348 @@
+{
+ "argument": {
+  "name": "How to read an argument",
+  "overview": "This module has no argument of its own to defend — Feser’s book supplies those. What it offers instead is a worked demonstration of the skill you will use in every chapter: taking reasoning written in ordinary prose and laying it out as numbered steps you can inspect one at a time.\n\nWe do it twice. **Stage A** takes a short, completely ordinary argument about a wet street and reconstructs it, so you can see the machinery — premise, hidden premise, inference, conclusion — on something with no philosophical weight attached.\n\n**Stage B** then does the same job on the Aristotelian proof of chapter 1, compressed from Feser’s fifty steps to ten. This is a *simplified* version made for beginners: it keeps the logical spine and drops the derivation of the individual divine attributes, which occupies steps 15–47 of the real thing. Do not quote it as Feser’s argument. Use it as a map you can hold in your head, so that when you meet the full fifty steps on pages 35–37 you already know the shape of the country.\n\nEach step below carries four things: **why** the step should be accepted, an **example** that makes it concrete, the most natural **challenge** to that step, and the **answer** the book gives. Read them in that order. When you get to the real chapters, do exactly this for the steps that carry weight — usually the premises, rarely the inferences.",
+  "stages": [
+   {
+    "title": "Stage A — An everyday argument, reconstructed",
+    "range": "1–4",
+    "gist": "A three-sentence argument about wet streets, pulled apart into premises, a hidden premise, an inference and a conclusion, to show the technique on something harmless."
+   },
+   {
+    "title": "Stage B — The Aristotelian proof in ten steps",
+    "range": "5–14",
+    "gist": "A beginner’s compression of chapter 1: from the fact of change, through the analysis of change as actualization of a potential and the impossibility of an infinite hierarchical regress, to a purely actual actualizer."
+   }
+  ],
+  "steps": [
+   {
+    "n": 1,
+    "kind": "premise",
+    "text": "The street outside is wet.",
+    "why": "This is an observation — something the arguer takes you to be able to check for yourself. Arguments have to start somewhere, and the usual starting points are observations, definitions, or claims the audience already accepts.",
+    "example": "You look out the window and see the pavement gleaming.",
+    "challenge": "Perhaps it only looks wet — a trick of the light, or a fresh coat of sealant.",
+    "answer": "Fair, and the way to settle it is to go and touch the street. Notice how quickly a disputed premise turns into a concrete test. Philosophical premises are rarely settled this easily, but the move is the same: ask what would show it false."
+   },
+   {
+    "n": 2,
+    "kind": "premise",
+    "text": "Hidden premise: whenever the street is wet, it has rained.",
+    "why": "This premise is never stated in the original sentence (‘The street is wet, so it must have rained’), but the argument collapses without it. Finding the unstated assumption is the single most useful habit in reading argumentative prose.",
+    "example": "The arguer says ‘the street is wet, so it rained’ and would be baffled if you asked what connects the two — precisely because he is assuming this link without noticing.",
+    "challenge": "This premise is false: streets get wet from street cleaners, burst mains, sprinklers, and hoses.",
+    "answer": "Exactly right, and that is the argument’s real weakness — which we found only by digging the premise out. This is what makes the technique worth learning: the flaw was invisible while the assumption stayed buried."
+   },
+   {
+    "n": 3,
+    "kind": "inference",
+    "text": "So it has rained.",
+    "why": "Follows from 1 and 2 by a valid form: if all Ws are Rs, and this is a W, then this is an R. The inference itself is beyond reproach.",
+    "example": "Compare: all whales are mammals; this is a whale; so this is a mammal. Same shape, same validity.",
+    "challenge": "But the conclusion might still be false!",
+    "answer": "Yes — and that is precisely the difference between validity and soundness. The reasoning is valid; the argument is unsound, because premise 2 is false. A valid argument transmits truth, but it cannot manufacture it."
+   },
+   {
+    "n": 4,
+    "kind": "conclusion",
+    "text": "Therefore the street’s being wet is evidence of rain — but only weak evidence, because premise 2 is false as stated.",
+    "why": "Having found the false premise, we can repair rather than discard: replace ‘whenever’ with ‘usually’, and the argument becomes a decent inductive one rather than a bad deductive one.",
+    "example": "‘The street is wet, and rain is by far the commonest cause of that around here, so it probably rained.’ Weaker conclusion, much better argument.",
+    "challenge": "Isn’t this just nitpicking about a trivial example?",
+    "answer": "The example is trivial on purpose. The technique is not. Every argument in Feser’s book can be handled exactly this way, and the flaw in a bad objection is almost always a premise the objector never noticed he was using."
+   },
+   {
+    "n": 5,
+    "kind": "premise",
+    "text": "Change really happens.",
+    "why": "Feser offers three layers of support. Our senses show it constantly — coffee cools, leaves fall, puddles spread, flies die. Even if the senses were entirely deceiving us, we would still be having one experience after another, which is itself change. And anyone arguing that change is an illusion must move through the steps of his argument, which is a change; so the denial cannot be coherently made.",
+    "example": "The four kinds of change on the chapter’s first page: qualitative (coffee cooling), local (a leaf falling), quantitative (a puddle growing), substantial (a living fly becoming dead matter).",
+    "challenge": "Parmenides argued that change is impossible: the coldness of the coffee was nothing before and is something after, and nothing comes from nothing.",
+    "answer": "Aristotle’s reply is that the coldness was not nothing beforehand — it was there potentially. The coffee has a potential to grow cold and no potential to become chicken soup, and that difference shows potentiality is a real feature of it, not sheer nothingness."
+   },
+   {
+    "n": 6,
+    "kind": "premise",
+    "text": "Change is the actualization of a potential: something that was able to be a certain way comes to be that way.",
+    "why": "This is not a dictionary definition but Aristotle’s analysis, adopted because it dissolves Parmenides’ problem. If potentials are real, change involves no coming-from-nothing; it is the reduction of an already-real capacity to actuality.",
+    "example": "Water in the freezer is actually liquid and potentially solid. Freezing actualizes that potential. It was never potentially a violin.",
+    "challenge": "‘Potentiality’ sounds like a word that explains nothing — a dormitive-virtue dodge.",
+    "answer": "Potentials discriminate, and a concept that rules things out is not empty. Feser addresses this in chapter 6 against Cottingham: explanations in terms of potentiality may be minimally informative, but minimally informative is not uninformative."
+   },
+   {
+    "n": 7,
+    "kind": "premise",
+    "text": "Nothing can actualize its own potential: any potential that gets actualized is actualized by something already actual. (This is the principle of causality.)",
+    "why": "A merely potential F cannot do anything precisely because it is merely potential, and only what is actual can act. Potential coldness chills nothing; actual coldness — the air, the ice — does the chilling. Note carefully what this principle does *not* say: it does not say everything has a cause.",
+    "example": "The coffee’s not-yet-existing coldness cannot reach out and cool the coffee. Something already cold has to do it.",
+    "challenge": "Quantum mechanics describes events with no determining cause, such as radioactive decay.",
+    "answer": "Chapter 1 devotes a long section to this. Quantum physics at most shows that some events lack deterministic causes; it does not show that potentials actualize themselves without anything actual. On any interpretation there is an actual quantum system with actual properties doing the work."
+   },
+   {
+    "n": 8,
+    "kind": "inference",
+    "text": "So whenever something changes, something already actual is actualizing it.",
+    "why": "Follows immediately from 6 and 7. Nothing new is being claimed; the two previous steps are simply being put together.",
+    "example": "The fly dies because the swatter strikes; the swatter moves because your wrist flicks; your wrist flicks because motor neurons fire.",
+    "challenge": "Doesn’t this mean whatever causes a change must itself be changing?",
+    "answer": "No, and Feser flags this explicitly. The claim is conditional: *if* the changer is itself being changed, then that change needs a changer too. He does not assert, and does not believe, that every cause of change is changing."
+   },
+   {
+    "n": 9,
+    "kind": "premise",
+    "text": "A thing does not merely need a cause of how it got here. Its existing at this very moment is itself the actualization of a potential, and so needs an actualizer here and now.",
+    "why": "This is the step that turns the argument from a story about the past into an argument about the present, and it is the one beginners most often skate past. The water in your coffee exists now only because certain potentials of hydrogen and oxygen are being actualized as water rather than as separate gases; the atoms exist only because certain potentials of subatomic particles are being actualized in this arrangement.",
+    "example": "Asking what keeps the water in existence right now — not what combined the hydrogen and oxygen years ago, and not what might separate them later.",
+    "challenge": "Why not say things simply keep existing on their own once they exist? (The thesis of existential inertia.)",
+    "answer": "Feser’s reply is that a contingent thing’s existing is not a neutral default but the ongoing actualization of a potential — its essence being conjoined with existence, in chapter 4’s language. What would do the conjoining, on the inertia view, is left unexplained; and the chemical and atomic facts show that at every level some potential is being actualized rather than another."
+   },
+   {
+    "n": 10,
+    "kind": "premise",
+    "text": "That actualizer, if it is itself having its own potentials actualized, needs an actualizer of its own — and so we have a series.",
+    "why": "The reasoning of steps 7 and 9 applies to the actualizer just as much as to the thing actualized. Either the actualizer is itself a mixture of actuality and potentiality, and the question recurs, or it is not.",
+    "example": "The water exists because of what is happening with the atoms; the atoms because of what is happening with the subatomic particles; and so on downward.",
+    "challenge": "Isn’t this just the endless ‘why?’ of a small child?",
+    "answer": "The child’s questions run along a timeline and can reasonably stop at ‘that’s just how it started’. These questions run downward through levels of present dependence, where stopping at an unexplained level does not answer but cancels the explanation, as the shelf example in chapter 5 shows."
+   },
+   {
+    "n": 11,
+    "kind": "premise",
+    "text": "This is a hierarchical (per se) series, not a linear (per accidens) one: every member except the first has its power only by deriving it from something else at the moment it acts.",
+    "why": "The defining mark is derivative, instrumental power. The desk has no power of its own to hold up a cup; remove the floor and both fall. Contrast a line of ancestors or a switched-on air conditioner, whose members keep their power once they have it.",
+    "example": "Cup, desk, floor, foundation, earth — all at one instant, each borrowing from the next.",
+    "challenge": "Relativity shows there is no absolute simultaneity, so a series of simultaneous causes is a confused notion.",
+    "answer": "Feser is careful that simultaneity is a teaching aid, not the definition. What makes a series hierarchical is the derivative character of the later members, not their sharing a moment on the clock. The objection therefore hits the illustration and not the argument."
+   },
+   {
+    "n": 12,
+    "kind": "premise",
+    "text": "A hierarchical series cannot go on forever. Its members are all borrowers, and no number of borrowers produces what none of them has.",
+    "why": "This is the load-bearing premise of the whole proof, and Feser argues for it with images rather than assertion: a paintbrush cannot move itself, and would not move itself if its handle were infinitely long; an infinite stack of desks holds up a cup exactly as well as one desk does, which is to say not at all.",
+    "example": "An infinitely long train of boxcars with no locomotive moves nowhere.",
+    "challenge": "Why can’t the series be infinite? Every member has a predecessor, so every member is accounted for.",
+    "answer": "That reply works for linear series, where each member has power of its own once acted upon, and Feser grants it there — he even grants a beginningless universe for the sake of argument. It fails for hierarchical series precisely because the members have no power of their own to account for."
+   },
+   {
+    "n": 13,
+    "kind": "inference",
+    "text": "So the series terminates in something that can actualize without itself being actualized — something with no potentials needing actualization at all. Call it purely actual.",
+    "why": "Follows from 10, 11 and 12. Note what ‘first’ means here: not earliest in time, but non-derivative — having the power built in rather than borrowed.",
+    "example": "Not a starting gun at the Big Bang, but the painter at the end of the brush handle, however long the handle.",
+    "challenge": "Why not stop at something less than that — a fundamental particle, a quantum field, the laws of physics?",
+    "answer": "Because any such candidate is a mixture of actuality and potentiality: it could have been otherwise, it has parts, it is arranged one way rather than another. Anything with unactualized potentials is a borrower, and the series does not stop at a borrower. Feser makes this point against Krauss in chapter 7: layers of laws are themselves a hierarchical series."
+   },
+   {
+    "n": 14,
+    "kind": "conclusion",
+    "text": "There exists a purely actual actualizer — and chapter 1 then argues that anything purely actual must be unique, immutable, eternal, immaterial, incorporeal, perfect, fully good, omnipotent and omniscient: in other words, God.",
+    "why": "The derivation of the attributes occupies steps 15–47 of Feser’s formal statement and follows one repeating pattern: attribute X would require an unactualized potential; a purely actual thing has none; therefore not-X. Uniqueness comes separately, from the argument that two purely actual things could not be differentiated.",
+    "example": "Immutability: to change is to have a potential actualized, and there are none, so it cannot change. Eternity: existing in time would involve change, so it is outside time.",
+    "challenge": "Even granting a purely actual actualizer, why call it God rather than some impersonal cosmic fact?",
+    "answer": "This is exactly what Stage 2 of each chapter exists to answer, and it is the objection you will meet most often in conversation. The claim is not that we decide to call it God, but that the same metaphysics that gets us to pure actuality also delivers intellect, will, omnipotence, omniscience and perfect goodness. Anyone who resists should be asked which of those derivations he rejects, and why."
+   }
+  ]
+ },
+ "objections": [
+  {
+   "title": "“Isn’t this just faith dressed up in fancy words?”",
+   "whoRaises": "The friendly skeptic; also a common assumption among believers who have never seen an argument for God",
+   "objection": "Religious belief comes from upbringing, comfort and community, and philosophical arguments are decoration added afterwards. Nobody was ever argued into believing in God; the arguments are rationalizations for a conclusion already fixed.",
+   "reply": "Notice first that this is an argument about *arguers*, not about arguments — an ad hominem, however politely meant. Whether a premise is true and an inference valid has nothing to do with why anyone happens to find the conclusion attractive. Atheists have motives too; nobody thinks that settles anything.\n\nSecond, natural theology is by definition the attempt to say what can be known about God by unaided reason, *apart from* revelation. Feser defines it that way in the Introduction, and he keeps to it: you will not find a premise in this book that rests on scripture, church authority or religious experience. Every premise is either something you can check (change happens; things have parts) or something argued for at length (the principle of causality, PSR, the real distinction).\n\nThird, the arguments come with their own falsification conditions. Feser says he is offering demonstrations. That means you refute them by finding an invalid step or a false premise — and the book itself tells you where to look, since the objection sections state the strongest known attempts.",
+   "pushback": "If the objector presses — ‘but you would believe anyway’ — grant it cheerfully and redirect: perhaps so, and that is a fact about me, not about step 12. Then ask which step he rejects. The conversation either becomes substantive or reveals that he has not looked. Feser handles the general question of whether a proof can be controversial and still be a proof at the very end of chapter 7 (around page 307).",
+   "difficulty": 1
+  },
+  {
+   "title": "“Hasn’t science made all this obsolete?”",
+   "whoRaises": "The science-minded skeptic; Krauss, Hawking and Mlodinow, Stenger",
+   "objection": "Physics explains change, cosmology explains the origin of the universe, and biology explains the appearance of design. Whatever gaps remain will close. Medieval metaphysics is what people did before they had data.",
+   "reply": "Two different things are being run together. Science asks how things within the world behave: what mechanisms operate, under what laws, in what sequence. The questions in this book are of a different sort — why there is anything at all rather than nothing, and what sustains anything in being from moment to moment. No possible measurement answers those, because any measurement presupposes something there to measure.\n\nSo the arguments are not god-of-the-gaps reasoning, and Feser makes the point directly in chapter 7 (around page 271). A gaps argument says ‘science hasn’t explained X yet, so God’. These arguments say: here is a feature of anything whatever — that it changes, that it has parts, that its essence is not its existence — which no account of mechanism could address, since any mechanism you name has the same feature.\n\nThat said, Feser does not wave science away. Chapter 1 spends many pages on Newtonian inertia, relativity, and quantum mechanics precisely because he takes the objections seriously and thinks they can be answered on the merits.",
+   "pushback": "If the objector escalates to ‘science is the only source of knowledge’, he has stated **scientism**, and that is a much weaker position than it sounds — the claim itself is not a scientific result, so it fails its own test. Chapter 7 develops this from around page 273 and is worth reading carefully; it is the single most useful section of the book for conversations with scientifically-minded friends.",
+   "difficulty": 2
+  },
+  {
+   "title": "“Who made God, then?”",
+   "whoRaises": "Almost everyone at some point; Dawkins, Dennett, Harris, Hitchens, Krauss",
+   "objection": "If everything needs a cause, God needs a cause too. And if God can be uncaused, then the universe can be uncaused, and God is an unnecessary extra step.",
+   "reply": "The objection assumes a premise none of these arguments uses. No proof in this book says ‘everything has a cause’. The principle of causality says that no *potential* is actualized without something already actual actualizing it. Something with no potentials is not an exception to the rule; it is outside its scope.\n\nAnd the arguments do more than decline to apply the rule — they explain why the terminus could not in principle have a cause. Things need causes because they are mixtures of actuality and potentiality (chapter 1), or have parts needing to be united (chapter 2), or have an essence distinct from their existence (chapter 4), or are contingent (chapter 5). What is purely actual has no potentials to be actualized. What is absolutely simple has no parts to be assembled. What just *is* existence has no essence to be joined to existence. So the question translates as ‘what actualized the potentials in that which has none?’ — not a hard question but an empty one.\n\nFeser opens chapter 7 with this objection and calls it painfully inept, for exactly this reason.",
+   "pushback": "The serious follow-up — and you should welcome it — is: ‘fine, but why can’t the *universe* be the thing that is uncaused?’ That is a real question, and the answer is that the universe has all the features that make things need causes: it changes, it has parts, it could have been otherwise. Chapter 5 (around page 167) and chapter 7 both take it up. Say so honestly rather than repeating the first reply louder.",
+   "difficulty": 1
+  },
+  {
+   "title": "“Why can’t the chain of causes just go back forever?”",
+   "whoRaises": "The thoughtful skeptic; Hume; and anyone who has heard of an eternal or cyclic universe",
+   "objection": "If every member of an infinite series has a cause, then every member is accounted for, and nothing is left over to explain. Demanding a first member is an unargued prejudice for beginnings.",
+   "reply": "Ask first which kind of series is meant. For a **linear** series — grandfather, father, son; or the button, the air conditioner, the cool room — Feser simply agrees that it might in principle be infinite, and grants it for the sake of argument. He even grants a beginningless universe or multiverse. The argument is not about those.\n\nFor a **hierarchical** series, the reply is not a prejudice but a reason. Every member except the first has its causal power only by borrowing it at the moment it acts. Add members and you add borrowers, never a lender. A paintbrush cannot move itself, and it would not move itself if its handle were infinitely long. An infinite stack of desks holds up a cup exactly as well as one desk does.\n\nSo the claim is not ‘infinite series are impossible’. It is much more specific: a series in which nothing has non-derivative power explains nothing, however long it is.",
+   "pushback": "If the objector says ‘but I see no reason to think any series is hierarchical in your sense’, that is the right place to argue, and it is where chapter 1 spends its best pages. Take him to the cup and the desk, or the train with no locomotive, and ask what is holding up the cup if not something with built-in power.",
+   "difficulty": 2
+  },
+  {
+   "title": "“Philosophy never settles anything — why bother?”",
+   "whoRaises": "The weary pragmatist; a common attitude among scientifically educated people",
+   "objection": "Physicists agree about physics. Philosophers have argued about God for two and a half thousand years and are no closer to agreement. That is not a discipline making progress; it is a discipline spinning. Persistent disagreement among the experts is itself evidence that nobody has a proof.",
+   "reply": "Disagreement is real, and it is worth being honest about it rather than pretending otherwise. But the inference from disagreement to failure does not go through. Smart, informed people still disagree about whether mathematical objects exist, whether determinism is true, and how to interpret quantum mechanics — nobody concludes that these questions have no answers or that the arguments about them are worthless.\n\nMore importantly, an argument’s force is not measured by a head-count. A demonstration is refuted by a false premise or an invalid step, not by a survey. Feser addresses this directly at the close of chapter 7: that a conclusion is controversial does not entail that the argument for it fails as a demonstration. If it did, we would have to say that a valid proof stops being one the moment somebody clever refuses to accept it.\n\nAnd philosophy does make progress, just not in the form of unanimity. It makes it by ruling out positions, sharpening distinctions, and exposing bad arguments. Much of chapter 7 is exactly that kind of progress.",
+   "pushback": "If he says ‘then why should I spend fifty hours on this?’, answer honestly: because you will be able to think clearly about the largest question there is, and because the standard objections you have heard all your life turn out — whichever way you end up — to be much worse than you were told. That is worth knowing either way.",
+   "difficulty": 2
+  },
+  {
+   "title": "“You’re just defining God into existence”",
+   "whoRaises": "The skeptic who has met the ontological argument and assumes all arguments for God are like it",
+   "objection": "You define God as ‘that which is purely actual’ or ‘that whose essence is existence’, and then announce that such a thing exists. That is word-magic. Definitions cannot conjure realities.",
+   "reply": "The objection describes the **ontological argument**, which reasons from the concept of God alone. None of the five proofs in this book is of that kind, and Feser says so.\n\nEvery one of them starts from a premise about the world that you can check: that change occurs; that things have parts; that there are universals and propositions; that things exist whose natures do not include their existence; that things exist which could have failed to. Then it argues that such facts are unintelligible unless something of a certain sort exists. The description of that something is the *conclusion* of the reasoning, not an assumption fed in at the start.\n\nThe word ‘God’ shows up last, and it is earned in Stage 2 of each chapter, where Feser argues that whatever fits the description must have the attributes that make ‘God’ the right word.",
+   "pushback": "If the objector says ‘but you still get to stipulate what counts as God’, ask which of the derived attributes he would refuse to call divine — being the unique, uncaused, immaterial, eternal source of the existence and causal power of everything else. The conversation gets interesting fast.",
+   "difficulty": 2
+  },
+  {
+   "title": "“Even if some first cause exists, why call it God?”",
+   "whoRaises": "The careful skeptic; this is the strongest of the beginner-level objections",
+   "objection": "Suppose the reasoning works and there is something purely actual. So what? That might be a quantum vacuum, a brute physical substrate, an impersonal principle. Calling it God smuggles in a person who loves you, answers prayers and has opinions about your behaviour.",
+   "reply": "This is the right objection, and it is exactly what Stage 2 of every proof chapter exists to answer — which is why skipping Stage 2 is such a costly mistake.\n\nThe strategy is to show that anything fitting the Stage 1 description must, by the same metaphysics, have further features. If it were material it would have potentials, so it is immaterial. If it were in time it would change, so it is eternal. If there were two, something would have to differentiate them, and each would then be ‘pure actuality plus something’, so there is exactly one. All causal power derives from it, which is what omnipotence means. The patterns of everything it causes must be in it somehow, and in a purely actual immaterial cause they can only be present in the manner of intellect — hence omniscience. Falling short of goodness would be failing to actualize something, and there is no such failure, hence perfect goodness.\n\nA quantum vacuum has none of these features: it is one physical thing among others, with potentials, parts and states. It is a candidate for a member of the series, not for its terminus.",
+   "pushback": "Be honest about the limits. Natural theology does not get you to any particular revealed religion, and Feser says so plainly in the Introduction: he thinks the real debate begins where natural theology leaves off, among theists of different stripes. If your friend’s complaint is ‘this doesn’t give you Christianity’, agree — it is not meant to.",
+   "difficulty": 3
+  },
+  {
+   "title": "“All this Aristotle stuff was refuted centuries ago”",
+   "whoRaises": "The philosophically literate skeptic; a common view since the scientific revolution",
+   "objection": "Act and potency, substantial forms, final causes — this vocabulary was abandoned for good reasons when modern science arrived. Reviving it is nostalgia, not argument.",
+   "reply": "Two things get run together here: the outdated *scientific* claims in which medieval writers expressed their metaphysics (celestial spheres, elements, the physics of projectiles), and the *metaphysical* claims themselves. Feser’s position, stated in the Introduction, is that the essential kernel of the arguments does not depend on the outdated husk.\n\nAnd the metaphysical apparatus is less exotic than its reputation. Chapter 6 points out that contemporary naturalist philosophers use these principles without naming them. Paul Churchland argues that since human beings have purely material beginnings and develop by purely material processes, the result must be purely material — which assumes the principle of proportionate causality. John Searle argues against property dualism on grounds that amount to *agere sequitur esse*. The principles are doing work in modern philosophy under other names.\n\nWhat is true is that this vocabulary fell out of fashion. Falling out of fashion and being refuted are not the same thing, and Feser’s challenge to the objector is to produce the refutation.",
+   "pushback": "If the objector names a specific refutation — Hume on causation, Kant on the limits of reason, the mechanical philosophy’s rejection of final causes — that is a real conversation, and chapters 1, 5 and 7 take up each of them. Ask which one he means. Vague appeals to ‘what was refuted centuries ago’ usually evaporate at that point.",
+   "difficulty": 3
+  },
+  {
+   "title": "“This is a fallacy of composition: the parts need a cause, so you say the whole does”",
+   "whoRaises": "Hume; A. C. Grayling; many textbook presentations",
+   "objection": "Every brick is light, but the wall is heavy. In the same way, from the fact that each thing in the universe has a cause it does not follow that the universe as a whole has one. The classic arguments commit exactly this fallacy.",
+   "reply": "First, the arguments in this book do not, or need not, make any claim about the universe as a whole at all. They reason about any individual changing thing, any composite thing, any contingent thing. So there is no part-to-whole inference to be fallacious.\n\nSecond, Feser argues in chapter 7 (around page 266) that when the objection is pressed against the rationalist proof, it is the objector who reasons badly. From the fact that stick A is moved by stick B, and B by C, ad infinitum, it does not follow that you have explained why there is any motion in the series at all. From the fact that each mirror’s image comes from the next mirror, it does not follow that you have explained how the image got into any of them. Leibniz’s version: a geometry book copied from an earlier copy, copied from an earlier one, forever — every individual copy is accounted for, and why there is any geometry in the series remains untouched.\n\nThird, not all part-to-whole reasoning is fallacious. Every brick being red does make the wall red. Whether a particular inference works depends on the property. Calling ‘fallacy of composition’ is the beginning of an argument, not the end of one.",
+   "pushback": "If the objector insists the cases differ, ask him to say what is different about *weight* that is not different about *contingency*. Making him specify is the whole game here, and it is rarely done.",
+   "difficulty": 3
+  },
+  {
+   "title": "“Special pleading: you exempt God from your own rule”",
+   "whoRaises": "The debate-club skeptic",
+   "objection": "Everything needs an explanation — except your favoured thing, which conveniently explains itself. That is textbook special pleading, and no amount of Latin makes it respectable.",
+   "reply": "Special pleading is exempting a favoured case *without a principled reason*. The whole content of these arguments is the principled reason.\n\nThe rule is not ‘everything needs a cause’. It is that things need causes *because of a specific feature they have*: potentiality needing actualization, parts needing to be united, essence needing to be conjoined with existence, contingency needing an explanation beyond itself. The terminus of each argument is characterized precisely by lacking that feature. It is not exempted from the rule; it does not satisfy the rule's antecedent.\n\nCompare: ‘every borrower must get the money from someone’ is a fine rule, and it does not make an exception for the person who owns the money. He is not a borrower.",
+   "pushback": "If the objector says ‘you just assert that God lacks the feature’, he has spotted the real issue and you should concede it: it is not asserted, it is argued, and the argument is the fifty steps. Invite him to say which step manufactures the exemption. He will have to read the chapter — which is the best possible outcome.",
+   "difficulty": 2
+  },
+  {
+   "title": "“I can’t even picture what you’re describing — doesn’t that mean it’s nonsense?”",
+   "whoRaises": "The honest beginner, including many sympathetic readers",
+   "objection": "Something outside time, with no parts, that doesn’t change, whose essence is its existence — I cannot form any mental image of that at all. If I cannot picture it, in what sense do I understand it?",
+   "reply": "You are noticing something real, and the tradition noticed it first: this is why chapter 6 ascribes **incomprehensibility** to God. But imaginability is not the test of intelligibility, and this is worth getting clear about early.\n\nYou cannot picture the number seventeen, or the proposition that snow is white, or a thousand-sided polygon as distinct from a nine-hundred-and-ninety-nine-sided one. You understand all three perfectly well, and you can reason about them rigorously. The intellect grasps things the imagination cannot supply a picture for — that is precisely what distinguishes it from imagination.\n\nWhat you can do with the divine attributes is exactly what you do with the chiliagon: follow the reasoning, hold the definition, draw the consequences, and notice that your inability to visualize has no bearing on whether the reasoning works.",
+   "pushback": "If the objector says ‘then you are talking about something you don’t understand’, distinguish two claims. We do not comprehend God exhaustively — the tradition insists on that. But we can know true things about him by valid argument from what we do understand, and those claims are literal, not metaphorical. That is what the doctrine of analogy is for.",
+   "difficulty": 1
+  },
+  {
+   "title": "“Believing in God is like believing in Zeus — you’re an atheist about every god but one”",
+   "whoRaises": "Dawkins and the New Atheists; the ‘one god further’ line",
+   "objection": "You reject Zeus, Thor, Vishnu and several thousand others on perfectly good grounds. Consistency requires going one god further and rejecting yours too.",
+   "reply": "The line trades entirely on the ambiguity this whole module has been trying to remove. Zeus is a very powerful being *inside* the universe — he has a body, a location, a history, moods, parents. Rejecting him is rejecting an item in the world’s inventory that turns out not to be there.\n\nThe God of classical theism is not that kind of candidate at all. He is not one more being among beings; he is pure actuality, that in virtue of which anything exists at all. So the two rejections would be doing completely different work: one is like concluding there is no undiscovered planet, the other like concluding there is no such thing as existence. The inference from the first to the second is not consistency; it is a change of subject.\n\nFeser deals with the ‘one god further’ objection in chapter 7 (around pages 289–292) and argues that it rests on precisely this confusion.",
+   "pushback": "If the objector replies that this is just special pleading for one’s own god, point out that the distinction is not between my god and yours but between two *categories* — a being within the world and the source of the world’s being. A polytheist who upgraded Zeus to pure actuality would no longer be describing Zeus.",
+   "difficulty": 2
+  }
+ ],
+ "misconceptions": [
+  {
+   "myth": "‘Natural theology’ means theology that studies nature, or a religion based on nature.",
+   "correction": "It means what can be known about God by unaided reason, apart from revelation. Feser defines it that way in the Introduction. The contrast is with revealed theology, not with supernatural theology."
+  },
+  {
+   "myth": "A ‘valid’ argument is one with true premises.",
+   "correction": "Validity is about form only: if the premises were true, the conclusion would have to be true. ‘All cats are reptiles; Fido is a cat; so Fido is a reptile’ is perfectly valid and has two false premises. An argument that is valid *and* has true premises is called sound."
+  },
+  {
+   "myth": "‘Everything has a cause’ is the first premise of the cosmological argument.",
+   "correction": "No argument in this book uses it. The principle of causality says that no potential is actualized unless something already actual actualizes it. Almost every popular objection to these arguments attacks the version Feser never asserts."
+  },
+  {
+   "myth": "‘First cause’ means the earliest cause, the one at the beginning of time.",
+   "correction": "‘First’ means non-derivative — having causal power built in rather than borrowed. The argument works even granting a beginningless universe, which Feser explicitly grants for the sake of argument. Picture a stack, not a timeline."
+  },
+  {
+   "myth": "The arguments depend on the universe having had a beginning, so Big Bang cosmology is what makes or breaks them.",
+   "correction": "They are indifferent to it. Feser concedes an eternal universe or multiverse and argues that it would still require a cause sustaining it in being at every moment. Cosmology settles a question the arguments were not asking."
+  },
+  {
+   "myth": "A potential is just a logical possibility, so saying a thing has potentials says nothing.",
+   "correction": "Potentials are specific and grounded in what a thing actually is. Coffee is potentially cold, potentially a stain, and not potentially chicken soup or a live chicken. A concept that rules things out is not empty."
+  },
+  {
+   "myth": "Aristotelian ‘motion’ means movement through space.",
+   "correction": "It covers every kind of change: qualitative (cooling), local (falling), quantitative (growing) and substantial (a living thing becoming dead matter). The Unmoved Mover is unchanged, not merely stationary."
+  },
+  {
+   "myth": "Saying God is ‘simple’ means God is easy to understand.",
+   "correction": "It means God has no parts of any kind — no matter and form, no essence distinct from existence, no accidents, no potentiality. Feser in fact holds God to be incomprehensible, and simplicity is a large part of the reason."
+  },
+  {
+   "myth": "Classical theists think God is impersonal, and theistic personalists think he is personal.",
+   "correction": "Feser is explicit that this is not the difference. Most classical theists attribute intellect and will to God and regard him as personal. The dispute is over whether God falls under a genus — one kind of person among possible kinds — and is therefore composite."
+  },
+  {
+   "myth": "If we can only speak of God analogically, we do not really know what we are saying.",
+   "correction": "Analogical predication is literal. ‘God is good’ is a true, literal claim, made with a word whose content is stretched rather than duplicated or abandoned. Feser objects specifically to the characterization of Aquinas’ view as making God-talk analogical rather than literal."
+  },
+  {
+   "myth": "This is a design argument: order in nature points to a designer.",
+   "correction": "None of the five is a design argument, and Feser is careful about the difference. Design arguments infer to the best explanation of particular features of the world and yield probable conclusions. These arguments claim to demonstrate, from features anything whatever must have, that a certain cause exists."
+  },
+  {
+   "myth": "The numbered formal argument is the real argument; the chatty pages before it are just warm-up.",
+   "correction": "Closer to the reverse. The informal statement carries the justification for the premises; the formal statement displays the structure. The numbered version introduces nothing new, which is exactly why a fifty-step list should not intimidate anyone who has read the pages before it."
+  },
+  {
+   "myth": "Philosophy is a matter of opinion, so nobody can be simply wrong.",
+   "correction": "Arguments have premises that are true or false and inferences that are valid or invalid, and both can be checked. A great deal of chapter 7 consists of showing that specific, widely repeated objections are simply mistakes."
+  },
+  {
+   "myth": "An ‘abstract object’ is something vague, imaginary, or made up.",
+   "correction": "It means something real that is not located in space or time and does not enter into causal relations — universals, propositions, numbers, possible worlds. The number 2 is not hazy; it is precise, and you cannot trip over it."
+  }
+ ],
+ "connections": [
+  {
+   "to": "intro",
+   "note": "Read the Introduction (pages 9–15) immediately after this module. It defines natural theology, explains why the book is not about Aquinas’ Five Ways, sets out the four-part structure of every proof chapter, and previews all seven chapters. Lessons 1 and 15 here are its preparation."
+  },
+  {
+   "to": "ch1",
+   "note": "The Aristotelian proof is where lessons 7 and 8 pay off. Act and potency, the principle of causality, and the distinction between linear and hierarchical series are all introduced there and used everywhere afterward. The simplified ten-step argument in this module is a compression of that chapter’s fifty steps."
+  },
+  {
+   "to": "ch2",
+   "note": "The Neo-Platonic proof runs on lesson 12: composition, metaphysical parts, and what ‘simple’ means. It is also where Feser first introduces the analogical use of terms, which lesson 14 prepares."
+  },
+  {
+   "to": "ch3",
+   "note": "The Augustinian proof is the direct application of lesson 11 — universals, propositions, numbers, possible worlds, and the realism/nominalism/conceptualism trio. Lesson 5 on possible worlds and lesson 6 on Plato and Augustine also feed it. Note that it is the only one of the five that is not a causal argument."
+  },
+  {
+   "to": "ch4",
+   "note": "The Thomistic proof is lesson 9 in full: essence, existence, and the real distinction, plus the contingency material from lesson 5. Its conclusion — subsistent existence itself — is defined in this module’s key terms."
+  },
+  {
+   "to": "ch5",
+   "note": "The rationalist proof begins from the principle of sufficient reason, which lesson 10 explains alongside the principle of causality and the case against brute facts. Lesson 4’s treatment of the fallacy of composition and lesson 5’s necessary/contingent vocabulary are also used heavily."
+  },
+  {
+   "to": "ch6a",
+   "note": "The first half of chapter 6 opens with three background principles — proportionate causality, agere sequitur esse, and analogy — all defined in this module’s key terms, and then derives God’s unity and simplicity. Lessons 12, 13 and 14 are its preparation; the theistic personalism material in lesson 13 comes from this part of the book."
+  },
+  {
+   "to": "ch6b",
+   "note": "The second half covers immutability, eternity, necessity, omnipotence, omniscience, goodness, will, love and incomprehensibility, then divine conservation and concurrence and the nature of miracles. Lesson 13’s attribute list is the map for it."
+  },
+  {
+   "to": "ch7a",
+   "note": "The first half of chapter 7 answers ‘what caused God?’, the straw-man ‘basic cosmological argument’, the infinite regress objection, the fallacy of composition charge and the god-of-the-gaps charge. This module’s objections section previews each in beginner’s form; lesson 4 supplies the fallacy vocabulary."
+  },
+  {
+   "to": "ch7b",
+   "note": "The second half covers scientism, the ‘one god further’ line, the problem of evil, divine hiddenness, and whether a controversial argument can still be a demonstration. Lesson 3 on demonstration versus probability is the key preparation for that last question."
+  },
+  {
+   "to": "capstone",
+   "note": "The capstone synthesizes all five proofs and how they converge on one God. Return to this module’s distinctions and key terms before you begin it — the capstone assumes fluency in every one of them."
+  }
+ ]
+}

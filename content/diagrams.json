@@ -1,4 +1,139 @@
 {
+  "intro": [
+    {
+      "id": "two-stage-shape",
+      "title": "The shape every proof chapter takes",
+      "caption": "Each of the five proofs runs the same two-stage course. Knowing the shape in advance makes every chapter easier to follow.",
+      "where": "The shape of each proof chapter: a two-stage informal statement",
+      "kind": "flow",
+      "nodes": [
+        {
+          "text": "Start from something undeniable about the world",
+          "step": 1,
+          "note": "Change happens; things have parts; abstract objects are real; what a thing is differs from that it is; things have explanations."
+        },
+        {
+          "text": "Show that it could not be so unless something else existed",
+          "step": 2
+        },
+        {
+          "text": "Stage 1 ends: there is a cause of a very particular sort",
+          "step": 3,
+          "note": "Purely actual, or absolutely simple, or a necessary intellect, or subsistent existence, or an absolutely necessary being."
+        },
+        {
+          "text": "Stage 2 begins: ask what such a cause would have to be like",
+          "step": 4
+        },
+        {
+          "text": "Derive the attributes, one by one, from that description",
+          "step": 5,
+          "note": "One, immutable, eternal, immaterial, omnipotent, omniscient, perfectly good. Not bolted on — read off."
+        },
+        {
+          "text": "So the cause is what everyone means by God",
+          "step": 6
+        },
+        {
+          "text": "Then restate it formally, and answer the objections",
+          "step": 7,
+          "note": "The informal version comes first so you can see the point; the numbered version follows so you can see exactly where to push back."
+        }
+      ]
+    },
+    {
+      "id": "five-proofs-map",
+      "title": "Five starting points, one destination",
+      "caption": "The proofs are independent of one another: each begins somewhere different and none rests on the others. Chapter 6 argues they all arrive at the same place.",
+      "where": "What this book does instead",
+      "kind": "tree",
+      "root": {
+        "text": "One God: purely actual, simple, necessary",
+        "note": "Feser argues in chapter 6 that these descriptions are equivalent — so the five proofs are five routes up one mountain, not five different mountains."
+      },
+      "branches": [
+        {
+          "text": "Aristotelian — from change",
+          "why": "Potentials are being actualized all around us, and nothing actualizes itself. That drives us to something purely actual."
+        },
+        {
+          "text": "Neo-Platonic — from parts",
+          "why": "Everything we meet is made of parts that must be held together right now. That drives us to something with no parts at all."
+        },
+        {
+          "text": "Augustinian — from abstract objects",
+          "why": "Universals, propositions, numbers and possibilities are real, but fit neither a Platonic third realm nor our passing minds. So: one necessary intellect."
+        },
+        {
+          "text": "Thomistic — from essence and existence",
+          "why": "What a thing is is really distinct from that it is, so something must join them here and now. That drives us to subsistent existence itself."
+        },
+        {
+          "text": "Rationalist — from explanation",
+          "why": "Everything has an explanation, and a heap of contingent things explains nothing on its own. So: an absolutely necessary being."
+        }
+      ]
+    },
+    {
+      "id": "proof-versus-persuasion",
+      "title": "What 'proof' does and does not mean here",
+      "caption": "Feser's claim is deliberately strong: these are demonstrations, not probabilistic hunches. But demonstration is not the same as universal persuasion.",
+      "where": "A confident discipline, and where the real debate lies",
+      "kind": "compare",
+      "columns": [
+        {
+          "label": "What he is claiming",
+          "sub": "a demonstration you can check",
+          "items": [
+            "The premises are true and the conclusion follows of necessity",
+            "Refuting it means naming a false premise or a bad inference",
+            "Not 'the best available explanation', but a proof",
+            "If it works, the live question is which theism, not whether"
+          ]
+        },
+        {
+          "label": "What he is not claiming",
+          "sub": "and what would be a bad test",
+          "items": [
+            "That everyone who hears it will be convinced",
+            "That God is a hypothesis filling a gap in physics",
+            "That it settles prophets, scripture, or the Trinity",
+            "That the universe must have had a beginning in time"
+          ]
+        }
+      ],
+      "note": "The test of a proof is the argument, not the audience. Plenty of valid proofs in mathematics and logic leave people unmoved, and plenty of true theories have determined dissenters."
+    },
+    {
+      "id": "anatomy-no-proof-if-disputed",
+      "title": "Objection anatomy: 'so many people reject it'",
+      "caption": "The first thing most readers think when they see the word 'proof'. It confuses a claim about an argument with a claim about people.",
+      "where": "“No one can claim a proof, since so many people reject it”",
+      "kind": "anatomy",
+      "says": "If these really were proofs, the matter would be settled — but intelligent, informed people go on rejecting them. Since the disagreement persists, calling them proofs is arrogant overreach.",
+      "assumes": [
+        "That a valid demonstration would compel assent from everyone who met it",
+        "That persistent disagreement is evidence that no argument succeeds"
+      ],
+      "breaks": "It swaps a question about arguments for a question about audiences. Whether a proof works depends on whether its premises are true and its conclusion follows — not on how many people accept it. By this standard, results in mathematics and logic with determined dissenters would also fail to be proofs.",
+      "reply": "Show me the false premise, or the step that doesn't follow. That's what a proof is answerable to. People disagree about all sorts of demonstrated things, often because accepting them is costly or because they never really looked. Counting heads never told us whether an argument was sound, and it doesn't here either."
+    },
+    {
+      "id": "anatomy-just-the-five-ways",
+      "title": "Objection anatomy: 'the old Five Ways, refuted long ago'",
+      "caption": "A reflex reaction that this book anticipates in its opening pages — and which mistakes a one-paragraph sketch for an argument.",
+      "where": "“These are just the old Five Ways, refuted long ago”",
+      "kind": "anatomy",
+      "says": "This is just Aquinas's Five Ways again. Hume and Kant demolished those centuries ago, and every intro philosophy course runs through the standard refutations. Nothing to see here.",
+      "assumes": [
+        "That this book is presenting the Five Ways",
+        "That the paragraph-long summaries in textbooks are the arguments themselves",
+        "That the textbook refutations engage what the defenders actually claimed"
+      ],
+      "breaks": "This is not a book about the Five Ways. Aquinas's compressed sketches were written for beginners already steeped in a metaphysics the modern reader does not share, and the standard refutations mostly target premises no defender ever held — 'everything has a cause' chief among them.",
+      "reply": "These aren't the Five Ways, and even if they were, the textbook refutations aim at a version nobody ever defended. Read the argument set out at length here, then tell me which premise is false. 'Hume refuted it' isn't an objection until you say which step Hume touched."
+    }
+  ],
   "ch1": [
     {
       "id": "actuality-vs-potentiality",
@@ -591,6 +726,666 @@
       ],
       "breaks": "It lumps Aristotle's dated astronomy and physics together with his metaphysics. Geocentrism was an empirical claim, and it lost. That change is the actualization of a potential is not an empirical claim at all — and every experiment already presupposes it.",
       "reply": "Yes, Aristotle's astronomy is dead, and good riddance. But 'change is a potential being made actual' isn't competing with any experiment; it is what doing an experiment already assumes, since setting one up and then reading the result means going from not knowing to knowing. You can't refute it with science, because doing science is an instance of it."
+    }
+  ],
+  "ch2": [
+    {
+      "id": "chair-parts-chain",
+      "title": "What holds the chair together, right now",
+      "caption": "The Neo-Platonic proof starts where you are sitting. Not 'who built this chair?' but 'what makes its parts be a chair at this instant?'",
+      "where": "A hierarchical series of dependence",
+      "kind": "chain",
+      "series": "per se",
+      "links": [
+        {
+          "text": "The chair exists at this moment",
+          "role": "effect",
+          "note": "A whole is less fundamental than its parts in this sense: it cannot exist unless they exist and are combined the right way."
+        },
+        {
+          "text": "…only because its legs, frame and screws are joined now",
+          "role": "instrument",
+          "note": "Scattered across a field, or heaped in a pile, they are not a chair. Arrangement is doing real work."
+        },
+        {
+          "text": "…only because friction, molecules and temperature hold now",
+          "role": "instrument",
+          "note": "Hot enough and the screws melt and the wood burns. That the room is cool is part of what makes the chair be a chair now."
+        },
+        {
+          "text": "…only because atoms compose those molecules now",
+          "role": "instrument"
+        },
+        {
+          "text": "Something with no parts to be held together",
+          "role": "first",
+          "note": "It cannot be composite, or it would need a cause of its own and so not be first. Plotinus's One."
+        }
+      ],
+      "collapse": "Pull out the bottom member and every link above loses its grip at once — the chair is not slowly disassembled, it simply is not there. And note that the chair cannot do this job for itself: the whole would then be causing the very parts it depends on."
+    },
+    {
+      "id": "kinds-of-parts",
+      "title": "Three levels of 'part'",
+      "caption": "The proof does not depend on any one theory of what things are made of. Whatever the parts turn out to be, the same argument runs.",
+      "where": "Metaphysical parts (1): form and matter",
+      "kind": "compare",
+      "columns": [
+        {
+          "label": "Everyday parts",
+          "sub": "the ones you can point at",
+          "items": [
+            "Chair legs, screws, frame, cushion",
+            "Cover, pages, glue, ink",
+            "Arms, eyes, bones, muscles — and their arrangement"
+          ]
+        },
+        {
+          "label": "Form and matter",
+          "sub": "the Aristotelian analysis",
+          "items": [
+            "Form: why copper conducts and a tree takes in water",
+            "Matter: what ties that universal form to this one thing",
+            "Neither is concrete without the other — a vicious circle unaided"
+          ]
+        },
+        {
+          "label": "Essence and existence",
+          "sub": "the Thomistic analysis",
+          "items": [
+            "Essence: what a triangle is — a three-sided plane figure",
+            "Existence: that this particular triangle is there at all",
+            "Essence apart from existence is a mere abstraction"
+          ]
+        }
+      ],
+      "note": "Feser is careful here: you needn't accept the Aristotelian or Thomistic analyses for the argument to work. The principle that whatever is composite requires a cause is completely general — it applies whatever the parts turn out to be."
+    },
+    {
+      "id": "who-does-the-unifying",
+      "title": "Four ways to explain why the parts are united",
+      "caption": "Once you grant that composite things need their parts held together, only one candidate survives. Feser walks through the alternatives.",
+      "where": "Could some part of the composite do the unifying?",
+      "kind": "flow",
+      "nodes": [
+        {
+          "text": "Option 1: the whole unifies its own parts",
+          "step": 1,
+          "note": "A vicious circle — the whole depends on the parts being united, and the uniting would depend on the whole. Lifting itself by its own bootstraps."
+        },
+        {
+          "text": "Option 2: a further part, C, unites parts A and B",
+          "step": 2,
+          "note": "Then ask what unites C with A and B. Add D and the same question returns. You have compounded the problem, not solved it."
+        },
+        {
+          "text": "Option 3: their unity is just an irreducible brute fact",
+          "step": 3,
+          "note": "Either this means the thing causes itself, which is incoherent, or it means there is no explanation — which is not the alternative explanation the critic promised."
+        },
+        {
+          "text": "Option 4: the laws of nature explain the composition",
+          "step": 4,
+          "note": "Then ask why these things are governed by that law rather than another. Things plus law form a further composite, so the regress continues rather than stopping."
+        },
+        {
+          "text": "So: a cause outside, itself with no parts at all",
+          "step": 5,
+          "note": "And being absolutely simple, it could not have had a cause of its own — not just doesn't, but couldn't."
+        }
+      ]
+    },
+    {
+      "id": "the-one-attributes",
+      "title": "What the One must be like",
+      "caption": "Stage 2 of the Neo-Platonic proof. Every attribute is derived from the single fact that this cause has no parts of any kind.",
+      "where": "Stage 2: There can be only one One",
+      "kind": "tree",
+      "root": {
+        "text": "Absolutely simple — no parts of any kind",
+        "note": "No physical parts, no form and matter, no essence and existence. Nothing in it that had to be put together."
+      },
+      "branches": [
+        {
+          "text": "Unique",
+          "why": "A second would need some feature the first lacks — and then each would be a simple thing plus a feature, which is to say, composite after all."
+        },
+        {
+          "text": "Immutable",
+          "why": "To change is to gain or lose some feature, and a feature gained or lost would be a part. Something with no parts cannot change."
+        },
+        {
+          "text": "Eternal, with no beginning or end",
+          "why": "Coming to be would mean parts combined at some point; passing away would mean parts to break into. And being in time entails change."
+        },
+        {
+          "text": "Immaterial",
+          "why": "Material things have parts that must be combined, which is exactly why they can come to be and pass away."
+        },
+        {
+          "text": "A mind, or more like a mind than anything else",
+          "why": "Everything is a mind, a content in a mind, a physical thing, or an abstract object. Abstract objects cause nothing; physical things have parts; a content depends on a mind. Only one option is left."
+        },
+        {
+          "text": "Purely actual",
+          "why": "Less than purely actual means an actual part and a potential part — parts again. So the One and the Unmoved Mover of chapter 1 are the same thing."
+        },
+        {
+          "text": "Cause of everything else",
+          "why": "Since it is unique, everything else is composite, and everything composite depends on it here and now for existing at all."
+        }
+      ]
+    },
+    {
+      "id": "anatomy-many-attributes-many-parts",
+      "title": "Objection anatomy: many attributes, many parts?",
+      "caption": "The obvious pushback against a partless God, and the distinction between sense and reference that answers it.",
+      "where": "Many attributes mean many parts",
+      "kind": "anatomy",
+      "says": "You've said the One is omnipotent, intelligent, good, eternal and the rest. Those are different attributes. Different attributes are different parts. So your partless cause has parts after all, and the argument collapses.",
+      "assumes": [
+        "That distinct true descriptions must answer to distinct constituents in the thing",
+        "That 'power' and 'intellect' mean in God what they mean in us"
+      ],
+      "breaks": "It runs together how we describe a thing with how the thing is put together. 'The morning star' and 'the evening star' differ in meaning yet pick out one planet. In us, power and knowledge really are distinct — but these words are said of God analogically, not univocally, so their being two in us shows nothing about him.",
+      "reply": "Different descriptions don't imply different parts. 'The morning star' and 'the evening star' say different things and name one object. What we call power and knowledge come apart in us because we're limited and composite. Said of God they're analogical, not the same terms in the same sense. Strip out the limits and there is no reason left to think two constituents are needed."
+    }
+  ],
+  "ch3": [
+    {
+      "id": "realism-nominalism-conceptualism",
+      "title": "Three answers about abstract objects",
+      "caption": "Triangularity, the proposition that snow is white, the number 7, the way things could have gone. Do these exist, and if so how? There are only three answers.",
+      "where": "The question: in what sense do abstract objects exist?",
+      "kind": "compare",
+      "columns": [
+        {
+          "label": "Realism",
+          "sub": "they are real, and not our invention",
+          "items": [
+            "Triangularity is there to be discovered, not made up",
+            "2 + 2 = 4 was true before anyone counted",
+            "Feser's view — the only question is where they exist"
+          ]
+        },
+        {
+          "label": "Nominalism",
+          "sub": "only particulars are real; the rest is words",
+          "items": [
+            "There are red things; there is no such thing as redness",
+            "Trouble: what makes the word apply to just these things?",
+            "Notoriously hard to state without quietly using universals"
+          ]
+        },
+        {
+          "label": "Conceptualism",
+          "sub": "real, but only inside human minds",
+          "items": [
+            "Triangularity exists as your concept and mine",
+            "Trouble: then we never think the same thought, only similar ones",
+            "And communication and disagreement become impossible"
+          ]
+        }
+      ],
+      "note": "This is Stage 1's hinge. If either nominalism or conceptualism worked, the proof would stop here. Feser argues both fail — and then the only question left is which kind of realism is true."
+    },
+    {
+      "id": "three-kinds-of-realism",
+      "title": "Three kinds of realism — and where each runs out",
+      "caption": "Granting that universals are real, where do they exist? Feser eliminates two options and the third turns out to require a divine intellect.",
+      "where": "Three kinds of realism — and the trouble with Plato’s “third realm”",
+      "kind": "compare",
+      "columns": [
+        {
+          "label": "Platonic realism",
+          "sub": "in a third realm, outside minds and matter",
+          "items": [
+            "The Form of Triangle, which our triangles imperfectly copy",
+            "Trouble: Forms are causally inert, so how could we know them?",
+            "And a tree's treeness would live outside the tree"
+          ]
+        },
+        {
+          "label": "Aristotelian realism",
+          "sub": "in things, and in minds that abstract them",
+          "items": [
+            "Animality exists in actual animals; your mind abstracts it",
+            "Trouble: what grounds unicornity, which nothing instantiates?",
+            "And what would have been possible had nothing existed at all?"
+          ]
+        },
+        {
+          "label": "Scholastic realism",
+          "sub": "in things, in minds — and in one eternal mind",
+          "items": [
+            "Aristotelian in spirit, with a nod to Plato",
+            "No third realm; instead an infinite, necessary divine intellect",
+            "The last option standing — and it is Augustine's thesis"
+          ]
+        }
+      ],
+      "note": "The argument is an elimination. If realism is true and the other two versions fail, Scholastic realism is what is left — and Scholastic realism just is the claim that these things exist as ideas in a necessarily existing mind."
+    },
+    {
+      "id": "augustinian-elimination-flow",
+      "title": "The Augustinian argument in outline",
+      "caption": "Two rounds of elimination: first among theories of abstract objects, then among versions of realism. What survives is a divine intellect.",
+      "where": "The formal argument in outline",
+      "kind": "flow",
+      "nodes": [
+        {
+          "text": "Universals, propositions, numbers and possibilities are real",
+          "step": 1
+        },
+        {
+          "text": "There are only three accounts: realism, nominalism, conceptualism",
+          "step": 2
+        },
+        {
+          "text": "Nominalism and conceptualism both face insuperable objections",
+          "step": 3,
+          "note": "Conceptualism especially: if these exist only in your mind and mine, we never share a thought — so we could not even agree or disagree about conceptualism."
+        },
+        {
+          "text": "So some realism is true",
+          "step": 4
+        },
+        {
+          "text": "They cannot depend on the material world — it is particular and contingent",
+          "step": 5
+        },
+        {
+          "text": "So they exist in some intellect, or in a Platonic third realm",
+          "step": 6
+        },
+        {
+          "text": "The third realm fails: causally inert, so unknowable and explanatorily idle",
+          "step": 7
+        },
+        {
+          "text": "So they exist in an intellect",
+          "step": 8
+        },
+        {
+          "text": "Not ours: human, alien and even angelic minds are contingent",
+          "step": 9,
+          "note": "Necessary truths would hold even if no finite mind had ever existed. They cannot depend on minds that might never have been."
+        },
+        {
+          "text": "So they exist in a necessarily existing intellect: God",
+          "step": 10
+        }
+      ]
+    },
+    {
+      "id": "one-mind-not-a-committee",
+      "title": "Why one mind, and why it must know everything",
+      "caption": "Having reached a necessary intellect, two more steps remain: that there is only one, and that nothing falls outside it.",
+      "where": "One mind, not a committee: the interlocking system and conceptual omniscience",
+      "kind": "tree",
+      "root": {
+        "text": "A necessarily existing intellect",
+        "note": "Everything abstract that does not depend on matter or on our contingent minds has to exist here."
+      },
+      "branches": [
+        {
+          "text": "One, not a committee",
+          "why": "Abstract objects form an interlocking system: grasping humanness requires grasping animality and rationality, and those require others in turn. You cannot parcel that network out among separate minds."
+        },
+        {
+          "text": "Conceptually omniscient",
+          "why": "Every universal, every proposition, every possibility is in it — so there is nothing whatever that falls outside the range of its thoughts."
+        },
+        {
+          "text": "Infinite",
+          "why": "There is no limit to the propositions and possibilities it contains, so no limit to it."
+        },
+        {
+          "text": "Necessary and so uncaused",
+          "why": "It could not have failed to exist, which means its existing was never something that needed bringing about."
+        },
+        {
+          "text": "The same God as the other four proofs",
+          "why": "Chapter 6 argues that what is necessary in the strict sense must also be purely actual, absolutely simple, and subsistent existence itself."
+        }
+      ]
+    },
+    {
+      "id": "anatomy-why-not-a-platonic-realm",
+      "title": "Objection anatomy: why not just a Platonic realm?",
+      "caption": "The natural secular alternative — keep the abstract objects, drop the mind. Feser's reply is that the third realm cannot do the jobs it was hired for.",
+      "where": "Why not a mind-independent Platonic realm?",
+      "kind": "anatomy",
+      "says": "Grant that numbers and universals are real and don't depend on human minds. Why leap to a divine mind? Just say they exist on their own, in a realm outside space, time and thought. Plenty of mathematicians talk this way and mention no God.",
+      "assumes": [
+        "That something causally inert can still explain why concrete things fit the patterns they do",
+        "That we could come to know things that have no effect on anything"
+      ],
+      "breaks": "Denizens of the third realm have no causal powers. But then they have no effect on us — so how would we ever know about them? And they have no effect on concrete objects either — so how could they explain why the billiard rack is triangular? An item that explains nothing and cannot be known is not doing the work realism needed done.",
+      "reply": "Ask what the third realm is for. It's supposed to explain why particular things fall into the patterns they do, and to be something we can know about. But a Form sitting outside everything has no causal powers at all — so it touches neither the triangle on the chalkboard nor your mind. Put those same patterns in an intellect that also causes the world, and both jobs get done at once."
+    }
+  ],
+  "ch4": [
+    {
+      "id": "essence-vs-existence",
+      "title": "What a thing is, and that it is",
+      "caption": "Two different things you know about a lion. The whole Thomistic proof turns on whether that difference is in your head or in the lion.",
+      "where": "Stage 1: What a thing is versus that it is",
+      "kind": "compare",
+      "columns": [
+        {
+          "label": "Essence",
+          "sub": "what the thing is",
+          "items": [
+            "A lion is a certain kind of large predatory cat",
+            "A triangle is a closed plane figure with three straight sides",
+            "You can know all of this without knowing whether any exist",
+            "Unicorns have one too, and there are no unicorns"
+          ]
+        },
+        {
+          "label": "Existence",
+          "sub": "that the thing is",
+          "items": [
+            "Lions are out there; pterodactyls are not, any more",
+            "Not a further item on the list of what a lion is like",
+            "Something a thing has only if something gives it",
+            "Lose it and there is nothing left to be a lion"
+          ]
+        }
+      ],
+      "note": "Some distinctions are only verbal — 'bachelor' and 'unmarried man' pick out exactly the same thing. Feser argues this one is not like that. It is a real distinction, holding in the lion itself and not merely in our way of speaking."
+    },
+    {
+      "id": "three-arguments-real-distinction",
+      "title": "Three arguments that the distinction is real",
+      "caption": "Each starts somewhere different and lands in the same place: in the things around us, what they are and that they are come apart.",
+      "where": "First argument for the real distinction: we can know essence without knowing existence",
+      "kind": "compare",
+      "columns": [
+        {
+          "label": "From knowing",
+          "sub": "lion, pterodactyl, unicorn",
+          "items": [
+            "Describe all three fully to someone who knows none of them",
+            "Ask which exists, which is extinct, which never was",
+            "He cannot tell — so existence was not in the essence"
+          ]
+        },
+        {
+          "label": "From contingency",
+          "sub": "they could have failed to be",
+          "items": [
+            "Lions exist, but might never have",
+            "If existence came with the essence, they would exist by nature",
+            "Then they could not fail to exist — and they can"
+          ]
+        },
+        {
+          "label": "From uniqueness",
+          "sub": "there could be only one such thing",
+          "items": [
+            "A thing whose essence is existence could not be told from another",
+            "There is more than one lion, more than one stone",
+            "So in them, essence and existence are not the same"
+          ]
+        }
+      ],
+      "note": "A common worry: we never grasp any essence completely, so how would we know existence isn't tucked inside it? Feser's answer is that judging a lion not to be a cat misconceives what a lion is, while judging that lions no longer exist is merely false — it misconceives nothing."
+    },
+    {
+      "id": "fido-chain",
+      "title": "Fido, here and now",
+      "caption": "Nothing can give itself existence, because it would have to exist already in order to do the giving. So the question is what is giving Fido his, at this instant.",
+      "where": "The regress and its first member: subsistent existence itself",
+      "kind": "chain",
+      "series": "per se",
+      "links": [
+        {
+          "text": "Fido exists at this moment",
+          "role": "effect",
+          "note": "Not merely that he was conceived once, but that his essence has existence joined to it right now."
+        },
+        {
+          "text": "…and he cannot be doing that joining himself",
+          "role": "instrument",
+          "note": "He would have to exist before he exists in order to cause himself. Incoherent at an instant as much as over time."
+        },
+        {
+          "text": "…so a cause C is imparting existence to him now",
+          "role": "instrument"
+        },
+        {
+          "text": "…but if C's essence differs from its existence, C needs the same",
+          "role": "instrument",
+          "note": "C can impart existence only insofar as existence is being imparted to C — borrowed power, passed along."
+        },
+        {
+          "text": "Something whose essence just is existence",
+          "role": "first",
+          "note": "Subsistent existence itself: it need not and could not derive existence, since there is nothing in it waiting to be joined to anything."
+        }
+      ],
+      "collapse": "Take away the last member and Fido does not fade — he blinks out, at that instant, along with C and everything else in the series. Every link but the last was handing on existence it did not own."
+    },
+    {
+      "id": "subsistent-existence-tree",
+      "title": "What subsistent existence itself must be",
+      "caption": "Stage 2 of the Thomistic proof: from 'its essence just is its existence' to the full set of divine attributes.",
+      "where": "Stage 2: Unique, the cause of all, necessary, uncaused",
+      "kind": "tree",
+      "root": {
+        "text": "Subsistent existence itself",
+        "note": "Not a thing that has existence, the way Fido and you and the stone do. Existence itself, subsisting."
+      },
+      "branches": [
+        {
+          "text": "Unique",
+          "why": "Two of them would need something to tell them apart, and any differentiating feature would be something over and above existence — so at least one of them would not be existence itself."
+        },
+        {
+          "text": "Cause of everything else",
+          "why": "Everything else has an essence distinct from its existence, and everything like that needs existence imparted here and now. There is only one source available."
+        },
+        {
+          "text": "Necessary",
+          "why": "Its essence is existence, so it could not possibly fail to exist. Nothing in it waits on anything."
+        },
+        {
+          "text": "Uncaused",
+          "why": "A cause would have to impart existence to it, and there is nothing in it that lacks existence to be imparted. Not merely uncaused, but uncausable."
+        },
+        {
+          "text": "Purely actual",
+          "why": "A potential in it would have to be actualized for it to exist — but then its existing would be derivative, and it would be one more thing depending on something else."
+        },
+        {
+          "text": "And so immutable, eternal, immaterial, omnipotent, omniscient, good",
+          "why": "Every attribute derived from pure actuality in chapter 1 follows here as well, since pure actuality and subsistent existence turn out to be the same thing described two ways."
+        }
+      ]
+    },
+    {
+      "id": "anatomy-inseparable-so-no-cause",
+      "title": "Objection anatomy: they're inseparable, so no cause is needed",
+      "caption": "An elegant objection that would stop the proof cold. The reply turns on why some inseparable pairs need no explanation and this one does.",
+      "where": "Essence and existence are simply inseparable — no cause needed",
+      "kind": "anatomy",
+      "says": "You admit a thing's essence never exists apart from its existence, or its existence apart from its essence. So they are inseparable. Inseparable things don't need anything to bring them together — they simply come as a pair. No cause required, and no God.",
+      "assumes": [
+        "That inseparability itself is an explanation rather than something needing one",
+        "That this pair is inseparable for the same reason other inseparable pairs are"
+      ],
+      "breaks": "Inseparable is not the same as needing no account. A circle's radius and circumference are really distinct yet inseparable — and the reason is that both flow from the essence of a circle. Ask what makes essence and existence inseparable in Fido and no such answer is available: existence does not follow from Fido's essence, which is exactly why you can know what a lion is without knowing whether any exist.",
+      "reply": "Yes, they're inseparable — now ask why. With a circle, having a radius and having a circumference are inseparable because both follow from what a circle is. But existence doesn't follow from what a lion is; if it did, lions would exist necessarily and you could read their existence off the definition. So their being together is a fact still waiting for an explanation, and Fido can't supply it — he'd have to exist first."
+    }
+  ],
+  "ch5": [
+    {
+      "id": "psr-vs-causality",
+      "title": "Two principles that are easy to confuse",
+      "caption": "The rationalist proof runs on the principle of sufficient reason, not the principle of causality. Keeping them apart heads off most of the standard objections.",
+      "where": "PSR is not the principle of causality (p. 148)",
+      "kind": "compare",
+      "columns": [
+        {
+          "label": "Principle of causality",
+          "sub": "what is actualized has an actualizer",
+          "items": [
+            "A cause is always distinct from its effect",
+            "Nothing can be the cause of itself",
+            "Does NOT say everything has a cause",
+            "Silent about anything with no potentials to actualize"
+          ]
+        },
+        {
+          "label": "Principle of sufficient reason",
+          "sub": "everything has an explanation",
+          "items": [
+            "A reason need not be distinct from what it explains",
+            "Something could in principle be self-explanatory",
+            "This one really does cover everything, with no exceptions",
+            "All causes are reasons; not all reasons are causes"
+          ]
+        }
+      ],
+      "note": "Because PSR admits no exceptions, 'what caused God?' gets no purchase here at all. On this proof God is not exempted from explanation — his explanation simply lies in his own nature rather than outside him."
+    },
+    {
+      "id": "why-believe-psr",
+      "title": "Four reasons to accept the principle of sufficient reason",
+      "caption": "Feser builds from the weakest argument to the strongest. The last two claim that rejecting PSR wrecks your ability to reason at all.",
+      "where": "Pushing further: denying PSR undermines reasoning itself (pp. 149–150)",
+      "kind": "flow",
+      "nodes": [
+        {
+          "text": "We do in fact find explanations when we look for them",
+          "step": 1,
+          "note": "And when we don't — an unsolved murder — we have reason to think one is there and the evidence is missing. As inductions go, this one is as strong as any."
+        },
+        {
+          "text": "The world would look very different if PSR were false",
+          "step": 2,
+          "note": "Inexplicable events should be constant, and the intelligibility that makes science work would be a standing miracle."
+        },
+        {
+          "text": "Deny it and perception becomes untrustworthy",
+          "step": 3,
+          "note": "Without PSR there might be no connection at all between your experiences and the world — and no ground for calling that unlikely, since probabilities rest on the tendencies of things."
+        },
+        {
+          "text": "Deny it and your own reasoning becomes untrustworthy",
+          "step": 4,
+          "note": "When you accept a conclusion you assume that the good reason for it is also what caused you to accept it. Without PSR you have no ground for that assumption — including for this very argument."
+        },
+        {
+          "text": "And you cannot use explicability arguments selectively",
+          "step": 5,
+          "note": "Della Rocca's point: philosophers routinely argue 'that would be inexplicable, so it is false.' Allowing those everywhere except about existence is arbitrary, and calling it a brute fact begs the question."
+        },
+        {
+          "text": "So PSR stands: everything has an explanation",
+          "step": 6
+        }
+      ]
+    },
+    {
+      "id": "contingent-all-the-way-down",
+      "title": "Why a beginningless series still explains nothing",
+      "caption": "Grant an infinite chain of contingent things. Leibniz's geometry books show what is still left unexplained — and why a contingent outside cause only moves the problem.",
+      "where": "The geometry books, and why a contingent ‘outside cause’ only passes the buck (pp. 156–158)",
+      "kind": "flow",
+      "nodes": [
+        {
+          "text": "Suppose contingent things go back forever, each caused by the last",
+          "step": 1,
+          "note": "A beginningless universe, or universes budding off one another. Feser grants it for the sake of argument."
+        },
+        {
+          "text": "Every member now has an immediate cause — so all is explained?",
+          "step": 2
+        },
+        {
+          "text": "Imagine infinitely many geometry books, each copied from the last",
+          "step": 3,
+          "note": "Leibniz's example. Each book's existence is accounted for by the one before it."
+        },
+        {
+          "text": "Why is it geometry, and not Shakespeare or a repair manual?",
+          "step": 4,
+          "note": "The copying explains each book and leaves the content of the whole series untouched."
+        },
+        {
+          "text": "Likewise: why these kinds of things, under these laws?",
+          "step": 5,
+          "note": "Why stones, trees, dogs, stars — governed by exactly these laws rather than others?"
+        },
+        {
+          "text": "And the series itself is contingent, so why is it there at all?",
+          "step": 6,
+          "note": "Contingency is more like colour than like weight: a heap of red bricks makes a red wall, and a heap of contingent things is if anything doubly contingent."
+        },
+        {
+          "text": "A contingent cause outside the series just passes the buck",
+          "step": 7,
+          "note": "It would need a cause of its own, and a second infinite series would raise the same question as the first — for ever."
+        },
+        {
+          "text": "So the explanation must be something necessary",
+          "step": 8
+        }
+      ]
+    },
+    {
+      "id": "necessary-being-tree",
+      "title": "What an absolutely necessary being has to be",
+      "caption": "Stage 2. 'Necessary' in the strict sense is not a thin label — it carries the whole of classical theism with it.",
+      "where": "Stage 2: what a necessary being has to be (pp. 159–160)",
+      "kind": "tree",
+      "root": {
+        "text": "Absolutely necessary — could not have failed to be",
+        "note": "Its explanation lies in its own nature rather than in anything outside it. Self-explanatory, which is not the same as self-caused."
+      },
+      "branches": [
+        {
+          "text": "Purely actual",
+          "why": "A potential for existence would have to be actualized by something else, and then its existing would depend on that thing — contingent after all."
+        },
+        {
+          "text": "Absolutely simple",
+          "why": "Parts would have to be combined for it to exist, and whatever did the combining would be something it depends on."
+        },
+        {
+          "text": "Subsistent existence itself",
+          "why": "If its essence were distinct from its existence, the two would need joining, which is once again a dependence on something else."
+        },
+        {
+          "text": "One",
+          "why": "Two would need a differentiating feature, and any such feature implies parts and potentiality, which a necessary being cannot have."
+        },
+        {
+          "text": "The cause of everything else",
+          "why": "Everything else is contingent, and contingent things are explained by something outside themselves. All such explaining traces back here."
+        },
+        {
+          "text": "And so immutable, eternal, immaterial, omnipotent, omniscient, good",
+          "why": "These follow from pure actuality and simplicity exactly as they did in chapters 1 and 2 — which is why the rationalist proof lands on the same God."
+        }
+      ]
+    },
+    {
+      "id": "anatomy-fallacy-of-composition",
+      "title": "Objection anatomy: the fallacy of composition",
+      "caption": "The stock textbook reply to Leibniz. Feser's answer: sometimes part-to-whole reasoning is fine, and it depends entirely on which feature you are reasoning about.",
+      "where": "The fallacy of composition",
+      "kind": "anatomy",
+      "says": "You've argued that because each thing in the series is contingent, the series as a whole is contingent and needs a cause. But that's the fallacy of composition. Each brick in a wall weighs a pound; the wall doesn't. Each member being contingent tells us nothing about the collection.",
+      "assumes": [
+        "That every inference from parts to whole is fallacious",
+        "That contingency behaves like weight rather than like colour"
+      ],
+      "breaks": "Not every part-to-whole inference is a fallacy — it depends on the feature. Weight doesn't carry over; colour does. Build anything out of red Lego and you get something red. Contingency is of the second sort: three stones are no less contingent than one, and a collection is if anything more dependent, since it hangs on every member existing and on their being gathered as they are.",
+      "reply": "Naming the fallacy isn't enough — you have to show the inference commits it. Weight doesn't transfer from parts to whole, but colour does: a wall of red bricks is red. Which is contingency like? A pile of three contingent stones is obviously contingent, and so is a pile of three million. It would be strange if at the collection of all of them something suddenly stopped being able to fail to exist."
     }
   ],
   "ch6a": [
@@ -1461,6 +2256,279 @@
       ],
       "breaks": "A fallacy of accident again. What is essential to love is willing what is good for the beloved. That is exactly why we call love shallow when it consists only of feelings that wax and wane, and why tough love and love of enemies count as love at all. Love belongs to the will, which is active, not to the emotions, which are passive.",
       "reply": "Ask what makes love serious rather than sentimental: willing the other's good even on the days you don't feel it. That's the core; the feelings are what it's like in creatures who have nervous systems. God wills things into existence, and to create a tree is to will that it have what is good for a tree — roots, water, light. That is loving it, in the most active sense there is."
+    }
+  ],
+  "ch7a": [
+    {
+      "id": "straw-man-vs-real-argument",
+      "title": "The argument nobody defended",
+      "caption": "Most published 'refutations' target a three-line summary that no major defender of the cosmological argument ever put forward. Compare it with the real thing.",
+      "where": "The straw man: the “basic cosmological argument”",
+      "kind": "compare",
+      "columns": [
+        {
+          "label": "The 'basic cosmological argument'",
+          "sub": "as textbooks and critics present it",
+          "items": [
+            "Anything that exists has a cause of its existence",
+            "Nothing can cause its own existence",
+            "The universe exists",
+            "So the universe has a cause outside it"
+          ]
+        },
+        {
+          "label": "What defenders actually argue",
+          "sub": "Aristotle to Aquinas to Leibniz",
+          "items": [
+            "Whatever goes from potential to actual has an actualizer",
+            "Whatever is composite needs its parts held together",
+            "Whatever has essence distinct from existence needs it imparted",
+            "Start from any one thing — no premise about the universe needed"
+          ]
+        }
+      ],
+      "note": "Even the critic who framed the 'basic' version conceded that no one has defended an argument of that form, calling it a useful stepping stone. Feser's complaint: it is a stepping stone to a false impression, since the real arguments never said everything has a cause, never assumed a beginning, and mostly never reason about the universe as a whole at all."
+    },
+    {
+      "id": "two-senses-of-cause",
+      "title": "Where the confusion started: two senses of 'cause'",
+      "caption": "Clarke's diagnosis of how the Hume-Russell tradition got going. Descartes and Spinoza used one word for two different things, and the objection has been recycled ever since.",
+      "where": "Where the confusion began: two senses of “cause”",
+      "kind": "compare",
+      "columns": [
+        {
+          "label": "Cause, efficient sense",
+          "sub": "something that actualizes a potential",
+          "items": [
+            "Always distinct from its effect",
+            "Nothing can be its own efficient cause",
+            "The sense in which God is said to have no cause",
+            "This is the sense the objection needs to work"
+          ]
+        },
+        {
+          "label": "Cause, sufficient-reason sense",
+          "sub": "whatever makes something intelligible",
+          "items": [
+            "May lie in the thing's own nature",
+            "So something can be self-explanatory, if not self-caused",
+            "Descartes and Spinoza meant something like this",
+            "In this sense everything has one — God included"
+          ]
+        }
+      ],
+      "note": "Hume read the rationalists' 'everything has a cause' in the first sense when they meant something closer to the second — and from there the misreading became a tradition, repeated by critics who cite other critics rather than the defenders themselves."
+    },
+    {
+      "id": "could-this-be-the-terminus",
+      "title": "Drill: could this be where the series stops?",
+      "caption": "Everyone agrees something has to be at the bottom. The test is whether the candidate has any potentiality, any parts, or an essence distinct from its existence.",
+      "where": "“Maybe the universe (or Big Bang, multiverse, quantum events, laws of physics) is the uncaused cause”",
+      "kind": "sorter",
+      "prompt": "Could this be the uncaused terminus of the series?",
+      "buckets": [
+        "No — it fails the test",
+        "Yes — it passes"
+      ],
+      "items": [
+        {
+          "text": "The universe as a whole",
+          "bucket": 0,
+          "why": "It changes constantly, so it is riddled with potentiality, and it is composite through and through."
+        },
+        {
+          "text": "The Big Bang",
+          "bucket": 0,
+          "why": "An event, and one located in time. The proofs are not about what started things off in the first place."
+        },
+        {
+          "text": "A beginningless multiverse",
+          "bucket": 0,
+          "why": "Adding more universes adds more composite, changing things. The series gets longer, not deeper."
+        },
+        {
+          "text": "The quantum vacuum",
+          "bucket": 0,
+          "why": "Empty space with energy in it, governed by laws — not nothing, and shot through with states it could be in but isn't."
+        },
+        {
+          "text": "The fundamental laws of physics",
+          "bucket": 0,
+          "why": "A law is shorthand for how a thing of a certain nature behaves. It needs things with natures, and the question is why there are any."
+        },
+        {
+          "text": "Fundamental particles",
+          "bucket": 0,
+          "why": "They have distinct attributes, and they come into being and pass away. Both mark potentiality."
+        },
+        {
+          "text": "Conserved mass-energy",
+          "bucket": 0,
+          "why": "It takes different forms at different times — which is to say it is potentially otherwise than it is."
+        },
+        {
+          "text": "The number 7",
+          "bucket": 0,
+          "why": "Abstract objects are causally inert. Seven has never made anything happen."
+        },
+        {
+          "text": "Something purely actual, with no unrealized potential at all",
+          "bucket": 1,
+          "why": "Nothing in it could need actualizing, so it not only has no cause but could not have had one. The Aristotelian proof's terminus."
+        },
+        {
+          "text": "Something absolutely simple, with no parts of any kind",
+          "bucket": 1,
+          "why": "No parts means nothing needing to be combined, and so nothing for a cause to have done. The Neo-Platonic proof's terminus."
+        },
+        {
+          "text": "Something whose essence just is its existence",
+          "bucket": 1,
+          "why": "Nothing has to join what it is to that it is, so its existing was never something to be imparted. The Thomistic proof's terminus."
+        }
+      ]
+    },
+    {
+      "id": "anatomy-universe-from-nothing",
+      "title": "Objection anatomy: a universe from nothing",
+      "caption": "The popular-science version of the argument's defeat. It turns on a word that quietly changes meaning between the title and the body.",
+      "where": "“Physics shows the universe can arise from nothing”",
+      "kind": "anatomy",
+      "says": "Physics has shown how a universe can come from nothing. Because there is a law like gravity, the universe can and will create itself out of nothing. So we no longer need any metaphysical cause of the world.",
+      "assumes": [
+        "That 'nothing' names some especially thin kind of stuff that physics might study",
+        "That a law of nature is available before there is anything for it to be a law of"
+      ],
+      "breaks": "A law like gravity is not nothing. Neither is empty space with energy in it, nor a quantum field, nor layers of physical law. Nothing is the absence of anything at all — it is not a candidate for empirical study and nothing follows from it. Whatever these accounts start from is a something, and every such something is composite and potential.",
+      "reply": "Ask what the 'nothing' is. In the books that promise it, it turns out to be empty space with energy, or a quantum field, or a law of gravity — and the authors admit as much before the end. That is not nothing; it is a very interesting something, and exactly the kind of something the argument asks about. And nothing isn't a strange, hard-to-measure substance. It is the absence of anything whatever."
+    },
+    {
+      "id": "anatomy-first-cause-isnt-god",
+      "title": "Objection anatomy: 'even so, why call it God?'",
+      "caption": "Treated by many critics as the knockdown reply. Feser's response is simply that the arguments for the attributes exist, run to hundreds of pages, and go unanswered.",
+      "where": "“Even if there were a first cause, there’s no reason to think it would be God”",
+      "kind": "anatomy",
+      "says": "Suppose you get to a first cause. There is absolutely no reason to think it is omnipotent, omniscient, perfectly good, or personal. Getting from an uncaused cause to the God of traditional religion is the usual big jump.",
+      "assumes": [
+        "That defenders stop at 'a first cause' and then simply assert the rest",
+        "That no arguments from first cause to the divine attributes have been given"
+      ],
+      "breaks": "The claim is not that the jump is invalid but that no one bridged it — and that is simply false as a matter of record. Aquinas devotes roughly a hundred dense pages of the Summa Theologiae to it right after the Five Ways, and hundreds more elsewhere; Clarke's book is largely about the attributes; this book's Stage 2 sections and the whole of chapter 6 do the same.",
+      "reply": "There's no jump; there's an argument, and it takes chapters. From pure actuality you get immutability, and from immutability eternity, and from that immateriality — and unity, and power, and intellect. You may think one of those steps fails. Say which. What you can't say is that no reason has been offered, because the reasons fill more pages than the existence proofs do."
+    }
+  ],
+  "ch7b": [
+    {
+      "id": "scientism-four-problems",
+      "title": "Scientism, and the four problems with it",
+      "caption": "Most modern objections to natural theology rest on an unstated premise: that only science delivers knowledge. Feser attacks the premise itself.",
+      "where": "Scientism: the hidden premise and its four problems",
+      "kind": "flow",
+      "nodes": [
+        {
+          "text": "The hidden premise: only science gives us real knowledge",
+          "step": 1,
+          "note": "Rarely argued for. It is usually doing its work in the background of 'that's not science, so it doesn't count'."
+        },
+        {
+          "text": "Problem 1: that claim is not itself a result of any experiment",
+          "step": 2,
+          "note": "So by its own standard it is not knowledge. It is a philosophical thesis about the limits of knowledge."
+        },
+        {
+          "text": "Widen 'science' to cover it, and the claim goes trivial",
+          "step": 3,
+          "note": "If science means any careful, evidence-sensitive reasoning, then metaphysics is science too, and the objection has lost its bite."
+        },
+        {
+          "text": "Problem 2: physics keeps only what can be mathematicized",
+          "step": 4,
+          "note": "It abstracts from everything else by design. That is why it is so precise — and why its silence about something is not evidence of absence."
+        },
+        {
+          "text": "Problem 3: laws of nature cannot be the final explanation",
+          "step": 5,
+          "note": "A law is shorthand for how a thing of a certain nature behaves. So laws presuppose things with natures; they cannot account for there being any."
+        },
+        {
+          "text": "Problem 4: from predictive success to completeness is a non sequitur",
+          "step": 6,
+          "note": "Metal detectors are superbly good at finding metal. That tells you nothing about whether there is wood and stone."
+        }
+      ]
+    },
+    {
+      "id": "defense-versus-theodicy",
+      "title": "Defense and theodicy — two different jobs",
+      "caption": "Knowing which question is on the table settles most confusion about the problem of evil. Feser only needs the first one for his purposes.",
+      "where": "The problem of evil (I): defense versus theodicy, and Mackie’s logical argument",
+      "kind": "compare",
+      "columns": [
+        {
+          "label": "A defense",
+          "sub": "is evil consistent with God existing?",
+          "items": [
+            "Answers the atheist's claim of outright contradiction",
+            "Needs only to show how both could be true together",
+            "Does not have to say why any actual evil is permitted",
+            "Enough to rebut the objection — this is Feser's focus"
+          ]
+        },
+        {
+          "label": "A theodicy",
+          "sub": "why does God permit the evils there are?",
+          "items": [
+            "A far more ambitious project",
+            "Would name the reason for this suffering, in this life",
+            "You can succeed at the first without attempting this",
+            "Not required to answer the argument from evil"
+          ]
+        }
+      ],
+      "note": "Mackie's logical argument was that omnipotence plus perfect goodness plus evil is a contradiction. He later conceded that it is not — that evil does not show the central doctrines of theism to be logically inconsistent. That concession is a defense succeeding, whatever remains open about theodicy."
+    },
+    {
+      "id": "anatomy-who-designed-the-designer",
+      "title": "Objection anatomy: who designed the designer?",
+      "caption": "Dawkins's central argument, aimed squarely at design arguments — which is why it sails past the five proofs without touching them.",
+      "where": "Who designed the designer? A designer is even more complex",
+      "kind": "anatomy",
+      "says": "Anything capable of designing a universe would have to be at least as complex as the universe itself, and complex things need explaining. So the designer hypothesis multiplies what needs explaining. A simpler explanation is more probable.",
+      "assumes": [
+        "That the argument being attacked reasons from complexity to a designer",
+        "That it is a probabilistic inference, so a rival could be more parsimonious",
+        "That God is being proposed as a complex thing"
+      ],
+      "breaks": "It is aimed at Paley-style design arguments, and none of the five proofs is one. They never appeal to complexity, never reason from analogy with human artifacts, never weigh probabilities — a pebble or a drop of water serves the Neo-Platonic proof as well as an eye does. And they entirely agree with the objection's principle: anything composite needs a cause, which is precisely why they conclude to something with no parts at all.",
+      "reply": "You and I agree completely: a complex cause would need a cause of its own. That's my premise, not my problem. That is exactly why the argument doesn't stop at anything composite — it goes all the way to something absolutely simple. And this isn't a probability comparison, so 'a simpler hypothesis is more likely' doesn't engage it. It claims to be a demonstration. Find the false premise."
+    },
+    {
+      "id": "anatomy-one-god-further",
+      "title": "Objection anatomy: 'go one god further'",
+      "caption": "A slogan that assumes the God of classical theism is one item on a list with Zeus and Thor. Feser answers with two analogies from outside religion.",
+      "where": "Go “one god further”",
+      "kind": "anatomy",
+      "says": "You already disbelieve in Zeus, Odin, Thor, Quetzalcoatl and thousands of others. I just go one god further. You're being selective in your scepticism; I'm being consistent.",
+      "assumes": [
+        "That the God of classical theism belongs to the same class as Zeus and Thor",
+        "That disbelieving in members of that class extends naturally to him"
+      ],
+      "breaks": "A category mistake. Zeus and Odin are beings within the world — powerful, composite, changeable, located. The God argued for here is not a member of that class at all; he is subsistent existence itself, the reason anything in any class exists. Extending disbelief from one to the other is not consistency; it is a change of subject.",
+      "reply": "Imagine someone saying: Euclideans already agree that the triangles drawn in books have imperfectly straight sides — I just go one triangle further and say triangularity itself has crooked sides. That's confused, because triangularity isn't one more drawn triangle. Same here. Classical theism's God isn't the best-behaved member of the pantheon. If atheism were true it wouldn't be because he turned out to be one more absent Thor."
+    },
+    {
+      "id": "anatomy-logical-problem-of-evil",
+      "title": "Objection anatomy: evil disproves God",
+      "caption": "Mackie's version, in which evil and God are strictly inconsistent. Two words in his second premise do all the damage.",
+      "where": "Evil proves God doesn’t exist (the logical problem)",
+      "kind": "anatomy",
+      "says": "God is supposed to be omnipotent and perfectly good. There are no limits to what an omnipotent being can do, and a good being eliminates evil as far as it can. Evil exists. So either God isn't omnipotent, or isn't good, or isn't there.",
+      "assumes": [
+        "That omnipotence means there is literally nothing an omnipotent being cannot do",
+        "That a good being always eliminates every evil it is able to eliminate"
+      ],
+      "breaks": "Both halves of the second premise fail. Even omnipotence does not extend to contradictions, so if some goods logically require certain evils, not even God could have the goods without the evils. And a good agent does not always remove every evil it can: a good parent does not spare the child the unpleasantness of homework, because removing it would remove the learning.",
+      "reply": "Take forgiveness. It cannot exist unless someone has actually done something wrong. Take courage — it needs real danger. Take compassion — it needs someone who has genuinely suffered. God could have made a world with free will and no evil in it; what he could not have made is a world with free will, no evil, and all the moral good this one contains. That's not a limit on his power any more than not making round squares is."
     }
   ]
 }

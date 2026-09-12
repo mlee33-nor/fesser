@@ -1,0 +1,610 @@
+{
+ "keyTerms": [
+  {
+   "term": "Natural theology",
+   "definition": "The attempt to establish what can be known about God’s existence and nature by unaided human reason, apart from divine revelation. It is the discipline this whole book belongs to.",
+   "example": "Arguing from the fact of change to a purely actual actualizer, using no premise drawn from Scripture.",
+   "origin": "Latin theologia naturalis; Feser defines it in the Introduction as knowledge of God via unaided reason apart from revelation.",
+   "confuseWith": "Revealed theology, which starts from what God is taken to have disclosed. Also distinct from natural religion or from the empirical study of religion."
+  },
+  {
+   "term": "Nature",
+   "definition": "A thing’s essence considered as the source of its characteristic activities and tendencies. What a thing is determines what it does.",
+   "example": "It belongs to the nature of an acorn to tend toward becoming an oak.",
+   "origin": "Latin natura, translating Greek physis, ‘growth’; the root of the principle agere sequitur esse.",
+   "confuseWith": "Nature in the sense of the natural world. Feser uses both senses; context settles which."
+  },
+  {
+   "term": "Necessary",
+   "definition": "Could not have been otherwise. A necessary truth holds in every possible world; a necessary being could not have failed to exist.",
+   "example": "That 2 + 2 = 4; that no square is round.",
+   "origin": "Latin necessarius.",
+   "confuseWith": "The everyday sense of ‘needed’, as in ‘water is necessary for life’. The philosophical sense is about what could not have been otherwise."
+  },
+  {
+   "term": "Necessary being",
+   "definition": "Something whose existence is explained by its own nature rather than by anything else, and which therefore could not have failed to exist. The conclusion of the rationalist proof.",
+   "example": "Chapter 5 argues that contingent things can only be ultimately explained by such a being.",
+   "origin": "Prominent in Avicenna, Aquinas’ Third Way, and Leibniz.",
+   "confuseWith": "Something everlasting or indestructible. A thing could last forever and still be contingent — able not to have existed at all."
+  },
+  {
+   "term": "Necessity (divine)",
+   "definition": "God’s attribute of existing necessarily, derived in classical theism from having no potentiality, no parts, and no essence distinct from existence.",
+   "example": "Chapter 6 defends divine necessity against critics who ask why the universe could not be the necessary being instead.",
+   "origin": "Standard in classical philosophical theology.",
+   "confuseWith": "Logical necessity of a proposition. Divine necessity is a claim about a being, not about a sentence being true by definition."
+  },
+  {
+   "term": "Neo-Platonism",
+   "definition": "The philosophical tradition founded by Plotinus, which develops Plato by arguing that everything composite depends on an absolutely simple source, ‘the One’.",
+   "example": "Chapter 2’s argument from composition to an absolutely simple cause is its modern descendant.",
+   "origin": "A modern label for the school beginning with Plotinus (c. 204–270) and his Enneads.",
+   "confuseWith": "Platonism proper, especially Plato’s theory of a separate realm of Forms, which Feser rejects in chapter 3 while keeping the Neo-Platonic insight about simplicity."
+  },
+  {
+   "term": "Neo-theism",
+   "definition": "Another name for theistic personalism: the family of contemporary views that treat God as an immensely powerful and knowing being who nevertheless falls under a genus and is composite.",
+   "example": "Views that hold God is literally in time, or literally changes, or has power and knowledge as distinct properties.",
+   "origin": "A label applied to these thinkers by Norman Geisler; ‘theistic personalism’ is Brian Davies’ term for the same position.",
+   "confuseWith": "Atheism or deism. Neo-theists affirm a God; the dispute with classical theists is over what sort of being God is."
+  },
+  {
+   "term": "New Atheism",
+   "definition": "The wave of popular anti-religious writing of the 2000s and 2010s, whose standard objections chapter 7 addresses.",
+   "example": "Dawkins, Hitchens, Harris, Dennett, Krauss, Grayling and Rosenberg, among others.",
+   "origin": "A journalistic label that stuck after a cluster of bestsellers beginning in 2004.",
+   "confuseWith": "Academic atheism. Feser distinguishes the two sharply, holding that the popular objections are far weaker than serious philosophical ones."
+  },
+  {
+   "term": "Nominalism",
+   "definition": "The view that only particular things exist and that universals are merely general names we apply to groups of individuals. One of the three standard positions on universals.",
+   "example": "Holding that there is no such thing as redness, only many red things and our habit of using one word for them.",
+   "origin": "Latin nomen, ‘name’; associated with William of Ockham.",
+   "confuseWith": "Conceptualism, which grants that there is a general idea in the mind. Nominalism grants only a general word."
+  },
+  {
+   "term": "Ockham's razor",
+   "definition": "The methodological principle that entities should not be multiplied beyond necessity — prefer the simpler of two otherwise equally adequate explanations.",
+   "example": "Preferring one undetected planet to three to explain an orbital anomaly.",
+   "origin": "Attributed to William of Ockham (c. 1287–1347), though he never stated it in the familiar words.",
+   "confuseWith": "A proof that the simpler theory is true. The razor is a tie-breaker among otherwise equal explanations, and it says nothing against a theory that is doing necessary work."
+  },
+  {
+   "term": "Omnipotence",
+   "definition": "In classical theism, being that from which all causal power derives — not the ability to do anything describable, including contradictions.",
+   "example": "Steps 33–37 of chapter 1 derive it: all power is the ability to actualize potentials, and every actualization traces to the purely actual actualizer.",
+   "origin": "Latin omnipotens, ‘all-powerful’.",
+   "confuseWith": "The paradox-generating sense of ‘can do absolutely anything’. A square circle is not a task God fails; it is not a task."
+  },
+  {
+   "term": "Omniscience",
+   "definition": "Knowing all things. Chapter 1 derives it from the principle of proportionate causality: the forms of everything caused must be present in the cause, and in a purely actual cause they can only be present in the manner of intellect.",
+   "example": "Steps 38–47 of the fifty-step argument.",
+   "origin": "Latin omnisciens, ‘all-knowing’.",
+   "confuseWith": "Knowing all facts by observation. Divine knowledge on this account is not a matter of God looking at the world and finding out."
+  },
+  {
+   "term": "Ontological argument",
+   "definition": "An argument that tries to establish God’s existence from the concept of God alone, without any premise about the world.",
+   "example": "Anselm’s claim that that than which nothing greater can be conceived must exist in reality and not merely in the understanding.",
+   "origin": "Anselm’s Proslogion; the label is Kant’s, from Greek ontos, ‘being’.",
+   "confuseWith": "The five proofs in this book, none of which is ontological. Kant claimed that all cosmological arguments secretly depend on the ontological one; Feser denies this."
+  },
+  {
+   "term": "Parmenides’ problem",
+   "definition": "The ancient argument that change is impossible, because the new state did not exist before, and so change would require something to come from nothing.",
+   "example": "If the coldness of coffee was nothing before, and is something after, then something came from nothing — which is impossible.",
+   "origin": "Parmenides of Elea (early fifth century B.C.); chapter 1 opens by answering it.",
+   "confuseWith": "Zeno’s paradoxes of motion, which are related but distinct puzzles from the same school. Aristotle’s solution to Parmenides is the act/potency distinction."
+  },
+  {
+   "term": "Particular",
+   "definition": "An individual thing, as opposed to the general pattern it exhibits. This dog, this billiard ball, this person.",
+   "example": "The cue ball is a particular; roundness is the universal it exhibits.",
+   "origin": "Latin particularis; the standard contrast term for ‘universal’.",
+   "confuseWith": "Concrete. Most particulars are concrete, but philosophers sometimes speak of abstract particulars, so the contrasts are not identical."
+  },
+  {
+   "term": "Per accidens (linear) series",
+   "definition": "A causal series running back through time, whose members retain their causal power once they have acted, so that earlier members can cease to exist without stopping the series.",
+   "example": "A grandfather, father and son; or pressing a button, the air conditioner running, the room cooling.",
+   "origin": "Latin, ‘through an accident’ — the causal relation is incidental to the series continuing.",
+   "confuseWith": "Per se series, whose members have only borrowed power. Feser grants for the sake of argument that per accidens series might be infinite."
+  },
+  {
+   "term": "Per se (hierarchical) series",
+   "definition": "A causal series in which every member except the first has its causal power only derivatively, receiving it at the moment it acts. Such a series must terminate in something with built-in power.",
+   "example": "The cup held by the desk held by the floor held by the foundation held by the earth.",
+   "origin": "Latin, ‘through itself’ — also called an essentially ordered series.",
+   "confuseWith": "A simultaneous series. Simultaneity is a helpful illustration, but what makes a series per se is the derivative, instrumental character of the later members."
+  },
+  {
+   "term": "Perfect goodness",
+   "definition": "In classical theism, the attribute of lacking nothing a thing of its kind could have. To be less than fully good is to fail to actualize something one could have actualized; pure actuality has no such shortfall.",
+   "example": "Steps 30–32 of chapter 1’s argument.",
+   "origin": "Rooted in the classical identification of goodness with the full actuality of a nature.",
+   "confuseWith": "Moral niceness in the human sense. The classical derivation runs through metaphysical completeness, then argues to moral perfection from it."
+  },
+  {
+   "term": "Philosophy",
+   "definition": "The systematic attempt to answer the most general questions about reality, knowledge and value by reasoned argument rather than by experiment or authority.",
+   "example": "Asking what it is for anything to exist, what makes a belief justified, or what makes an action right.",
+   "origin": "Greek philosophia, ‘love of wisdom’.",
+   "confuseWith": "A personal outlook, as in ‘my philosophy of life’. The discipline is a method of argument, not a slogan."
+  },
+  {
+   "term": "Philosophy of religion",
+   "definition": "The branch of philosophy that examines religious concepts and claims — the nature of God, the problem of evil, faith and reason, religious language.",
+   "example": "Asking whether the existence of suffering is evidence against God.",
+   "origin": "A modern academic subdivision.",
+   "confuseWith": "Natural theology, which is narrower: it argues to conclusions about God’s existence and nature rather than examining religious claims generally."
+  },
+  {
+   "term": "Physical parts",
+   "definition": "Separable material components of a thing — the legs of a chair, the organs of a body, the atoms of a molecule.",
+   "example": "Disassembling a chair leaves you holding its physical parts.",
+   "origin": "Ordinary usage, contrasted in Scholastic writing with metaphysical parts.",
+   "confuseWith": "Metaphysical parts, which are inseparable principles such as form and matter. Chapter 2’s argument requires both kinds."
+  },
+  {
+   "term": "Possible world",
+   "definition": "A complete, non-contradictory way things could have been. Talk of possible worlds is a precise way of talking about what is necessary, contingent and possible.",
+   "example": "A world in which Mars has three moons, or in which unicorns exist.",
+   "origin": "Leibniz’s phrase, revived in twentieth-century modal logic.",
+   "confuseWith": "A parallel universe. Possible worlds are not places; the range of them is limited by logic, not by physics."
+  },
+  {
+   "term": "Potentiality",
+   "definition": "A real capacity a thing has but is not exercising — what it can become, given what it actually is. Potentials are limited by a thing’s nature and are not nothing.",
+   "example": "Hot coffee is potentially cold and potentially spilled, but has no potential to become chicken soup or a live chicken.",
+   "origin": "Latin potentia, translating Greek dynamis; Aristotle’s answer to Parmenides.",
+   "confuseWith": "Mere logical possibility, or ‘potential’ in the loose sense of promise. Aristotelian potentiality is a specific capacity grounded in a thing’s actual nature."
+  },
+  {
+   "term": "Predication",
+   "definition": "The act of saying something of something — attaching a predicate to a subject. Questions about univocal, equivocal and analogical usage are questions about predication.",
+   "example": "In ‘Socrates is wise’, wisdom is predicated of Socrates.",
+   "origin": "Latin praedicare, ‘to declare’; the topic of Aristotle’s Categories.",
+   "confuseWith": "Reference. Predication says what a thing is like; reference picks out which thing is being talked about."
+  },
+  {
+   "term": "Premise",
+   "definition": "A statement offered in support of a conclusion. An argument’s premises are the claims you are being asked to accept on the way to its conclusion.",
+   "example": "‘All men are mortal’ and ‘Socrates is a man’.",
+   "origin": "Latin praemissa, ‘sent before’.",
+   "confuseWith": "An assumption in the pejorative sense. Premises may be very well supported; whether they are is precisely the question."
+  },
+  {
+   "term": "Principle (metaphysical)",
+   "definition": "In Scholastic usage, a really distinct constituent aspect of a thing that is not itself a separable object — form, matter, essence, existence, act, potency.",
+   "example": "Matter and form are principles of a physical substance, not two things sitting side by side.",
+   "origin": "Latin principium, ‘beginning, source’.",
+   "confuseWith": "A principle in the sense of a general rule, such as PSR. Both senses appear in this book."
+  },
+  {
+   "term": "Principle of causality (PC)",
+   "definition": "In Feser’s precise formulation: no potential can be actualized unless something already actual actualizes it. It is step 4 of chapter 1’s formal argument.",
+   "example": "Potential coldness cannot chill anything; only actual coldness can.",
+   "origin": "A Scholastic principle, stated carefully by Feser to avoid the loose formula ‘everything has a cause’.",
+   "confuseWith": "The claim that everything has a cause, which Feser never asserts and which the ‘who made God?’ objection wrongly attributes to him."
+  },
+  {
+   "term": "Principle of charity",
+   "definition": "The rule that you should interpret an argument in its strongest reasonable form before criticising it, rather than seizing on the weakest reading available.",
+   "example": "If a premise is ambiguous between a silly reading and a serious one, engage the serious one — and check with the author, if you can, which he meant.",
+   "origin": "A standard norm of interpretation in analytic philosophy, associated with Neil Wilson and Donald Davidson.",
+   "confuseWith": "Being soft on an argument. Charity makes criticism harder to dodge, because an objection that defeats the strongest version actually settles something."
+  },
+  {
+   "term": "Principle of proportionate causality (PPC)",
+   "definition": "Whatever is in an effect must in some way be in its total cause — formally, virtually, or eminently — since a cause cannot give what it does not have.",
+   "example": "To give you $20 I must have it in my wallet, in my account, or by way of a power to produce it.",
+   "origin": "Scholastic; expounded at the start of chapter 6 and defended against Cottingham’s sponge-cake counterexample.",
+   "confuseWith": "An ‘heirloom’ view on which the very same feature is passed along. Feser and Aquinas explicitly reject that reading: a man need not have a black eye to give one."
+  },
+  {
+   "term": "Principle of sufficient reason (PSR)",
+   "definition": "Everything has an explanation of why it exists and why it is as it is — either in something else or in itself. Equivalently: everything is intelligible.",
+   "example": "Assuming the unfamiliar sunglasses on your sofa got there somehow, even before you find out how.",
+   "origin": "Associated with Leibniz; Feser quotes Thomistic formulations from Garrigou-Lagrange and Wuellner.",
+   "confuseWith": "The principle of causality. A cause must be distinct from its effect; a sufficient reason need not, so something could be self-explanatory. PSR entails everything has a reason; PC does not entail everything has a cause."
+  },
+  {
+   "term": "Process theology",
+   "definition": "A contemporary theological school holding that God changes and develops along with the world, rejecting immutability.",
+   "example": "Charles Hartshorne’s view that God undergoes change as human persons do.",
+   "origin": "Developing from A. N. Whitehead’s metaphysics in the twentieth century.",
+   "confuseWith": "Classical theism, which it rejects. Feser classifies it as a form of theistic personalism, since changeability entails potentiality and hence composition."
+  },
+  {
+   "term": "Proof",
+   "definition": "In this book’s strong sense, a successful demonstration — a valid deductive argument from premises that are certain. Feser holds that a proof can be controversial without thereby failing.",
+   "example": "The title Five Proofs is meant literally: not five good reasons, but five demonstrations.",
+   "origin": "Latin probare, ‘to test, to prove’.",
+   "confuseWith": "Evidence, or an argument that makes something likely. The word is much stronger here than in ordinary speech."
+  },
+  {
+   "term": "Property (in the strict sense)",
+   "definition": "A feature that is not part of a thing’s essence but flows necessarily from it, so that everything of that kind has it. Distinguished from merely contingent accidents.",
+   "example": "The capacity to find things amusing is a property of human beings, flowing from rational animality; having a particular skin colour is a contingent accident.",
+   "origin": "Latin proprium, ‘what is proper to’; one of the traditional predicables.",
+   "confuseWith": "‘Property’ in the broad contemporary sense of anything predicable of a thing. Chapter 6 argues that Plantinga’s objection to divine simplicity depends on using the broad sense."
+  },
+  {
+   "term": "Proposition",
+   "definition": "What a statement says, as distinct from the sentence used to say it. Propositions are true or false and are the same across languages and speakers.",
+   "example": "‘Snow is white’ and ‘Schnee ist weiss’ are different sentences expressing one proposition.",
+   "origin": "Latin propositio; central to chapter 3’s catalogue of abstract objects.",
+   "confuseWith": "A sentence. You can erase a sentence; you cannot thereby make the proposition it expressed cease to be true."
+  },
+  {
+   "term": "Pure actuality",
+   "definition": "Being actual without any admixture of potentiality — having no unrealized capacities whatever. The conclusion of the Aristotelian proof and the root of all the other divine attributes.",
+   "example": "Steps 14 onward of chapter 1, from which immutability, eternity, immateriality, perfection, omnipotence and omniscience are derived.",
+   "origin": "Latin actus purus; Aristotle’s Unmoved Mover as developed by Aquinas.",
+   "confuseWith": "Being very active or energetic. Pure actuality is the absence of potentiality, not a high level of activity."
+  },
+  {
+   "term": "Real distinction",
+   "definition": "A distinction that holds in mind-independent reality rather than merely in our way of thinking. Chapter 4 argues that essence and existence are really distinct in every contingent thing.",
+   "example": "You can know exactly what a lion is and still not know whether any exist — a clue that the two are really distinct.",
+   "origin": "Latin distinctio realis; the phrase is standard in Thomistic metaphysics.",
+   "confuseWith": "A distinction of reason, such as that between ‘bachelor’ and ‘unmarried man’, which tracks nothing in the thing itself."
+  },
+  {
+   "term": "Realism (about universals)",
+   "definition": "The view that universals are real and exist independently of human minds. Chapter 3 defends a version of it.",
+   "example": "Holding that triangles would all still be three-sided if no one ever thought about them.",
+   "origin": "A medieval label from the debate over universals.",
+   "confuseWith": "Platonic realism specifically, which adds that universals exist in a realm of their own. Feser accepts realism but rejects the separate realm."
+  },
+  {
+   "term": "Reductio ad absurdum",
+   "definition": "A method of proof that establishes a claim by showing that its denial leads to absurdity or self-contradiction.",
+   "example": "Chapter 5 argues that denying PSR undermines any grounds one could have for denying it, so the denial is self-defeating.",
+   "origin": "Latin, ‘reduction to absurdity’; Feser quotes Garrigou-Lagrange calling this the indirect method of proof for PSR.",
+   "confuseWith": "Ridicule, or the straw man. A reductio takes the opponent’s claim exactly as stated and follows it honestly to an unacceptable result."
+  },
+  {
+   "term": "Revealed theology",
+   "definition": "Theology that reasons from what God is taken to have disclosed — scripture, tradition, prophecy — rather than from unaided reason alone.",
+   "example": "Arguing about the Trinity from scriptural premises.",
+   "origin": "Latin revelatio, ‘unveiling’.",
+   "confuseWith": "Natural theology, which this book practises and which uses no premise drawn from revelation. Feser notes that whether any revelation has occurred is beyond the book’s scope."
+  },
+  {
+   "term": "Scholastic realism",
+   "definition": "The position, developed from Augustine, that universals and other abstract objects are real and independent of human minds, but exist as ideas in a divine intellect rather than in a separate realm.",
+   "example": "The conclusion of chapter 3’s Augustinian proof.",
+   "origin": "The mainstream medieval position, associated with Augustine and Aquinas.",
+   "confuseWith": "Platonic realism, which places them in an independent third realm, and conceptualism, which places them in human minds."
+  },
+  {
+   "term": "Scholasticism",
+   "definition": "The philosophy and theology of the medieval universities, marked by precise distinctions, technical Latin vocabulary, and the method of stating objections before replying.",
+   "example": "The habit of writing per se, per accidens, agere sequitur esse, ex nihilo nihil fit.",
+   "origin": "Latin schola, ‘school’; the great figures include Anselm, Aquinas, Scotus and Ockham.",
+   "confuseWith": "‘Scholastic’ as a term of abuse meaning pedantic hair-splitting. Feser draws on Neo-Scholastic manual writers with no apology."
+  },
+  {
+   "term": "Scientism",
+   "definition": "The claim that science is the only source of genuine knowledge. Chapter 7 argues it is self-defeating, since the claim itself is not a scientific result.",
+   "example": "Insisting that any question science cannot answer is meaningless or unanswerable.",
+   "origin": "A twentieth-century coinage, usually pejorative; chapter 7 treats it from around page 273.",
+   "confuseWith": "Respect for science. Rejecting scientism is compatible with regarding science as a superb source of knowledge in its domain."
+  },
+  {
+   "term": "Self-undermining",
+   "definition": "A claim that, if true, destroys the grounds anyone could have for accepting it.",
+   "example": "Denying PSR undercuts any reason one could have for the denial, since one could then have no reason to think one’s beliefs track truth.",
+   "origin": "A standard move in philosophy, also called self-refuting or self-defeating.",
+   "confuseWith": "A mere contradiction. A self-undermining claim may be internally consistent; the problem is that it removes its own support."
+  },
+  {
+   "term": "Simplicity (divine)",
+   "definition": "The doctrine that God has no parts of any kind — no physical parts, no matter and form, no essence distinct from existence, no accidents distinct from substance, no potentiality distinct from actuality.",
+   "example": "God’s power and knowledge are not two components but one reality grasped under two concepts.",
+   "origin": "Latin simplicitas, ‘without folds’; insisted on across pagan, Jewish, Muslim and Christian traditions, and taught as doctrine at Lateran IV and Vatican I.",
+   "confuseWith": "Being easy to understand. Feser regards God as incomprehensible precisely because of what simplicity involves."
+  },
+  {
+   "term": "Soundness",
+   "definition": "An argument is sound when it is valid and all of its premises are actually true. A sound argument’s conclusion must be true.",
+   "example": "‘All men are mortal; Socrates is a man; so Socrates is mortal’ is both valid and sound.",
+   "origin": "Standard logical vocabulary.",
+   "confuseWith": "Validity, which concerns only the form. A valid argument with a false premise is unsound, and its conclusion is not thereby established."
+  },
+  {
+   "term": "Special pleading",
+   "definition": "The fallacy of applying a rule generally while exempting a favoured case without giving a principled reason for the exemption.",
+   "example": "‘Everything needs a cause — except God, because he’s God.’",
+   "origin": "Originally a term from law.",
+   "confuseWith": "A principled exception. Feser argues that classical theism is not special pleading, because the arguments explain why the terminus could not in principle have a cause — it lacks the very feature that makes other things need one."
+  },
+  {
+   "term": "Species",
+   "definition": "A more specific kind falling under a genus. In the traditional structure of definition, genus plus specific difference yields species.",
+   "example": "Human being is a species under the genus animal, differentiated by rationality.",
+   "origin": "Latin species, ‘appearance, kind’; used here in the logical, not the biological, sense.",
+   "confuseWith": "The biological species of modern taxonomy, a narrower technical concept. Feser flags this explicitly in chapter 4."
+  },
+  {
+   "term": "Specific difference",
+   "definition": "The feature that distinguishes one species from others within the same genus.",
+   "example": "Rationality, which distinguishes human beings from other animals.",
+   "origin": "Latin differentia specifica; from Aristotelian logic.",
+   "confuseWith": "A merely distinguishing feature. The specific difference is essential, not incidental — being the tallest animal is not a specific difference."
+  },
+  {
+   "term": "Stage 1",
+   "definition": "The first part of the informal statement in each proof chapter, which argues that something fitting a key description exists.",
+   "example": "Chapter 1’s Stage 1 argues from change to a purely actual actualizer.",
+   "origin": "Feser’s own structural term, explained in the Introduction.",
+   "confuseWith": "Stage 2, which argues that anything fitting that description must have the divine attributes."
+  },
+  {
+   "term": "Stage 2",
+   "definition": "The second part of the informal statement, which argues that whatever fits the Stage 1 description must possess attributes such as unity, eternity, immateriality, omnipotence, omniscience and perfect goodness.",
+   "example": "This is where the question ‘but why call that God?’ is answered.",
+   "origin": "Feser’s structural term from the Introduction.",
+   "confuseWith": "The objections section, which comes later. Stage 2 is part of the positive argument, not a defence of it."
+  },
+  {
+   "term": "Straw man",
+   "definition": "The fallacy of refuting a weakened or distorted version of someone’s position instead of the position they actually hold.",
+   "example": "Attacking ‘everything has a cause, except God’ when no proponent of the arguments in this book holds it.",
+   "origin": "A modern English idiom; the practice is as old as debate.",
+   "confuseWith": "A legitimate simplification. Simplifying is fine when the simplified version preserves what makes the original work. Feser argues the ‘basic cosmological argument’ attacked by many textbooks is a straw man with a long pedigree."
+  },
+  {
+   "term": "Subsistent existence itself",
+   "definition": "That whose essence just is existence — the conclusion of the Thomistic proof. Such a thing can impart existence without having received it, and there could be at most one of it.",
+   "example": "Chapter 4 argues that anything in which essence and existence are really distinct must ultimately be caused by such a being.",
+   "origin": "Latin ipsum esse subsistens; Aquinas’ formulation, notably in On Being and Essence.",
+   "confuseWith": "A being that happens to exist necessarily. The claim is stronger: not a thing that has existence necessarily, but existence itself subsisting."
+  },
+  {
+   "term": "Substance",
+   "definition": "A thing that exists in its own right rather than in something else — this dog, this tree, this person. The bearer of accidents.",
+   "example": "The dog is a substance; its brown colour is an accident of it.",
+   "origin": "Latin substantia, ‘standing under’, translating Greek ousia; Aristotle’s Categories.",
+   "confuseWith": "‘Substance’ in the chemical sense of a kind of stuff. In metaphysics a substance is an individual thing, not a material."
+  },
+  {
+   "term": "Substantial form",
+   "definition": "The form that makes a thing be the kind of thing it is, as opposed to merely modifying a thing that already exists.",
+   "example": "Whatever makes this parcel of matter be a dog rather than a corpse or a heap.",
+   "origin": "Scholastic development of Aristotle’s hylomorphism.",
+   "confuseWith": "Accidental form, which modifies an existing substance, as whiteness modifies a house."
+  },
+  {
+   "term": "Sustaining cause",
+   "definition": "A cause that keeps something in existence or in a state at every moment it obtains, as opposed to a cause that brought it about at an earlier time.",
+   "example": "Whatever actualizes the water’s potential to exist as water right now, rather than the process that combined the hydrogen and oxygen years ago.",
+   "origin": "Also called a conserving cause; connected to the doctrine of divine conservation in chapter 6.",
+   "confuseWith": "An originating cause. Nearly every popular objection to these arguments comes from hearing ‘cause’ as ‘originating cause’."
+  },
+  {
+   "term": "The One",
+   "definition": "Plotinus’ name for the absolutely simple source on which everything composite depends.",
+   "example": "Chapter 2 argues to an absolutely simple cause and identifies it with what Plotinus called the One.",
+   "origin": "Greek to hen; Plotinus’ Enneads.",
+   "confuseWith": "A numerical unit, or an impersonal cosmic force. Feser’s conclusion, once chapter 6’s derivations are in, is a God with intellect and will."
+  },
+  {
+   "term": "Theistic personalism",
+   "definition": "The family of views that treat God as the unique member of a species falling under the genus person, differing from human beings and angels by lacking their limitations — and therefore as composite rather than simple.",
+   "example": "Views on which God’s power and knowledge are distinct properties that God has, in the same sense in which we have ours.",
+   "origin": "The label is Brian Davies’; Feser identifies Plantinga, Swinburne and Hartshorne as classified this way.",
+   "confuseWith": "The claim that God is personal. Classical theists also regard God as personal, attributing intellect and will; the dispute is over whether God falls under a genus and is composite."
+  },
+  {
+   "term": "Thomism",
+   "definition": "The system of thought deriving from Thomas Aquinas; a Thomist is an adherent of it.",
+   "example": "Feser’s interpretation of the principle of sufficient reason is Thomistic rather than in the manner of the continental rationalists.",
+   "origin": "From Aquinas’ name; Feser defines the term in a footnote in the Introduction.",
+   "confuseWith": "Aquinas’ own texts. Thomism includes seven centuries of development; Feser is explicit that this book offers no textual exegesis."
+  },
+  {
+   "term": "Universal",
+   "definition": "A general pattern that many individual things can exhibit — redness, triangularity, humanness.",
+   "example": "The billiard balls share roundness with basketballs and the moon.",
+   "origin": "Latin universalis; the problem of universals is one of the oldest in philosophy.",
+   "confuseWith": "A collection of the things sharing it. A universal is the pattern, not the group of instances."
+  },
+  {
+   "term": "Univocal",
+   "definition": "A use of a word in exactly the same sense in two cases.",
+   "example": "‘Fido is a dog’ and ‘Rover is a dog’.",
+   "origin": "Latin univocus, ‘of one voice’.",
+   "confuseWith": "Analogical use, where the senses are related but not identical. Feser argues that many objections to classical theism quietly assume that God-talk is univocal."
+  },
+  {
+   "term": "Unmoved Mover",
+   "definition": "Aristotle’s name for the first cause of all change: something that causes change without itself being changed, because it has no potentials to be actualized.",
+   "example": "The conclusion of chapter 1; Aristotle developed the argument in Physics VIII and Metaphysics XII.",
+   "origin": "Greek to prōton kinoun akinēton, ‘the first unmoved mover’.",
+   "confuseWith": "A first event in time. ‘Unmoved’ means without potentiality, and ‘first’ means non-derivative, not earliest."
+  },
+  {
+   "term": "Validity",
+   "definition": "The property of an argument whose conclusion follows necessarily from its premises: if the premises were true, the conclusion would have to be true. Validity concerns form only.",
+   "example": "‘All cats are reptiles; Fido is a cat; so Fido is a reptile’ is valid although both premises are false.",
+   "origin": "Standard logical vocabulary; Latin validus, ‘strong’.",
+   "confuseWith": "Truth. Premises are true or false; arguments are valid or invalid. Calling a premise ‘valid’ is a category mistake."
+  }
+ ],
+ "distinctions": [
+  {
+   "name": "Per se (hierarchical) vs. per accidens (linear) causal series",
+   "left": {
+    "label": "Per accidens (linear)",
+    "desc": "Runs backward through time. Each member keeps its causal power once it has it, so earlier members can cease to exist while the series continues: a grandfather, a father, a son. Feser grants for the sake of argument that such a series might be infinite."
+   },
+   "right": {
+    "label": "Per se (hierarchical)",
+    "desc": "Every member except the first has causal power only derivatively, receiving it at the moment it acts: a cup on a desk on a floor on a foundation on the earth. Remove any support and everything above it fails at once."
+   },
+   "whyItMatters": "This is the single most important distinction in the book. Nearly every popular objection — ‘maybe the universe is infinitely old’, ‘why can’t the regress be infinite?’, ‘who made God?’ — assumes the arguments concern linear series. They do not. Only hierarchical series are claimed to require a first member, and ‘first’ there means non-derivative, not earliest."
+  },
+  {
+   "name": "Actuality vs. potentiality",
+   "left": {
+    "label": "Actuality",
+    "desc": "The way a thing really is at this moment. Only what is actual can do anything, because acting is the prerogative of the actual."
+   },
+   "right": {
+    "label": "Potentiality",
+    "desc": "A real but unexercised capacity, limited by what the thing actually is. Coffee is potentially cold, not potentially chicken soup. A potential cannot actualize itself, since it is merely potential."
+   },
+   "whyItMatters": "This pair supplies the analysis of change (the actualization of a potential), the principle of causality (step 4 of chapter 1), the definition of God as pure actuality, and the derivation of immutability, eternity and immateriality. It also answers Parmenides: change is not something from nothing, because a potential is not nothing."
+  },
+  {
+   "name": "Essence vs. existence",
+   "left": {
+    "label": "Essence",
+    "desc": "What a thing is — its nature, the answer to ‘what kind of thing is this?’ You can grasp a lion’s essence perfectly and still not know whether lions exist."
+   },
+   "right": {
+    "label": "Existence",
+    "desc": "The fact that it is — that the essence is actually instantiated out there rather than merely conceived."
+   },
+   "whyItMatters": "Chapter 4 argues these are really distinct in everything we experience, which is why such things need a cause conjoining them at every moment. The series of such causes must end in something whose essence just is existence — subsistent existence itself — of which there could be at most one."
+  },
+  {
+   "name": "Principle of causality vs. principle of sufficient reason",
+   "left": {
+    "label": "Principle of causality (PC)",
+    "desc": "No potential can be actualized unless something already actual actualizes it. A cause must be distinct from its effect. PC does not entail that everything has a cause."
+   },
+   "right": {
+    "label": "Principle of sufficient reason (PSR)",
+    "desc": "Everything has an explanation of why it exists and is as it is, either in something else or in itself. A sufficient reason need not be distinct from what it explains, so something could be self-explanatory. PSR does entail that everything has a reason."
+   },
+   "whyItMatters": "Chapter 5 insists on the difference, and it matters enormously in argument. Neither principle says ‘everything has a cause’, so the standard ‘who made God?’ objection attacks a position nobody in this debate holds. All causes are reasons; not all reasons are causes."
+  },
+  {
+   "name": "Classical theism vs. theistic personalism",
+   "left": {
+    "label": "Classical theism",
+    "desc": "God is pure actuality — simple, immutable, eternal, necessary, the source of the existence of everything else. Not an item in the inventory of the world but that in virtue of which anything is in it."
+   },
+   "right": {
+    "label": "Theistic personalism (neo-theism)",
+    "desc": "God is the unique member of a species under the genus person: immensely powerful, knowing and good, but still a being alongside others, and therefore composite."
+   },
+   "whyItMatters": "Most debates about God fail because the two sides mean different things by the word. Objections like ‘who designed the designer?’, ‘God is an unnecessary extra entity’ and ‘one god further’ all target the personalist picture. Note carefully that the difference is not whether God is personal — classical theists attribute intellect and will to God — but whether God falls under a genus."
+  },
+  {
+   "name": "Univocal vs. equivocal vs. analogical predication",
+   "left": {
+    "label": "Univocal and equivocal (the two extremes)",
+    "desc": "Univocal: exactly the same sense in both cases (‘Fido is a dog’, ‘Rover is a dog’). Equivocal: wholly unrelated senses sharing only a spelling (the bat in the attic, the bat in your hands)."
+   },
+   "right": {
+    "label": "Analogical (the middle)",
+    "desc": "Related but not identical senses (‘good wine’, ‘good man’). Classical theists say terms applied to God are used this way — and, crucially, that this is still literal, not metaphorical."
+   },
+   "whyItMatters": "If God-talk were univocal, God would be a being of our kind with the limits removed, and divine simplicity would collapse — which is exactly the shape of Plantinga’s objection in chapter 6. If it were equivocal, theology would be noise. Analogy is what remains, and recognizing it defuses a whole family of objections."
+  },
+  {
+   "name": "Demonstration vs. inference to the best explanation",
+   "left": {
+    "label": "Demonstration",
+    "desc": "A valid deductive argument from premises that are certain. Its conclusion follows necessarily. You refute it only by showing an invalid step or a false premise."
+   },
+   "right": {
+    "label": "Inference to the best explanation",
+    "desc": "Accepting the hypothesis that explains the evidence better than its rivals. Its conclusion is probable and can be overturned by a better hypothesis or new data."
+   },
+   "whyItMatters": "Feser claims demonstration, not probability, and that changes how the arguments must be attacked. Replies of the form ‘there might be some other explanation’, ‘science may yet find a natural cause’, or ‘this is just a god of the gaps’ are appropriate against best-explanation arguments and beside the point against a purported demonstration."
+  },
+  {
+   "name": "Real distinction vs. distinction of reason",
+   "left": {
+    "label": "Distinction of reason",
+    "desc": "A difference in how we think or speak with nothing in the thing itself corresponding to it: ‘bachelor’ and ‘unmarried man’ pick out exactly the same reality."
+   },
+   "right": {
+    "label": "Real distinction",
+    "desc": "A difference in mind-independent reality — either between two things, or between two really distinct principles within one thing, such as form and matter, or essence and existence."
+   },
+   "whyItMatters": "Chapter 4 stands or falls on showing that essence and existence differ really, not merely in reason. If a critic can show the distinction is merely conceptual, the Thomistic proof has no engine. And in chapter 2, real distinctions within a thing are exactly what count as metaphysical parts."
+  },
+  {
+   "name": "Validity vs. soundness",
+   "left": {
+    "label": "Validity",
+    "desc": "A matter of form alone: if the premises were true, the conclusion would have to be true. ‘All cats are reptiles; Fido is a cat; so Fido is a reptile’ is valid and has two false premises."
+   },
+   "right": {
+    "label": "Soundness",
+    "desc": "Valid plus all premises actually true. A sound argument’s conclusion is established, full stop."
+   },
+   "whyItMatters": "It fixes the two — and only two — honest ways to attack a deductive argument: show an inference does not follow, or show a premise is false. Anything else (disliking the conclusion, doubting the author’s motives, noting that clever people disagree) leaves the argument untouched."
+  }
+ ],
+ "illustrations": [
+  {
+   "title": "The coffee that cools: change as the actualization of a potential",
+   "body": "Set a cup of hot coffee on your desk and leave it. Twenty minutes later it is cold. Parmenides thought this could not happen: the coldness did not exist, then it did, so something came from nothing — which is impossible.\n\nAristotle's answer is that the coldness was not exactly nothing beforehand. It was there *potentially*, in a way other qualities were not. The coffee has a potential to grow cold, to stain the carpet, to wake you up. It has no potential to fuel a gasoline engine, to become chicken soup, or to turn into a squawking chicken. That the coffee has some potentials and lacks others shows that potentiality is a real feature of it.\n\nSo change is not something from nothing. It is the actualization of a potential — and because a merely potential coldness cannot do anything (only what is actual can act), something already actual must do the actualizing: the cool air, or the ice cubes you drop in.",
+   "source": "book"
+  },
+  {
+   "title": "The cup, the desk, and the floor: a hierarchical series you can see",
+   "body": "The coffee cup is three feet above the floor. Why? The desk holds it up. What holds the desk? The floor. The floor? The foundation. The foundation? The earth.\n\nNothing here is happening over time. Consider the whole arrangement at one instant and the dependence is still there. And notice what kind of dependence it is: the cup has no power of its own to hover three feet up; the desk has no power of its own to keep it there — it would fall to the earth too, if the floor were not holding it. Each intermediate member is borrowing.\n\nThat is why Feser says the desk, floor and foundation are *instruments*. Just as it is not the brush that paints a picture but the painter using it, so it is the earth holding up the cup, through the intermediaries. And an instrument only borrows: a series of pure borrowers, however long, never manufactures what is being borrowed.",
+   "source": "book"
+  },
+  {
+   "title": "The infinitely long paintbrush",
+   "body": "A paintbrush cannot move itself. Now imagine lengthening its handle. Two feet. Ten feet. A mile. Infinitely long.\n\nHas it acquired the ability to move itself? Obviously not. Length is not power. If the brush is actually going to move, there still has to be something outside the handle that has the built-in ability to move it.\n\nThis is the cleanest possible answer to ‘why can’t the regress just be infinite?’ For hierarchical series, an infinite number of members with no power of their own is exactly as powerless as one member with no power of its own. The same goes for an infinite stack of desks trying to hold up a cup: nothing in the stack ever supplies what none of them has.",
+   "source": "book"
+  },
+  {
+   "title": "The $20 bill: formally, virtually, eminently",
+   "body": "Suppose I give you $20. The effect is your having it, and I am the cause. The principle of proportionate causality says I cannot give what I do not in some way have. But there are three ways I might have it.\n\nI might have a $20 bill in my wallet and hand it over. What is in the effect was in the cause **formally** — I had the very same feature I caused in you.\n\nI might have no cash but $20 in the bank, and wire it so you can withdraw it. Then what is in the effect was in the total cause — me plus my account — **virtually**: not as an actual bill, but as a power to get one.\n\nOr I might have access to a Federal Reserve printing press and have a genuine bill run off on demand. Then it was in the total cause **eminently**: I had something causally more fundamental than a $20 bill, the power to make them.\n\nWhat this rules out is my giving you $20 when none of these is true. A cause cannot produce what it has no means of producing — and Feser stresses that this does not mean features are passed along like heirlooms. As one Thomistic writer puts it, a boy need not have a black eye to give one.",
+   "source": "book"
+  },
+  {
+   "title": "Lions, pterodactyls, and unicorns: the real distinction",
+   "body": "Find someone who has never heard of lions, pterodactyls or unicorns. Describe each one exactly: what it is, how it is built, how it lives. Give him a complete account of all three natures.\n\nNow ask: which of these exists, which used to exist and is extinct, and which never existed at all?\n\nHe cannot possibly say. Nothing in the descriptions settles it. But what a thing is belongs to its objective reality, and if a thing exists, its existence belongs to its objective reality too. So if essence and existence were not really two, then a complete grasp of the first would deliver the second. It does not. Hence what a thing is and the fact that it is are really distinct — which is the starting point of chapter 4.",
+   "source": "book"
+  },
+  {
+   "title": "The shelf that stays up for no reason at all",
+   "body": "I tell you the book has not fallen because it rests on the shelf. You ask why the shelf has not fallen. I answer: no reason. It just stays there. That is a brute fact.\n\nHave I explained the position of the book? Plainly not. The shelf, by hypothesis, has no tendency of its own to stay aloft; and something with no such tendency cannot impart one to the book. The ‘explanation’ was illusory all along.\n\nThe same goes for laws of nature. If law C is explained by law B, and B by law A, and A is a brute fact, then A has nothing to impart that could explain B or C. You cannot terminate a chain of explanation in something unexplained and still claim to have explained anything. That is chapter 5’s case against brute facts — and notice it is the same structural point as the cup on the desk.",
+   "source": "book"
+  },
+  {
+   "title": "The wobbly train and the borrowed torch",
+   "body": "Here are two pictures for the two kinds of series, if the cup and desk have not yet made it click.\n\n**The train.** A locomotive pulls a boxcar, which pulls another, which pulls another. Each car moves only because the car ahead is pulling it *right now*. Add ten thousand cars. Add infinitely many. If there is no locomotive — no car with an engine of its own — nothing moves, and the length of the train makes no difference whatever. That is a hierarchical series.\n\n**The torch.** A relay runner takes a lit torch and lights the next runner’s, who lights the next. Here, once a torch is lit it burns on its own. The first runner can go home, or die; the flame continues. Whether the relay had a beginning is a real question, but nothing about tonight's flame forces an answer. That is a linear series.\n\nAsk of any causal chain you meet: is this a train or a relay? The arguments in this book are always about trains.",
+   "source": "course"
+  },
+  {
+   "title": "Two questions about a song",
+   "body": "A song is playing from a speaker. There are two completely different questions you can ask.\n\n*Where did this song come from?* Someone wrote it in 1974, recorded it, and it was uploaded years later. That is a question about the past, and it has a historical answer. The songwriter can be long dead; the song plays on.\n\n*What is making the sound exist right now?* The speaker cone is vibrating; it does so because the amplifier drives it; the amplifier works because current flows; and so on. Cut any link and the sound stops instantly — not eventually, instantly.\n\nEvery time Feser asks what causes something, he is asking the second question, not the first. Beginners lose entire chapters by hearing the first. When you catch yourself thinking about history, stop and ask instead: what happens if I cut the power *now*?",
+   "source": "course"
+  },
+  {
+   "title": "Good wine and a good man: how analogy works",
+   "body": "‘This wine is still good.’ ‘George is a good man.’ The word is the same; the meaning is not. A good man is not merely un-spoiled, and good wine has no virtues.\n\nBut the two senses are not unrelated either, the way the bat in the attic and the bat in your hands are unrelated. In each case something is being called complete and well-functioning as the kind of thing it is. The relation is one of proportion: as unspoiled richness is to wine, so honesty and courage are to a person.\n\nThat middle position is analogy, and we use it constantly without noticing — a healthy person, a healthy diet, a healthy complexion. Classical theists say our words for God work the same way. Saying ‘God is good’ is a literal claim, truly said, using a word whose content is stretched, not duplicated and not abandoned.",
+   "source": "book"
+  },
+  {
+   "title": "The geometry textbook copied forever",
+   "body": "Leibniz asks you to imagine a geometry textbook that was copied from an earlier copy, which was copied from an earlier one, and so on infinitely into the past. Every individual copy is now fully explained: each came from the one before it.\n\nAnd yet: why does the series contain geometry at all, rather than cookery or nothing? Tracing copies backwards forever leaves the most important fact untouched.\n\nFeser uses this, along with a row of mirrors each reflecting the next and a series of sticks each moved by the next, to answer the charge that his arguments commit a fallacy of composition. From the fact that I can explain each item by the previous item, it simply does not follow that I have explained why there is any of it at all. If anyone is reasoning badly from parts to whole here, he argues, it is the critic.",
+   "source": "book"
+  },
+  {
+   "title": "Two sentences, one proposition",
+   "body": "Write ‘Snow is white’ on a whiteboard. Underneath, write ‘Schnee ist weiss.’ Two sentences — different letters, different language, different ink.\n\nBut they say the same thing. What is that thing? It is not the ink, since there are two sets of ink and one thing said. It is not your private thought, since your thought and mine are two separate mental acts while what we think is one and the same — that is why people separated by centuries and languages can think the same thought.\n\nNow erase both sentences. Did you make it false that snow is white? Of course not. Erase every sentence in every language expressing it, and still: snow is white.\n\nSo there is something real here — a *proposition* — that is neither a physical mark nor a human thought. That is the puzzle chapter 3 sets out to solve.",
+   "source": "book"
+  },
+  {
+   "title": "The chair that cannot assemble itself",
+   "body": "Your chair exists only because its legs, frame, seat and screws exist and are arranged chairwise. Scatter them across a field and there is no chair.\n\nNow ask: what puts them together? Not the chair. The chair can only do anything if it already exists, and it exists only given the arrangement. Explaining the arrangement by the chair would be a circle.\n\nAnd this is not just about assembly day. Consider the chair at this instant, decades after it was made: at this instant it exists only because those parts exist and hold together at this instant. Even a chair that had always existed would depend at every moment on its parts.\n\nSo something outside the composite must account for the union of its parts — and chapter 2 asks what accounts for *that*, until the regress reaches something with no parts at all.",
+   "source": "book"
+  }
+ ]
+}
