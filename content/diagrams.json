@@ -1011,5 +1011,456 @@
       "breaks": "It slides the time index off the effect and onto the cause. Those two sentences are not equivalent. God's single timeless act causes a world that has a history; it is not a series of acts strung out along that history, one per moment.",
       "reply": "Watch where the date sits. Saying God causes something to exist in 1961 is not saying that in 1961 God did something. Picture an author who sees a whole novel in one flash: inside the book chapter two follows chapter one, but he did not think chapter one first and chapter two later. In one act, God causes a world in which things happen at different times."
     }
+  ],
+  "ch6b": [
+    {
+      "id": "omnipotence-and-pseudo-tasks",
+      "title": "All-powerful — and what that does not include",
+      "caption": "Omnipotence means nothing possible lies outside his power. The famous 'can God do X?' puzzles all turn out to describe no task at all.",
+      "where": "Omnipotence: two routes to an all-powerful God (pp. 205–208)",
+      "kind": "compare",
+      "columns": [
+        {
+          "label": "Within his power",
+          "sub": "anything that could exist or occur",
+          "items": [
+            "Bringing any possible thing into being out of nothing",
+            "Keeping every existing thing in being at this instant",
+            "Every power anything else has, since all of it derives from him",
+            "Acting in the fullest possible way, since he exists that way"
+          ]
+        },
+        {
+          "label": "Not within his power",
+          "sub": "because there is no such power to have",
+          "items": [
+            "Making a round square",
+            "Making 2 and 2 equal 5",
+            "Making a stone too heavy for him to lift",
+            "Sinning, while being perfectly good"
+          ]
+        }
+      ],
+      "note": "None of these is a limitation. There is no such thing as the capacity to make a round square that God happens to lack — the words name nothing. Same with the stone: since a stone's rising is possible, God can cause any stone to rise, so 'a stone God cannot lift' is self-contradictory."
+    },
+    {
+      "id": "from-causing-to-knowing",
+      "title": "From cause of all things to knower of all things",
+      "caption": "Feser's route to omniscience runs through proportionate causality: everything in the effects must be in the cause somehow, and there is only one way left for it to be in him.",
+      "where": "Omniscience II: from intellect to knowledge of everything (pp. 210–212)",
+      "kind": "flow",
+      "nodes": [
+        {
+          "text": "Everything other than God depends on him at every instant",
+          "step": 1
+        },
+        {
+          "text": "Whatever is in an effect must be in its cause in some way",
+          "step": 2,
+          "note": "The principle of proportionate causality, from earlier in the chapter."
+        },
+        {
+          "text": "So every feature of every possible thing is somehow in God",
+          "step": 3,
+          "note": "Colours, shapes, chemical structures, nutritive powers — everything mineral, vegetable, animal, human or angelic."
+        },
+        {
+          "text": "Not as instances — he would then be one more thing to explain",
+          "step": 4,
+          "note": "If God merely were red and round, his redness and roundness would stand in need of explanation just as much as anything else's."
+        },
+        {
+          "text": "Universals exist in things, or in a mind — there is no third realm",
+          "step": 5,
+          "note": "Chapter 3 ruled out both nominalism and a Platonic realm of their own."
+        },
+        {
+          "text": "So they exist in God as concepts: God has intellect",
+          "step": 6
+        },
+        {
+          "text": "And states of affairs exist in him as propositions he thinks",
+          "step": 7,
+          "note": "Not just the concept cat, but the thought that the cat is on the mat — since he causes that too."
+        },
+        {
+          "text": "He cannot be mistaken, since he causes whatever is the case",
+          "step": 8,
+          "note": "There is no more reliable way to find out whether something is so than to be the one making it so."
+        },
+        {
+          "text": "Nothing falls outside those thoughts: he is omniscient",
+          "step": 9
+        }
+      ]
+    },
+    {
+      "id": "how-god-knows",
+      "title": "How God knows the world",
+      "caption": "Not by looking. The difference is what defuses both the block-universe worry and the free-will worry that follow.",
+      "where": "Omniscience III: how God knows — self-knowledge, time, and free will (pp. 212–215)",
+      "kind": "compare",
+      "columns": [
+        {
+          "label": "How we come to know",
+          "sub": "from outside, and over time",
+          "items": [
+            "We observe, and must wait for things to happen",
+            "We take the world in through sense organs",
+            "We learn — moving from not knowing to knowing",
+            "We forget, and the brain that carries it can fail"
+          ]
+        },
+        {
+          "label": "How God knows",
+          "sub": "by knowing himself as their cause",
+          "items": [
+            "He causes it, so there is nothing to wait for",
+            "He is incorporeal — there are no organs to look through",
+            "Learning is a change, and he is immutable",
+            "One timeless act of knowing himself as so acting"
+          ]
+        }
+      ],
+      "note": "Two worries dissolve here. God's knowing past and future in one act would force a block universe only if he knew them by observing — and he doesn't; a motionless hunter can know in one instant that he has fired, without the bullet being everywhere at once. And knowing what you will freely choose no more makes you choose it than watching you choose does."
+    },
+    {
+      "id": "privation-sorter",
+      "title": "Drill: is it a privation, or just an absence?",
+      "caption": "A thing is good so far as it realizes what its nature calls for, and bad so far as it fails to. Badness is therefore a missing good — not an extra ingredient. Sort eleven cases.",
+      "where": "Perfect goodness I: what goodness and badness are (pp. 216–219)",
+      "kind": "sorter",
+      "prompt": "Privation — a real badness — or simply something that isn't there?",
+      "buckets": [
+        "A privation (real badness)",
+        "Just an absence"
+      ],
+      "items": [
+        {
+          "text": "A triangle with one wavy, crooked side",
+          "bucket": 0,
+          "why": "A fully realized triangle has straight sides. This one is missing something its own nature calls for."
+        },
+        {
+          "text": "A triangle with no fourth side",
+          "bucket": 1,
+          "why": "Nothing is missing. A triangle was never supposed to have a fourth side."
+        },
+        {
+          "text": "A tree whose roots are too weak to draw up water",
+          "bucket": 0,
+          "why": "Sinking roots and drawing water are what a tree's nature calls for. Failing at them is a genuine defect."
+        },
+        {
+          "text": "A tree with no wings",
+          "bucket": 1,
+          "why": "A fully realized tree has no wings, so nothing is lacking in this one."
+        },
+        {
+          "text": "A human being who cannot see",
+          "bucket": 0,
+          "why": "Blindness is the absence of sight in a thing whose nature calls for sight. Notice it is an absence, not an added thing."
+        },
+        {
+          "text": "A human being who cannot see infrared light",
+          "bucket": 1,
+          "why": "No human sees infrared. This is not a failure to be what a human being is."
+        },
+        {
+          "text": "A dog that cannot do algebra",
+          "bucket": 1,
+          "why": "Dogs are not rational animals. Nothing proper to a dog is missing here."
+        },
+        {
+          "text": "A dog born with a malformed leg",
+          "bucket": 0,
+          "why": "Four working legs belong to what a dog is. This dog falls short of its own kind."
+        },
+        {
+          "text": "A desire for money, taken on its own",
+          "bucket": 1,
+          "why": "Wanting money is not bad in itself. In a murder for money, what is bad is the missing intention to seek it justly."
+        },
+        {
+          "text": "The ache you feel the day after a hard workout",
+          "bucket": 1,
+          "why": "Pain is not bad as such — it flags danger and damage. This one isn't even experienced as bad."
+        },
+        {
+          "text": "A sadist's pleasure at another's suffering",
+          "bucket": 0,
+          "why": "Desire aimed away from the concern for others that social animals need: a deformity of soul, as blindness is of the eye."
+        }
+      ]
+    },
+    {
+      "id": "divine-will-flow",
+      "title": "From a tree's inclination to the will of God",
+      "caption": "Will is rational appetite — inclination toward what one grasps as worth pursuing. Feser climbs from plants to God, then argues that at the top it is free.",
+      "where": "Will: from natural inclination to the divine will (pp. 223–224)",
+      "kind": "flow",
+      "nodes": [
+        {
+          "text": "A tree inclines to sink roots, with no awareness at all",
+          "step": 1
+        },
+        {
+          "text": "A dog consciously seeks food and water: sensory appetite",
+          "step": 2
+        },
+        {
+          "text": "We incline to what we grasp as worth pursuing: will",
+          "step": 3,
+          "note": "Rational appetite. We can conceptualize what we are after, and so pursue or refuse it for reasons."
+        },
+        {
+          "text": "So there is in God something answering to what we call will",
+          "step": 4
+        },
+        {
+          "text": "Though he need do nothing to realize his nature",
+          "step": 5,
+          "note": "He is not like something that never inclined at all, but like something whose realization is already complete. Call it the limit case of rational appetite."
+        },
+        {
+          "text": "He grasps every possible thing, and wills some of them to be",
+          "step": 6,
+          "note": "Lion and unicorn are both concepts in the divine intellect. One was willed into existence; the other was not."
+        },
+        {
+          "text": "Nothing outside him could compel him — all else depends on him",
+          "step": 7
+        },
+        {
+          "text": "Nothing inside him necessitates: unicorns were as possible as lions",
+          "step": 8
+        },
+        {
+          "text": "So the divine will is free",
+          "step": 9,
+          "note": "Easier to state negatively — nothing compels him, within or without — than to picture positively. Our own freedom is famously hard to picture too."
+        }
+      ]
+    },
+    {
+      "id": "known-truly-never-comprehended",
+      "title": "Known truly, never comprehended fully",
+      "caption": "Feser's position is neither 'we can say nothing' nor 'we have God figured out'. Both halves of this table are consequences of the same arguments.",
+      "where": "Incomprehensibility: known truly, never comprehended fully (pp. 229–232)",
+      "kind": "compare",
+      "columns": [
+        {
+          "label": "What we really do know",
+          "sub": "and it is genuine knowledge",
+          "items": [
+            "That he exists, and why — by arguments you can check",
+            "What he is not: not composite, not changeable, not in time",
+            "Positive attributes said analogically: power, knowledge, goodness",
+            "That God is to his goodness as a tree is to its goodness"
+          ]
+        },
+        {
+          "label": "What we cannot do",
+          "sub": "and the limit is principled, not lazy",
+          "items": [
+            "Break him into parts and see how they fit — he has none",
+            "Name his genus and specific difference — he falls under none",
+            "Keep a firm grip as the creaturely limits get stripped away",
+            "Expect better: this is the deepest level of reality there is"
+          ]
+        }
+      ],
+      "note": "The paradox is only apparent: God is hard to understand precisely because he is simple — 'simple' here meaning without parts, not easy. And this is what any attempt at ultimate explanation should look like. Physics also ends up saying strange things once it leaves the everyday world where our words were learned."
+    },
+    {
+      "id": "conservation-chain",
+      "title": "Why the world would blink out",
+      "caption": "Divine conservation: creation is not something that happened once. It is happening now, and nothing in the world has the resources to keep itself going.",
+      "where": "Conservation: creation at every moment, no existential inertia, no pantheism (pp. 232–234)",
+      "kind": "chain",
+      "series": "per se",
+      "links": [
+        {
+          "text": "This chair exists right now",
+          "role": "effect",
+          "note": "Not: it was made in a factory once. What makes it be, at this instant?"
+        },
+        {
+          "text": "…but it is a mixture of actuality and potentiality",
+          "role": "instrument",
+          "note": "And its essence — what a chair is — is one thing; its existing is another."
+        },
+        {
+          "text": "…so something must be actualizing its existence, now",
+          "role": "instrument"
+        },
+        {
+          "text": "…and nothing composite can do that for itself",
+          "role": "instrument",
+          "note": "Parts are only potentially combined until something combines them. Whatever does the combining cannot be one of the parts."
+        },
+        {
+          "text": "God, holding it in being at this very instant",
+          "role": "first",
+          "note": "And he is not the world: the world is composite, changing and contingent; he is simple, immutable and necessary. So this is not pantheism — nor panentheism, which would have the world changing him."
+        }
+      ],
+      "collapse": "Withdraw the bottom member and the world does not wind down or decay. It is simply not there, at that instant. That is what conservation means — and it is why 'existential inertia' has nothing to coast on."
+    },
+    {
+      "id": "three-views-of-divine-causality",
+      "title": "Occasionalism, concurrentism, mere conservationism",
+      "caption": "Does the sun really melt the ice? Three answers, and why Feser takes the middle one. The same principle — action follows being — rules out both extremes.",
+      "where": "Concurrence: between occasionalism and mere conservationism (pp. 234–238)",
+      "kind": "compare",
+      "columns": [
+        {
+          "label": "Occasionalism",
+          "sub": "only God ever causes anything",
+          "items": [
+            "The sun does not melt the ice; God does, when the sun is out",
+            "The cue ball does not move the eight ball; God does",
+            "Created things have no causal power, not even derived"
+          ]
+        },
+        {
+          "label": "Concurrentism",
+          "sub": "real causes, none of them independent",
+          "items": [
+            "The sun really melts the ice — and cannot do it without God",
+            "Like blue chalk: it makes the square blue, you make there be a square",
+            "Like the moon: the light is really its own, and all of it received"
+          ]
+        },
+        {
+          "label": "Mere conservationism",
+          "sub": "God keeps things going, then stands back",
+          "items": [
+            "God keeps the sun in being; the sun melts the ice on its own",
+            "Causal power owned outright rather than on loan",
+            "Tidier — and in effect a form of deism"
+          ]
+        }
+      ],
+      "note": "Occasionalism fails because action follows being: what truly does nothing would not truly exist — and you know at least that you exist, and that you are not God. Mere conservationism fails by the same principle run the other way: what could act independently of God could exist independently of him, which the proofs rule out. Both are like climbing a ladder carefully and then blasting it out from under you."
+    },
+    {
+      "id": "miracles-not-violations",
+      "title": "What a miracle actually is",
+      "caption": "Drop Hume's definition and the standard 'miracles are incoherent' argument has nothing to attack. Feser's alternative: beyond nature, never against it.",
+      "where": "Miracles I: why “violation of a law of nature” is the wrong definition (pp. 238–241)",
+      "kind": "flow",
+      "nodes": [
+        {
+          "text": "Hume's definition: a miracle is a violation of a law of nature",
+          "step": 1,
+          "note": "On which the sceptic's argument writes itself — evidence of a violation would just be evidence the 'law' was never a law."
+        },
+        {
+          "text": "But a law describes how a thing tends to act, given its nature",
+          "step": 2,
+          "note": "The laws of nature are the laws of natures. Water freezes at 32 °F because of what water is."
+        },
+        {
+          "text": "A tendency can be blocked, or its trigger absent, with no breach",
+          "step": 3,
+          "note": "Supercooled liquid water below freezing breaks no law; the disposition is there and simply does not manifest."
+        },
+        {
+          "text": "And if laws follow natures, they cannot be violated at all",
+          "step": 4,
+          "note": "Anything that reliably turned to mousse at 32 °F would not have been water in the first place."
+        },
+        {
+          "text": "So a miracle is not below nature but beyond it",
+          "step": 5,
+          "note": "A defect is sub-natural. A miracle is super-natural: nature raised to a power its own nature cannot account for. Only God can cause one."
+        },
+        {
+          "text": "Some miracles add: the loaves and fishes, a resurrection",
+          "step": 6
+        },
+        {
+          "text": "Some subtract: the furnace that does not burn",
+          "step": 7,
+          "note": "Not God forcing fire to act against its nature. He refrains from conserving and concurring, so the normal effect never arrives — a suspension of the law, not a breach of it."
+        },
+        {
+          "text": "And never an intervention: he is no cause alongside causes",
+          "step": 8,
+          "note": "You cannot intervene in what you are doing yourself. Not a machinist tinkering with a faulty machine, but a musician improvising on a score he is already playing."
+        }
+      ]
+    },
+    {
+      "id": "anatomy-paradox-of-the-stone",
+      "title": "Objection anatomy: the paradox of the stone",
+      "caption": "The classic schoolyard version of the problem of omnipotence. It dissolves once you ask whether the phrase describes anything.",
+      "where": "The paradox of the stone",
+      "kind": "anatomy",
+      "says": "Can God make a stone too heavy for him to lift? If he can, there's something he can't do — lift it. If he can't, there's something he can't do — make it. Either way, something is beyond him, so he isn't omnipotent.",
+      "assumes": [
+        "That 'a stone too heavy for God to lift' names a possible thing",
+        "That failing to do anything we can describe is always a lack of power"
+      ],
+      "breaks": "The description is self-contradictory, exactly like 'round square'. A stone's rising is something that could occur, so it is something God can cause — for any stone whatever. So there is no such object as a stone he could not lift, and therefore no such power as the power to make one.",
+      "reply": "Your question has the same shape as 'can God draw a square circle?' Stringing words together doesn't automatically name a task. Since a stone's rising is possible, God can make any stone rise — so 'a stone God can't lift' describes nothing at all. He isn't failing at it; there's no it. The same goes for sinning: a perfectly good being that sins is a contradiction, not a feat he's too weak for."
+    },
+    {
+      "id": "anatomy-foreknowledge-free-will",
+      "title": "Objection anatomy: foreknowledge and free will",
+      "caption": "Two confusions bundled into one objection — one about knowing, one about causing. Feser's author analogy handles the second.",
+      "where": "Infallible foreknowledge rules out free will",
+      "kind": "anatomy",
+      "says": "If God infallibly knows I'll go to work tomorrow, then I can't do otherwise — otherwise he'd have been wrong, and he can't be wrong. So the choice isn't free. And it's worse than that: he's the cause of tomorrow, so he's making me do it.",
+      "assumes": [
+        "That someone's knowing what you do has some grip on your doing it",
+        "That God's causing you is like one thing inside the world pushing another"
+      ],
+      "breaks": "Knowing is not making. My knowing you are sitting in the next room, however certain I am, does nothing to your having freely sat there — and moving my knowledge to the future changes nothing about that. As for causing: God is not a cause among causes. He is not a character in the story; he is its author.",
+      "reply": "Suppose I watch you on a live feed and see you take the chocolate. My certainty didn't reach in and choose for you. Now shift my knowledge a day earlier — it still doesn't touch your choosing. And on causing: a novelist can write a story in which a character freely plots a murder, and nobody says 'he only did it because the author wrote it that way.' You would say that about a hypnotist inside the story, interfering with another character. The author is not a character at all."
+    },
+    {
+      "id": "anatomy-evil-must-be-in-god",
+      "title": "Objection anatomy: must evil be in God?",
+      "caption": "The objection turns Feser's own principle against him. The answer is what kind of thing badness is — and this is how the problem of evil is handled in this chapter.",
+      "where": "By proportionate causality, evil must be in God",
+      "kind": "anatomy",
+      "says": "You've insisted a cause must contain whatever is in its effects. The world is full of evil. So by your own principle, evil is in God — which is the opposite of what you want to conclude.",
+      "assumes": [
+        "That evil is a positive item in the world, like heat or mass",
+        "That anything we can name about an effect must be in the cause"
+      ],
+      "breaks": "The principle is about what is there — positive features. Badness is a privation: the absence of a good that a thing of that kind should have had. So making a world with evil in it is not making two sorts of stuff. It is making good things while refraining from making some of the good that could have been there.",
+      "reply": "Proportionate causality says what is in the effect is in the cause. Evil isn't in the effect in that sense — it is precisely what isn't there. I draw two sides of a triangle and stop: the defect isn't an extra thing I put in, it's what I left out. And leaving it out needn't be a defect in me — I might be using the unfinished triangle to teach something. Courage cannot exist unless people face real danger; a world containing that good must carry that badness too."
+    },
+    {
+      "id": "anatomy-existential-inertia",
+      "title": "Objection anatomy: existential inertia",
+      "caption": "The most serious naturalist reply to conservation. Feser's answer has two halves: nobody says what the feature is, and nothing composite could have it.",
+      "where": "Existential inertia: things might just keep existing",
+      "kind": "anatomy",
+      "says": "Why think anything needs holding in being? Once a thing exists it presumably just keeps existing under its own steam until something destroys it — the way a moving body keeps moving. Conservation is an extra assumption doing no work.",
+      "assumes": [
+        "That continuing to exist needs no more explaining than continuing to move",
+        "That some contingent thing could have this feature without our being told what gives it"
+      ],
+      "breaks": "Two problems. Its proponents never say what it is about a material object that could confer such a remarkable power. And nothing composite could have it in any case: whatever is a mixture of act and potency, or has an essence distinct from its existence, is merely potential until something actualizes it — now, not once upon a time.",
+      "reply": "Tell me what in the chair confers that power. It's a mixture of what it is and what it could be, and being a chair isn't the same as existing — so at this instant something has to be making it be rather than not be. 'It just keeps going' isn't an answer to that argument; it's a decision not to engage with it. The same reply blocks 'maybe the world itself is the necessary being': the world is composite, changing and contingent, and nothing like that can be necessary."
+    },
+    {
+      "id": "anatomy-immutable-god-cannot-love",
+      "title": "Objection anatomy: can an unchanging God love?",
+      "caption": "It feels like the strongest objection in the chapter, because it appeals to something we all recognize. The reply asks what love essentially is.",
+      "where": "An immutable God cannot love",
+      "kind": "anatomy",
+      "says": "To love is to be moved by the one you love — a parent's worry when the child is in distress, a lover who can't stop thinking about her. Being moved is being changed. So an unchanging God is emotionally inert, and cannot love anyone.",
+      "assumes": [
+        "That love essentially consists in feelings the beloved produces in you",
+        "That because our loving involves being affected, all loving must"
+      ],
+      "breaks": "A fallacy of accident again. What is essential to love is willing what is good for the beloved. That is exactly why we call love shallow when it consists only of feelings that wax and wane, and why tough love and love of enemies count as love at all. Love belongs to the will, which is active, not to the emotions, which are passive.",
+      "reply": "Ask what makes love serious rather than sentimental: willing the other's good even on the days you don't feel it. That's the core; the feelings are what it's like in creatures who have nervous systems. God wills things into existence, and to create a tree is to will that it have what is good for a tree — roots, water, light. That is loving it, in the most active sense there is."
+    }
   ]
 }
