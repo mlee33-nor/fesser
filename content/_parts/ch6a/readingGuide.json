@@ -1,0 +1,52 @@
+{
+  "readingGuide": {
+    "beforeYouRead": "The first five chapters of Feser’s book each argued, by a different route, that everything depends on an ultimate cause. This chapter asks the obvious follow-up questions: **what must that cause be like**, and **are the five arguments pointing to the same thing?** Feser’s answer is that the cause must be one, without parts, unchanging, not physical, outside time, and incapable of not existing — the traditional idea of God — and that all five arguments reach this same God.\n\nWhy care? Because most everyday objections to belief in God are really about God’s nature: “Why only one God?” “Who made God?” “How can an unchanging God do anything?” “Isn’t God just a big person in the sky?” This chapter answers each of these directly. It also shows why the traditional idea of God is very different from the “sky person” many skeptics (and many believers) picture.\n\nWhat will you be asked to accept? Mainly three general rules, which Feser defends before using: (1) a cause can’t give what it doesn’t in some way have; (2) what a thing does depends on what it is; and (3) some words apply to very different things in related but not identical senses — the way you can “see” a tree and “see” the answer to a puzzle. With these in hand, Feser works out God’s characteristics one by one, and replies to philosophers who have objected.\n\nReassurance about the hard parts: pages 176–184 (on how words apply to God) and 184–189 (on why there can be only one God) are the most abstract. It is normal to need two passes. Use this module’s plain summaries first, then read, then return to the deep dives. The later sections (on change, matter, time, and necessity) are shorter and more concrete, with memorable examples — a man becoming “shorter” than his brother without shrinking, an author who conceives a whole story at once, a math equation erased from a chalkboard. You don’t need any prior philosophy: every technical term you meet is in this module’s vocabulary list.",
+    "knowFirst": [
+      { "term": "Actuality and potentiality", "plain": "What a thing actually is right now versus what it really could become. Cold coffee is actually cool and potentially hot." },
+      { "term": "Principle of proportionate causality (PPC)", "plain": "A cause can’t give what it doesn’t have in some way — though it may “have” it as money in the bank or as the power to make it, not just in hand." },
+      { "term": "Agere sequitur esse", "plain": "Latin for “action follows being”: what a thing does depends on what it is." },
+      { "term": "Analogical predication", "plain": "Using a word in related but not identical senses, like “good wine” and “a good person.” It is still literal, not a figure of speech." },
+      { "term": "Pure actuality (actus purus)", "plain": "Being fully real with no untapped potential at all. Chapter 1 argued the ultimate cause must be like this." },
+      { "term": "Divine simplicity", "plain": "The idea that God has no parts of any kind — not physical pieces, and not even distinct ingredients like separate power and knowledge." },
+      { "term": "Cambridge change / Cambridge property", "plain": "A new truth about something that involves no change in it, like becoming “shorter than your brother” because he grew." },
+      { "term": "Fallacy of accident", "plain": "Assuming that a feature that usually goes along with something is essential to it, like assuming all possible professors must be under nine feet tall." },
+      { "term": "Timeless eternity", "plain": "Existing outside time altogether, not just for an endlessly long time." },
+      { "term": "Contingent vs. necessary being", "plain": "A contingent thing could fail to exist; a necessary being can’t fail to exist because of what it is." }
+    ],
+    "questionsToHold": [
+      "What exactly did each of the five proofs conclude, and how much does each conclusion already tell us about the cause’s nature?",
+      "Can a cause really contain something without resembling it? Where in the chapter does that matter?",
+      "How can we say true things about a God who is utterly unlike anything we experience?",
+      "What makes two things two — and why would that rule out a second God?",
+      "Why does Feser think that a God made of parts wouldn’t really be God at all?",
+      "How can something act and live without ever changing?",
+      "What’s the difference between existing forever and existing outside time?"
+    ],
+    "map": [
+      { "pages": "169", "section": "Opening (recap of the five proofs)", "what": "A one-page summary of the five arguments and the plan for the chapter: first general principles, then God’s attributes.", "difficulty": 1, "tip": "Use it to check you remember each proof’s conclusion; jot them in a list you can refer back to." },
+      { "pages": "170–172", "section": "The principle of proportionate causality", "what": "The rule that a cause can’t give what it lacks, the $20 illustration of formal, virtual, and eminent presence, and replies to Cottingham’s sponge-cake and “triviality” objections.", "difficulty": 2, "tip": "Slow down on the $20 example — the three modes return throughout. The quoted passages from Coffey and Aquinas are worth rereading." },
+      { "pages": "172–174", "section": "The principle of proportionate causality (continued)", "what": "Naturalists like Churchland rely on the principle; evolution respects it once genes, mutation, and environment are counted together.", "difficulty": 1, "tip": "Read quickly; the point is that the principle is shared ground, not that evolution needs God." },
+      { "pages": "174–176", "section": "Agere sequitur esse", "what": "“Action follows being,” its link to natures (formal causes), Aquinas’ soul argument, and Searle’s critique of property dualism.", "difficulty": 2, "tip": "Don’t get stuck on the philosophy-of-mind dispute; Feser explicitly doesn’t settle it. Note footnote 10 on the puppet." },
+      { "pages": "176–180", "section": "The analogy of being", "what": "Univocal, equivocal, and analogical uses of words; attribution vs. proportionality; why “being” isn’t a genus; seeing a tree vs. seeing a theorem.", "difficulty": 3, "tip": "The hardest stretch. Read it twice and make a three-row table (attribution / proper proportionality / metaphor) with Feser’s examples." },
+      { "pages": "180–184", "section": "The analogy of being (continued)", "what": "The seven-step argument that being is analogical, its defense against Parmenides and Heraclitus, and why God-talk must be analogical rather than purely negative or equivocal.", "difficulty": 3, "tip": "Number the seven premises in the margin. The fill-in-the-blank passage about “power” (p. 183) is the heart of the section." },
+      { "pages": "184–187", "section": "The divine attributes: Unity", "what": "Closing the loophole of potential activity, then the argument that nothing could make a second purely actual being.", "difficulty": 3, "tip": "Focus on the question “what makes two things two?” Read footnote 17 — it closes an important loophole." },
+      { "pages": "187–189", "section": "Unity (continued)", "what": "Why pure actuality, simplicity, subsistent existence, and necessity entail each other, so all five proofs reach the same God.", "difficulty": 2, "tip": "Draw arrows between the four descriptions as you read each “if and only if.”" },
+      { "pages": "189–191", "section": "Simplicity", "what": "Why simplicity is inseparable from God’s uniqueness and ultimacy, the Zeus/Odin illustration, the tradition that held it, and the rise of “theistic personalism.”", "difficulty": 2, "tip": "Mark the Zeus-and-Odin sentence; it’s the most quotable illustration in the chapter." },
+      { "pages": "191–196", "section": "Simplicity (continued)", "what": "Replies to Plantinga (God as a “property”) and Morris (necessary vs. contingent properties), using analogy, the essence/property/accident distinctions, and Cambridge properties.", "difficulty": 3, "tip": "The Plantinga discussion is long; keep a list of his three assumptions. Footnotes 27 and 32 add important replies." },
+      { "pages": "197–199", "section": "Immutability", "what": "Why God can’t change, why creating is only a Cambridge change, and why acting and living don’t require change (the nine-foot professor).", "difficulty": 2, "tip": "Connect back to the Socrates–Plato example from p. 196 before reading." },
+      { "pages": "199–200", "section": "Immateriality and incorporeality", "what": "God isn’t material on either an Aristotelian or an everyday-physics view of matter.", "difficulty": 1, "tip": "Short and straightforward; notice the point about fundamental particles." },
+      { "pages": "200–202", "section": "Eternity", "what": "God neither begins nor ends, and is timeless rather than merely everlasting; replies to the temporal-causation and simultaneity objections (the author analogy).", "difficulty": 2, "tip": "Pause on the sentence distinguishing “God causes X to exist at t1” from “at t1 God causes X.”" },
+      { "pages": "202–205", "section": "Necessity", "what": "Replies to the claim that necessity is only linguistic (Findlay, Russell) and to Schrader’s imagined empty world.", "difficulty": 2, "tip": "The chalkboard example on p. 204 makes the key point; the last page (205) explains Feser’s method for knowing what is necessary." }
+    ],
+    "afterReading": [
+      "Without looking, list the six attributes derived in this half of the chapter and give a one-sentence reason for each.",
+      "Explain the $20 example’s three modes to someone else, then say why the sponge cake isn’t a counterexample.",
+      "Write the seven steps of the argument that being is analogical in your own words.",
+      "Answer out loud: “Why can’t there be two gods?” in under a minute.",
+      "State Plantinga’s objection and Feser’s reply in three sentences.",
+      "Give your own example of a Cambridge change and explain how it helps with creation.",
+      "Explain the difference between God’s existing forever and God’s existing outside time, using the author analogy.",
+      "Take the module quiz and note which sections you missed; reread those pages."
+    ]
+  }
+}

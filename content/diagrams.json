@@ -1,0 +1,633 @@
+{
+  "ch1": [
+    {
+      "id": "actuality-vs-potentiality",
+      "title": "Actuality and potentiality, side by side",
+      "caption": "The one distinction the whole proof runs on. Actuality is how a thing already is; potentiality is the range of ways it could be but isn't yet.",
+      "where": "Aristotle’s answer: actuality and potentiality",
+      "kind": "compare",
+      "columns": [
+        {
+          "label": "Actuality",
+          "sub": "the way a thing already is, right now",
+          "items": [
+            "The coffee is actually hot — steaming at 90 °C",
+            "The ball is actually round and actually red",
+            "You are actually awake, actually reading this line",
+            "Only what is actual can do anything to anything"
+          ]
+        },
+        {
+          "label": "Potentiality",
+          "sub": "the ways it could be, but isn't yet",
+          "items": [
+            "The coffee could go cold — it really can do that",
+            "The ball could be squashed flat, or could bounce",
+            "You could learn Greek; you haven't yet",
+            "A potential, just as potential, does nothing at all"
+          ]
+        }
+      ],
+      "note": "A potential is not nothing: the coffee can grow cold but cannot turn into chicken soup, and that difference is real. But a potential is not yet something either — so it cannot make itself actual. That single point is the hinge of the whole argument."
+    },
+    {
+      "id": "act-or-potency-sorter",
+      "title": "Drill: actuality or potentiality?",
+      "caption": "Eleven everyday items. Decide whether each names how something already is, or a way it merely could be.",
+      "where": "Aristotle’s answer: actuality and potentiality",
+      "kind": "sorter",
+      "prompt": "Is this an actuality or a potentiality?",
+      "buckets": [
+        "Actuality",
+        "Potentiality"
+      ],
+      "items": [
+        {
+          "text": "The rubber ball's roundness",
+          "bucket": 0,
+          "why": "It is round right now. That is simply how the ball actually is."
+        },
+        {
+          "text": "The rubber ball's squashability",
+          "bucket": 1,
+          "why": "Nothing is squashed yet. It names a way the ball could be if something squashed it."
+        },
+        {
+          "text": "The heat of the coffee that is steaming in front of you",
+          "bucket": 0,
+          "why": "The heat is there, doing work — warming the cup, rising as steam."
+        },
+        {
+          "text": "The coldness the same coffee will have in an hour",
+          "bucket": 1,
+          "why": "Not nothing — this coffee really can cool — but not real yet either."
+        },
+        {
+          "text": "The acorn lying in your palm",
+          "bucket": 0,
+          "why": "It is actually an acorn. Whatever else it might become, it is this now."
+        },
+        {
+          "text": "The oak tree that acorn could grow into",
+          "bucket": 1,
+          "why": "A genuine potential of the acorn, and not of a pebble — but no oak exists yet."
+        },
+        {
+          "text": "Your ability to speak a language you have never studied",
+          "bucket": 1,
+          "why": "You could learn it. Until you do, the ability is only potential."
+        },
+        {
+          "text": "Your understanding of this sentence as you read it",
+          "bucket": 0,
+          "why": "It is happening. An actual act of understanding, not a mere capacity."
+        },
+        {
+          "text": "The flame on a match that is already lit",
+          "bucket": 0,
+          "why": "Actually burning, and able to set other things alight."
+        },
+        {
+          "text": "An unstruck match's capacity to start a fire",
+          "bucket": 1,
+          "why": "Real, but merely potential — which is why the match cannot light itself."
+        },
+        {
+          "text": "The statue still hidden inside the uncarved block of marble",
+          "bucket": 1,
+          "why": "The marble can be carved into it. Until a sculptor acts, there is no statue."
+        }
+      ]
+    },
+    {
+      "id": "what-change-is",
+      "title": "What change turns out to be",
+      "caption": "Parmenides argued that change is impossible because it would mean something coming from nothing. Aristotle's reply rescues change — and hands us the tool the proof needs.",
+      "where": "Stage 1: Change is real, and cannot coherently be denied",
+      "kind": "flow",
+      "nodes": [
+        {
+          "text": "The coffee is hot; its coldness does not exist",
+          "step": 1
+        },
+        {
+          "text": "So (says Parmenides) the coldness is nothing at all",
+          "step": 2
+        },
+        {
+          "text": "And nothing cannot become something",
+          "step": 3,
+          "note": "So Parmenides concludes that the coffee cannot really grow cold, and that change of any kind is an illusion."
+        },
+        {
+          "text": "But no one can coherently believe that",
+          "step": 4,
+          "note": "Following his argument from premise to conclusion — being unconvinced, then convinced — is itself a change. Denying change takes changing your mind."
+        },
+        {
+          "text": "And the coldness was never simply nothing",
+          "step": 5,
+          "note": "This coffee can grow cold; it cannot fuel a car or turn into chicken soup. Something in it marks off the first from the others."
+        },
+        {
+          "text": "It was there potentially, though not yet actually",
+          "step": 6
+        },
+        {
+          "text": "So change is a potential in a thing being made actual",
+          "step": 7,
+          "note": "Nothing comes from nothing — because a potential is not nothing."
+        }
+      ]
+    },
+    {
+      "id": "principle-of-causality",
+      "title": "Why change needs a changer",
+      "caption": "The principle of causality is not a guess from many observed cases. It falls straight out of what change was just shown to be.",
+      "where": "Change requires a changer: the principle of causality",
+      "kind": "flow",
+      "nodes": [
+        {
+          "text": "Change is a potential being made actual",
+          "step": 1
+        },
+        {
+          "text": "A potential, just as potential, does nothing",
+          "step": 2,
+          "note": "The coffee's merely potential coldness cannot cool anything — that is exactly what being merely potential means."
+        },
+        {
+          "text": "Only what is already actual can do anything",
+          "step": 3
+        },
+        {
+          "text": "So nothing can actualize its own potential",
+          "step": 4,
+          "note": "It would have to be actual already in the very respect in which it is only potential."
+        },
+        {
+          "text": "Whatever goes from potential to actual is actualized by something already actual",
+          "step": 5,
+          "note": "This is the principle of causality. The cool air already actually cool, the ice cube already actually cold."
+        },
+        {
+          "text": "Note the claim is NOT 'everything has a cause'",
+          "step": 6,
+          "note": "It is narrower: whatever is actualized has an actualizer. Remember this when someone asks what caused God."
+        }
+      ]
+    },
+    {
+      "id": "per-accidens-chain",
+      "title": "A linear (per accidens) series",
+      "caption": "The familiar kind of causal chain, stretching backwards in time. Each member has its own causal power, so the earlier ones can vanish and the rest carries on.",
+      "where": "Linear series stretching back in time",
+      "kind": "chain",
+      "series": "per accidens",
+      "links": [
+        {
+          "text": "The coffee grows cold",
+          "role": "effect",
+          "note": "The cool air around it is drawing the heat away."
+        },
+        {
+          "text": "…because the air in the room is cool",
+          "role": "effect",
+          "note": "And the air keeps its coolness for a good while all by itself."
+        },
+        {
+          "text": "…because the air conditioner cooled it",
+          "role": "effect",
+          "note": "It goes on cooling whether or not anyone is still in the house."
+        },
+        {
+          "text": "…because you pressed the button an hour ago",
+          "role": "effect",
+          "note": "You could have walked out or dropped dead a second later; the cooling would carry on regardless."
+        },
+        {
+          "text": "…because the sun had made the room uncomfortable",
+          "role": "effect"
+        },
+        {
+          "text": "…and so on backwards, perhaps with no beginning at all",
+          "role": "effect",
+          "note": "Aristotle himself thought the world had always been here. The proof does not need a first moment, and does not claim one."
+        }
+      ],
+      "collapse": "Pull the earliest member out and nothing greys out: each link already has its power built in and keeps working without its predecessor. That is why a series like this needs no first member."
+    },
+    {
+      "id": "per-se-chain",
+      "title": "A hierarchical (per se) series",
+      "caption": "The cup, the desk, the floor, the foundation, the earth — all at once. Here every link but the last is only passing along a power it does not have on its own.",
+      "where": "The hierarchical series: cup, desk, floor, earth",
+      "kind": "chain",
+      "series": "per se",
+      "links": [
+        {
+          "text": "The cup sits three feet above the floor",
+          "role": "effect",
+          "note": "Its potential to be up there is being actualized — right now, not at some past date."
+        },
+        {
+          "text": "…only because the desk is holding it up",
+          "role": "instrument",
+          "note": "A desk has no power of its own to hold anything aloft; it would fall too."
+        },
+        {
+          "text": "…only because the floor is holding the desk up",
+          "role": "instrument"
+        },
+        {
+          "text": "…only because the foundation is holding the floor up",
+          "role": "instrument"
+        },
+        {
+          "text": "…only because the earth is holding the foundation up",
+          "role": "first",
+          "note": "Within this everyday series the earth acts as the 'first' member: it holds without being held. Feser notes even the earth is not first in the strict sense — that comes later."
+        }
+      ],
+      "collapse": "Take the earth away and every link above it goes slack in the same instant. The desk and floor were never lifting anything on their own; they were instruments, like a brush in a painter's hand."
+    },
+    {
+      "id": "per-se-or-per-accidens-sorter",
+      "title": "Drill: which kind of series is this?",
+      "caption": "The test is not 'is it simultaneous?' but 'does each member have its causal power on loan?' Twelve real examples to sort.",
+      "where": "Taking stock: the hierarchical series is more fundamental",
+      "kind": "sorter",
+      "prompt": "Hierarchical (per se) or linear (per accidens)?",
+      "buckets": [
+        "Hierarchical (per se)",
+        "Linear (per accidens)"
+      ],
+      "items": [
+        {
+          "text": "A train of carriages, each pulled by the one ahead, engine at the front",
+          "bucket": 0,
+          "why": "No carriage pulls under its own steam. Uncouple the engine and the whole train stops at once."
+        },
+        {
+          "text": "A father, his father, and his father before him",
+          "bucket": 1,
+          "why": "A man can father children long after his own father is dead. The power to beget is his own, not borrowed."
+        },
+        {
+          "text": "A hand moving a stick that pushes a stone",
+          "bucket": 0,
+          "why": "The stick pushes only while the hand pushes it. Its power is borrowed moment by moment."
+        },
+        {
+          "text": "A chandelier hanging from a chain fixed to the ceiling",
+          "bucket": 0,
+          "why": "The chain holds nothing by itself. Cut the ceiling fixture and chain and chandelier fall together."
+        },
+        {
+          "text": "Your mind being kept in existence at this very instant",
+          "bucket": 0,
+          "why": "Whatever holds you in being has to be doing it now. A cause that finished its work centuries ago would not keep you here."
+        },
+        {
+          "text": "A shove that topples the first of a hundred dominoes",
+          "bucket": 1,
+          "why": "Sweep the shover away and the dominoes keep falling. Each has its own weight and momentum."
+        },
+        {
+          "text": "Your grandmother taught your mother a recipe, who taught you",
+          "bucket": 1,
+          "why": "You can cook it tonight with both of them gone. The knowledge is now yours."
+        },
+        {
+          "text": "A motor turning a gear, which turns a gear, which turns a gear",
+          "bucket": 0,
+          "why": "Every gear turns only while the motor drives the train of them. Cut the power and all stop together."
+        },
+        {
+          "text": "The air conditioner that cooled the air that cooled your coffee",
+          "bucket": 1,
+          "why": "Once the air is cool it goes on cooling the coffee even after the unit is unplugged."
+        },
+        {
+          "text": "A painter, a brush, and paint going onto canvas",
+          "bucket": 0,
+          "why": "It is not the brush that paints, but the painter using it. The brush is an instrument here and now."
+        },
+        {
+          "text": "An oak grown from an acorn dropped by an older oak",
+          "bucket": 1,
+          "why": "The parent tree can be firewood by now. This oak grows by its own nature."
+        },
+        {
+          "text": "The subatomic particles making your atoms be atoms right now",
+          "bucket": 0,
+          "why": "Not a story about the past: it is what makes your body be a body at this instant, and it depends on deeper levels in turn."
+        }
+      ]
+    },
+    {
+      "id": "existence-here-and-now",
+      "title": "From change to existence: what holds the coffee in being?",
+      "caption": "The same hierarchical pattern, but now about existing rather than about location. Not 'how did the coffee get made?' but 'what keeps it being coffee at this instant?'",
+      "where": "From change to existence: what keeps the coffee in being right now?",
+      "kind": "chain",
+      "series": "per se",
+      "links": [
+        {
+          "text": "The coffee exists, here and now",
+          "role": "effect",
+          "note": "Brewing it this morning explains how it got here, not what keeps it in being at this moment."
+        },
+        {
+          "text": "…only because the water in it exists now",
+          "role": "instrument"
+        },
+        {
+          "text": "…only because these atoms are bonded as water now",
+          "role": "instrument",
+          "note": "The very same matter has the potential to be loose hydrogen and oxygen instead. Why is the water potential the one being actualized?"
+        },
+        {
+          "text": "…only because subatomic parts compose those atoms now",
+          "role": "instrument",
+          "note": "Naming a deeper particle only moves the question down a level; it never answers it."
+        },
+        {
+          "text": "Something that actualizes without being actualized",
+          "role": "first",
+          "note": "It cannot merely happen to lack a cause. Having no potential for existence at all, there is nothing in it that could need actualizing. Pure actuality."
+        }
+      ],
+      "collapse": "Remove the bottom member and there is no coffee, no water, no atoms — not eventually, but at that very instant. Everything above was borrowing its existence."
+    },
+    {
+      "id": "no-infinite-per-se-regress",
+      "title": "Why a hierarchical series cannot run on forever",
+      "caption": "Not because infinity is impossible — Feser allows infinite series elsewhere — but because borrowers cannot lend what none of them owns.",
+      "where": "Why a hierarchical regress can’t be infinite — and two misfiring objections",
+      "kind": "flow",
+      "nodes": [
+        {
+          "text": "In a per se series every member but the first has borrowed power",
+          "step": 1
+        },
+        {
+          "text": "Borrowed power has to be borrowed from something",
+          "step": 2
+        },
+        {
+          "text": "Adding more borrowers never produces a lender",
+          "step": 3,
+          "note": "A paintbrush cannot move itself, and it would be no more able to if the handle were infinitely long. Length is beside the point."
+        },
+        {
+          "text": "Mirrors reflecting mirrors forever still need a face",
+          "step": 4,
+          "note": "Otherwise there are images of nothing. The face supplies content it did not get from another mirror."
+        },
+        {
+          "text": "So the series needs a member whose power is built in",
+          "step": 5,
+          "note": "'First' here means non-derived, not earliest. It is first the way the painter is first, not the way 1 is first in 1, 2, 3."
+        },
+        {
+          "text": "Misfire 1: 'but infinite mathematical series exist'",
+          "step": 6,
+          "note": "True and irrelevant — no instrumental causes there, indeed no causes at all. Aristotelians never banned infinite series as such."
+        },
+        {
+          "text": "Misfire 2: 'but the universe may be beginningless'",
+          "step": 7,
+          "note": "Also allowed. That is a claim about a linear series in time, and this argument never needed a beginning."
+        }
+      ]
+    },
+    {
+      "id": "stage-1-flow",
+      "title": "Stage 1, end to end",
+      "caption": "The whole first half of the proof in nine steps, from a cooling cup of coffee to a purely actual actualizer.",
+      "where": "The unactualized actualizer",
+      "kind": "flow",
+      "nodes": [
+        {
+          "text": "Change is real — denying it is itself a change of mind",
+          "step": 1
+        },
+        {
+          "text": "Change is a potential being made actual",
+          "step": 2
+        },
+        {
+          "text": "No potential actualizes itself; only what is actual actualizes",
+          "step": 3
+        },
+        {
+          "text": "Anything that changes must exist in order to change",
+          "step": 4,
+          "note": "Nonexistent coffee cannot cool, or do anything else."
+        },
+        {
+          "text": "Its existing at this moment is itself a potential being actualized",
+          "step": 5
+        },
+        {
+          "text": "So right now something is actualizing its existence",
+          "step": 6
+        },
+        {
+          "text": "That actualizer is either being actualized in turn, or purely actual",
+          "step": 7
+        },
+        {
+          "text": "This series is hierarchical, so it cannot regress forever",
+          "step": 8
+        },
+        {
+          "text": "So there is a purely actual actualizer — no potentiality at all",
+          "step": 9,
+          "note": "An unactualized actualizer: Aristotle's Unmoved Mover, stated precisely."
+        }
+      ]
+    },
+    {
+      "id": "stage-2-attributes-tree",
+      "title": "Stage 2: everything that follows from pure actuality",
+      "caption": "Each attribute is derived the same way — assume God lacked it, and you find yourself attributing an unrealized potential to something that has none.",
+      "where": "Stage 2: Why call it God? Immutability, eternity, immateriality",
+      "kind": "tree",
+      "root": {
+        "text": "A purely actual actualizer",
+        "note": "Nothing in it is merely potential. There is no unrealized potential anywhere in it to be found — that single fact does all the work below."
+      },
+      "branches": [
+        {
+          "text": "Immutable",
+          "why": "To change is to have a potential actualized. It has no potentials, so there is nothing in it that could change."
+        },
+        {
+          "text": "Eternal — outside time",
+          "why": "Existing in time entails being changeable. It cannot change, so it does not exist within time: no beginning, no end, no before and after."
+        },
+        {
+          "text": "Immaterial",
+          "why": "To be material is to be changeable and in time. It is neither, so it is not made of matter."
+        },
+        {
+          "text": "Incorporeal",
+          "why": "A body is a material thing, and this is not material, so it has no body of any kind."
+        },
+        {
+          "text": "One",
+          "why": "Two of a kind need something to tell them apart, and any difference means one has what the other lacks — an unrealized potential. There can be no second."
+        },
+        {
+          "text": "Perfect",
+          "why": "An imperfection is a privation: some potential a thing should have realized and hasn't. There are no unrealized potentials here."
+        },
+        {
+          "text": "Fully good",
+          "why": "A thing is good insofar as it realizes the potentials of its nature, bad insofar as it fails to. Nothing is left unrealized, so nothing is deficient."
+        },
+        {
+          "text": "Omnipotent",
+          "why": "To have power is to be able to actualize potentials. Every actualizing power anywhere traces back to this one source, so it has all power there is."
+        },
+        {
+          "text": "Intelligent",
+          "why": "It causes every kind of thing there could be, and a cause must contain what is in its effects. So every pattern is in it — held abstractly, the way ideas are held in a mind."
+        },
+        {
+          "text": "Omniscient",
+          "why": "If the patterns of everything that exists or could exist are in its thought, then nothing whatever falls outside the range of that thought."
+        }
+      ]
+    },
+    {
+      "id": "proportionate-causality-20-dollars",
+      "title": "Three ways a cause can have what it gives: the $20",
+      "caption": "A cause cannot give what it hasn't got — but 'having' comes in three grades. This is what licenses the step from cause of all things to intelligence.",
+      "where": "The principle of proportionate causality: the $20 gift",
+      "kind": "compare",
+      "columns": [
+        {
+          "label": "Formally",
+          "sub": "has the very thing itself",
+          "items": [
+            "A $20 bill is in my wallet and I hand it to you",
+            "I am myself an instance of what you end up with",
+            "Fire has heat formally, and heats the pan"
+          ]
+        },
+        {
+          "label": "Virtually",
+          "sub": "has the power to lay hands on it",
+          "items": [
+            "No cash on me, but $20 sits in my bank account",
+            "Or I can borrow it, or work an hour for it",
+            "I don't hold the thing; I hold the ability to get it"
+          ]
+        },
+        {
+          "label": "Eminently",
+          "sub": "has something higher — can make it exist",
+          "items": [
+            "Congress lets me print my own legal $20 bills",
+            "Not just getting hold of one — bringing one into being",
+            "A greater way of having it, not a lesser one"
+          ]
+        }
+      ],
+      "note": "The principle of proportionate causality says whatever is in an effect must be in its cause in one of these three ways. God is not a stone or a tree formally — being immaterial, he cannot be — but the patterns of every possible thing are in him eminently, as plans are in an architect's mind."
+    },
+    {
+      "id": "anatomy-what-caused-god",
+      "title": "Objection anatomy: 'What caused God?'",
+      "caption": "The most popular objection to any first-cause argument, and the one that misses hardest. Watch where the premise gets swapped.",
+      "where": "‘If everything has a cause, what caused God?’",
+      "kind": "anatomy",
+      "says": "If everything has a cause, then God has a cause too. And if you're allowed to say God just doesn't have one, why can't I say the universe doesn't have one? You're making an arbitrary exception to save your conclusion.",
+      "assumes": [
+        "That the argument's premise is 'everything has a cause'",
+        "That God is exempted by fiat, with no reason given",
+        "That 'needs a cause' and 'is uncaused' are labels handed out at will"
+      ],
+      "breaks": "The premise was never 'everything has a cause'. It is the narrower claim that whatever goes from potential to actual must be actualized by something already actual. Something with no potentiality is not an exception to that rule; it simply is not the kind of thing the rule is about.",
+      "reply": "I never said everything has a cause. I said whatever goes from potential to actual needs something already actual to do it. God has no potentials, so there is nothing in him that could need actualizing — no cause needed, and none possible. Treating those two claims as the same is like saying that if all triangles have three sides, all shapes must."
+    },
+    {
+      "id": "anatomy-hume-uncaused",
+      "title": "Objection anatomy: Hume's uncaused coffee cup",
+      "caption": "Hume says he can conceive of a thing popping into being uncaused. Two separate things go wrong — one about conceiving, one about what the scene even is.",
+      "where": "Hume: we can conceive of something popping into existence uncaused",
+      "kind": "anatomy",
+      "says": "I can picture an empty room, then a coffee cup in it, with no cause anywhere in the picture. Whatever is conceivable is possible. So things can come to be uncaused, and your causal principle fails.",
+      "assumes": [
+        "That picturing A without picturing B is conceiving A existing without B",
+        "That the scene can be described as a coming-to-be without using causal notions",
+        "That what the imagination can stage is a reliable map of what is possible"
+      ],
+      "breaks": "Leaving the cause out of your mental picture is not the same as putting 'no cause' into it. And, as Elizabeth Anscombe pressed, nothing in the bare picture makes it a case of coming into existence rather than being moved there from elsewhere — and the only thing that distinguishes those two is their causes.",
+      "reply": "You can picture a man without picturing how tall he is, yet no man exists without some height. Your picture leaves the cause out; it doesn't show there is none. And tell me what makes your scene a cup coming into being rather than a cup teleported in from the kitchen — you'll find the only answer names a cause, which is exactly what you were trying to do without."
+    },
+    {
+      "id": "anatomy-kant-experience",
+      "title": "Objection anatomy: Kant on the limits of causality",
+      "caption": "Grant that we learn causality from experience. The question is whether that limits where it applies. Compare how we learn geometry.",
+      "where": "Kant: causality applies only within experience",
+      "kind": "anatomy",
+      "says": "We learn that things have causes by observing the world. Causality is a condition of our experience, so we have no right to stretch it beyond experience to an immaterial, timeless thing nobody could ever observe.",
+      "assumes": [
+        "That a principle applies only where we first learned it",
+        "That we accept causality because we keep observing causes",
+        "That what cannot be observed is out of reason's reach"
+      ],
+      "breaks": "It confuses how we come to learn a principle with the range of things the principle is about. The reason things around us need actualizers is not that we observe them — it is that they are merely potential until made actual, and that reason is completely general.",
+      "reply": "We learn geometry from ink drawings, but what we learn holds for figures of any colour, and of no colour at all. To say causality applies only to observable things is like saying Euclid applies only to figures you can see. What forces the conclusion here is that a potential cannot actualize itself — and that has nothing to do with whether anyone can look at it."
+    },
+    {
+      "id": "anatomy-newton-inertia",
+      "title": "Objection anatomy: Newton's law of inertia",
+      "caption": "The favourite scientific rebuttal: things keep moving with no cause. Three separate confusions are packed into it.",
+      "where": "Newton’s law of inertia: motion continues without a cause",
+      "kind": "anatomy",
+      "says": "Newton showed that a body in motion stays in motion unless a force acts on it. So motion continues with no cause at all, and 'whatever is moved is moved by another' is dead physics.",
+      "assumes": [
+        "That the proof is about what keeps bodies moving through time",
+        "That a law of nature is a thing that governs bodies, over and above them",
+        "That physics gives a complete inventory of what is in nature"
+      ],
+      "breaks": "The proof's real question is not what keeps a molecule moving but what makes these parts constitute a water molecule at this instant rather than loose atoms. Inertia presupposes that bodies with natures already exist; it cannot explain their existing.",
+      "reply": "Inertia is shorthand for how a thing of a certain nature tends to behave. Fine — but why is there anything with that nature here and now? Newton's law assumes bodies; it does not supply them. And physics deliberately abstracts away causes to get equations it can solve, so its silence about them is a fact about the method, not a discovery about the world."
+    },
+    {
+      "id": "anatomy-quantum-indeterminism",
+      "title": "Objection anatomy: quantum events without causes",
+      "caption": "Covers all three versions Feser answers — indeterminism, the Bell correlations, and particles in the vacuum. One slide does the damage in each.",
+      "where": "Quantum indeterminism means some events have no cause",
+      "kind": "anatomy",
+      "says": "Quantum mechanics says an atom's decay, or the outcome of a measurement, has no determining prior cause. Some events just happen. So your principle of causality is refuted by physics itself.",
+      "assumes": [
+        "That to cause something is to determine it",
+        "That if a theory doesn't mention a cause, there isn't one",
+        "That physics describes everything there is in what it describes"
+      ],
+      "breaks": "It slides from 'not deterministic' to 'not caused'. A cause need only make its effect intelligible, not inevitable. And a mathematical representation that was built by abstracting from causes will of course contain none — which tells us about the representation, not the world.",
+      "reply": "Non-deterministic is not uncaused. A lead atom has a certain probability of decaying because of what it is — its nature is doing the work — and something still has to keep that atom in existence, with that nature, right now. Physics leaves causes out the way a black-and-white drawing leaves colour out: absence from the picture is not absence from the scene."
+    },
+    {
+      "id": "anatomy-outdated-science",
+      "title": "Objection anatomy: 'Aristotle was refuted centuries ago'",
+      "caption": "The objection bundles Aristotle's physics and his metaphysics into one package. Separating them is the whole reply.",
+      "where": "Aristotelianism was refuted by modern science",
+      "kind": "anatomy",
+      "says": "Aristotle thought the earth sat at the centre, that everything was made of four elements, that heavy things seek their natural place. Science buried all of it. An argument built on Aristotle is a museum piece.",
+      "assumes": [
+        "That 'Aristotelianism' is one package that stands or falls together",
+        "That 'change is a potential made actual' is a scientific hypothesis",
+        "That an empirical result could in principle overturn it"
+      ],
+      "breaks": "It lumps Aristotle's dated astronomy and physics together with his metaphysics. Geocentrism was an empirical claim, and it lost. That change is the actualization of a potential is not an empirical claim at all — and every experiment already presupposes it.",
+      "reply": "Yes, Aristotle's astronomy is dead, and good riddance. But 'change is a potential being made actual' isn't competing with any experiment; it is what doing an experiment already assumes, since setting one up and then reading the result means going from not knowing to knowing. You can't refute it with science, because doing science is an instance of it."
+    }
+  ]
+}

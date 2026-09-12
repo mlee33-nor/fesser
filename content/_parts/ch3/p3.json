@@ -1,0 +1,177 @@
+{
+  "illustrations": [
+    {
+      "title": "The pool hall",
+      "body": "Feser’s opening scene. Everything on the table is a particular — this cue, that eight ball, this rack. But ask what the cues have in common, and you are no longer talking about any one of them: you are talking about *being a pool cue*. Ask what the red balls share with fire engines and strawberries, and you have reached **redness**; what the rack shares with pyramids and dunce caps, **triangularity**.\n\nUse it to make the audience notice that ordinary talk constantly refers to things no one can put on a table. The pool hall is concrete; the patterns it displays are not.",
+      "source": "book"
+    },
+    {
+      "title": "Erasing every “Snow is white” (and every “2”)",
+      "body": "Write “Snow is white” on a whiteboard. You can see the sentence; you cannot see the proposition — the same one is expressed by “Schnee ist weiss,” which looks nothing like it. Now imagine erasing every token of that sentence in every language on earth. Would it stop being true that snow is white? Of course not. The same goes for numbers: burn every “2” and every “II” ever written, and 2 + 2 = 4 is untouched.\n\nThe move to make: whatever a proposition or a number is, it is not ink, sound, or pixels. And Socrates in Athens and Obama in Washington can think the *very same* proposition in different languages 2,500 years apart — so it is not locked inside any one head either.",
+      "source": "book"
+    },
+    {
+      "title": "The architect versus the inert Form",
+      "body": "A wooden rack pushes balls into a triangle. A dinner bell, rung, makes a sound. An architect, holding the concept of triangularity, designs a pyramid that takes that shape. In every case where triangularity *does* anything, it is either in a material thing or in a mind.\n\nNow picture Plato’s Form of Triangle: in no thing, in no mind, outside space and time. What could it do? If it affects nothing, it does not affect us — so how do we know about it? And it does not affect actual triangles — so how does it explain why they are triangular? The illustration shows why Feser thinks abstract objects belong in minds, where representations actually have effects.",
+      "source": "book"
+    },
+    {
+      "title": "Animality: neither rational nor nonrational",
+      "body": "Every actual animal is either rational (a human) or nonrational (a dog, a horse). Animality itself must cover both, so it cannot contain rationality (dogs would be excluded) or nonrationality (humans would be excluded). In itself it is *neither*. But nothing that exists as an individual thing can be neither rational nor nonrational.\n\nConclusion: animality, considered as such, cannot exist as a thing in its own right — it cannot be a Platonic Form. It can exist only *in* animals (always tied to one or the other) or *as abstracted* in an intellect. This is the argument Feser rates as more telling than the famous Third Man.",
+      "source": "book"
+    },
+    {
+      "title": "The tree and its mirror image",
+      "body": "On Plato’s view, what makes a tree a tree is not in the tree but in the Form of Tree, which the tree merely imitates. But then the oak in your yard is related to treeness in the same way a statue or a reflection of a tree is — an image of something located elsewhere. Your oak would be no more genuinely a tree than its reflection in a pond.\n\nThat is absurd, and it shows why the Aristotelian insists that natures are *in* things — trees are substances with their own intrinsic principles — and exist as abstract only when a mind abstracts them.",
+      "source": "book"
+    },
+    {
+      "title": "Socrates the carpenter (Welty’s drawing)",
+      "body": "Draw Socrates hammering nails. The drawing represents a possibility: Socrates might have been a carpenter. But no one thinks the drawing *makes* that possible — as if Socrates could not have been a carpenter had the drawing never been made. A Platonic “possible world” in a third realm is in the same position as the drawing: a representation with no connection to what could actually happen.\n\nThe Scholastic alternative: the possibility is an idea in the mind of an omniscient and omnipotent cause who *could have made* such a world following that idea. Now the representation is relevant, because it belongs to someone with the power to realize it.",
+      "source": "book"
+    },
+    {
+      "title": "Two rocks plus two rocks",
+      "body": "Feser’s parallel to Leftow’s water objection. Because 2 + 2 = 4 is necessary, it is necessary that two rocks plus two rocks make four rocks. Contrapose, and you can say: if that rock truth were not necessary, neither would 2 + 2 = 4 be. Does arithmetic therefore “depend on rocks”? No — mineralogy is never going to overturn arithmetic.\n\nSo too: the divine nature entails that water is necessarily H₂O, but hydrology will never overturn God. Logical entailment running backward is not dependence.",
+      "source": "book"
+    },
+    {
+      "title": "The crossword that can’t be split",
+      "body": "Imagine trying to divide a completed crossword puzzle among several people, each keeping only some of the words. It cannot be done cleanly: every across answer shares letters with down answers, which share letters with other across answers. To hold any word *as part of this puzzle*, you have to hold its crossings — and theirs.\n\nThe realm of eternal truths is like that, only infinitely larger. Humanness crosses animality and rationality; propositions cross universals; every proposition is consistent or inconsistent with every other. That is why Feser concludes there cannot be a committee of necessary minds each holding a portion: the whole interlocking system has to be in one mind.",
+      "source": "course"
+    },
+    {
+      "title": "The architect’s blueprints (the key analogy)",
+      "body": "Before a building exists, where is it? In the architect’s mind, as a plan. The plan is *about* the building (it represents), it is *real* before any brick is laid, and it is *relevant* to what can be built, because it belongs to someone with the power to build it. Plans that no one has ever thought of do not exist anywhere at all.\n\nThe Augustinian proof says the eternal truths — every essence, every possibility, every necessary truth — are like that: plans in the mind of One who needs no one else to exist and who could bring any of them about. Unlike a human architect, this mind cannot fail to exist, cannot forget, and never began, which is why the truths it holds are necessary and eternal. Use this to show at once why abstract objects need a mind (intentionality), why the mind must be necessary (the truths are necessary), and why the mind must be powerful (relevance).",
+      "source": "course"
+    }
+  ],
+  "objections": [
+    {
+      "title": "Divine ideas would be concrete, not abstract",
+      "whoRaises": "Keith Yandell, William Lane Craig (in replies to Welty); many contemporary analytic metaphysicians",
+      "objection": "Abstract objects, by definition, are non-mental entities outside space and time with no causal powers. If universals, propositions, and possible worlds are really thoughts in God’s mind, they are concrete mental items, not abstract objects. So Scholastic realism does not account for abstract objects at all — it simply replaces them with something else.",
+      "reply": "1. There is no consensus, even among contemporary metaphysicians, about what abstract objects are (Welty’s point), so there is no settled, neutral definition that puts the burden of proof on the Scholastic.\n2. Even if there were a consensus, the objection would beg the question. For the Aristotelian and Scholastic, an abstract object just *is* what an intellect forms by abstracting from particulars. The critic says abstract objects cannot be in an intellect; the Scholastic says they can *only* be in an intellect. Asserting the first does nothing to show the second false.\n3. Underneath lie two different pictures. Moderns think of thought as a concrete “mental state” in a brain or Cartesian soul, and draw the abstract/concrete line as outside versus inside space and time. Scholastics think of thought as receiving a form without its matter, and hold that one and the same nature can exist concretely in things and abstractly in an intellect.",
+      "pushback": "If the objector insists “but God’s thoughts are still particular events in a particular mind,” point out that on divine simplicity God’s thought is not a series of events or a particular state among others; it is not in time, not a part of God, and not one item among many. The objector is applying a model of human mental states that the argument explicitly rejects. Ask what, exactly, is lost: the divine ideas are universal in content, necessary, eternal, and non-physical — everything the Platonist wanted from abstract objects, minus the mysterious mindless realm.",
+      "difficulty": 2
+    },
+    {
+      "title": "Leftow: God’s existence would depend on facts about water",
+      "whoRaises": "Brian Leftow (God and Necessity)",
+      "objection": "On a “deity theory,” all necessities flow from God’s nature. Suppose water = H₂O is necessary. Then God’s nature entails that water = H₂O necessarily. By contraposition, if water were not necessarily H₂O, God would not exist. So God’s very existence would hang on facts about water — which is absurd. Deity theories should be restricted to logic and mathematics.",
+      "reply": "1. Run the same pattern on arithmetic: 2 + 2 = 4 entails that two rocks plus two rocks necessarily make four rocks, so if that were not necessary, 2 + 2 = 4 would not be necessary. No one concludes that arithmetic *depends* on rocks. Necessary truths entail necessary consequences about everything; entailment is not dependence, and mineralogy will never overturn arithmetic.\n2. Likewise the divine nature entails necessary truths about water, and hydrology will never overturn God. Leftow does not claim it could — but then what does the counterintuitive “dependence” amount to?\n3. The antecedent “if it were not necessary that water = H₂O” describes no genuine scenario. Just as one should refuse to “consider a scenario in which 2 + 2 does not necessarily equal 4,” the deity theorist may refuse to consider this one (following Welty).\n4. Leftow’s voluntarism — the necessity comes from God’s will, so God could have willed otherwise — just begs the question against deity theorists, who reject voluntarism.",
+      "pushback": "If pressed that water = H₂O is an a posteriori necessity and so feels more “contingent” than arithmetic, reply that how we *learn* a truth does not settle whether it is necessary. If it is necessary at all, the same logic applies; if it is not necessary, then the objection never gets started, since the deity theory only needs to ground genuine necessities.",
+      "difficulty": 3
+    },
+    {
+      "title": "Grim: Cantor’s theorem rules out omniscience",
+      "whoRaises": "Patrick Grim",
+      "objection": "A conceptually omniscient being would have to know the set of all truths. But there can be no such set: take any set S of truths; by Cantor’s theorem its power set is larger, and each subset generates a further truth not in S. So no set contains all truths, and the idea of omniscience is incoherent.",
+      "reply": "1. **It proves too much** (Plantinga). The same reasoning shows there is no set of all propositions whatsoever — yet we coherently assert things about all propositions (every one is true or false; none is both). So why can we not coherently say an omniscient being knows all true propositions?\n2. **No set needed** (Simmons). Omniscience means there is no proposition God fails to know. Even if the truths do not form a set, it does not follow that any particular truth is unknown to God.\n3. **Simplicity** (Wainwright). Grim pictures divine knowledge as a collection of discrete ideas forming a set. But on divine simplicity, what we describe as God’s many distinct “grasps” of propositions is one and the same reality in God, described in different ways.",
+      "pushback": "If the objector says “without a set, ‘all truths’ is meaningless,” ask whether he thinks “every proposition is either true or false” is meaningless. Quantifying over everything does not require a set-theoretic collection — logicians and mathematicians do it constantly (classes, plural quantification). The objection targets a particular formal model of knowledge, not omniscience itself.",
+      "difficulty": 3
+    },
+    {
+      "title": "Coffey: the argument begs the question",
+      "whoRaises": "Peter Coffey (and Mercier’s Manual) — Scholastics who accept Scholastic realism but deny it can prove God",
+      "objection": "The argument assumes that possibilities are eternally and necessarily possible — that unicorns were possible before any world or finite mind. But how could we know that unless we already knew there is a necessary intellect to ground it? And the idea of an order of abstract objects independent of our minds is a Platonic illusion. Either you mean a Platonic realm (false) or a divine mind (question-begging).",
+      "reply": "1. Even an **atheist** Platonist agrees that possibilities are eternal and necessary. So one does *not* need to presuppose a divine intellect to accept this premise.\n2. Coffey himself, as a Scholastic realist, believes an order of abstract objects independent of finite minds really exists — in God. So it cannot be wholly illusory; only the Platonic *interpretation* of it could be.\n3. The dilemma (Platonic or divine) is a **false choice**. One can affirm that there is an order of abstract objects existing *in some way* independently of all finite minds while leaving open *what* way. That is exactly the common ground on which Platonists and Scholastics argue. Accepting it without (a) means assuming nothing false; accepting it without (b) means begging no question.",
+      "pushback": "If someone repeats “but you are only confident possibilities are eternal because you believe in God,” ask them directly: before any human existed, was it possible for humans to exist? Nearly everyone says yes. That intuition is shared by theists and atheists alike and is the argument’s real starting point.",
+      "difficulty": 2
+    },
+    {
+      "title": "Why not several necessary minds — a committee?",
+      "whoRaises": "A critic Feser anticipates in Stage 2; also polytheists or pluralists",
+      "objection": "Grant that abstract objects need a necessary intellect. Why only one? Perhaps necessary mind A holds some possible worlds and truths, necessary mind B holds others, and so on.",
+      "reply": "1. Abstract objects form an **interlocking system**: grasping one universal requires grasping those that define it; propositions are built from universals; every proposition is logically related to every other (entailment, consistency, truth-functional combination). These relations hold independently of any world or finite mind, so whatever mind grounds them must grasp them *all* — you cannot hold one strand without the web.\n2. More fundamentally, a necessarily existing intellect must be **purely actual** (otherwise its existence would depend on some potential being actualized), and there cannot be two purely actual things, since nothing could differentiate them (Chapter 1).",
+      "pushback": "If the critic suggests two minds each holding the *whole* system, the pure-actuality argument answers it: two such minds would have to differ in something — some feature or perfection one has and the other lacks — and pure actuality admits no such difference. Two “identical” necessary minds collapse into one.",
+      "difficulty": 2
+    },
+    {
+      "title": "A cosmic mathematician is not God",
+      "whoRaises": "A critic Feser anticipates (echoing Robert Adams’s caution); typical skeptic",
+      "objection": "At best you have a mind that knows all necessary truths and possibilities — a kind of eternal logician. Why think it knows contingent facts, has power, cares about goodness, or deserves the name “God”?",
+      "reply": "1. An intellect that exists of absolute necessity must be purely actual; if its existence presupposed the actualization of any potential, it would be contingent.\n2. Chapter 1 showed that what is purely actual is unique, omnipotent (the source of all actualizing power), perfectly good (no privation), immutable, immaterial, incorporeal, and eternal.\n3. It must know contingent truths too: to lack any knowledge is to have an unactualized potential to know. And the actual is a subset of the possible, so knowing all possible truths already includes the actual ones.\n4. Welty’s relevance point adds that possibilities are real possibilities precisely because they are ideas in a mind that has the power to actualize them.",
+      "pushback": "If the skeptic rejects pure actuality, show the link concretely: a being that could exist only if some potential were actualized would owe its existence to whatever actualizes it — and then it is not the ultimate, necessary ground. The necessity the argument needs is incompatible with any unactualized potential. This is exactly why Chapter 1 and Chapter 3 converge on the same God.",
+      "difficulty": 2
+    },
+    {
+      "title": "Why not a mind-independent Platonic realm?",
+      "whoRaises": "Contemporary mathematical Platonists (e.g., many working mathematicians and analytic philosophers)",
+      "objection": "Grant realism. The simplest view is that numbers, propositions, and possible worlds just exist, necessarily and eternally, on their own — no mind required. Causal inertness is no problem: mathematical knowledge does not work by causal contact anyway. Adding a mind is an unnecessary theological extra.",
+      "reply": "1. **Inertness.** If third-realm objects affect nothing, they do not affect particular things either — so they cannot explain why this rack is triangular — and it becomes mysterious how minds could know about them at all.\n2. **The animality problem.** A universal like animality must be neither rational nor nonrational, but nothing existing as an individual in its own right can be that. So universals cannot exist as self-standing objects.\n3. **Essences exiled from things** would make trees no more treelike than reflections.\n4. **Welty’s conditions.** Abstract objects *represent* (a proposition is about something), and representation is at home in minds, not in a mindless realm; a third realm adds a whole extra category of being (simplicity); and a third-realm possible world is no better a truthmaker for what could happen than a drawing is (relevance).",
+      "pushback": "If the Platonist says “representation needn’t involve a mind,” ask for one example of something that is *intrinsically* about something else without deriving its aboutness from a mind. Words, maps, and drawings all borrow their meaning from minds. Propositions are the paradigm of intrinsic aboutness — exactly what thoughts have. The burden is on the Platonist to explain mindless aboutness.",
+      "difficulty": 3
+    },
+    {
+      "title": "It’s just words: resemblance nominalism",
+      "whoRaises": "Nominalists, from medieval Ockhamists to contemporary resemblance nominalists",
+      "objection": "There is no “redness.” There are red things, and there is the word “red,” which we apply to things that resemble one another. Talk of universals is a trick of language.",
+      "reply": "1. Why do we apply “red” to just these things? “Because they share redness” brings universals back; “because they resemble each other” — in what respect? Obviously in their redness.\n2. **Russell’s regress.** Resemblance is itself a universal, instantiated by the stop sign/fire truck pair, the grass/Hulk pair, and so on. Treat those resemblances as merely resembling each other and you need a higher-order resemblance, and so on forever.\n3. **Words are universals too.** “Red” said by you, me, and Socrates is one word type with many tokens. If instead each utterance is a merely resembling word, no one ever uses the same word twice, communication becomes impossible — and the nominalist cannot even state his view to us.",
+      "pushback": "If the nominalist takes resemblance as a primitive, unanalyzable relation, point out that he has now admitted one real universal (resemblance) that holds across countless pairs — the very thing he set out to deny. Once one universal is admitted, the principled objection to others is gone.",
+      "difficulty": 2
+    },
+    {
+      "title": "Evolution and culture explain our logic and math",
+      "whoRaises": "Evolutionary naturalists, cultural relativists, heirs of psychologism",
+      "objection": "Our concepts, logical rules, and mathematics are products of how evolution and culture shaped human brains. They are useful, but they do not describe mind-independent reality; they describe how we are wired. No need for eternal truths, let alone an eternal mind.",
+      "reply": "1. To state and defend this theory you must appeal to universals (selection pressure, mutation, social trend), to scientific and mathematical laws governing these processes, and to logical standards of good argument — the very things the theory says have no objective validity and did not exist before our minds. It saws off the branch it sits on.\n2. The Kantian retreat (“our minds are necessarily structured this way”) faces a dilemma: either the theorist’s concepts and logic have no objective validity, and he cannot defend his view; or they do give him knowledge of the objective structure of minds, and he contradicts his view.\n3. Shared concepts and communication across languages and millennia show concepts are not private products of individual brains.",
+      "pushback": "If the objector says evolution selected for *reliable* reasoning, thank them: reliability means our logic and math track something objective. Then the question returns — what is the objective reality that 2 + 2 = 4 is reliably tracking, which held before brains existed?",
+      "difficulty": 2
+    },
+    {
+      "title": "Mathematics is a useful fiction (or a formal game)",
+      "whoRaises": "Mathematical fictionalists and formalists (a modern objection the chapter equips you to answer)",
+      "objection": "Numbers don’t exist. Mathematics is like a well-crafted story or a game of symbols: “2 + 2 = 4” is true in the story the way “Sherlock lives on Baker Street” is true in Conan Doyle. It is useful for science, but it commits us to nothing real.",
+      "reply": "Feser lists “useful fictions” among the options realism rejects, and his direct arguments apply:\n\n1. **Discovery, not invention.** Geometry and arithmetic yield truths we discover and cannot alter; fictions are invented and could have been written otherwise.\n2. **Necessity and timelessness.** 2 + 2 = 4 was true before any storyteller existed and would remain true if all storytellers vanished; no fiction is like that.\n3. **Science.** Science seeks objective, mind-independent facts and is formulated in mathematics and universal laws. If the mathematics is fiction, so is the physics that essentially uses it.\n4. **Infinity.** The number series outruns every finite set of human ideas, so it cannot be a story humans have told.",
+      "pushback": "Ask the fictionalist: in the “story” of arithmetic, could the author have written that 2 + 2 = 5 without inconsistency? If not, what constrains the author — something about the story, or something the author is answerable to? The constraint is exactly what the realist is pointing at.",
+      "difficulty": 2
+    },
+    {
+      "title": "Necessity and possibility need no ground",
+      "whoRaises": "Contemporary philosophers who treat modal facts as brute, or reduce possibility to mere logical consistency",
+      "objection": "“Possible” just means “logically consistent,” and necessary truths are simply the ones whose denial is contradictory. That is a fact about logic, not about any thing. Asking what grounds 2 + 2 = 4 is like asking what holds up the number line. It needs no ground and no location.",
+      "reply": "1. Consistency is itself a *relation among propositions*, and propositions are among the abstract objects whose status is in question. Saying “it’s just logic” relocates the question rather than answering it: what kind of reality do these propositions and their logical relations have?\n2. The options are exhausted by Feser’s analysis: denying that they are real (nominalism), making them human products (conceptualism), placing them in a third realm (Platonism), or placing them in an intellect. “Brute” modal facts that are real, necessary, and representational but in no mind are simply Platonism under another name — and inherit its problems.\n3. The relevance point: a brute fact that “unicorns are possible” floating nowhere is no better a truthmaker than Welty’s drawing. A divine idea backed by power actually connects the possibility to what could be.",
+      "pushback": "If the objector says “some things are just brute,” ask whether *truths* can be brute in the sense of being true without being thought by anyone and without being about anything that grounds them. Truth is naturally a property of what is thought or asserted. The objector owes an account of truth-bearers that exist without any mind — which is the Platonist’s burden again.",
+      "difficulty": 3
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "The Augustinian proof is another first-cause argument: God caused the laws of math.",
+      "correction": "Feser stresses that it is the one proof in the book that is *not* causal. It does not argue that something produced 2 + 2 = 4; it argues that necessary, eternal truths can only exist as ideas in a necessary, eternal intellect. That is why the “What caused God?” objection is irrelevant to it."
+    },
+    {
+      "myth": "This is a Platonist argument — it says Plato was right about the Forms.",
+      "correction": "It explicitly rejects Platonic realism’s mind-independent third realm. Scholastic realism is Aristotelian in spirit; it only grants Plato that there must be a reality beyond matter and finite minds — and identifies it as a divine intellect, not a realm of Forms."
+    },
+    {
+      "myth": "The argument says God makes up logic and mathematics by arbitrary decree, so he could have made 2 + 2 = 5.",
+      "correction": "That is voluntarism, which Scholastic realists reject (see the reply to Leftow). Necessary truths are grounded in God’s intellect and nature, which are identical given divine simplicity, not in arbitrary choices. God could no more make 2 + 2 = 5 than he could cease to be God."
+    },
+    {
+      "myth": "Aristotelian realism is just conceptualism — universals are only in our heads.",
+      "correction": "For the Aristotelian, universals really exist in things (tied to individuating features); the mind abstracts them *from* things rather than inventing them. Only *as abstract* do they exist solely in a mind. That is why Aristotelian realism counts as realism."
+    },
+    {
+      "myth": "The argument claims you must believe in God to know that 2 + 2 = 4.",
+      "correction": "The argument is about what *grounds* the existence of necessary truths, not about how we come to know them. Atheists know mathematics perfectly well — indeed, the argument starts from truths everyone already knows."
+    },
+    {
+      "myth": "“Possible worlds” are other universes, like in a multiverse.",
+      "correction": "A possible world is simply a way things could have been — Mars with three moons, Romney winning in 2012. It is an abstract object we reason about, not a physical place one could travel to."
+    },
+    {
+      "myth": "The argument only proves a cosmic logician, not the God of theism.",
+      "correction": "Stage 2 goes further: a necessarily existing intellect must be purely actual, and by Chapter 1’s reasoning that entails uniqueness, omnipotence, perfect goodness, immutability, immateriality, eternity, and full (not just conceptual) omniscience."
+    },
+    {
+      "myth": "God’s mind is like a vast library holding infinitely many separate idea-files.",
+      "correction": "Given divine simplicity, what we describe as many distinct ideas in God is really one and the same reality described in different ways. This matters for answering Grim’s set-theoretic objection."
+    },
+    {
+      "myth": "Humanity as a whole, or future civilizations, could collectively ground eternal truths.",
+      "correction": "Any collection of contingent minds — human, extraterrestrial, even angelic — could have failed to exist and began to exist. Truths that held before them and would hold without them cannot depend on them. Only a necessarily existing intellect will do."
+    }
+  ]
+}

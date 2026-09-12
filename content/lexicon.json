@@ -1,0 +1,2124 @@
+{
+ "forms": {
+  "natural theology": [
+   "natural theology",
+   "natural theologys"
+  ],
+  "classical theism": [
+   "classical theism",
+   "classical theisms"
+  ],
+  "actuality and potentiality": [
+   "act and potency",
+   "actuality and potentiality",
+   "actuality and potentialitys"
+  ],
+  "principle of causality": [
+   "pc",
+   "principle of causality",
+   "principle of causalitys"
+  ],
+  "hierarchical causal series": [
+   "hierarchical causal series",
+   "per se"
+  ],
+  "linear causal series": [
+   "linear causal series",
+   "per accidens"
+  ],
+  "first cause": [
+   "first cause",
+   "first causes",
+   "in the relevant sense",
+   "primary cause",
+   "uncaused cause"
+  ],
+  "purely actual actualizer": [
+   "purely actual actualizer",
+   "purely actual actualizers",
+   "unmoved mover"
+  ],
+  "composition the one": [
+   "composition"
+  ],
+  "divine simplicity": [
+   "divine simplicity",
+   "divine simplicitys"
+  ],
+  "abstract objects": [
+   "abstract objects"
+  ],
+  "platonic aristotelian and scholastic realism": [
+   "platonic, aristotelian and scholastic realism",
+   "platonic, aristotelian and scholastic realisms"
+  ],
+  "essence and existence": [
+   "essence and existence",
+   "essence and existences",
+   "real distinction"
+  ],
+  "real vs conceptual distinction": [
+   "real vs. conceptual distinction",
+   "real vs. conceptual distinctions"
+  ],
+  "subsistent existence itself": [
+   "ipsum esse subsistens",
+   "subsistent existence itself",
+   "subsistent existence itselfs"
+  ],
+  "contingent vs necessary being": [
+   "contingent vs. necessary being",
+   "contingent vs. necessary beings"
+  ],
+  "principle of sufficient reason": [
+   "principle of sufficient reason",
+   "principle of sufficient reasons",
+   "psr"
+  ],
+  "brute fact": [
+   "brute fact",
+   "brute facts"
+  ],
+  "principle of proportionate causality": [
+   "ppc",
+   "principle of proportionate causality",
+   "principle of proportionate causalitys"
+  ],
+  "agere sequitur esse": [
+   "agere sequitur esse",
+   "agere sequitur esses"
+  ],
+  "analogical predication": [
+   "analogical predication",
+   "analogical predications"
+  ],
+  "cambridge change cambridge property": [
+   "cambridge change",
+   "cambridge changes",
+   "cambridge property",
+   "cambridge propertys"
+  ],
+  "fallacy of accident": [
+   "fallacy of accident",
+   "fallacy of accidents"
+  ],
+  "privation": [
+   "and the privation theory of evil",
+   "privation"
+  ],
+  "divine conservation": [
+   "and annihilation",
+   "divine conservation",
+   "divine conservations",
+   "sustaining cause"
+  ],
+  "concurrence": [
+   "concurrence",
+   "concurrent"
+  ],
+  "theistic personalism": [
+   "theistic personalism",
+   "theistic personalisms"
+  ],
+  "scientism": [
+   "scientism",
+   "scientist",
+   "scientists"
+  ],
+  "demonstration": [
+   "demonstration"
+  ],
+  "miracle": [
+   "miracle",
+   "thomistic account",
+   "thomistic sense"
+  ],
+  "parmenides challenge": [
+   "parmenides’ challenge",
+   "parmenides’ challenges"
+  ],
+  "four kinds of change": [
+   "four kinds of change",
+   "four kinds of changes"
+  ],
+  "instrumental cause": [
+   "instrumental cause",
+   "instrumental causes"
+  ],
+  "hylemorphism": [
+   "hylemorphism",
+   "hylemorphist",
+   "hylemorphists",
+   "substantial form and prime matter"
+  ],
+  "genus and specific difference": [
+   "genus and specific difference",
+   "genus and specific differences"
+  ],
+  "nominalism": [
+   "nominalism",
+   "nominalist",
+   "nominalists"
+  ],
+  "conceptualism and psychologism": [
+   "conceptualism and psychologism",
+   "conceptualism and psychologisms"
+  ],
+  "proposition": [
+   "proposition"
+  ],
+  "possible world": [
+   "possible world",
+   "possible worlds"
+  ],
+  "third man argument": [
+   "third man argument",
+   "third man arguments"
+  ],
+  "conceptually omniscient being": [
+   "conceptually omniscient being",
+   "conceptually omniscient beings"
+  ],
+  "theistic conceptual realism": [
+   "theistic conceptual realism",
+   "theistic conceptual realisms"
+  ],
+  "deity theory of modality": [
+   "deity theory of modality",
+   "deity theory of modalitys"
+  ],
+  "explicability argument": [
+   "ea",
+   "explicability argument",
+   "explicability arguments"
+  ],
+  "big conjunctive contingent fact": [
+   "bccf",
+   "big conjunctive contingent fact",
+   "big conjunctive contingent facts"
+  ],
+  "existential inertia": [
+   "existential inertia",
+   "existential inertias"
+  ],
+  "specific vs individual existence": [
+   "specific vs. individual existence",
+   "specific vs. individual existences"
+  ],
+  "essentialism vs conventionalism": [
+   "essentialism vs. conventionalism",
+   "essentialism vs. conventionalisms"
+  ],
+  "hume s fork": [
+   "hume’s fork",
+   "hume’s forks"
+  ],
+  "fallacy of composition": [
+   "fallacy of composition",
+   "fallacy of compositions"
+  ],
+  "occasionalism": [
+   "occasionalism",
+   "occasionalist",
+   "occasionalists"
+  ],
+  "mere conservationism and deism": [
+   "mere conservationism and deism",
+   "mere conservationism and deisms"
+  ],
+  "pantheism and panentheism": [
+   "pantheism and panentheism",
+   "pantheism and panentheisms"
+  ],
+  "kal m cosmological argument": [
+   "kalām cosmological argument",
+   "kalām cosmological arguments"
+  ],
+  "ontological argument": [
+   "ontological argument",
+   "ontological arguments"
+  ],
+  "univocal and equivocal predication": [
+   "univocal and equivocal predication",
+   "univocal and equivocal predications"
+  ],
+  "sense and reference": [
+   "sense and reference",
+   "sense and references"
+  ],
+  "apophatic theology": [
+   "apophatic theology",
+   "apophatic theologys"
+  ],
+  "limit case": [
+   "limit case",
+   "limit cases"
+  ],
+  "defense vs theodicy": [
+   "defense vs. theodicy",
+   "defense vs. theodicys"
+  ],
+  "logical vs evidential problem of evil": [
+   "logical vs. evidential problem of evil",
+   "logical vs. evidential problem of evils"
+  ],
+  "divine hiddenness": [
+   "divine hiddenness"
+  ],
+  "god of the gaps": [
+   "god of the gaps"
+  ],
+  "laws of nature": [
+   "aristotelian conception",
+   "four views",
+   "laws of nature",
+   "laws of natures",
+   "three views"
+  ],
+  "block universe": [
+   "block universe",
+   "block universes"
+  ],
+  "timeless eternity": [
+   "eternal",
+   "eternally",
+   "timeless eternity",
+   "timeless eternitys"
+  ],
+  "two stage structure": [
+   "two-stage structure",
+   "two-stage structures"
+  ],
+  "unity of god": [
+   "unity of god",
+   "unity of gods"
+  ],
+  "immutability": [
+   "immutability",
+   "immutable",
+   "unchangeable"
+  ],
+  "immateriality and incorporeality": [
+   "immaterial",
+   "immateriality and incorporeality",
+   "immateriality and incorporealitys",
+   "incorporeal"
+  ],
+  "perfection": [
+   "most perfect being",
+   "perfection"
+  ],
+  "goodness": [
+   "fully good",
+   "in the general sense"
+  ],
+  "omnipotence": [
+   "all-powerful",
+   "classical understanding",
+   "omnipotence",
+   "omnipotent"
+  ],
+  "omniscience": [
+   "all-knowing",
+   "omniscience",
+   "omniscient"
+  ],
+  "will": [
+   "divine freedom"
+  ],
+  "love": [
+   "as willing the good",
+   "divine love"
+  ],
+  "incomprehensibility": [
+   "incomprehensibility",
+   "incomprehensible"
+  ],
+  "universal": [
+   "abstract concept",
+   "realism about universals",
+   "universal"
+  ],
+  "third realm": [
+   "platonic forms",
+   "third realm",
+   "third realms"
+  ],
+  "substance property and accident": [
+   "substance, property and accident",
+   "substance, property and accidents"
+  ],
+  "formal cause and efficient cause": [
+   "formal cause and efficient cause",
+   "formal cause and efficient causes"
+  ],
+  "disposition": [
+   "disposition",
+   "natural tendency"
+  ],
+  "indeterminism": [
+   "indeterminism",
+   "indeterminist",
+   "indeterminists"
+  ],
+  "newton s law of inertia": [
+   "newton’s law of inertia",
+   "newton’s law of inertias"
+  ],
+  "mathematical abstraction": [
+   "mathematical abstraction",
+   "mathematical abstractions"
+  ],
+  "reductio ad absurdum": [
+   "indirect proof",
+   "reductio ad absurdum",
+   "reductio ad absurdums"
+  ],
+  "ad hominem": [
+   "ad hominem",
+   "ad hominems",
+   "poisoning the well"
+  ],
+  "special pleading": [
+   "special pleading",
+   "special pleadings"
+  ],
+  "straw man": [
+   "straw man",
+   "straw mans"
+  ],
+  "priori and a posteriori": [
+   "priori and a posteriori",
+   "priori and a posterioris"
+  ],
+  "supernatural vs preternatural": [
+   "supernatural vs. preternatural",
+   "supernatural vs. preternaturals"
+  ],
+  "revealed theology": [
+   "revealed theology",
+   "revealed theologys"
+  ],
+  "heirloom view of causation": [
+   "heirloom view of causation",
+   "heirloom view of causations"
+  ],
+  "truthmaker": [
+   "truthmaker"
+  ],
+  "epistemic distance": [
+   "epistemic distance",
+   "epistemic distances"
+  ],
+  "voluntarism": [
+   "voluntarism",
+   "voluntarist",
+   "voluntarists"
+  ],
+  "vallicella s fourfold division": [
+   "vallicella’s fourfold division",
+   "vallicella’s fourfold divisions"
+  ],
+  "cosmological argument": [
+   "cosmological argument",
+   "cosmological arguments"
+  ],
+  "design argument": [
+   "design argument",
+   "design arguments",
+   "intelligent design"
+  ],
+  "multiverse": [
+   "and beginningless universe",
+   "multiverse"
+  ],
+  "natural kind": [
+   "natural kind",
+   "natural kinds"
+  ],
+  "convergence thesis": [
+   "convergence thesis"
+  ],
+  "wave particle duality": [
+   "as analogy",
+   "wave-particle duality",
+   "wave-particle dualitys",
+   "wave–particle duality",
+   "wave–particle dualitys"
+  ],
+  "logical vs metaphysical necessity": [
+   "logical vs. metaphysical necessity",
+   "logical vs. metaphysical necessitys",
+   "necessarily existent"
+  ],
+  "self explanatory": [
+   "self-explanatory"
+  ],
+  "monotheism": [
+   "monotheism",
+   "monotheist",
+   "monotheists"
+  ],
+  "category mistake": [
+   "category mistake",
+   "category mistakes"
+  ],
+  "actuality": [
+   "actuality"
+  ],
+  "potentiality": [
+   "potency",
+   "potentiality"
+  ],
+  "parmenides argument": [
+   "parmenides’ argument",
+   "parmenides’ arguments"
+  ],
+  "actualizer changer": [
+   "actualizer",
+   "changer"
+  ],
+  "pure actuality": [
+   "actus purus",
+   "pure actuality",
+   "pure actualitys",
+   "purely actual"
+  ],
+  "unactualized actualizer unmoved mover": [
+   "unactualized actualizer",
+   "unactualized actualizers",
+   "unmoved movers"
+  ],
+  "sustaining cause": [
+   "sustaining causes"
+  ],
+  "formally virtually eminently": [
+   "eminently",
+   "formally",
+   "formally, virtually, eminently",
+   "formally, virtually, eminentlys",
+   "virtually"
+  ],
+  "formal cause vs efficient cause": [
+   "formal cause vs. efficient cause",
+   "formal cause vs. efficient causes"
+  ],
+  "mathematicization partial consideration": [
+   "mathematicization",
+   "partial consideration",
+   "partial considerations"
+  ],
+  "immediate cause": [
+   "immediate cause",
+   "immediate causes"
+  ],
+  "qualitative change": [
+   "qualitative change",
+   "qualitative changes"
+  ],
+  "local motion": [
+   "local motion",
+   "local motions"
+  ],
+  "quantitative change": [
+   "quantitative change",
+   "quantitative changes"
+  ],
+  "substantial change": [
+   "substantial change",
+   "substantial changes"
+  ],
+  "substantial form": [
+   "substantial form",
+   "substantial forms"
+  ],
+  "prime matter": [
+   "prime matter",
+   "prime matters"
+  ],
+  "uncaused cause": [
+   "uncaused causes"
+  ],
+  "eternity": [
+   "eternity"
+  ],
+  "self refutation": [
+   "self-refutation"
+  ],
+  "ad hominem fallacy": [
+   "ad hominem fallacy",
+   "ad hominem fallacys"
+  ],
+  "begging the question": [
+   "begging the question",
+   "begging the questions",
+   "petitio principii"
+  ],
+  "empiricism": [
+   "empiricism",
+   "empiricist",
+   "empiricists"
+  ],
+  "conceivability argument": [
+   "conceivability argument",
+   "conceivability arguments"
+  ],
+  "dispositional property": [
+   "dispositional property",
+   "dispositional propertys"
+  ],
+  "law of inertia": [
+   "law of inertia",
+   "law of inertias"
+  ],
+  "determinism indeterminism": [
+   "determinism",
+   "determinist",
+   "determinists"
+  ],
+  "copenhagen interpretation": [
+   "copenhagen interpretation",
+   "copenhagen interpretations"
+  ],
+  "hidden variable interpretation": [
+   "hidden-variable interpretation",
+   "hidden-variable interpretations"
+  ],
+  "bell inequalities": [
+   "bell inequalities"
+  ],
+  "quantum vacuum": [
+   "quantum vacuum",
+   "quantum vacuums"
+  ],
+  "potentia": [
+   "potentia"
+  ],
+  "color hold": [
+   "color hold",
+   "color holds"
+  ],
+  "spontaneous motion": [
+   "spontaneous motion",
+   "spontaneous motions"
+  ],
+  "natural place": [
+   "natural place",
+   "natural places"
+  ],
+  "eddington s two tables": [
+   "eddington’s two tables"
+  ],
+  "naturalism": [
+   "naturalism",
+   "naturalist",
+   "naturalists"
+  ],
+  "vicious regress": [
+   "passing the explanatory buck",
+   "vicious regress"
+  ],
+  "causal process vs condition setting": [
+   "causal process vs. condition-setting",
+   "causal process vs. condition-settings"
+  ],
+  "relativity of simultaneity": [
+   "relativity of simultaneity",
+   "relativity of simultaneitys"
+  ],
+  "concurrent actualization": [
+   "concurrent actualization",
+   "concurrent actualizations"
+  ],
+  "composite of act and potency": [
+   "composite of act and potency",
+   "composite of act and potencys"
+  ],
+  "divine attributes": [
+   "divine attributes"
+  ],
+  "ad hoc": [
+   "ad hoc",
+   "ad hocs"
+  ],
+  "inference to the best explanation": [
+   "argument to",
+   "inference to the best explanation",
+   "inference to the best explanations"
+  ],
+  "intrinsic nature vs mathematical structure": [
+   "intrinsic nature vs. mathematical structure",
+   "intrinsic nature vs. mathematical structures"
+  ],
+  "proving too much": [
+   "proving too much",
+   "proving too muchs"
+  ],
+  "aristotelianism": [
+   "aristotelianism",
+   "aristotelianist",
+   "aristotelianists"
+  ],
+  "metaphysics": [
+   "metaphysics"
+  ],
+  "four causes": [
+   "four causes"
+  ],
+  "essential vs contingent feature": [
+   "essential vs. contingent feature",
+   "essential vs. contingent features"
+  ],
+  "scholasticism": [
+   "scholasticism",
+   "scholasticist",
+   "scholasticists"
+  ],
+  "composite": [
+   "composed of parts",
+   "composite"
+  ],
+  "part": [
+   "in the broad sense"
+  ],
+  "absolutely simple": [
+   "absolutely simple",
+   "absolutely simples"
+  ],
+  "plotinus": [
+   "plotinus"
+  ],
+  "neo platonism": [
+   "neo-platonism",
+   "neo-platonist",
+   "neo-platonists"
+  ],
+  "atemporal dependence": [
+   "atemporal dependence",
+   "atemporal dependences"
+  ],
+  "concurrent cause": [
+   "concurrent cause",
+   "concurrent causes"
+  ],
+  "explanatory vicious circle": [
+   "explanatory vicious circle",
+   "explanatory vicious circles"
+  ],
+  "essence": [
+   "essence"
+  ],
+  "existence": [
+   "existence",
+   "existence distinction",
+   "existent"
+  ],
+  "differentiating feature": [
+   "differentiating feature",
+   "differentiating features"
+  ],
+  "abstract entity": [
+   "abstract entity",
+   "abstract entitys"
+  ],
+  "mental content": [
+   "mental content",
+   "mental contents"
+  ],
+  "univocal predication": [
+   "univocal predication",
+   "univocal predications"
+  ],
+  "equivocal predication": [
+   "equivocal predication",
+   "equivocal predications"
+  ],
+  "law of nature": [
+   "aristotelian view",
+   "law of nature",
+   "law of natures"
+  ],
+  "metaphysical parts": [
+   "metaphysical parts"
+  ],
+  "integral parts": [
+   "integral parts"
+  ],
+  "infinite regress": [
+   "infinite regress"
+  ],
+  "soul": [
+   "in plotinus",
+   "soul"
+  ],
+  "enneads": [
+   "enneads"
+  ],
+  "emanation": [
+   "emanation"
+  ],
+  "individuation": [
+   "individuation"
+  ],
+  "metaphorical predication": [
+   "metaphorical predication",
+   "metaphorical predications"
+  ],
+  "immateriality": [
+   "immateriality"
+  ],
+  "vallicella s fourfold classification": [
+   "vallicella's fourfold classification",
+   "vallicella's fourfold classifications"
+  ],
+  "abstract object": [
+   "abstract object"
+  ],
+  "abstraction": [
+   "abstraction"
+  ],
+  "numeral vs number": [
+   "numeral vs. number",
+   "numeral vs. numbers"
+  ],
+  "pure possibles": [
+   "pure possibles"
+  ],
+  "necessary truth": [
+   "necessary truth",
+   "necessary truths"
+  ],
+  "realism": [
+   "about abstract objects",
+   "realism",
+   "realist",
+   "realists"
+  ],
+  "resemblance nominalism": [
+   "resemblance nominalism",
+   "resemblance nominalisms"
+  ],
+  "type vs token": [
+   "type vs. token",
+   "type vs. tokens"
+  ],
+  "conceptualism": [
+   "conceptualism",
+   "conceptualist",
+   "conceptualists"
+  ],
+  "psychologism": [
+   "psychologism",
+   "psychologist",
+   "psychologists"
+  ],
+  "platonic realism": [
+   "platonic realism",
+   "platonic realisms"
+  ],
+  "causal inertness": [
+   "causal inertness"
+  ],
+  "aristotelian realism": [
+   "aristotelian realism",
+   "aristotelian realisms"
+  ],
+  "substance": [
+   "substance",
+   "substant"
+  ],
+  "scholastic realism": [
+   "scholastic realism",
+   "scholastic realisms"
+  ],
+  "argument from eternal truths": [
+   "argument from eternal truths"
+  ],
+  "interlocking system": [
+   "interlocking system",
+   "interlocking systems"
+  ],
+  "conceptual omniscience": [
+   "conceptual omniscience",
+   "conceptual omnisciences"
+  ],
+  "deity theory": [
+   "deity theory",
+   "deity theorys"
+  ],
+  "welty s six conditions": [
+   "welty’s six conditions"
+  ],
+  "power set cantor s theorem": [
+   "cantor’s theorem",
+   "cantor’s theorems",
+   "power set",
+   "power sets"
+  ],
+  "particular": [
+   "particular"
+  ],
+  "instantiation": [
+   "instantiation"
+  ],
+  "problem of universals": [
+   "problem of universals"
+  ],
+  "one over many argument": [
+   "one over many argument",
+   "one over many arguments"
+  ],
+  "form and participation": [
+   "form and participation",
+   "form and participations"
+  ],
+  "contingent": [
+   "contingency",
+   "contingent"
+  ],
+  "uninstantiated universal": [
+   "uninstantiated universal",
+   "uninstantiated universals"
+  ],
+  "modality": [
+   "modality",
+   "possibility and necessity"
+  ],
+  "necessary existence": [
+   "absolute necessity",
+   "necessary existence",
+   "necessary existences"
+  ],
+  "intentionality": [
+   "intentionality"
+  ],
+  "plenitude and relevance conditions": [
+   "plenitude and relevance conditions"
+  ],
+  "divine ideas": [
+   "divine ideas"
+  ],
+  "entailment": [
+   "entailment"
+  ],
+  "radical relativism": [
+   "radical relativism",
+   "radical relativisms"
+  ],
+  "kantian conceptualism": [
+   "kantian conceptualism",
+   "kantian conceptualisms"
+  ],
+  "fictionalism": [
+   "fictionalism",
+   "fictionalist",
+   "fictionalists",
+   "useful fictions"
+  ],
+  "angel": [
+   "angel",
+   "as feser uses the term",
+   "created pure intellect"
+  ],
+  "euclidean geometry": [
+   "euclidean geometry",
+   "euclidean geometrys"
+  ],
+  "truth bearer": [
+   "truth-bearer"
+  ],
+  "mental state": [
+   "mental state",
+   "mental states"
+  ],
+  "scientific law": [
+   "scientific law",
+   "scientific laws"
+  ],
+  "mind independence": [
+   "mind-independence",
+   "mind-independent"
+  ],
+  "consistency": [
+   "and inconsistency",
+   "consistency"
+  ],
+  "truth table": [
+   "truth table",
+   "truth tables",
+   "truth-functional compound"
+  ],
+  "perfect goodness": [
+   "perfect goodness"
+  ],
+  "potentiality and actuality": [
+   "potentiality and actuality",
+   "potentiality and actualitys"
+  ],
+  "argument by elimination": [
+   "argument by elimination",
+   "argument by eliminations",
+   "disjunctive syllogism",
+   "modus tollens"
+  ],
+  "contraposition": [
+   "contraposition"
+  ],
+  "posteriori necessity": [
+   "posteriori necessity",
+   "posteriori necessitys"
+  ],
+  "concrete": [
+   "concrete"
+  ],
+  "cartesian substance": [
+   "cartesian dualism",
+   "cartesian substance",
+   "cartesian substances"
+  ],
+  "conventionalism": [
+   "about essences",
+   "about necessity",
+   "conventionalism",
+   "conventionalist",
+   "conventionalists"
+  ],
+  "benacerraf s problem": [
+   "benacerraf’s problem",
+   "benacerraf’s problems"
+  ],
+  "formalism": [
+   "formalism",
+   "formalist",
+   "formalists"
+  ],
+  "per se vs per accidens causal series": [
+   "per se vs. per accidens causal series"
+  ],
+  "set": [
+   "and subset",
+   "set"
+  ],
+  "representation": [
+   "representation"
+  ],
+  "real distinction": [
+   "of essence and existence",
+   "real distinctions"
+  ],
+  "merely verbal or conceptual distinction": [
+   "merely verbal or conceptual distinction",
+   "merely verbal or conceptual distinctions"
+  ],
+  "genus": [
+   "genus"
+  ],
+  "species": [
+   "species"
+  ],
+  "specific difference": [
+   "specific difference",
+   "specific differences"
+  ],
+  "individuation by matter": [
+   "individuation by matter",
+   "individuation by matters"
+  ],
+  "imparting existence": [
+   "imparting existence",
+   "imparting existences"
+  ],
+  "conservation": [
+   "conservation",
+   "conserving cause"
+  ],
+  "specific existence": [
+   "specific existence",
+   "specific existences"
+  ],
+  "individual existence": [
+   "individual existence",
+   "individual existences"
+  ],
+  "existence neutral grasp": [
+   "existence-neutral grasp",
+   "existence-neutral grasps"
+  ],
+  "substitutivity of identicals": [
+   "in intentional contexts",
+   "substitutivity of identicals"
+  ],
+  "logical independence of concepts": [
+   "logical independence of concepts"
+  ],
+  "essentialism": [
+   "essentialism",
+   "essentialist",
+   "essentialists"
+  ],
+  "de ente et essentia": [
+   "de ente et essentia",
+   "de ente et essentias",
+   "on being and essence"
+  ],
+  "metaphysical composition": [
+   "metaphysical composition",
+   "metaphysical compositions"
+  ],
+  "accident": [
+   "accident"
+  ],
+  "existential quantifier": [
+   "existential quantifier",
+   "existential quantifiers"
+  ],
+  "second order predicate": [
+   "second-order predicate",
+   "second-order predicates"
+  ],
+  "wirklichkeit": [
+   "wirklichkeit"
+  ],
+  "negative existential statement": [
+   "negative existential statement",
+   "negative existential statements"
+  ],
+  "intentional context": [
+   "intentional context",
+   "intentional contexts"
+  ],
+  "priori a posteriori": [
+   "posteriori"
+  ],
+  "new essentialism": [
+   "new essentialism",
+   "new essentialisms"
+  ],
+  "idealization": [
+   "idealization",
+   "in physics"
+  ],
+  "mind dependent vs mind independent": [
+   "mind-dependent vs. mind-independent",
+   "mind-dependent vs. mind-independents"
+  ],
+  "ontological vs temporal priority": [
+   "ontological vs. temporal priority",
+   "ontological vs. temporal prioritys"
+  ],
+  "annihilation": [
+   "annihilation"
+  ],
+  "necessarily terminating causal series": [
+   "barry miller",
+   "necessarily terminating causal series"
+  ],
+  "gilson s existentialism": [
+   "gilson's ‘existentialism’",
+   "gilson's ‘existentialism’s"
+  ],
+  "immaterial substance": [
+   "immaterial substance",
+   "immaterial substances"
+  ],
+  "generation": [
+   "generation"
+  ],
+  "pantheism": [
+   "pantheism",
+   "pantheist",
+   "pantheists"
+  ],
+  "five ways": [
+   "five ways"
+  ],
+  "form and matter": [
+   "form and matter",
+   "form and matters"
+  ],
+  "quantum indeterminacy": [
+   "quantum indeterminacy",
+   "quantum indeterminacys"
+  ],
+  "hume s conceivability argument": [
+   "hume's conceivability argument",
+   "hume's conceivability arguments"
+  ],
+  "rationalism": [
+   "rationalism",
+   "rationalist",
+   "rationalists"
+  ],
+  "inertia": [
+   "inertia"
+  ],
+  "misconception": [
+   "misconception"
+  ],
+  "sufficient reason explanation": [
+   "sufficient reason",
+   "sufficient reasons"
+  ],
+  "contingent being": [
+   "contingent being",
+   "contingent beings"
+  ],
+  "necessary being": [
+   "derivative sense",
+   "necessary being",
+   "necessary beings",
+   "strictest sense"
+  ],
+  "perceptual skepticism": [
+   "koons argument",
+   "perceptual skepticism",
+   "perceptual skepticisms",
+   "the pruss"
+  ],
+  "self undermining": [
+   "self-undermining"
+  ],
+  "della rocca s three options": [
+   "della rocca’s three options"
+  ],
+  "explanatory demonstration": [
+   "explanatory demonstration",
+   "explanatory demonstrations"
+  ],
+  "nomological regress": [
+   "nomological regress"
+  ],
+  "doubly contingent": [
+   "doubly contingent",
+   "doubly contingents"
+  ],
+  "infinite series of contingent things": [
+   "infinite series of contingent things"
+  ],
+  "passing the explanatory buck": [
+   "passing the explanatory bucks"
+  ],
+  "simultaneous cause": [
+   "simultaneous cause",
+   "simultaneous causes"
+  ],
+  "absolute simplicity": [
+   "absolute simplicity",
+   "absolute simplicitys"
+  ],
+  "explanans explanandum": [
+   "explanandum",
+   "explanans"
+  ],
+  "big conjunctive contingent proposition": [
+   "big conjunctive contingent proposition",
+   "big conjunctive contingent propositions"
+  ],
+  "explanation as making intelligible": [
+   "explanation as making intelligible",
+   "explanation as making intelligibles"
+  ],
+  "leibniz clarke argument from contingency": [
+   "leibniz–clarke argument from contingency",
+   "leibniz–clarke argument from contingencys"
+  ],
+  "hume s each member explained objection": [
+   "hume’s ‘each member explained’ objection",
+   "hume’s ‘each member explained’ objections"
+  ],
+  "inductive generalization": [
+   "inductive generalization",
+   "inductive generalizations"
+  ],
+  "objective probability": [
+   "objective probability",
+   "objective probabilitys"
+  ],
+  "priori knowledge": [
+   "priori knowledge",
+   "priori knowledges"
+  ],
+  "reductive materialism": [
+   "about consciousness",
+   "reductive materialism",
+   "reductive materialisms"
+  ],
+  "cyclic universe": [
+   "big bang",
+   "big crunch",
+   "cyclic universe",
+   "cyclic universes"
+  ],
+  "modal collapse": [
+   "modal collapse",
+   "modal collapses"
+  ],
+  "act and potency": [
+   "act and potencys"
+  ],
+  "essence existence distinction": [
+   "essence–existence distinction",
+   "essence–existence distinctions"
+  ],
+  "aquinas third way": [
+   "aquinas’ third way",
+   "aquinas’ third ways"
+  ],
+  "causa sui": [
+   "causa sui",
+   "causa suis"
+  ],
+  "humean conceivability argument": [
+   "humean conceivability argument",
+   "humean conceivability arguments"
+  ],
+  "burden of proof": [
+   "burden of proof",
+   "burden of proofs"
+  ],
+  "statistical explanation": [
+   "statistical explanation",
+   "statistical explanations"
+  ],
+  "intelligibility": [
+   "intelligibility"
+  ],
+  "logical necessity": [
+   "logical necessity",
+   "logical necessitys"
+  ],
+  "metaphysical necessity": [
+   "metaphysical necessity",
+   "metaphysical necessitys",
+   "of laws"
+  ],
+  "deductive validity and inductive strength": [
+   "deductive validity and inductive strength",
+   "deductive validity and inductive strengths"
+  ],
+  "determinism and indeterminism": [
+   "determinism and indeterminism",
+   "determinism and indeterminisms"
+  ],
+  "perfect": [
+   "perfect"
+  ],
+  "fully good": [
+   "divine goodness",
+   "fully goods"
+  ],
+  "intelligent": [
+   "divine intellect",
+   "intelligent"
+  ],
+  "kalam cosmological argument": [
+   "kalam cosmological argument",
+   "kalam cosmological arguments"
+  ],
+  "thomism": [
+   "thomism",
+   "thomist",
+   "thomists"
+  ],
+  "platonism": [
+   "platonism",
+   "platonist",
+   "platonists"
+  ],
+  "divine freedom": [
+   "divine freedoms"
+  ],
+  "conventionalism about necessity": [
+   "conventionalism about necessity",
+   "conventionalism about necessitys"
+  ],
+  "uniqueness argument": [
+   "uniqueness argument",
+   "uniqueness arguments"
+  ],
+  "per accidens causal series": [
+   "per accidens causal series"
+  ],
+  "atheism": [
+   "atheism",
+   "atheist",
+   "atheists"
+  ],
+  "epistemology": [
+   "epistemology"
+  ],
+  "metaphysical demonstration": [
+   "metaphysical demonstration",
+   "metaphysical demonstrations"
+  ],
+  "kant s objection": [
+   "kant’s objection",
+   "kant’s objections"
+  ],
+  "law of non contradiction": [
+   "first principle",
+   "law of non-contradiction",
+   "law of non-contradictions"
+  ],
+  "total cause": [
+   "total cause",
+   "total causes"
+  ],
+  "formally": [
+   "in the cause"
+  ],
+  "efficient cause vs formal cause": [
+   "efficient cause vs. formal cause",
+   "efficient cause vs. formal causes"
+  ],
+  "analogy of attribution": [
+   "analogy of attribution",
+   "analogy of attributions"
+  ],
+  "analogy of proper proportionality": [
+   "analogy of proper proportionality",
+   "analogy of proper proportionalitys"
+  ],
+  "analogy of improper proportionality": [
+   "analogy of improper proportionality",
+   "analogy of improper proportionalitys"
+  ],
+  "proportional similarity": [
+   "proportional similarity",
+   "proportional similaritys"
+  ],
+  "divine unity": [
+   "divine unity",
+   "divine unitys"
+  ],
+  "theistic personalism neo theism": [
+   "neo-theism",
+   "neo-theist",
+   "neo-theists"
+  ],
+  "essence property accident relation": [
+   "essence, property, accident, relation",
+   "essence, property, accident, relations"
+  ],
+  "constituent ontology": [
+   "constituent ontology",
+   "constituent ontologys"
+  ],
+  "immanent vs transient causation": [
+   "immanent vs. transient causation",
+   "immanent vs. transient causations"
+  ],
+  "substantial form and prime matter": [
+   "substantial form and prime matters"
+  ],
+  "sentence vs proposition": [
+   "sentence vs. proposition",
+   "sentence vs. propositions"
+  ],
+  "imagining vs conceiving": [
+   "imagining vs. conceiving",
+   "imagining vs. conceivings"
+  ],
+  "primary and secondary analogates": [
+   "primary and secondary analogates"
+  ],
+  "property dualism": [
+   "property dualism",
+   "property dualisms"
+  ],
+  "process theology": [
+   "process theology",
+   "process theologys"
+  ],
+  "platonic participation the third realm": [
+   "platonic participation",
+   "platonic participations",
+   "“third realm”",
+   "“third realm”s"
+  ],
+  "analytic statement": [
+   "analytic statement",
+   "analytic statements"
+  ],
+  "superangel": [
+   "ersatz god",
+   "superangel"
+  ],
+  "substance and accident": [
+   "substance and accident",
+   "substance and accidents"
+  ],
+  "predication": [
+   "predication"
+  ],
+  "materialism and naturalism": [
+   "materialism and naturalism",
+   "materialism and naturalisms"
+  ],
+  "substance dualism": [
+   "substance dualism",
+   "substance dualisms"
+  ],
+  "second law of thermodynamics": [
+   "second law of thermodynamics"
+  ],
+  "parmenidean and heraclitean views": [
+   "parmenidean and heraclitean views"
+  ],
+  "numbers vs numerals": [
+   "numbers vs. numerals"
+  ],
+  "everlastingness": [
+   "everlastingness"
+  ],
+  "anthropomorphism": [
+   "anthropomorphism",
+   "anthropomorphist",
+   "anthropomorphists"
+  ],
+  "fundamental particles": [
+   "fermions and bosons",
+   "fundamental particles"
+  ],
+  "idolatry": [
+   "idolatry"
+  ],
+  "agnosticism": [
+   "agnosticism",
+   "agnosticist",
+   "agnosticists"
+  ],
+  "deism": [
+   "deism",
+   "deist"
+  ],
+  "paradox of the stone": [
+   "paradox of the stone",
+   "paradox of the stones"
+  ],
+  "standard account of knowledge": [
+   "standard account of knowledge",
+   "standard account of knowledges"
+  ],
+  "knowledge by causation": [
+   "knowledge by causation",
+   "knowledge by causations",
+   "non-observational knowledge"
+  ],
+  "four dimensionalism": [
+   "four-dimensionalism",
+   "four-dimensionalist",
+   "four-dimensionalists"
+  ],
+  "author vs hypnotist": [
+   "author vs. hypnotist",
+   "author vs. hypnotists"
+  ],
+  "pain asymbolia": [
+   "pain asymbolia",
+   "pain asymbolias"
+  ],
+  "sensory appetite": [
+   "sensory appetite",
+   "sensory appetites"
+  ],
+  "rational appetite": [
+   "rational appetite",
+   "rational appetites"
+  ],
+  "best possible world": [
+   "best possible world",
+   "best possible worlds"
+  ],
+  "mere conservationism": [
+   "mere conservationism",
+   "mere conservationisms"
+  ],
+  "concurrentism": [
+   "concurrentism",
+   "concurrentist",
+   "concurrentists",
+   "divine concurrence"
+  ],
+  "secondary cause": [
+   "secondary cause",
+   "secondary causes"
+  ],
+  "supernatural preternatural subnatural": [
+   "preternatural",
+   "subnatural",
+   "supernatural"
+  ],
+  "suspension vs breach": [
+   "of a law",
+   "suspension vs. breach",
+   "suspension vs. breachs"
+  ],
+  "nominalism and conceptualism": [
+   "nominalism and conceptualism",
+   "nominalism and conceptualisms"
+  ],
+  "proposition vs state of affairs": [
+   "proposition vs. state of affairs"
+  ],
+  "divine intellect": [
+   "divine intellects",
+   "intellect and will"
+  ],
+  "moral goodness": [
+   "moral goodness"
+  ],
+  "panentheism": [
+   "panentheism",
+   "panentheist",
+   "panentheists"
+  ],
+  "univocal equivocal analogical": [
+   "analogical",
+   "equivocal",
+   "univocal"
+  ],
+  "primary and secondary analogate": [
+   "primary and secondary analogate"
+  ],
+  "humean view of laws": [
+   "humean view of laws"
+  ],
+  "natural theology vs revealed theology": [
+   "natural theology vs. revealed theology",
+   "natural theology vs. revealed theologys"
+  ],
+  "fideism": [
+   "fideism",
+   "fideist",
+   "fideists"
+  ],
+  "principle of sufficient reason and principle of causality": [
+   "principle of sufficient reason and principle of causality",
+   "principle of sufficient reason and principle of causalitys"
+  ],
+  "immaterial and incorporeal": [
+   "immaterial and incorporeal",
+   "immaterial and incorporeals"
+  ],
+  "per se causal series": [
+   "per se causal series"
+  ],
+  "efficient cause and formal cause": [
+   "efficient cause and formal cause",
+   "efficient cause and formal causes"
+  ],
+  "freedom of will": [
+   "free will",
+   "freedom of will",
+   "freedom of wills"
+  ],
+  "foreknowledge": [
+   "foreknowledge"
+  ],
+  "subjectivism about value": [
+   "subjectivism about value",
+   "subjectivism about values"
+  ],
+  "obscurantism": [
+   "obscurantism",
+   "obscurantist",
+   "obscurantists"
+  ],
+  "revelation": [
+   "divine revelation",
+   "revelation"
+  ],
+  "rationalist natural theology": [
+   "rationalist natural theology",
+   "rationalist natural theologys"
+  ],
+  "instance": [
+   "instance",
+   "instant"
+  ],
+  "natural inclination": [
+   "natural inclination",
+   "natural inclinations"
+  ],
+  "not a cause among causes": [
+   "not a cause among causes"
+  ],
+  "metaphor": [
+   "improper proportionality",
+   "metaphor"
+  ],
+  "basic cosmological argument": [
+   "“basic cosmological argument”",
+   "“basic cosmological argument”s"
+  ],
+  "hume russell tradition": [
+   "hume–russell tradition",
+   "hume–russell traditions"
+  ],
+  "efficient cause": [
+   "distinct from its effect",
+   "efficient cause",
+   "efficient causes"
+  ],
+  "self caused": [
+   "self-caused"
+  ],
+  "essence vs existence": [
+   "essence vs. existence",
+   "essence vs. existences"
+  ],
+  "principled criterion": [
+   "principled criterion",
+   "principled criterions"
+  ],
+  "underdescription": [
+   "underdescription"
+  ],
+  "conditional necessity": [
+   "conditional necessity",
+   "conditional necessitys"
+  ],
+  "new atheists": [
+   "new atheists"
+  ],
+  "ockham s razor": [
+   "ockham's razor",
+   "ockham's razors",
+   "ockham’s razor",
+   "ockham’s razors"
+  ],
+  "deterministic cause": [
+   "deterministic cause",
+   "deterministic causes"
+  ],
+  "empirical hypothesis": [
+   "empirical hypothesis"
+  ],
+  "participation": [
+   "participation"
+  ],
+  "misfire": [
+   "diagnostic failure",
+   "misfire"
+  ],
+  "aristotelian proof": [
+   "aristotelian proof",
+   "aristotelian proofs"
+  ],
+  "neo platonic proof": [
+   "neo-platonic proof",
+   "neo-platonic proofs"
+  ],
+  "augustinian proof": [
+   "augustinian proof",
+   "augustinian proofs"
+  ],
+  "thomistic proof": [
+   "thomistic proof",
+   "thomistic proofs"
+  ],
+  "rationalist proof": [
+   "rationalist proof",
+   "rationalist proofs"
+  ],
+  "intelligent design": [
+   "id",
+   "intelligent designs"
+  ],
+  "descartes preservation argument": [
+   "descartes’ preservation argument",
+   "descartes’ preservation arguments"
+  ],
+  "early modern rationalism": [
+   "early modern rationalism",
+   "early modern rationalisms"
+  ],
+  "equivocation": [
+   "equivocation"
+  ],
+  "terminus of explanation": [
+   "stopping point",
+   "terminus of explanation",
+   "terminus of explanations"
+  ],
+  "big bang": [
+   "big bangs"
+  ],
+  "quantum mechanics": [
+   "quantum mechanics"
+  ],
+  "theism and atheism": [
+   "theism and atheism",
+   "theism and atheisms"
+  ],
+  "philosophical theism": [
+   "philosophical theism",
+   "philosophical theisms"
+  ],
+  "apologetics": [
+   "apologetics",
+   "cumulative case"
+  ],
+  "false dichotomy": [
+   "false dichotomy",
+   "false dichotomys"
+  ],
+  "self refuting claim": [
+   "self-refuting claim",
+   "self-refuting claims"
+  ],
+  "trivial scientism": [
+   "trivial scientism",
+   "trivial scientisms"
+  ],
+  "presuppositions of science": [
+   "presuppositions of science",
+   "presuppositions of sciences"
+  ],
+  "methodological abstraction": [
+   "methodological abstraction",
+   "methodological abstractions"
+  ],
+  "structure vs intrinsic nature": [
+   "structure vs. intrinsic nature",
+   "structure vs. intrinsic natures"
+  ],
+  "argument from success": [
+   "argument from success"
+  ],
+  "conceptual analysis": [
+   "conceptual analysis"
+  ],
+  "naturalized metaphysics": [
+   "naturalized metaphysics"
+  ],
+  "complexity": [
+   "complexity",
+   "in the design-argument sense"
+  ],
+  "strict demonstration": [
+   "strict demonstration",
+   "strict demonstrations"
+  ],
+  "abductive reasoning": [
+   "abductive reasoning",
+   "abductive reasonings"
+  ],
+  "subsistent being itself": [
+   "subsistent being itself",
+   "subsistent being itselfs"
+  ],
+  "defense": [
+   "defense"
+  ],
+  "theodicy": [
+   "theodicy"
+  ],
+  "logical problem of evil": [
+   "logical problem of evil",
+   "logical problem of evils"
+  ],
+  "evidential problem of evil": [
+   "evidential problem of evil",
+   "evidential problem of evils"
+  ],
+  "soul making": [
+   "soul-making"
+  ],
+  "poisoning the well": [
+   "poisoning the wells"
+  ],
+  "cosmic authority problem": [
+   "cosmic authority problem",
+   "cosmic authority problems"
+  ],
+  "double standard": [
+   "double standard",
+   "double standards",
+   "on proofs"
+  ],
+  "new atheism": [
+   "new atheism",
+   "new atheisms"
+  ],
+  "universals": [
+   "universals"
+  ],
+  "instrumentalism": [
+   "instrumentalism",
+   "instrumentalist",
+   "instrumentalists"
+  ],
+  "parsimony": [
+   "parsimony"
+  ],
+  "free will defense": [
+   "free will defense",
+   "free will defenses"
+  ],
+  "best of all possible worlds": [
+   "best of all possible worlds"
+  ],
+  "quod erat demonstrandum": [
+   "quod erat demonstrandum",
+   "quod erat demonstrandums"
+  ],
+  "form of the good": [
+   "form of the good",
+   "form of the goods"
+  ],
+  "pantheism and polytheism": [
+   "pantheism and polytheism",
+   "pantheism and polytheisms"
+  ],
+  "necessary vs contingent": [
+   "necessary vs. contingent",
+   "necessary vs. contingents"
+  ],
+  "self explanatory being": [
+   "self-explanatory being",
+   "self-explanatory beings"
+  ],
+  "doctrine of analogy": [
+   "doctrine of analogy",
+   "doctrine of analogys"
+  ],
+  "deduction": [
+   "deduction",
+   "deductive validity"
+  ],
+  "induction": [
+   "induction",
+   "inductive reasoning"
+  ],
+  "non sequitur": [
+   "non sequitur",
+   "non sequiturs"
+  ],
+  "materialism and reductionism": [
+   "materialism and reductionism",
+   "materialism and reductionisms"
+  ],
+  "empirical": [
+   "empirical",
+   "empirical inquiry"
+  ],
+  "divine revelation": [
+   "divine revelations"
+  ],
+  "trinity": [
+   "as a revealed doctrine",
+   "trinity"
+  ],
+  "immortality of the soul": [
+   "immortality of the soul",
+   "immortality of the souls"
+  ],
+  "skeptical theism": [
+   "skeptical theism",
+   "skeptical theisms"
+  ],
+  "existential problem of evil": [
+   "existential problem of evil",
+   "existential problem of evils"
+  ],
+  "moral evil and natural evil": [
+   "moral evil and natural evil",
+   "moral evil and natural evils"
+  ],
+  "quantitative vs qualitative": [
+   "quantitative vs. qualitative",
+   "quantitative vs. qualitatives"
+  ],
+  "objective world": [
+   "objective world",
+   "objective worlds"
+  ],
+  "scientific realism": [
+   "scientific realism",
+   "scientific realisms"
+  ],
+  "virtue": [
+   "moral virtues"
+  ],
+  "genetic fallacy": [
+   "genetic fallacy",
+   "genetic fallacys"
+  ],
+  "moorean shift": [
+   "moorean shift",
+   "moorean shifts"
+  ],
+  "five proofs": [
+   "five proofs"
+  ],
+  "falsifiability": [
+   "falsifiability"
+  ],
+  "probabilistic abductive argument": [
+   "abductive argument",
+   "abductive arguments",
+   "probabilistic"
+  ],
+  "informal vs formal statement": [
+   "informal vs. formal statement",
+   "informal vs. formal statements"
+  ],
+  "exegesis": [
+   "exegesis"
+  ],
+  "real distinction between essence and existence": [
+   "real distinction between essence and existence",
+   "real distinction between essence and existences"
+  ],
+  "analogical language": [
+   "analogical language",
+   "analogical languages"
+  ],
+  "divine concurrence": [
+   "divine concurrences"
+  ],
+  "hierarchical vs linear causal series": [
+   "hierarchical vs. linear causal series"
+  ],
+  "analytic philosophy": [
+   "analytic philosophy",
+   "analytic philosophys"
+  ],
+  "priori vs a posteriori": [
+   "priori vs. a posteriori",
+   "priori vs. a posterioris"
+  ],
+  "divine incomprehensibility": [
+   "divine incomprehensibility",
+   "divine incomprehensibilitys"
+  ],
+  "premise inference conclusion": [
+   "premise, inference, conclusion",
+   "premise, inference, conclusions"
+  ],
+  "validity and soundness": [
+   "validity and soundness"
+  ],
+  "propositions": [
+   "propositions"
+  ],
+  "continental rationalism and innate ideas": [
+   "continental rationalism and innate ideas"
+  ],
+  "theism atheism and agnosticism": [
+   "theism, atheism, and agnosticism",
+   "theism, atheism, and agnosticisms"
+  ],
+  "fine tuning argument": [
+   "fine-tuning argument",
+   "fine-tuning arguments"
+  ],
+  "materialism": [
+   "materialism",
+   "materialist",
+   "materialists"
+  ],
+  "parmenides argument against change": [
+   "parmenides' argument against change",
+   "parmenides' argument against changes"
+  ]
+ },
+ "merge": {},
+ "stop": [
+  "act",
+  "acts",
+  "actual",
+  "argument",
+  "arguments",
+  "being",
+  "beings",
+  "cause",
+  "caused",
+  "causes",
+  "change",
+  "changes",
+  "concept",
+  "concepts",
+  "conclusion",
+  "creation",
+  "creator",
+  "end",
+  "ends",
+  "essences",
+  "event",
+  "events",
+  "everything",
+  "explanation",
+  "explanations",
+  "fact",
+  "facts",
+  "faith",
+  "form",
+  "forms",
+  "god",
+  "gods",
+  "good",
+  "goodness",
+  "idea",
+  "ideas",
+  "infinite",
+  "intellect",
+  "itself",
+  "knowledge",
+  "law",
+  "laws",
+  "love",
+  "maker",
+  "making",
+  "matter",
+  "mind",
+  "minds",
+  "motion",
+  "nature",
+  "natures",
+  "necessary",
+  "nothing",
+  "object",
+  "objects",
+  "one",
+  "order",
+  "part",
+  "parts",
+  "person",
+  "persons",
+  "possible",
+  "potential",
+  "power",
+  "powers",
+  "premise",
+  "premises",
+  "principle",
+  "principles",
+  "proof",
+  "proofs",
+  "properties",
+  "property",
+  "purpose",
+  "real",
+  "reason",
+  "reasons",
+  "science",
+  "series",
+  "simple",
+  "something",
+  "substances",
+  "the",
+  "theory",
+  "thing",
+  "things",
+  "time",
+  "truth",
+  "unity",
+  "universe",
+  "whole",
+  "will",
+  "world"
+ ]
+}

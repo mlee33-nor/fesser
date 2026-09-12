@@ -148,6 +148,93 @@ Length: 4,000–7,000 words (scale with chapter length). Structure:
 
 Write in your own words (copyright rules above apply). Make it vivid and teachable.
 
+## EXPANSION PASS (second round — the learner asked for exhaustive coverage)
+Only start this after your original assignment (JSON + NotebookLM doc) is finished.
+Edit `content\<id>.json` IN PLACE with a Python script that loads it, appends, and
+saves (`json.dump(d, f, ensure_ascii=False, indent=1)`). Keep everything already
+there (fix errors if you spot any). Re-read chapter sections as needed so every
+addition is accurate. New minimums (capstone targets in brackets):
+
+1. **keyTerms ≥ 40 [60, whole book]** — a real vocabulary list. Cover every technical
+   term, named principle (with abbreviation: PC, PSR, PPC …), Latin/Greek phrase,
+   named position (nominalism, deism, occasionalism …) and named thinker's view
+   used in the chapter. EVERY entry has:
+   - `term`
+   - `definition` — 1–3 precise sentences, in plain English
+   - `example` — a concrete example of the term in use (everyday or from the book),
+     NOT a restatement of the definition
+   - `origin` — NEW: the Latin/Greek original and its literal meaning, or which
+     thinker/tradition the term comes from; `""` if nothing useful to say
+   - `confuseWith` — NEW: the term it is most often confused with, and the
+     difference in one sentence; `""` if none
+   Backfill `origin` and `confuseWith` on the existing entries too.
+2. **quiz ≥ 40 [70]** — new questions cover sections, argument steps, objections and
+   terms not yet tested; ≥ 50% understand/apply/analyze; include "which step
+   secures X", "what would Feser reply to…", "which distinction does this
+   objection ignore" and scenario-application questions. Keep answer positions
+   evenly spread across 0–3. Plausible distractors; explanation on every one.
+3. **shortAnswer ≥ 15 [20]** — each with model answer and 3–5 rubric points.
+4. **flashcards ≥ 60 [90]** — terms, each important argument step ("What does step 7
+   claim and why?"), each objection → one-line reply, distinctions, examples.
+5. **misconceptions ≥ 10, persuade.socratic ≥ 12, illustrations ≥ 8,
+   distinctions ≥ 6.**
+6. Check the summary covers every section and subsection of the chapter; add any
+   that were skipped.
+
+Validate that the JSON loads, then reply with the new counts.
+
+## DEPTH PASS (third round — the learner wants to REALLY understand every section)
+Edit `content\<id>.json` IN PLACE with a Python script (load → modify → `json.dump(d, f,
+ensure_ascii=False, indent=1)`); never re-merge old part files. Re-read the chapter
+text for each section as you go so everything is accurate to Feser. Add these
+fields — do not remove anything:
+
+**A. Every object in `summary` gets:**
+- `takeaway` — one sentence: the single thing to remember from this section.
+- `deepDive` — md, 250–450 words. Go beyond the summary: slowly unpack the
+  hardest idea in the section; give a worked example or thought experiment;
+  note the qualifications and nuances Feser adds; say how it feeds the formal
+  argument (cite step numbers, e.g. “this is what secures step 11”); name the
+  usual confusion (“people often think X, but …”). Teach it like a patient tutor.
+- `checks` — 2–3 multiple-choice questions on THIS section only, same shape as
+  quiz items (`q`, `options`×4, `answer` 0–3, `explanation`, `level`); spread
+  answer positions.
+- `terms` — the exact `term` strings of the keyTerms that this section uses
+  (add any missing technical term to `keyTerms` first, with all five fields).
+- If a section's `body` is under 250 words, expand it so it genuinely explains.
+
+**B. Every object in `argument.steps` gets:**
+- `example` — 1–3 sentences: a concrete illustration of what this step says
+  (book example where possible, otherwise your own).
+- `challenge` — the most natural objection to THIS step, one sentence
+  (`""` only for purely mechanical inferences).
+- `answer` — the reply to that challenge, 1–3 sentences, grounded in the book.
+
+**C. `keyTerms`:** make sure every technical word used anywhere in the module's
+prose has an entry — including adjective/noun forms people will look up
+(e.g. both the idea of omnipotence and the word “omnipotent” are covered by one
+entry whose definition mentions both forms). All five fields as before.
+
+**D. BEGINNER HAND-HOLDING (the learner has NEVER studied philosophy and will work
+through this module BEFORE reading the chapter):**
+- Every object in `summary` also gets `plain` — 2–4 sentences in everyday language,
+  zero jargon (or jargon immediately explained), as if to a smart friend who has
+  never taken a philosophy class. This is shown FIRST, before the full body.
+- New top-level field `readingGuide`:
+  ```jsonc
+  "readingGuide": {
+    "beforeYouRead": "md — 250–400 words, plain English: what this chapter is trying to do, why anyone would care, what the reader will be asked to accept, and reassurance about the hard parts",
+    "knowFirst": [ { "term": "Actuality", "plain": "one or two plain sentences" } ],   // 6–10 words to learn before reading (use keyTerms' exact term strings)
+    "questionsToHold": ["a question to keep in mind while reading", "…"],   // 5–7
+    "map": [ { "pages": "17–24", "section": "the book's section heading", "what": "what happens in these pages, plainly", "difficulty": 2, "tip": "where to slow down / what to reread / what can be skimmed on first read" } ],   // cover the whole chapter in order, 6–14 rows; difficulty 1 easy – 3 hard
+    "afterReading": ["a self-check prompt to do right after finishing the chapter", "…"]   // 5–8
+  }
+  ```
+  Page numbers must be the book's printed pages (PDF page − 3).
+
+Validate the JSON loads, then reply with: sections enriched, steps enriched,
+new keyTerms count, total `checks` questions, readingGuide map rows.
+
 ## Finish
 When both files exist and the JSON validates, reply with: file paths, word count
 of the NotebookLM doc, counts of summary sections / steps / objections / quiz /

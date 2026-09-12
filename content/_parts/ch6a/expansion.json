@@ -1,0 +1,242 @@
+{
+  "backfill": {
+    "Principle of proportionate causality (PPC)": {
+      "origin": "A Scholastic principle used by Aquinas; Descartes’ version is known to scholars as the “Causal Adequacy Principle.” Feser first introduces it in chapter 1.",
+      "confuseWith": "Principle of causality (PC): PC says any actualized potential needs an actual actualizer; PPC adds that the actualizer must contain what it produces formally, virtually, or eminently."
+    },
+    "Total cause": {
+      "origin": "Scholastic *causa totalis*, the whole of what produces an effect, as opposed to a partial cause.",
+      "confuseWith": "Material cause: the ingredients are only one factor in the total cause, which is why Cottingham’s ingredient-only counterexamples miss PPC."
+    },
+    "Formally (in the cause)": {
+      "origin": "Latin *formaliter*, “according to the form”: the cause has the very form it communicates.",
+      "confuseWith": "Numerical identity of the feature: even formal causation produces a new instance (a new heat), not the same heat handed over."
+    },
+    "Virtually (in the cause)": {
+      "origin": "Latin *virtualiter*, from *virtus*, “power”: present as a power or capacity.",
+      "confuseWith": "“Virtual” in the modern sense of simulated or not real: virtual presence in the Scholastic sense is a real power to produce the effect."
+    },
+    "Eminently (in the cause)": {
+      "origin": "Latin *eminenter*, “in a surpassing or higher way.”",
+      "confuseWith": "Having more of the same feature: eminent presence is possession of something more fundamental (the power to make bills), not a larger stack of bills."
+    },
+    "Agere sequitur esse": {
+      "origin": "Latin: *agere* (“to act”) *sequitur* (“follows”) *esse* (“to be”). A Scholastic axiom used throughout Aquinas.",
+      "confuseWith": "PPC: PPC concerns effects not exceeding their efficient causes; agere sequitur esse concerns activities not exceeding the agent’s nature (formal cause)."
+    },
+    "Efficient cause vs. formal cause": {
+      "origin": "Two of Aristotle’s four causes (material, formal, efficient, final).",
+      "confuseWith": "Final cause: the final cause is the end or goal a thing is directed toward, not its nature (formal) or its producer (efficient)."
+    },
+    "Univocal predication": {
+      "origin": "Latin *univocus*, “having one voice”: one word, one meaning.",
+      "confuseWith": "Literal predication: analogical predication is also literal, so “nonunivocal” does not mean “nonliteral.”"
+    },
+    "Equivocal predication": {
+      "origin": "Latin *aequivocus*, “equal voice”: the same word used with unrelated meanings (Aristotle, Categories 1).",
+      "confuseWith": "Analogical predication: analogical senses are related by a real relation or proportion; equivocal senses share nothing but the word."
+    },
+    "Analogical predication": {
+      "origin": "Greek *analogia*, “proportion”; developed by Aristotle and Aquinas and classified by Cajetan (De Nominum Analogia, 1498).",
+      "confuseWith": "Metaphor: metaphor is only one (improper) kind of analogy; attribution and proper proportionality are literal."
+    },
+    "Analogy of attribution": {
+      "origin": "Scholastic terminology (systematized by Cajetan); the stock example of “healthy” goes back to Aristotle.",
+      "confuseWith": "Analogy of proper proportionality: in attribution the perfection is intrinsic only to the primary analogate; in proper proportionality it is intrinsic to every analogate."
+    },
+    "Analogy of proper proportionality": {
+      "origin": "Cajetan’s classification of Thomistic analogy; “proportionality” means a likeness of proportions (A:B :: C:D).",
+      "confuseWith": "Metaphorical proportionality: in the proper kind the form is literally present in each analogate; in the metaphorical kind, in only one."
+    },
+    "Analogy of improper (metaphorical) proportionality": {
+      "origin": "Cajetan’s term for metaphor treated as a kind of analogy.",
+      "confuseWith": "Analogy in general: all metaphor is analogy, but not all analogy is metaphor."
+    },
+    "Proportional similarity": {
+      "origin": "From the mathematical sense of Greek *analogia*: equality of ratios.",
+      "confuseWith": "Direct resemblance: things proportionally similar need not share any quality; what is alike is the relation (eyes:tree :: intellect:theorem)."
+    },
+    "Genus and specific difference": {
+      "origin": "Latin *genus* (“kind”) and *differentia specifica*; Aristotle’s logic and Porphyry’s Isagoge (the “Porphyrian tree”).",
+      "confuseWith": "Being as a supreme genus: being is not a genus, because nothing outside being could serve as its differentia."
+    },
+    "Apophatic (negative) theology": {
+      "origin": "Greek *apophasis*, “denial”; associated with Pseudo-Dionysius and Maimonides.",
+      "confuseWith": "Equivocal predication or agnosticism: negative theology denies limitations of God; it becomes self-defeating only if made the whole story."
+    },
+    "Divine unity": {
+      "origin": "Classical theism’s affirmation that God is one; in Feser derived from pure actuality (chapter 6).",
+      "confuseWith": "Divine simplicity: unity means there is only one God; simplicity means there are no parts within God (though each entails the other)."
+    },
+    "Divine simplicity": {
+      "origin": "Latin *simplex*, “without fold,” i.e., uncompounded. Affirmed by Aristotle, Plotinus, Augustine, Anselm, Maimonides, Avicenna, Aquinas; defined at Lateran IV and Vatican I.",
+      "confuseWith": "Simplicity as “easy to understand” or as low informational complexity: it means lack of composition, and a simple God is incomprehensibly rich rather than simplistic."
+    },
+    "Classical theism": {
+      "origin": "A modern label for the mainstream tradition of philosophical theology from Plato and Aristotle through the medieval Jewish, Muslim, and Christian thinkers.",
+      "confuseWith": "Theism in general, or deism: classical theism is defined by simplicity and by God’s continual causing of the world’s existence, not merely by belief in a creator."
+    },
+    "Theistic personalism / neo-theism": {
+      "origin": "“Theistic personalism” is Brian Davies’ label; “neo-theism” is Norman Geisler’s.",
+      "confuseWith": "Belief in a personal God: classical theists also affirm divine intellect and will; the difference is whether personhood puts God in a genus and makes him composite."
+    },
+    "Essence, property, accident, relation": {
+      "origin": "Latin *essentia*, *proprium*, *accidens*, *relatio*; from Aristotle’s Categories and Porphyry’s five predicables.",
+      "confuseWith": "Plantinga’s broad sense of “property” (anything truly predicable of a thing): Aquinas’ “property” is only what flows necessarily from the essence."
+    },
+    "Constituent ontology": {
+      "origin": "Term coined by Nicholas Wolterstorff (“Divine Simplicity,” 1991) to characterize the metaphysics behind the doctrine of simplicity.",
+      "confuseWith": "Relational (Platonic) ontology: there a thing stands in a relation of exemplifying abstract properties outside it; in constituent ontology its nature is inside it."
+    },
+    "Cambridge change / Cambridge property": {
+      "origin": "Peter Geach’s term, named for Cambridge philosophers such as Bertrand Russell and J. M. E. McTaggart who worked with the notion; applied to simplicity by Barry Miller.",
+      "confuseWith": "Real change: in a real change something intrinsic to the thing itself alters; in a Cambridge change only something related to it does."
+    },
+    "Fallacy of accident": {
+      "origin": "One of the fallacies catalogued in Aristotle’s Sophistical Refutations.",
+      "confuseWith": "Fallacy of composition: composition infers a whole has a property because its parts do; accident treats a merely accompanying feature as essential."
+    },
+    "Immanent vs. transient causation": {
+      "origin": "Scholastic *actio immanens* (action that remains in the agent) and *actio transiens* (action that passes into another).",
+      "confuseWith": "Inner vs. outer in a spatial sense: immanent causation is about the source of activity (the agent’s own nature), not location."
+    },
+    "Substantial form and prime matter": {
+      "origin": "Aristotle’s hylomorphism (Greek *hyle*, “matter,” + *morphe*, “form”); Latin *materia prima*.",
+      "confuseWith": "“Matter” in physics: physical matter is already formed stuff (atoms, fields); prime matter is the pure potentiality underlying any material substance."
+    },
+    "Timeless eternity": {
+      "origin": "The classical conception articulated by Augustine and Boethius and adopted by Aquinas.",
+      "confuseWith": "Everlastingness (sempiternity): existing at all times without beginning or end, still with succession, which Feser argues is not enough for an immutable, simple God."
+    },
+    "Conventionalism about necessity": {
+      "origin": "Associated with logical positivism; in the theistic debate, J. N. Findlay (1948) and Russell in his BBC debate with Copleston.",
+      "confuseWith": "Analyticity: some necessary truths may be analytic, but conventionalism claims all necessity is merely a matter of linguistic rules."
+    },
+    "Sentence vs. proposition": {
+      "origin": "A distinction central to modern logic since Frege; Feser cites Plantinga for it here.",
+      "confuseWith": "Utterance or statement: an utterance is a speech act; a proposition is the language-independent content that can be true or false."
+    },
+    "Imagining vs. conceiving": {
+      "origin": "Classic distinction (Descartes’ thousand-sided figure, which can be understood but not distinctly pictured); Feser cites Brian Leftow.",
+      "confuseWith": "Conceivability as a sure guide to possibility: even genuine conceiving is, for Feser, secondary to knowledge of essences."
+    }
+  },
+  "newKeyTerms": [
+    { "term": "Principle of causality (PC)", "definition": "Any potential that is actualized is actualized by something already actual; nothing moves itself from potency to act.", "example": "Water does not heat itself; the stove’s actual heat actualizes its potential to be hot.", "origin": "Aristotelian-Scholastic principle defended in Feser’s chapter 1.", "confuseWith": "PPC: PC says there must be an actualizer; PPC says the actualizer must contain the effect’s perfection in some way." },
+    { "term": "Principle of sufficient reason (PSR)", "definition": "There is an explanation for the existence of any being and for any attribute it has, either in its own nature or in something else.", "example": "If a coin appears on your desk, there is some explanation — even if you never learn it.", "origin": "Named by Leibniz; defended by Feser in chapter 5.", "confuseWith": "“Everything has a cause”: PSR requires an explanation, which in a necessary being is found in its own nature, not in an external cause." },
+    { "term": "Pure actuality (actus purus)", "definition": "Actuality with no admixture of potentiality: nothing about it is waiting to be realized, so it neither needs nor can have an actualizer.", "example": "The Unmoved Mover of chapter 1, which actualizes everything else without itself being actualized.", "origin": "Latin *actus purus*; Aristotle’s unmoved mover as developed by Aquinas.", "confuseWith": "“Very active” or “always busy”: pure act means lacking no perfection, not engaging in constant change." },
+    { "term": "Subsistent existence itself (ipsum esse subsistens)", "definition": "That whose essence just is its existence, so that it exists of itself rather than having existence added to an essence.", "example": "The conclusion of the Thomistic proof: the cause of the existence of everything whose essence differs from its existence.", "origin": "Latin phrase from Aquinas, *ipsum esse subsistens*.", "confuseWith": "“Existence in general” or the sum of existing things: it is not an abstraction or the world’s total, but the one being whose nature is to exist." },
+    { "term": "Real distinction (of essence and existence)", "definition": "A distinction between two principles that are really different in the thing, not merely two ways of thinking about it; in creatures, essence relates to existence as potency to act.", "example": "Knowing what a dodo is does not tell you whether any dodo exists.", "origin": "Aquinas, De ente et essentia; defended in Feser’s chapter 4.", "confuseWith": "A merely conceptual distinction (like “morning star” vs. “evening star”), which reflects our ways of thinking rather than distinct principles in the thing." },
+    { "term": "Primary and secondary analogates", "definition": "In an analogy of attribution, the primary analogate is the thing in which the perfection is intrinsically found; secondary analogates receive the name by relation to it.", "example": "George is the primary analogate of “healthy”; his food and complexion are secondary.", "origin": "Scholastic terminology of analogy.", "confuseWith": "Better and worse instances of the same quality: secondary analogates of attribution do not intrinsically have the perfection at all." },
+    { "term": "Metaphysical parts", "definition": "Really distinct principles that compose a thing even when they are not physically separable pieces: matter and form, genus and difference, essence and existence, substance and accidents, act and potency.", "example": "A human’s animality and rationality are metaphysical parts of the human essence, though you can’t cut them apart.", "origin": "Scholastic metaphysics; in Feser, chapters 2 and 6.", "confuseWith": "Physical or integral parts (arms, atoms): simplicity denies both, but the key arguments turn on metaphysical parts." },
+    { "term": "Individuation by matter", "definition": "The view that what makes two members of the same material species two individuals is their distinct matter.", "example": "Identical twins share a nature but differ as individuals because each is made of different matter.", "origin": "Aristotle and Aquinas; Feser points to Oderberg and his own Scholastic Metaphysics.", "confuseWith": "Distinction by specific difference, which separates species (human vs. dog), not individuals within a species." },
+    { "term": "Ontological vs. temporal priority", "definition": "A cause is temporally prior if it comes earlier in time; it is ontologically prior if the effect depends on it for its being here and now, regardless of time.", "example": "A lamp’s light depends at this moment on the current flowing, whether or not the lamp was switched on long ago.", "origin": "Scholastic distinction between priority in time and priority in nature; central to hierarchical (per se) causal series.", "confuseWith": "Temporal beginning: showing that something always existed removes only a temporally prior cause, not an ontologically prior one." },
+    { "term": "Heirloom view of causation", "definition": "The picture, attributed to PPC by Cottingham, on which causes pass their own properties down to effects the way heirlooms are handed on.", "example": "Thinking a cook must be spongy to make a spongy cake.", "origin": "Cottingham’s label, in criticizing Descartes’ “Causal Adequacy Principle.”", "confuseWith": "PPC itself: PPC allows virtual and eminent presence and does not require the same feature to be handed over." },
+    { "term": "Property dualism", "definition": "The view that mental properties are immaterial yet are properties of a material thing, the brain, so there is no immaterial substance.", "example": "Saying pain is a nonphysical property that the physical brain has.", "origin": "A contemporary position in philosophy of mind; criticized by John Searle as unstable.", "confuseWith": "Substance dualism: substance dualism holds that the mind (or soul) is itself an immaterial thing, not just that brains have immaterial properties." },
+    { "term": "Process theology", "definition": "A form of theistic personalism, associated with Charles Hartshorne (and Whitehead), which holds that God changes and develops in response to the world.", "example": "Saying God grows in experience as history unfolds.", "origin": "Alfred North Whitehead and Charles Hartshorne, 20th century.", "confuseWith": "Classical theism with an active God: classical theism holds God is active and personal without undergoing real change." },
+    { "term": "Platonic participation / the “third realm”", "definition": "The picture of properties as abstract objects existing apart from concrete things, which the things exemplify or participate in.", "example": "On Plantinga’s view, Socrates exemplifies an abstract property, wisdom, that exists whether or not anyone is wise.", "origin": "Plato’s Forms; modern Platonism about properties.", "confuseWith": "Constituent ontology, on which a thing’s nature and attributes are concrete ingredients within it." },
+    { "term": "Analytic statement", "definition": "A statement true by virtue of the meanings of its terms.", "example": "“All bachelors are unmarried.”", "origin": "Kant’s analytic/synthetic distinction, later central to logical positivism.", "confuseWith": "Necessary truth in general: conventionalists identify the two, but Feser holds that mathematical and metaphysical necessities are not mere matters of meaning." },
+    { "term": "Possible worlds", "definition": "A way of speaking about modality: a necessary truth is true in every possible world, a possible one in at least one.", "example": "Schrader claims there is a possible world with nothing at all in it.", "origin": "Leibniz; formalized in twentieth-century modal logic (Kripke, Plantinga, Lewis).", "confuseWith": "The source of modal truth: for the Aristotelian-Thomist, possible-worlds talk is a convenient idiom, while what grounds modality is the essences of actual things." },
+    { "term": "Immutability", "definition": "God’s lack of any real change, following from pure actuality and simplicity; Cambridge changes (like becoming Creator) are compatible with it.", "example": "The world beginning to exist is a real change in the world, not in God.", "origin": "Latin *immutabilis*, “unchangeable.”", "confuseWith": "Inertness or impassive indifference: immutability means lacking no actuality, not lacking activity or life." },
+    { "term": "Immateriality and incorporeality", "definition": "Incorporeal: having no body. Immaterial: not material in any way. God is both, since matter involves parts and potentiality.", "example": "Neither atoms nor fields nor bodies of any kind can be God, since all have rearrangeable parts.", "origin": "Latin *in-* (“not”) + *corpus* (“body”) / *materia* (“matter”).", "confuseWith": "Being made of a very fine or invisible substance (like a gas or energy): that would still be material." },
+    { "term": "Contingent vs. necessary being", "definition": "A contingent being could fail to exist and depends on causes; an absolutely necessary being cannot fail to exist because of what it is.", "example": "You exist contingently; the being whose essence is existence exists necessarily.", "origin": "Avicenna and the Scholastics; the rationalist proof of chapter 5.", "confuseWith": "Physical or relative necessity, e.g., water necessarily boiling at a given pressure, which still depends on conditions." },
+    { "term": "Straw man", "definition": "Refuting a weaker or distorted version of a view than the one its defenders actually hold.", "example": "Restricting PPC to material ingredients, then refuting that restricted principle with a sponge cake.", "origin": "Informal logic.", "confuseWith": "Fallacy of accident: a straw man misstates the opponent’s view; the fallacy of accident misgeneralizes from contingent features." },
+    { "term": "Begging the question", "definition": "Assuming, in an argument, what is at issue.", "example": "Rejecting a necessary being by assuming all necessity is linguistic, when the proofs claim to show otherwise.", "origin": "Latin *petitio principii*, “assuming the starting point.”", "confuseWith": "Raising a question: in logic, “begging the question” does not mean “prompting” one." },
+    { "term": "Superangel (ersatz god)", "definition": "Feser’s term for what God would be if he were not simple: an immaterial, very powerful but essentially creaturely being, one of a kind and in need of a cause.", "example": "A God with really distinct wisdom and power, which something would have to combine.", "origin": "Feser, chapter 6.", "confuseWith": "The God of classical theism, who is not one being among others but subsistent existence itself." }
+  ],
+  "newQuiz": [
+    { "q": "A friend suggests the First Cause might be two beings that differ only in that one has a certain accident the other lacks. What would Feser reply?", "options": ["Any composition, including substance plus accident, brings potentiality, so neither would be purely actual.", "Accidents cannot exist in immaterial beings, so the suggestion is meaningless.", "Two such gods are possible, but Ockham’s razor tells us to posit only one.", "Accidents are Cambridge properties, so they cannot distinguish anything."], "answer": 0, "explanation": "Footnote 17: appealing to any kind of parts fails, because parts entail potency. Feser’s argument is a strict demonstration of uniqueness, not an appeal to simplicity of theory.", "level": "apply" },
+    { "q": "Which distinction does Cottingham’s sponge-cake objection ignore?", "options": ["Real vs. Cambridge change", "The material factors vs. the total cause (and formal vs. virtual or eminent presence)", "Univocal vs. equivocal predication", "Imagining vs. conceiving"], "answer": 1, "explanation": "The objection looks only at ingredients and assumes formal presence. PPC concerns the total cause and allows virtual or eminent presence.", "level": "analyze" },
+    { "q": "Plantinga’s charge that simplicity makes God an abstract object depends on ignoring which view of properties?", "options": ["Ontological vs. temporal priority", "The formal/virtual distinction", "Constituent ontology, on which a thing’s nature and attributes are concrete constituents of it", "Immanent causation"], "answer": 2, "explanation": "Only if properties are Platonic abstract objects would identifying God with his wisdom make him abstract. Classical theists hold a constituent ontology — and deny God is a property at all.", "level": "analyze" },
+    { "q": "In the argument that being is analogical, why does denying that potentiality is really distinct from actuality amount to denying one of the first two premises?", "options": ["Because essence and existence are identical in creatures", "Because potentiality is just a kind of actuality", "Because Parmenides proved that change is impossible", "Because a merely conceptual distinction means the one underlying reality is only actual or only potential"], "answer": 3, "explanation": "If there is only one reality described two ways, then either only actuality or only potentiality is real — denying premise 1 or 2, which cannot coherently be done.", "level": "understand" },
+    { "q": "Which two authors does Feser credit with the labels “neo-theism” and “theistic personalism”?", "options": ["Norman Geisler and Brian Davies", "Alvin Plantinga and Richard Swinburne", "Peter Geach and Barry Miller", "Nicholas Wolterstorff and Thomas Morris"], "answer": 0, "explanation": "Geisler speaks of neo-theism; Davies of theistic personalism, classifying Plantinga, Swinburne, and Hartshorne that way.", "level": "recall" },
+    { "q": "Mia’s old teacher retires, and that day Mia becomes “a former student of a retired teacher” without anything in her altering. What is this, and which issue does it illuminate?", "options": ["A real change in Mia; it shows God changes when he creates", "A Cambridge change in Mia; it shows how God can become Creator without real change", "A fallacy of accident; it bears on God’s eternity", "An analogy of attribution; it bears on God’s simplicity"], "answer": 1, "explanation": "What is true of Mia changed only because something else changed — exactly the Socrates/Plato pattern Feser uses for creation and for Morris’s objection.", "level": "apply" },
+    { "q": "Why does Feser say that even a composite thing that had always existed would need a cause?", "options": ["Because nothing can literally exist forever", "Because the second law of thermodynamics rules out an eternal universe", "Because the question is why its parts are combined at all, which requires an ontologically prior cause even with no temporally prior one", "Because anything eternal must have had a first moment"], "answer": 2, "explanation": "Composites depend on a uniting principle here and now; everlasting duration removes only a temporal cause, not an ontological one.", "level": "understand" },
+    { "q": "Which councils does Feser cite as teaching divine simplicity as binding doctrine?", "options": ["Nicaea (325) and Chalcedon (451)", "Trent (1545–1563) and Vatican II (1962–1965)", "Constantinople I (381) and Ephesus (431)", "Fourth Lateran (1215) and First Vatican (1869–1870)"], "answer": 3, "explanation": "Feser names Lateran IV and Vatican I, and adds that Luther and Calvin also affirmed simplicity.", "level": "recall" },
+    { "q": "Which parts of the module’s reasoning would be undermined if the real/Cambridge property distinction were rejected?", "options": ["The defense of simplicity against Morris and of immutability against the creation objection", "The argument that being is analogical", "The immateriality argument from fundamental particles", "The derivation of PPC from PC and PSR"], "answer": 0, "explanation": "Both replies rely on God’s being Creator as a Cambridge property. The analogy argument and immateriality argument do not depend on it.", "level": "analyze" },
+    { "q": "What does Feser mean in saying that a man’s existence is to his essence as God’s existence is to his essence?", "options": ["God’s existence is caused, as a man’s is", "The relations are proportionally similar, grounding analogical predication of “being,” though in God existence is identical to essence", "“Being” is said of God and man univocally", "God and man fall under the same genus"], "answer": 1, "explanation": "This is proper proportionality: the relation differs (identity in God, actualization of potency in man) but is similar enough to ground one analogical concept.", "level": "understand" },
+    { "q": "A student argues: “Every mind I know learns things over time, so if God has a mind he must learn over time.” Which of Feser’s tools best answers this?", "options": ["The principle of proportionate causality", "The analogy of attribution", "The fallacy of accident: a feature of the minds we know need not belong to every possible mind", "The sentence/proposition distinction"], "answer": 2, "explanation": "It generalizes a contingent feature of our minds to all possible minds, as in the nine-foot-professor example; the same pattern answers the acting and life objections.", "level": "apply" },
+    { "q": "Why, according to Feser, can mental imagery not settle whether numbers exist necessarily?", "options": ["Because numbers are material and too small to picture", "Because numbers exist only in human minds", "Because mathematics is a set of conventions", "Because numbers are abstract and cannot be pictured; images of numerals are only labels"], "answer": 3, "explanation": "Picturing “2 + 2 = 4” erased shows nothing about arithmetic. The same holds for God, who is immaterial.", "level": "understand" },
+    { "q": "What does Feser’s mention of fermions and bosons show?", "options": ["Even fundamental particles have distinct attributes and come to be and pass away, so they involve parts and potentiality", "That matter can be purely actual", "That physics has refuted Aristotelian matter", "That physics speaks of particles analogically"], "answer": 0, "explanation": "Even without an Aristotelian view of matter, material things at every level exhibit composition and potency, so God cannot be material.", "level": "recall" },
+    { "q": "Why does Feser insist that simplicity, not immateriality alone, is needed to distinguish God from a Zeus or an Odin?", "options": ["Because Zeus and Odin are material, which already rules them out", "Because an immaterial being with parts would still be one of a kind and in need of a cause — a superangel", "Because immateriality entails polytheism", "Because simplicity entails having a body"], "answer": 1, "explanation": "Immateriality alone leaves open composition, membership in a kind, and dependence. Only simplicity secures uniqueness and ultimacy.", "level": "analyze" },
+    { "q": "What role does William Lane Craig play in the eternity section?", "options": ["He raises the simultaneity objection to timelessness", "He coined the term “Cambridge change”", "Though he rejects immutability and timelessness, he agrees that an immutable God would be timeless", "He argues that God is both everlasting and immutable"], "answer": 2, "explanation": "Feser cites Craig’s concession to show that the inference from immutability to timelessness is recognized even by critics.", "level": "understand" },
+    { "q": "Someone says: “Since God is simple, ‘God is merciful’ and ‘God is powerful’ must be synonyms.” What is the best response on Feser’s view?", "options": ["Our concepts differ because we know God through different effects, but they apply analogically to one undivided reality.", "Correct — they are synonyms, since simplicity allows only one concept of God.", "Mercy is a Cambridge property, so the problem disappears.", "Power is a Cambridge property, while mercy is real."], "answer": 0, "explanation": "Simplicity concerns what is in God, not how many concepts we have. Distinct concepts can truly describe one simple reality; power and mercy are not mere relations.", "level": "apply" },
+    { "q": "In replying to Findlay, which example does Feser use to show that a proposition is not a sentence?", "options": ["“All bachelors are unmarried”", "“2 + 2 = 4” written on a chalkboard", "“George is a lion”", "“Snow is white” and “Schnee ist weiss” expressing the same proposition"], "answer": 3, "explanation": "The same proposition in two languages — true even if no language existed — shows that the conventionality of sentences doesn’t make propositions conventional.", "level": "recall" }
+  ],
+  "newShortAnswer": [
+    {
+      "q": "Why is “being” not a genus, and why does that matter for talk about God?",
+      "model": "A genus (animal) is divided into species by specific differences that lie outside it: we can grasp rationality without grasping animality. But we cannot grasp substance, attribute, or anything else without grasping it as a being, and the only thing outside being is nonbeing, which cannot differentiate anything. So being is not a genus, and “being” is not predicated univocally; it is predicated by proportional similarity (existence : essence in each thing). This matters because it lets us say God is a being without making him one species among others. It also blocks the theistic-personalist picture of God as the top member of a kind.",
+      "rubric": ["Explains how genus and differentia work", "Explains why nothing outside being can differentiate it", "Concludes that being is analogical (proportional similarity)", "Connects this to God’s not falling under a genus"]
+    },
+    {
+      "q": "How does Feser show that PPC and agere sequitur esse are not Scholastic relics?",
+      "model": "Both follow from PSR and PC, which were defended earlier. More strikingly, contemporary naturalists use them. Churchland argues that humans are wholly material because their total cause is wholly material, which assumes PPC. The dualist accepts the same principle and reverses the inference from immaterial intellect. Searle argues against property dualism in a way that assumes agere sequitur esse: an immaterial property can’t be a property of a material brain; if it is over and above the brain, it is a separate thing. Even a materialist can accept Aquinas’ conditional that if intellect is immaterial, its subject is immaterial.",
+      "rubric": ["Grounds both principles in PSR/PC", "Churchland example for PPC", "Dualist mirror-image point", "Searle example for agere sequitur esse"]
+    },
+    {
+      "q": "Explain why divine immutability implies neither inactivity nor lifelessness.",
+      "model": "Objectors say acting requires changing (I change when I type) and that life is change. Feser replies that both commit the fallacy of accident: features that accompany action and life in the things we know are treated as essential to action and life as such. It is like inferring that no possible professor could be over nine feet tall. What is essential to acting, as Davies notes, is producing an effect in another; teaching is causing someone to learn, however it is done. What is essential to life, on the Aristotelian view, is acting from an internal principle rather than being moved from outside. God acts on everything and is acted on by nothing, so he acts, and he lives in the fullest way.",
+      "rubric": ["States both objections", "Identifies the fallacy of accident with an example", "Gives the essence of acting (Davies)", "Gives the Aristotelian account of life and applies it to God"]
+    },
+    {
+      "q": "Show why God must be immaterial on both an Aristotelian and a non-Aristotelian view of matter.",
+      "model": "Aristotelian view: material substances are composites of substantial form and prime matter, and matter as such is potentiality for form (prime matter is pure potentiality). A simple being has no such composition, and a purely actual being has no potentiality, so God is not material. Non-Aristotelian view: by anyone’s account, material things have parts, from visible components down to molecules, atoms, and subatomic particles, and these can be rearranged, which implies potentiality. Even fundamental particles, though not made of smaller particles, have distinct attributes and come into being and pass away. Either way, what is material is composite and potential, and God is neither.",
+      "rubric": ["Aristotelian argument (form and matter; matter as potency)", "Non-Aristotelian argument (parts and rearrangement)", "Fundamental particles point", "Conclusion drawn from pure actuality and simplicity"]
+    },
+    {
+      "q": "Why is Feser’s account of divine necessity not an ontological argument, and what modal method does it use?",
+      "model": "An ontological argument infers God’s existence from the concept or definition of God. Feser instead first establishes, from features of the world (change, composition, abstract objects, essence/existence, PSR), that a First Cause exists. He then determines its nature: purely actual, simple, subsistent existence. Only then does he infer that it exists necessarily, since contingency requires potency to be actualized and parts to be combined. This is the Aristotelian-Thomistic modal method: start with actual things, discover their essences, and infer what is possible or necessary for them — rather than starting from what we can imagine or conceive in possible worlds (Schrader’s method), which gets things backward.",
+      "rubric": ["Defines the ontological argument’s strategy", "Notes Feser’s necessity is derived after existence is proven from the world", "Links necessity to pure actuality/simplicity", "States the essence-first modal method and contrasts it with conceivability-first"]
+    }
+  ],
+  "rubricFix": {
+    "0": ["Defines PPC in terms of the total cause and grounds it in PC and PSR", "Correctly explains all three modes with an example", "Identifies the material-cause vs. total-cause straw man", "Rejects the heirloom (formal-only) reading", "Answers the triviality charge"],
+    "7": ["States the objection fairly", "Identifies Plantinga’s three assumptions", "Uses analogy to answer the distinct-attributes point", "Uses constituent ontology and the essence/property/accident/relation distinctions", "Notes the causal-dependence and uniqueness stakes"],
+    "10": ["States conventionalism and the sentence/proposition reply", "Explains why the conventionalist objection begs the question", "States Schrader’s argument", "Imagery vs. conception reply, with the numbers example", "Essence-first modal method reply"]
+  },
+  "newFlashcards": [
+    { "front": "Step 8: what does it claim and why?", "back": "Potentiality is really (not just conceptually) distinct from actuality. Essence/existence is one real case, and a merely verbal distinction would leave only act or only potency real." },
+    { "front": "Step 10: what does it claim and why?", "back": "If potency were real only in an equivocal sense, it wouldn’t be real at all, since “real” in a wholly unrelated sense just means unreal." },
+    { "front": "Step 13: what does it claim and why?", "back": "Positive, literal talk about God must be analogical: univocal talk makes God a creature or leaves only negations; equivocal talk is empty." },
+    { "front": "Step 15: what does it claim and why?", "back": "A purely actual being can’t act in a merely potential way, because action follows being and nothing in a purely actual nature could ground potential activity." },
+    { "front": "Step 16: what does it claim and why?", "back": "Actual existence plus potential activity would make God composite, and composites need an ontologically prior cause even if everlasting." },
+    { "front": "Step 19: what does it claim and why?", "back": "Parts of any kind bring potentiality: matter could be otherwise, a genus is open to several species, and parts only potentially compose a whole." },
+    { "front": "Step 25: what does it claim and why?", "back": "Pure actuality, simplicity, and subsistent existence entail, and are entailed by, absolute necessity, since contingency requires potency actualized and parts combined." },
+    { "front": "Step 29: what does it claim and why?", "back": "Simplicity identifies God’s real attributes, not his Cambridge properties (e.g., being Creator), which involve real change only in creatures." },
+    { "front": "Step 33: what does it claim and why?", "back": "A simple being can’t change, because real change means changing in one respect while staying the same in others — which requires parts." },
+    { "front": "Steps 45–46: what do they claim?", "back": "A God in time would change (new moments, acts, knowledge) and would have temporal stages (parts); so an immutable, simple God is timeless." },
+    { "front": "Step 50: what does it claim and why?", "back": "Modal truths about a thing are known from the essence of what actually exists, not from imagined possible worlds — the Aristotelian-Thomistic method." },
+    { "front": "Objection: “Plantinga — simplicity makes God a property.” One-line reply", "back": "Only on univocity, Platonic properties, and an overbroad sense of “property”; classical theists hold a constituent ontology and never call God a property." },
+    { "front": "Objection: “Morris — necessary and contingent properties can’t be identical.” One-line reply", "back": "Simplicity identifies only real properties; being Creator is a contingent Cambridge property, so it needn’t equal omnipotence." },
+    { "front": "Objection: “To act is to change.” One-line reply", "back": "Fallacy of accident: acting essentially is producing an effect in another, not changing oneself (Davies)." },
+    { "front": "Objection: “A changeless God is lifeless.” One-line reply", "back": "Life is acting from an internal principle; God, acted on by nothing, has life most fully." },
+    { "front": "Objection: “Why not two gods?” One-line reply", "back": "Being one of many requires parts, parts entail potency, and pure act has none — so a second God is impossible, not just absent." },
+    { "front": "Objection: “Plantinga — just call them ‘characteristics.’” One-line reply", "back": "Aquinas’ distinctions (essence, property, accident, relation) are metaphysical, not verbal, so relabeling changes nothing." },
+    { "front": "Objection: “Analogy is special pleading.” One-line reply", "back": "It is independently required by act/potency, by ordinary speech (“seeing” a proof), and by physics (curved space)." },
+    { "front": "Attribution vs. proper proportionality", "back": "Attribution: perfection intrinsic only to the primary analogate (healthy George). Proper proportionality: intrinsic and formal in each (life in plants and angels)." },
+    { "front": "Ontological vs. temporal priority", "back": "Temporal: earlier in time. Ontological: the effect depends on it for its being here and now. Everlasting composites still need ontologically prior causes." },
+    { "front": "Classical theism vs. theistic personalism", "back": "Classical: God is simple, not in any genus, the source of being. Personalist: God is the unique member of the kind “person,” composite, possibly changing." },
+    { "front": "What does the boy with the black eye show?", "back": "A cause needn’t formally have what it gives; PPC isn’t an heirloom theory." },
+    { "front": "What does Aquinas’ hot body example show?", "back": "Heat isn’t handed over numerically; the agent’s power actualizes a new heat that was potential in the patient." },
+    { "front": "What does the stone and its color show?", "back": "Substance and attribute are both real but not in the same way — being is said of them analogically." },
+    { "front": "What does the melting ice cube show?", "back": "Change is always toward new actualities, and a thing changes according to what it actually is (water, not wood) — against Heraclitus." },
+    { "front": "Craig’s concession", "back": "Though he rejects immutability and timelessness, Craig agrees an immutable God would have to be timeless." }
+  ],
+  "newMisconceptions": [
+    { "myth": "PPC rules out genuine novelty: nothing new can ever appear in nature.", "correction": "New instances of features arise all the time (a new heat, a new sponginess, a new biological variation). PPC denies only that they come from nothing in the total cause." },
+    { "myth": "The analogy of being is a special theory invented only to protect theology from criticism.", "correction": "Feser derives it from the act/potency distinction alone, and ordinary language and physics use analogical terms constantly." },
+    { "myth": "Divine unity just means God is internally harmonious or undivided in purpose.", "correction": "In this chapter, unity means uniqueness: there is and could be only one God, because a purely actual being can’t be one member of a kind." }
+  ],
+  "newSocratic": [
+    "If something has always existed, does that by itself explain why its parts are held together right now?",
+    "If ‘God is powerful’ means something wholly unrelated to power, what are we asserting when we say it?"
+  ],
+  "newDistinction": {
+    "name": "Temporal vs. ontological priority",
+    "left": { "label": "Temporal priority", "desc": "A cause that comes earlier in time, like a match struck before the fire it starts. Removing a first moment removes the need for this kind of cause." },
+    "right": { "label": "Ontological priority", "desc": "A cause the effect depends on here and now for its being, regardless of time, like the current on which a lamp’s light depends. A composite needs such a cause for its parts to be combined at all." },
+    "whyItMatters": "It blocks the move “maybe God (or the universe) is composite but has always existed.” Everlastingness answers only the temporal question. It is also why Feser’s arguments are about what sustains things now, not about a beginning."
+  },
+  "videoPrompt": "Audience: thoughtful beginners, including skeptics, who wonder why a First Cause should be one God with the classical attributes. Emphasize, in order: the three tools — proportionate causality (the $20 bill: formally, virtually, eminently), “action follows being,” and the analogy of being (“seeing” a tree vs. a theorem); pure actuality as the master key; unity and the convergence of all five proofs; simplicity, and why denying it makes God like Zeus alone on Olympus; immutability via Cambridge change (Socrates shorter than Plato); immateriality; timelessness (the author conceiving a whole story at once); necessity versus conventionalism and the imagined empty world. Correct misconceptions: analogy isn’t metaphor, simplicity isn’t one concept, immutable isn’t inert, eternal isn’t very old. Tone: clear, calm, serious, fair to critics."
+}

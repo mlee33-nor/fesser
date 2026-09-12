@@ -3,117 +3,439 @@
     "name": "The Augustinian proof (the argument from eternal truths)",
     "overview": "The argument is a chain of eliminations followed by a deduction of attributes.\n\n- **Steps 1–5** settle the ancient problem of universals in favor of **realism**: abstract objects are real, neither material nor mere human constructs, because the only alternatives (nominalism and conceptualism) collapse.\n- **Steps 6–15** ask *where* realistically construed abstract objects exist. Three answers are possible — a Platonic third realm, only finite (contingent) minds, or also a necessary mind. The first two fail, so abstract objects exist in at least one **necessarily existing intellect**.\n- **Steps 16–18** add that abstract objects are not a heap but an **interlocking system**, so the whole system must exist in a necessary intellect.\n- **Steps 19–29** bring in Chapter 1: a necessarily existing intellect is **purely actual**, so there is only one; it is **conceptually omniscient** and then **omniscient without qualification**; and it has all the other attributes of pure actuality — which is just to say that God exists.\n\nNotice that the argument is not causal. It never says “something must have caused 2 + 2 = 4.” It asks what kind of reality necessary, eternal, representational truths could have, and answers: only the reality of thoughts in an eternal, necessary mind.",
     "stages": [
-      { "title": "Stage 1a — Realism wins", "range": "1–5", "gist": "Of the three accounts of abstract objects, nominalism and conceptualism face insuperable objections while realism has decisive support, so realism is true." },
-      { "title": "Stage 1b — Scholastic realism wins", "range": "6–15", "gist": "A Platonic third realm and a realism limited to contingent minds both fail, leaving Scholastic realism: abstract objects exist in at least one necessarily existing intellect." },
-      { "title": "Stage 2a — One system, one mind", "range": "16–21", "gist": "Abstract objects form one interlocking system that must exist in a necessary intellect, and since a necessary intellect is purely actual and pure actuality is unique, there is exactly one such intellect." },
-      { "title": "Stage 2b — That mind is God", "range": "22–29", "gist": "This intellect is conceptually omniscient, then fully omniscient (else it would have unrealized potential), and has every attribute of pure actuality; such a being is God." }
+      {
+        "title": "Stage 1a — Realism wins",
+        "range": "1–5",
+        "gist": "Of the three accounts of abstract objects, nominalism and conceptualism face insuperable objections while realism has decisive support, so realism is true."
+      },
+      {
+        "title": "Stage 1b — Scholastic realism wins",
+        "range": "6–15",
+        "gist": "A Platonic third realm and a realism limited to contingent minds both fail, leaving Scholastic realism: abstract objects exist in at least one necessarily existing intellect."
+      },
+      {
+        "title": "Stage 2a — One system, one mind",
+        "range": "16–21",
+        "gist": "Abstract objects form one interlocking system that must exist in a necessary intellect, and since a necessary intellect is purely actual and pure actuality is unique, there is exactly one such intellect."
+      },
+      {
+        "title": "Stage 2b — That mind is God",
+        "range": "22–29",
+        "gist": "This intellect is conceptually omniscient, then fully omniscient (else it would have unrealized potential), and has every attribute of pure actuality; such a being is God."
+      }
     ],
     "steps": [
-      { "n": 1, "kind": "premise", "text": "Abstract objects — universals, propositions, numbers and other mathematical objects, and possible worlds — admit of just three basic accounts: realism, nominalism, or conceptualism.", "why": "Either abstract objects are not genuinely real (nominalism), or they are real but wholly the product of human minds (conceptualism), or they are real and neither material nor human-made (realism). The other options Feser mentions — mere conventions, useful fictions, or exotic material things such as brain processes — amount to versions of denying their reality or making them mind-made." },
-      { "n": 2, "kind": "premise", "text": "Realism is supported by decisive arguments.", "why": "Feser’s six direct arguments: one over many (a universal survives the destruction of all its instances and is instantiated unobserved); geometry (objective, necessary, discovered truths about perfect figures no material thing has); mathematics (necessary truths about an infinite series, while matter and human ideas are contingent and finite); propositions (many would be true with no world and no minds); science (its laws refer to universals and use mathematics); and possible worlds (many possibilities hold independently of the actual world and of us)." },
-      { "n": 3, "kind": "premise", "text": "Nominalism faces objections it cannot overcome.", "why": "Asking why we apply “red” to just these things forces an appeal to redness or to resemblance; resemblance is itself a universal and generates a vicious regress (Russell); and the word “red” is itself a universal, one type with many tokens — deny that, and communication becomes impossible. Nominalism keeps smuggling universals back in." },
-      { "n": 4, "kind": "premise", "text": "Conceptualism faces objections it cannot overcome.", "why": "Different people, across languages and centuries, grasp one and the same concept and one and the same truth, and communication requires this; and psychologism, whether in its relativist or its Kantian form, must use objective concepts and logic to state and defend itself, so it refutes itself." },
-      { "n": 5, "kind": "inference", "text": "Therefore, some form of realism is correct.", "why": "From 1–4: if there are only three options and two are eliminated while the third is positively supported, the third stands." },
-      { "n": 6, "kind": "premise", "text": "Realism comes in three possible versions: Platonic, Aristotelian, and Scholastic.", "why": "Since abstract objects, as abstract, cannot be material things, they exist either in a “third realm” that is neither material nor mental, or in intellects; and if in intellects, either only in contingent ones or also in a necessary one. These are the three versions." },
-      { "n": 7, "kind": "premise", "text": "On Platonic realism, abstract objects exist in a “third realm” distinct from the material world and from every intellect.", "why": "This is what defines the Platonic view: the Forms and similar entities exist outside space, time, and all minds, and particular things participate in them." },
-      { "n": 8, "kind": "premise", "text": "On Aristotelian realism, abstract objects exist only in human minds or in other intellects that exist contingently.", "why": "Aristotelian realism (without a divine intellect) holds that universals exist concretely in things and exist *as abstract* only when some finite intellect abstracts them — and all such intellects are contingent." },
-      { "n": 9, "kind": "premise", "text": "On Scholastic realism, abstract objects exist in contingent intellects and also in at least one intellect that exists necessarily.", "why": "Scholastic realism agrees with Aristotle that there is no mindless third realm, and with Plato that there must be a realm beyond matter and finite minds — namely, a divine intellect (the Augustinian thesis)." },
-      { "n": 10, "kind": "premise", "text": "The claim that abstract objects exist in a third realm apart from both the material world and any intellect faces insuperable objections.", "why": "Third-realm objects would be causally inert, so we could not know them and they could not explain why things fit patterns; a Form would be both universal and particular, inviting the Third Man regress; animality as an individual would have to be neither rational nor nonrational, which is impossible; and essences exiled from things would make trees no more treelike than mirror images. (Welty’s intentionality, simplicity, and relevance conditions tell against it too.)" },
-      { "n": 11, "kind": "inference", "text": "Therefore, Platonic realism is false.", "why": "From 7 and 10: Platonic realism just is the third-realm claim, and that claim fails." },
-      { "n": 12, "kind": "premise", "text": "The claim that abstract objects exist only in human minds or other contingent intellects faces insuperable objections.", "why": "Contingent minds come and go, but necessary truths, pure possibles like unicorns, the possibility of a world when none exists, and propositions true whether or not any mind exists cannot depend on them. Finite minds are too few (plenitude) and too contingent (necessity) to ground them; this holds for humans, extraterrestrials, and even angels, who exist only if God creates them." },
-      { "n": 13, "kind": "inference", "text": "Therefore, Aristotelian realism is false.", "why": "From 8 and 12: Aristotelian realism (as defined here, without a necessary intellect) just is the contingent-minds-only claim, and that claim fails." },
-      { "n": 14, "kind": "inference", "text": "Therefore, Scholastic realism is true.", "why": "From 5, 6, 11, and 13: realism is true, it has only three versions, and two have been eliminated." },
-      { "n": 15, "kind": "inference", "text": "Therefore, abstract objects exist not only in contingent intellects but in at least one necessarily existing intellect.", "why": "From 9 and 14: this is what Scholastic realism says." },
-      { "n": 16, "kind": "premise", "text": "Universals, propositions, mathematical objects, and possible worlds are logically bound up with one another so as to form a single interlocking system of ideas.", "why": "Grasping a universal requires grasping those that define it (humanness → animality, rationality → …); propositions are composed of universals; and every proposition stands in logical relations — entailment, consistency or inconsistency, truth-functional combination — to every other. Leibniz stressed this." },
-      { "n": 17, "kind": "premise", "text": "Whatever shows that some abstract objects exist in a necessary intellect also shows that this whole interlocking system must exist in a necessary intellect.", "why": "The logical relations tying the system together would hold whether or not any world or finite mind existed — exactly the feature that forced us to a necessary intellect in the first place. And since no part of the system can be adequately grasped apart from the rest, it cannot be divided up among separate minds." },
-      { "n": 18, "kind": "inference", "text": "Therefore, the interlocking system of ideas exists in at least one necessarily existing intellect.", "why": "From 15, 16, and 17." },
-      { "n": 19, "kind": "premise", "text": "An intellect that exists necessarily would have to be purely actual.", "why": "If its existence required some potential to be actualized, it would exist only contingently — dependent on that actualization — and so would not exist of absolute necessity." },
-      { "n": 20, "kind": "premise", "text": "There cannot be more than one purely actual being.", "why": "Established in Chapter 1: two things of a kind must differ by something one has and the other lacks — a material or temporal feature, or some perfection or privation — and a purely actual being, immaterial, eternal, and lacking all privation, has nothing by which it could differ from another." },
-      { "n": 21, "kind": "inference", "text": "Therefore, there cannot be more than one necessarily existing intellect.", "why": "From 19 and 20: every necessary intellect is purely actual, and there can be only one purely actual thing. Combined with 18, there is exactly one." },
-      { "n": 22, "kind": "premise", "text": "An intellect containing this interlocking system of ideas would be conceptually omniscient.", "why": "The system is infinite (for every number there are truths and falsehoods about its parity, each logically related to every other proposition) and includes all essences, possibilities, and necessary truths. A mind grasping all of it knows every essence, possibility, and necessary truth — Adams’s “conceptual omniscience.”" },
-      { "n": 23, "kind": "inference", "text": "Therefore, the one necessarily existing intellect is conceptually omniscient.", "why": "From 18, 21, and 22." },
-      { "n": 24, "kind": "premise", "text": "If this one necessary intellect did not also know every contingent truth, it would have an unactualized potential and so would not be purely actual.", "why": "Failing to know some truth means having an unrealized capacity to know it. Feser adds in a footnote that the actual is a subset of the possible, so knowing all possible truths already includes the actual ones." },
-      { "n": 25, "kind": "inference", "text": "Therefore, it is omniscient in the full sense as well.", "why": "From 19 and 24: it is purely actual, so it cannot have the potential that ignorance of contingent truths would involve." },
-      { "n": 26, "kind": "premise", "text": "Whatever is purely actual must also be omnipotent, fully good, immutable, immaterial, incorporeal, and eternal.", "why": "Established in Chapter 1: pure actuality is the source of all actualizing power (omnipotence), lacks all privation (goodness and perfection), cannot change (immutability), and so lacks the potentiality of matter and time (immateriality, incorporeality, eternity)." },
-      { "n": 27, "kind": "inference", "text": "Therefore, there exists exactly one necessarily existing intellect, and it is purely actual, omniscient, omnipotent, fully good, immutable, immaterial, incorporeal, and eternal.", "why": "Gathering 18, 19, 21, 23, 25, and 26." },
-      { "n": 28, "kind": "premise", "text": "For such a being to exist is precisely what it is for God to exist.", "why": "These are the defining attributes of God in classical theism." },
-      { "n": 29, "kind": "conclusion", "text": "Therefore, God exists.", "why": "From 27 and 28." }
+      {
+        "n": 1,
+        "kind": "premise",
+        "text": "Abstract objects — universals, propositions, numbers and other mathematical objects, and possible worlds — admit of just three basic accounts: realism, nominalism, or conceptualism.",
+        "why": "Either abstract objects are not genuinely real (nominalism), or they are real but wholly the product of human minds (conceptualism), or they are real and neither material nor human-made (realism). The other options Feser mentions — mere conventions, useful fictions, or exotic material things such as brain processes — amount to versions of denying their reality or making them mind-made."
+      },
+      {
+        "n": 2,
+        "kind": "premise",
+        "text": "Realism is supported by decisive arguments.",
+        "why": "Feser’s six direct arguments: one over many (a universal survives the destruction of all its instances and is instantiated unobserved); geometry (objective, necessary, discovered truths about perfect figures no material thing has); mathematics (necessary truths about an infinite series, while matter and human ideas are contingent and finite); propositions (many would be true with no world and no minds); science (its laws refer to universals and use mathematics); and possible worlds (many possibilities hold independently of the actual world and of us)."
+      },
+      {
+        "n": 3,
+        "kind": "premise",
+        "text": "Nominalism faces objections it cannot overcome.",
+        "why": "Asking why we apply “red” to just these things forces an appeal to redness or to resemblance; resemblance is itself a universal and generates a vicious regress (Russell); and the word “red” is itself a universal, one type with many tokens — deny that, and communication becomes impossible. Nominalism keeps smuggling universals back in."
+      },
+      {
+        "n": 4,
+        "kind": "premise",
+        "text": "Conceptualism faces objections it cannot overcome.",
+        "why": "Different people, across languages and centuries, grasp one and the same concept and one and the same truth, and communication requires this; and psychologism, whether in its relativist or its Kantian form, must use objective concepts and logic to state and defend itself, so it refutes itself."
+      },
+      {
+        "n": 5,
+        "kind": "inference",
+        "text": "Therefore, some form of realism is correct.",
+        "why": "From 1–4: if there are only three options and two are eliminated while the third is positively supported, the third stands."
+      },
+      {
+        "n": 6,
+        "kind": "premise",
+        "text": "Realism comes in three possible versions: Platonic, Aristotelian, and Scholastic.",
+        "why": "Since abstract objects, as abstract, cannot be material things, they exist either in a “third realm” that is neither material nor mental, or in intellects; and if in intellects, either only in contingent ones or also in a necessary one. These are the three versions."
+      },
+      {
+        "n": 7,
+        "kind": "premise",
+        "text": "On Platonic realism, abstract objects exist in a “third realm” distinct from the material world and from every intellect.",
+        "why": "This is what defines the Platonic view: the Forms and similar entities exist outside space, time, and all minds, and particular things participate in them."
+      },
+      {
+        "n": 8,
+        "kind": "premise",
+        "text": "On Aristotelian realism, abstract objects exist only in human minds or in other intellects that exist contingently.",
+        "why": "Aristotelian realism (without a divine intellect) holds that universals exist concretely in things and exist *as abstract* only when some finite intellect abstracts them — and all such intellects are contingent."
+      },
+      {
+        "n": 9,
+        "kind": "premise",
+        "text": "On Scholastic realism, abstract objects exist in contingent intellects and also in at least one intellect that exists necessarily.",
+        "why": "Scholastic realism agrees with Aristotle that there is no mindless third realm, and with Plato that there must be a realm beyond matter and finite minds — namely, a divine intellect (the Augustinian thesis)."
+      },
+      {
+        "n": 10,
+        "kind": "premise",
+        "text": "The claim that abstract objects exist in a third realm apart from both the material world and any intellect faces insuperable objections.",
+        "why": "Third-realm objects would be causally inert, so we could not know them and they could not explain why things fit patterns; a Form would be both universal and particular, inviting the Third Man regress; animality as an individual would have to be neither rational nor nonrational, which is impossible; and essences exiled from things would make trees no more treelike than mirror images. (Welty’s intentionality, simplicity, and relevance conditions tell against it too.)"
+      },
+      {
+        "n": 11,
+        "kind": "inference",
+        "text": "Therefore, Platonic realism is false.",
+        "why": "From 7 and 10: Platonic realism just is the third-realm claim, and that claim fails."
+      },
+      {
+        "n": 12,
+        "kind": "premise",
+        "text": "The claim that abstract objects exist only in human minds or other contingent intellects faces insuperable objections.",
+        "why": "Contingent minds come and go, but necessary truths, pure possibles like unicorns, the possibility of a world when none exists, and propositions true whether or not any mind exists cannot depend on them. Finite minds are too few (plenitude) and too contingent (necessity) to ground them; this holds for humans, extraterrestrials, and even angels, who exist only if God creates them."
+      },
+      {
+        "n": 13,
+        "kind": "inference",
+        "text": "Therefore, Aristotelian realism is false.",
+        "why": "From 8 and 12: Aristotelian realism (as defined here, without a necessary intellect) just is the contingent-minds-only claim, and that claim fails."
+      },
+      {
+        "n": 14,
+        "kind": "inference",
+        "text": "Therefore, Scholastic realism is true.",
+        "why": "From 5, 6, 11, and 13: realism is true, it has only three versions, and two have been eliminated."
+      },
+      {
+        "n": 15,
+        "kind": "inference",
+        "text": "Therefore, abstract objects exist not only in contingent intellects but in at least one necessarily existing intellect.",
+        "why": "From 9 and 14: this is what Scholastic realism says."
+      },
+      {
+        "n": 16,
+        "kind": "premise",
+        "text": "Universals, propositions, mathematical objects, and possible worlds are logically bound up with one another so as to form a single interlocking system of ideas.",
+        "why": "Grasping a universal requires grasping those that define it (humanness → animality, rationality → …); propositions are composed of universals; and every proposition stands in logical relations — entailment, consistency or inconsistency, truth-functional combination — to every other. Leibniz stressed this."
+      },
+      {
+        "n": 17,
+        "kind": "premise",
+        "text": "Whatever shows that some abstract objects exist in a necessary intellect also shows that this whole interlocking system must exist in a necessary intellect.",
+        "why": "The logical relations tying the system together would hold whether or not any world or finite mind existed — exactly the feature that forced us to a necessary intellect in the first place. And since no part of the system can be adequately grasped apart from the rest, it cannot be divided up among separate minds."
+      },
+      {
+        "n": 18,
+        "kind": "inference",
+        "text": "Therefore, the interlocking system of ideas exists in at least one necessarily existing intellect.",
+        "why": "From 15, 16, and 17."
+      },
+      {
+        "n": 19,
+        "kind": "premise",
+        "text": "An intellect that exists necessarily would have to be purely actual.",
+        "why": "If its existence required some potential to be actualized, it would exist only contingently — dependent on that actualization — and so would not exist of absolute necessity."
+      },
+      {
+        "n": 20,
+        "kind": "premise",
+        "text": "There cannot be more than one purely actual being.",
+        "why": "Established in Chapter 1: two things of a kind must differ by something one has and the other lacks — a material or temporal feature, or some perfection or privation — and a purely actual being, immaterial, eternal, and lacking all privation, has nothing by which it could differ from another."
+      },
+      {
+        "n": 21,
+        "kind": "inference",
+        "text": "Therefore, there cannot be more than one necessarily existing intellect.",
+        "why": "From 19 and 20: every necessary intellect is purely actual, and there can be only one purely actual thing. Combined with 18, there is exactly one."
+      },
+      {
+        "n": 22,
+        "kind": "premise",
+        "text": "An intellect containing this interlocking system of ideas would be conceptually omniscient.",
+        "why": "The system is infinite (for every number there are truths and falsehoods about its parity, each logically related to every other proposition) and includes all essences, possibilities, and necessary truths. A mind grasping all of it knows every essence, possibility, and necessary truth — Adams’s “conceptual omniscience.”"
+      },
+      {
+        "n": 23,
+        "kind": "inference",
+        "text": "Therefore, the one necessarily existing intellect is conceptually omniscient.",
+        "why": "From 18, 21, and 22."
+      },
+      {
+        "n": 24,
+        "kind": "premise",
+        "text": "If this one necessary intellect did not also know every contingent truth, it would have an unactualized potential and so would not be purely actual.",
+        "why": "Failing to know some truth means having an unrealized capacity to know it. Feser adds in a footnote that the actual is a subset of the possible, so knowing all possible truths already includes the actual ones."
+      },
+      {
+        "n": 25,
+        "kind": "inference",
+        "text": "Therefore, it is omniscient in the full sense as well.",
+        "why": "From 19 and 24: it is purely actual, so it cannot have the potential that ignorance of contingent truths would involve."
+      },
+      {
+        "n": 26,
+        "kind": "premise",
+        "text": "Whatever is purely actual must also be omnipotent, fully good, immutable, immaterial, incorporeal, and eternal.",
+        "why": "Established in Chapter 1: pure actuality is the source of all actualizing power (omnipotence), lacks all privation (goodness and perfection), cannot change (immutability), and so lacks the potentiality of matter and time (immateriality, incorporeality, eternity)."
+      },
+      {
+        "n": 27,
+        "kind": "inference",
+        "text": "Therefore, there exists exactly one necessarily existing intellect, and it is purely actual, omniscient, omnipotent, fully good, immutable, immaterial, incorporeal, and eternal.",
+        "why": "Gathering 18, 19, 21, 23, 25, and 26."
+      },
+      {
+        "n": 28,
+        "kind": "premise",
+        "text": "For such a being to exist is precisely what it is for God to exist.",
+        "why": "These are the defining attributes of God in classical theism."
+      },
+      {
+        "n": 29,
+        "kind": "conclusion",
+        "text": "Therefore, God exists.",
+        "why": "From 27 and 28."
+      }
     ]
   },
   "keyTerms": [
-    { "term": "Abstract object", "definition": "Something that exists at least as an object of thought, that we can know truths about, but that cannot be perceived by the senses or physically interacted with — for Aristotelians and Scholastics, specifically what an intellect grasps by abstracting from particulars.", "example": "Triangularity, the proposition that snow is white, the number 7, a possible world in which Mars has three moons." },
-    { "term": "Universal", "definition": "A general pattern, nature, or property that many particular things can share or instantiate.", "example": "Redness, shared by stop signs, fire engines, and strawberries; roundness, shared by billiard balls and the moon." },
-    { "term": "Particular / instance", "definition": "An individual concrete thing that exhibits (instantiates) a universal.", "example": "This wooden billiard rack is a particular instance of triangularity." },
-    { "term": "Abstraction", "definition": "The intellect’s act of setting aside a thing’s individualizing features to consider what it shares with others.", "example": "Ignoring that one triangle is wooden and green and another is stone and orange to consider triangularity as such." },
-    { "term": "Proposition", "definition": "What a sentence expresses or a thought entertains: a claim that is true or false, distinct from any particular sentence or language.", "example": "“Snow is white” and “Schnee ist weiss” express one proposition, which Socrates and Obama can both think." },
-    { "term": "Numeral vs. number", "definition": "A numeral is a written or spoken label; a number is the abstract object the label refers to.", "example": "“2” and “II” are different numerals for one number; erasing every numeral would not make 2 + 2 = 4 false." },
-    { "term": "Possible world", "definition": "A complete way things could have been, limited by logic rather than by the actual laws of physics.", "example": "A world in which Romney won in 2012, or unicorns exist; there is no possible world in which 2 + 2 = 5." },
-    { "term": "Pure possibles", "definition": "Things that are possible but never actually exist, whose possibility therefore cannot be grounded in any actual instance.", "example": "Unicorns, centaurs, and mermaids." },
-    { "term": "Necessary truth", "definition": "A truth that could not have been false and would hold whatever happened to the material world or to any finite mind.", "example": "2 + 2 = 4; the angles of a Euclidean triangle sum to two right angles." },
-    { "term": "Realism (about abstract objects)", "definition": "The view that abstract objects are real, not reducible to anything material, and not mere constructs of the human mind.", "example": "The realist says triangularity would be real and the Pythagorean theorem true even if humanity had never existed." },
-    { "term": "Nominalism", "definition": "The view that abstract objects are not real; there are only particular things and general words (names) we apply to them.", "example": "There is the word “red” but no such thing as redness." },
-    { "term": "Resemblance nominalism", "definition": "The nominalist claim that we apply one word to many things simply because they resemble each other, without specifying in what respect.", "example": "Calling a stop sign and a fire truck “red” just because they resemble each other — which Russell showed smuggles in the universal resemblance." },
-    { "term": "Type vs. token", "definition": "A type is one general item (such as a word); tokens are its particular occurrences.", "example": "Your, my, and Socrates’ utterances of “red” are three tokens of one word type — which is why the nominalist’s words are themselves universals." },
-    { "term": "Conceptualism", "definition": "The view that abstract objects are real but wholly constructed by the human mind.", "example": "The claim that triangularity exists only as a concept in human heads." },
-    { "term": "Psychologism", "definition": "The view (opposed by Frege) that the laws of logic and mathematics are merely psychological laws describing how human minds happen to operate.", "example": "“Modus ponens is valid only because our brains are wired to think that way.”" },
-    { "term": "Platonic realism", "definition": "The view that abstract objects exist in a “third realm” outside space, time, matter, and all minds, as Forms that particular things participate in.", "example": "Triangles are triangles by participating in the Form of Triangle." },
-    { "term": "Third Man argument", "definition": "The objection, first raised by Plato himself, that if a Form is itself an individual thing sharing the feature it explains, a further Form is needed to explain it, and so on endlessly.", "example": "Individual men and the Form of Man would need a Super-Form of Man, and that a Super-Super-Form." },
-    { "term": "Causal inertness", "definition": "The apparent inability of third-realm abstract objects to cause or affect anything, since they are neither material nor mental.", "example": "An architect’s concept of triangularity shapes a pyramid, but triangularity in a mindless third realm could affect nothing — not even our knowledge of it." },
-    { "term": "Aristotelian realism", "definition": "The view that universals exist really but only in the things that instantiate them (bound up with individuating features) and, as abstract, only in intellects that abstract them.", "example": "Animality exists in Socrates tied to rationality and in Fido tied to dogness; animality in the abstract exists only in a mind." },
-    { "term": "Substance", "definition": "In Aristotelian metaphysics, a thing that exists in its own right and has an intrinsic source of its characteristic properties and activities.", "example": "A tree is a substance, not a mere image of a Form — which is why Plato’s view seems absurd to the Aristotelian." },
-    { "term": "Scholastic realism", "definition": "Aristotelian realism plus the Augustinian thesis: abstract objects exist in things and finite intellects, and ultimately in an infinite, eternal, divine intellect.", "example": "The possibility of unicorns is grounded as an idea in God’s intellect." },
-    { "term": "Argument from eternal truths", "definition": "The traditional name for the Augustinian style of argument, associated with Augustine and Leibniz, from necessary, eternal truths to a divine mind that thinks them.", "example": "“2 + 2 = 4 is an eternal truth; eternal truths are thoughts; so there is an eternal thinker.”" },
-    { "term": "Interlocking system", "definition": "The fact that universals, propositions, and other abstract objects are logically interconnected, so that none can be fully grasped apart from the rest.", "example": "Grasping humanness requires grasping animality and rationality; any two propositions are either consistent or inconsistent." },
-    { "term": "Conceptual omniscience", "definition": "Robert Adams’s term for eternally understanding all essences, possibilities, and necessary truths.", "example": "The necessary intellect of Stage 2 is first shown to be conceptually omniscient, then omniscient without qualification." },
-    { "term": "Pure actuality", "definition": "Existing with no unactualized potential whatsoever (from Chapter 1); Feser argues a necessarily existing intellect must be purely actual.", "example": "An intellect ignorant of some truth would have the potential to know it, and so would not be purely actual." },
-    { "term": "Deity theory", "definition": "Leftow’s label for theories that ground possibility and necessity in God’s nature, as Scholastic realism does.", "example": "On a deity theory, the necessity of 2 + 2 = 4 flows from the divine nature." },
-    { "term": "Voluntarism", "definition": "The view that necessary truths (at least some) hold because God wills them, so they could have been otherwise had God willed differently.", "example": "Leftow’s view that water = H₂O is necessary by God’s choice — which deity theorists reject." },
-    { "term": "Divine simplicity", "definition": "The doctrine that God has no parts, so his intellect, will, power, goodness, and nature are really identical, and his many “ideas” are one reality described in different ways.", "example": "It answers Grim: God’s knowledge is not a set of discrete items." },
-    { "term": "Welty’s six conditions", "definition": "Objectivity, necessity, intentionality, relevance, plenitude, and simplicity — criteria for an adequate theory of abstract objects, which Welty argues Theistic Conceptual Realism best satisfies.", "example": "Intentionality: a proposition represents a state of affairs, as a thought does — so it naturally lives in a mind." },
-    { "term": "Truthmaker", "definition": "Whatever it is in reality that makes a given truth true — here, what makes a modal truth (such as “Socrates could have been a carpenter”) true.", "example": "A drawing of Socrates hammering nails is not what makes it possible for him to have been a carpenter; a divine idea backed by divine power can be." },
-    { "term": "Power set / Cantor’s theorem", "definition": "The power set of a set is the set of all its subsets; Cantor proved it always has more members than the original set. Grim uses this against a set of all truths.", "example": "Answered by Plantinga (proves too much), Simmons (no particular truth goes unknown), and Wainwright (simplicity)." }
+    {
+      "term": "Abstract object",
+      "definition": "Something that exists at least as an object of thought, that we can know truths about, but that cannot be perceived by the senses or physically interacted with — for Aristotelians and Scholastics, specifically what an intellect grasps by abstracting from particulars.",
+      "example": "Triangularity, the proposition that snow is white, the number 7, a possible world in which Mars has three moons."
+    },
+    {
+      "term": "Universal",
+      "definition": "A general pattern, nature, or property that many particular things can share or instantiate.",
+      "example": "Redness, shared by stop signs, fire engines, and strawberries; roundness, shared by billiard balls and the moon."
+    },
+    {
+      "term": "Abstraction",
+      "definition": "The intellect’s act of setting aside a thing’s individualizing features to consider what it shares with others.",
+      "example": "Ignoring that one triangle is wooden and green and another is stone and orange to consider triangularity as such."
+    },
+    {
+      "term": "Proposition",
+      "definition": "What a sentence expresses or a thought entertains: a claim that is true or false, distinct from any particular sentence or language.",
+      "example": "“Snow is white” and “Schnee ist weiss” express one proposition, which Socrates and Obama can both think."
+    },
+    {
+      "term": "Numeral vs. number",
+      "definition": "A numeral is a written or spoken label; a number is the abstract object the label refers to.",
+      "example": "“2” and “II” are different numerals for one number; erasing every numeral would not make 2 + 2 = 4 false."
+    },
+    {
+      "term": "Possible world",
+      "definition": "A complete way things could have been, limited by logic rather than by the actual laws of physics.",
+      "example": "A world in which Romney won in 2012, or unicorns exist; there is no possible world in which 2 + 2 = 5."
+    },
+    {
+      "term": "Pure possibles",
+      "definition": "Things that are possible but never actually exist, whose possibility therefore cannot be grounded in any actual instance.",
+      "example": "Unicorns, centaurs, and mermaids."
+    },
+    {
+      "term": "Necessary truth",
+      "definition": "A truth that could not have been false and would hold whatever happened to the material world or to any finite mind.",
+      "example": "2 + 2 = 4; the angles of a Euclidean triangle sum to two right angles."
+    },
+    {
+      "term": "Realism (about abstract objects)",
+      "definition": "The view that abstract objects are real, not reducible to anything material, and not mere constructs of the human mind.",
+      "example": "The realist says triangularity would be real and the Pythagorean theorem true even if humanity had never existed."
+    },
+    {
+      "term": "Nominalism",
+      "definition": "The view that abstract objects are not real; there are only particular things and general words (names) we apply to them.",
+      "example": "There is the word “red” but no such thing as redness."
+    },
+    {
+      "term": "Resemblance nominalism",
+      "definition": "The nominalist claim that we apply one word to many things simply because they resemble each other, without specifying in what respect.",
+      "example": "Calling a stop sign and a fire truck “red” just because they resemble each other — which Russell showed smuggles in the universal resemblance."
+    },
+    {
+      "term": "Type vs. token",
+      "definition": "A type is one general item (such as a word); tokens are its particular occurrences.",
+      "example": "Your, my, and Socrates’ utterances of “red” are three tokens of one word type — which is why the nominalist’s words are themselves universals."
+    },
+    {
+      "term": "Conceptualism",
+      "definition": "The view that abstract objects are real but wholly constructed by the human mind.",
+      "example": "The claim that triangularity exists only as a concept in human heads."
+    },
+    {
+      "term": "Psychologism",
+      "definition": "The view (opposed by Frege) that the laws of logic and mathematics are merely psychological laws describing how human minds happen to operate.",
+      "example": "“Modus ponens is valid only because our brains are wired to think that way.”"
+    },
+    {
+      "term": "Platonic realism",
+      "definition": "The view that abstract objects exist in a “third realm” outside space, time, matter, and all minds, as Forms that particular things participate in.",
+      "example": "Triangles are triangles by participating in the Form of Triangle."
+    },
+    {
+      "term": "Third Man argument",
+      "definition": "The objection, first raised by Plato himself, that if a Form is itself an individual thing sharing the feature it explains, a further Form is needed to explain it, and so on endlessly.",
+      "example": "Individual men and the Form of Man would need a Super-Form of Man, and that a Super-Super-Form."
+    },
+    {
+      "term": "Causal inertness",
+      "definition": "The apparent inability of third-realm abstract objects to cause or affect anything, since they are neither material nor mental.",
+      "example": "An architect’s concept of triangularity shapes a pyramid, but triangularity in a mindless third realm could affect nothing — not even our knowledge of it."
+    },
+    {
+      "term": "Aristotelian realism",
+      "definition": "The view that universals exist really but only in the things that instantiate them (bound up with individuating features) and, as abstract, only in intellects that abstract them.",
+      "example": "Animality exists in Socrates tied to rationality and in Fido tied to dogness; animality in the abstract exists only in a mind."
+    },
+    {
+      "term": "Substance",
+      "definition": "In Aristotelian metaphysics, a thing that exists in its own right and has an intrinsic source of its characteristic properties and activities.",
+      "example": "A tree is a substance, not a mere image of a Form — which is why Plato’s view seems absurd to the Aristotelian."
+    },
+    {
+      "term": "Scholastic realism",
+      "definition": "Aristotelian realism plus the Augustinian thesis: abstract objects exist in things and finite intellects, and ultimately in an infinite, eternal, divine intellect.",
+      "example": "The possibility of unicorns is grounded as an idea in God’s intellect."
+    },
+    {
+      "term": "Argument from eternal truths",
+      "definition": "The traditional name for the Augustinian style of argument, associated with Augustine and Leibniz, from necessary, eternal truths to a divine mind that thinks them.",
+      "example": "“2 + 2 = 4 is an eternal truth; eternal truths are thoughts; so there is an eternal thinker.”"
+    },
+    {
+      "term": "Interlocking system",
+      "definition": "The fact that universals, propositions, and other abstract objects are logically interconnected, so that none can be fully grasped apart from the rest.",
+      "example": "Grasping humanness requires grasping animality and rationality; any two propositions are either consistent or inconsistent."
+    },
+    {
+      "term": "Conceptual omniscience",
+      "definition": "Robert Adams’s term for eternally understanding all essences, possibilities, and necessary truths.",
+      "example": "The necessary intellect of Stage 2 is first shown to be conceptually omniscient, then omniscient without qualification."
+    },
+    {
+      "term": "Pure actuality",
+      "definition": "Existing with no unactualized potential whatsoever (from Chapter 1); Feser argues a necessarily existing intellect must be purely actual.",
+      "example": "An intellect ignorant of some truth would have the potential to know it, and so would not be purely actual."
+    },
+    {
+      "term": "Deity theory",
+      "definition": "Leftow’s label for theories that ground possibility and necessity in God’s nature, as Scholastic realism does.",
+      "example": "On a deity theory, the necessity of 2 + 2 = 4 flows from the divine nature."
+    },
+    {
+      "term": "Voluntarism",
+      "definition": "The view that necessary truths (at least some) hold because God wills them, so they could have been otherwise had God willed differently.",
+      "example": "Leftow’s view that water = H₂O is necessary by God’s choice — which deity theorists reject."
+    },
+    {
+      "term": "Divine simplicity",
+      "definition": "The doctrine that God has no parts, so his intellect, will, power, goodness, and nature are really identical, and his many “ideas” are one reality described in different ways.",
+      "example": "It answers Grim: God’s knowledge is not a set of discrete items."
+    },
+    {
+      "term": "Welty’s six conditions",
+      "definition": "Objectivity, necessity, intentionality, relevance, plenitude, and simplicity — criteria for an adequate theory of abstract objects, which Welty argues Theistic Conceptual Realism best satisfies.",
+      "example": "Intentionality: a proposition represents a state of affairs, as a thought does — so it naturally lives in a mind."
+    },
+    {
+      "term": "Truthmaker",
+      "definition": "Whatever it is in reality that makes a given truth true — here, what makes a modal truth (such as “Socrates could have been a carpenter”) true.",
+      "example": "A drawing of Socrates hammering nails is not what makes it possible for him to have been a carpenter; a divine idea backed by divine power can be."
+    },
+    {
+      "term": "Power set / Cantor’s theorem",
+      "definition": "The power set of a set is the set of all its subsets; Cantor proved it always has more members than the original set. Grim uses this against a set of all truths.",
+      "example": "Answered by Plantinga (proves too much), Simmons (no particular truth goes unknown), and Wainwright (simplicity)."
+    }
   ],
   "distinctions": [
     {
       "name": "Sentence (or numeral) vs. proposition (or number)",
-      "left": { "label": "Sentence / numeral", "desc": "A physical or spoken token in a particular language or notation; visible, erasable, located in space and time; different in English, German, Arabic, Roman." },
-      "right": { "label": "Proposition / number", "desc": "The abstract content the token expresses or names; shared across languages and centuries; cannot be seen or erased; its truth survives the destruction of every token." },
+      "left": {
+        "label": "Sentence / numeral",
+        "desc": "A physical or spoken token in a particular language or notation; visible, erasable, located in space and time; different in English, German, Arabic, Roman."
+      },
+      "right": {
+        "label": "Proposition / number",
+        "desc": "The abstract content the token expresses or names; shared across languages and centuries; cannot be seen or erased; its truth survives the destruction of every token."
+      },
       "whyItMatters": "This is the doorway into the whole chapter. Once someone sees that destroying every copy of “2 + 2 = 4” would not make it false, they are forced to ask what kind of thing it is — and physical or linguistic answers are ruled out."
     },
     {
       "name": "Nominalism vs. conceptualism",
-      "left": { "label": "Nominalism", "desc": "Denies that universals and other abstract objects are real at all: there are only particular things and general words or resemblances." },
-      "right": { "label": "Conceptualism", "desc": "Grants that universals are real but says they exist only as constructs of human minds, with no foundation outside them." },
+      "left": {
+        "label": "Nominalism",
+        "desc": "Denies that universals and other abstract objects are real at all: there are only particular things and general words or resemblances."
+      },
+      "right": {
+        "label": "Conceptualism",
+        "desc": "Grants that universals are real but says they exist only as constructs of human minds, with no foundation outside them."
+      },
       "whyItMatters": "They fail in different ways. Nominalism is refuted by the regress of resemblance and by the fact that its own words are universals. Conceptualism is refuted by shared concepts, communication, and the self-refuting character of psychologism. You must know which rival you are facing to use the right argument."
     },
     {
       "name": "Platonic vs. Aristotelian realism",
-      "left": { "label": "Platonic realism", "desc": "Universals exist as abstract and mind-independent at once — Forms in a third realm outside space, time, and minds; things only imperfectly resemble them." },
-      "right": { "label": "Aristotelian realism", "desc": "Universals exist mind-independently only in concrete things (tied to individuating features) and exist as abstract only in an intellect that abstracts them; there is no third way of existing." },
+      "left": {
+        "label": "Platonic realism",
+        "desc": "Universals exist as abstract and mind-independent at once — Forms in a third realm outside space, time, and minds; things only imperfectly resemble them."
+      },
+      "right": {
+        "label": "Aristotelian realism",
+        "desc": "Universals exist mind-independently only in concrete things (tied to individuating features) and exist as abstract only in an intellect that abstracts them; there is no third way of existing."
+      },
       "whyItMatters": "Feser’s whole argument turns on rejecting the idea that anything can be both abstract and mind-independent. Once that is granted, abstract objects need a mind — and the question becomes which mind."
     },
     {
       "name": "Aristotelian vs. Scholastic realism",
-      "left": { "label": "Aristotelian (finite minds only)", "desc": "Abstract objects exist in things and in human or other contingent intellects — nothing more." },
-      "right": { "label": "Scholastic realism", "desc": "Agrees with Aristotle against a mindless third realm, but agrees with Plato that there must be a realm beyond matter and finite minds: a necessary, divine intellect." },
+      "left": {
+        "label": "Aristotelian (finite minds only)",
+        "desc": "Abstract objects exist in things and in human or other contingent intellects — nothing more."
+      },
+      "right": {
+        "label": "Scholastic realism",
+        "desc": "Agrees with Aristotle against a mindless third realm, but agrees with Plato that there must be a realm beyond matter and finite minds: a necessary, divine intellect."
+      },
       "whyItMatters": "The step from Aristotelian to Scholastic realism is where God enters. It is justified by the four hard cases — possibility with no world, pure possibles, propositions true without minds, and necessary truths — which contingent minds cannot ground."
     },
     {
       "name": "Contemporary vs. Scholastic understanding of “abstract”",
-      "left": { "label": "Contemporary", "desc": "Abstract means outside the spatiotemporal order; everything is either abstract or concrete, full stop; thoughts are concrete mental states in brains or souls." },
-      "right": { "label": "Aristotelian-Scholastic", "desc": "Abstract means produced by the intellect’s act of abstraction; the same nature (humanness, redness) exists concretely in things and abstractly in an intellect; to think is to take on a form without its matter." },
+      "left": {
+        "label": "Contemporary",
+        "desc": "Abstract means outside the spatiotemporal order; everything is either abstract or concrete, full stop; thoughts are concrete mental states in brains or souls."
+      },
+      "right": {
+        "label": "Aristotelian-Scholastic",
+        "desc": "Abstract means produced by the intellect’s act of abstraction; the same nature (humanness, redness) exists concretely in things and abstractly in an intellect; to think is to take on a form without its matter."
+      },
       "whyItMatters": "This dissolves the objection that divine ideas would be “concrete, not abstract.” The objection assumes the contemporary definition, which the Scholastic rejects; pressing it simply begs the question."
     },
     {
       "name": "Conceptual omniscience vs. unqualified omniscience",
-      "left": { "label": "Conceptual omniscience", "desc": "Knowing all essences, possibilities, and necessary truths — what the interlocking-system argument directly delivers." },
-      "right": { "label": "Unqualified omniscience", "desc": "Knowing all truths whatsoever, including contingent ones about what actually happens." },
+      "left": {
+        "label": "Conceptual omniscience",
+        "desc": "Knowing all essences, possibilities, and necessary truths — what the interlocking-system argument directly delivers."
+      },
+      "right": {
+        "label": "Unqualified omniscience",
+        "desc": "Knowing all truths whatsoever, including contingent ones about what actually happens."
+      },
       "whyItMatters": "A skeptic can grant the first and deny the second. Feser closes the gap through pure actuality: ignorance of any truth is an unactualized potential. (And the actual is a subset of the possible.) This is the bridge to the fuller treatment of omniscience in Chapter 6."
     },
     {
       "name": "Logical entailment vs. real dependence",
-      "left": { "label": "Entailment", "desc": "If A necessarily implies B, then by contraposition not-B implies not-A — a purely logical relation that holds among necessary truths in every direction." },
-      "right": { "label": "Dependence", "desc": "A genuine explanatory relation in which one thing exists or holds because of another, so that changes in the second could overturn the first." },
+      "left": {
+        "label": "Entailment",
+        "desc": "If A necessarily implies B, then by contraposition not-B implies not-A — a purely logical relation that holds among necessary truths in every direction."
+      },
+      "right": {
+        "label": "Dependence",
+        "desc": "A genuine explanatory relation in which one thing exists or holds because of another, so that changes in the second could overturn the first."
+      },
       "whyItMatters": "Leftow’s water objection trades on confusing the two. Arithmetic entails truths about rocks without depending on rocks; the divine nature entails truths about water without depending on water."
     }
   ]

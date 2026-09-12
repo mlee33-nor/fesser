@@ -1,0 +1,803 @@
+{
+ "backfill": {
+  "Natural theology": {
+   "origin": "The phrase goes back to the Roman scholar Varro, whose threefold division of theology (mythical, civil, and natural — the philosophers' theology) Augustine discusses in The City of God; later writers contrasted theologia naturalis with revealed theology.",
+   "confuseWith": "Science-based apologetics such as Intelligent Design: natural theology in Feser's sense argues from premises any inquiry presupposes, not from probabilistic readings of scientific data."
+  },
+  "Divine revelation (revealed theology)": {
+   "origin": "Latin revelatio, from revelare, “to draw back a veil” — an unveiling of what could not otherwise be seen.",
+   "confuseWith": "Natural theology: both concern God, but revelation depends on God's special disclosure, while natural theology uses reason alone."
+  },
+  "Demonstration": {
+   "origin": "Latin demonstratio, the Scholastic rendering of Aristotle's Greek apodeixis — a proof from certain premises that yields genuine knowledge of why something must be so.",
+   "confuseWith": "“Proof” in the everyday sense of overwhelming evidence (as in a courtroom): a demonstration is a deductive, necessary inference, not just very strong evidence."
+  },
+  "Probabilistic / abductive argument": {
+   "origin": "“Abduction” was C. S. Peirce's term for inferring an explanatory hypothesis; the related phrase “inference to the best explanation” comes from later analytic philosophy.",
+   "confuseWith": "Demonstration: an abductive argument leaves rival explanations possible in principle; a demonstration claims none is possible."
+  },
+  "Design argument (Paley / Intelligent Design)": {
+   "origin": "Classic statement in William Paley's Natural Theology (1802) with its watch-on-the-heath analogy; revived by the Intelligent Design movement in the late twentieth century.",
+   "confuseWith": "Aquinas' Fifth Way, the argument from finality: it reasons from the directedness of natural causes toward ends, not from complexity or improbability — a difference Feser has defended in a separate article cited in the introduction."
+  },
+  "Classical theism": {
+   "origin": "Modern label for the mainstream tradition of Aristotle, Plotinus, Augustine, Anselm, Maimonides, Avicenna, and Aquinas, whose core is divine simplicity.",
+   "confuseWith": "Theistic personalism: both affirm one personal God, but only classical theism denies that God falls under any genus or has parts."
+  },
+  "Theistic personalism (neo-theism)": {
+   "origin": "“Theistic personalism” is Brian Davies' label; “neo-theism” is Norman Geisler's label for the same family of views.",
+   "confuseWith": "Simply believing God is personal: classical theists also attribute intellect and will to God; what defines personalism is putting God in the genus “person” and rejecting simplicity."
+  },
+  "Divine simplicity": {
+   "origin": "Latin simplicitas, “uncompoundedness.” Taught by Aristotle, Plotinus, Augustine, Anselm, Maimonides, Avicenna, and Aquinas, affirmed by the Fourth Lateran Council (1215) and the First Vatican Council, and also by Luther and Calvin.",
+   "confuseWith": "Simplicity meaning “easy to understand”: divine simplicity means having no parts, and Feser notes it actually makes God harder to comprehend."
+  },
+  "Two-stage structure": {
+   "origin": "Feser's organizing device for chapters 1–5, announced in the introduction.",
+   "confuseWith": "The informal-vs-formal distinction: both stages belong to the informal statement; the formal statement is a separate later section."
+  },
+  "Divine attributes": {
+   "origin": "The traditional list derived at length by Aquinas (Summa Theologiae I, qq. 3–26), Samuel Clarke, and others; Feser derives them in each proof's Stage 2 and systematically in chapter 6.",
+   "confuseWith": "Separate features or accidents in God: on classical theism the attributes are identical in God, though we must speak of them with distinct concepts."
+  },
+  "Informal vs. formal statement": {
+   "origin": "Feser's presentational method; the formal format is the numbered-premise style favored by analytic philosophers.",
+   "confuseWith": "Stage 1 vs. Stage 2: the stages are the two halves of the informal argument, not the informal and formal versions."
+  },
+  "Five Ways": {
+   "origin": "Latin quinque viae, from Aquinas' Summa Theologiae I, q. 2, a. 3 (thirteenth century).",
+   "confuseWith": "The five proofs of this book: only the Aristotelian proof (First Way) and, by source, the Thomistic proof (On Being and Essence) come from Aquinas."
+  },
+  "Thomism": {
+   "origin": "From the name of Thomas Aquinas (1225–1274); a Thomist is an adherent of his system.",
+   "confuseWith": "Scholasticism in general: Thomism is one school within the wider Scholastic tradition, alongside others such as Scotism."
+  },
+  "Exegesis": {
+   "origin": "Greek exēgēsis, “a leading out” — drawing out the meaning of a text.",
+   "confuseWith": "Philosophical defense of an argument: exegesis asks what an author meant; Feser's book asks whether an argument in that author's spirit is sound."
+  },
+  "Purely actual actualizer (Unmoved Mover)": {
+   "origin": "Aristotle's “unmoved mover” (Physics 8, Metaphysics 12); the Scholastic phrase is actus purus, “pure act.”",
+   "confuseWith": "A first cause in time: “unmoved” means having no potential that needs actualizing, not being the earliest link in a chain."
+  },
+  "Actuality and potentiality": {
+   "origin": "Aristotle's Greek energeia (actuality) and dynamis (potentiality), rendered in Latin as actus and potentia; introduced to answer Parmenides' denial of change.",
+   "confuseWith": "Mere logical possibility: a potential is a real capacity grounded in what a thing actually is — coffee can cool, but has no potential to become chicken soup."
+  },
+  "The One": {
+   "origin": "Greek to hen, Plotinus' name for the first principle in the Enneads (third century A.D.).",
+   "confuseWith": "Mere numerical oneness: the One is first of all what is absolutely noncomposite; its uniqueness follows from that simplicity."
+  },
+  "Abstract objects": {
+   "origin": "The problem goes back to Plato's Forms; the idea of grounding them in a divine mind comes from Neo-Platonism and Augustine and was defended by Leibniz.",
+   "confuseWith": "Mental images or private ideas: the truth that 2 + 2 = 4 is not a picture in any human head, which is why the Augustinian proof asks what grounds it."
+  },
+  "Real distinction between essence and existence": {
+   "origin": "Latin essentia and esse; developed by Avicenna and made central by Aquinas in On Being and Essence (De ente et essentia).",
+   "confuseWith": "A merely conceptual distinction: Thomists claim the difference is in the thing itself, not just in how we think about it."
+  },
+  "Principle of sufficient reason (PSR)": {
+   "origin": "Named by Leibniz (principium rationis sufficientis); Feser interprets it in an Aristotelian-Thomistic rather than a Leibnizian way.",
+   "confuseWith": "The principle of causality (PC): PSR says everything has an explanation; PC says a potential can be actualized only by something actual. Feser argues PC follows from PSR."
+  },
+  "Necessary being": {
+   "origin": "Latin ens necessarium; prominent in Avicenna, Aquinas' Third Way, and Leibniz.",
+   "confuseWith": "Existence “by definition” as in the ontological argument: Feser's necessity is metaphysical, grounded in pure actuality, simplicity, or essence being identical with existence."
+  },
+  "Principle of proportionate causality": {
+   "origin": "Scholastic principle (abbreviated PPC in the book); Descartes used a variant that scholars call the causal adequacy principle.",
+   "confuseWith": "An “heirloom” view on which causes hand over their very own properties: PPC allows what is in the effect to be in the cause virtually or eminently, not only formally."
+  },
+  "Agere sequitur esse": {
+   "origin": "Latin Scholastic maxim, “acting follows being” (also stated as operari sequitur esse).",
+   "confuseWith": "The principle of causality: agere sequitur esse links a thing's activity to its nature, rather than saying what is needed to actualize a potential."
+  },
+  "Analogical language": {
+   "origin": "Latin analogia; the Thomist theory distinguishes the analogy of attribution and the analogy of proper proportionality.",
+   "confuseWith": "Metaphor: Feser stresses that analogical predication is literal even though it is not univocal."
+  },
+  "Divine conservation": {
+   "origin": "Latin conservare, “to preserve”; a traditional doctrine of classical theism.",
+   "confuseWith": "Creation as a one-time event in the past (the deist picture): conservation means creation is occurring at every moment."
+  },
+  "Divine concurrence": {
+   "origin": "Latin concurrere, “to run together” — God's causality runs together with the creature's.",
+   "confuseWith": "Occasionalism: concurrence affirms that creatures truly cause things; occasionalism says only God does."
+  },
+  "Hierarchical (per se) vs. linear (per accidens) causal series": {
+   "origin": "Scholastic Latin: causes ordered per se (“essentially”) versus per accidens (“accidentally”).",
+   "confuseWith": "Simultaneous vs. successive: simultaneity is a helpful way to introduce the idea, but what makes a series hierarchical is the derivative character of its members' causal power."
+  },
+  "Scientism": {
+   "origin": "A pejorative label for the view that science alone yields knowledge; Feser calls it a key ingredient of the New Atheism and cites Alex Rosenberg as a defender.",
+   "confuseWith": "Science itself: rejecting scientism is not rejecting science but rejecting the philosophical claim that science is the only road to knowledge."
+  },
+  "God of the gaps": {
+   "origin": "Phrase associated with the nineteenth-century writer Henry Drummond and later Dietrich Bonhoeffer, both of whom criticized such reasoning.",
+   "confuseWith": "Demonstration: a gap argument grants that a natural explanation might be found; a demonstration claims no alternative is possible in principle."
+  }
+ },
+ "removeTerms": [
+  "Pantheism, panentheism, occasionalism, deism"
+ ],
+ "newTerms": [
+  {
+   "term": "Principle of causality (PC)",
+   "definition": "The principle that any potential that is actualized must be actualized by something already actual. It is not the claim that everything whatsoever has a cause.",
+   "example": "The coffee's potential to be cold is actualized by the cool air or by ice cubes; the potential coldness cannot make itself actual.",
+   "origin": "Aristotelian-Scholastic principle; Feser argues in later chapters that it follows from the principle of sufficient reason.",
+   "confuseWith": "“Everything has a cause”: PC concerns what goes from potential to actual, which is why something purely actual needs no cause."
+  },
+  {
+   "term": "Contingent being (contingency)",
+   "definition": "Something that could have failed to exist, or could have been otherwise, and so requires an explanation outside itself for its existence.",
+   "example": "You, your desk, and the planet exist, but nothing in what they are guarantees that they must.",
+   "origin": "Latin contingere, “to happen” or “to befall”; central to Aquinas' Third Way and Leibniz's argument.",
+   "confuseWith": "Temporary: a contingent thing might have existed forever and still be contingent, since its existence would still need explaining."
+  },
+  {
+   "term": "Composite (composition)",
+   "definition": "Made up of parts — whether physical parts, or metaphysical constituents such as actuality and potentiality, or essence and existence. A composite depends on its parts existing and being combined at every moment.",
+   "example": "A chair exists only as long as its legs, frame, and seat exist and are fastened together in the right way.",
+   "origin": "Latin compositio, “putting together”; the Neo-Platonic proof's starting point, going back to Plotinus.",
+   "confuseWith": "Complex in the design-argument sense: a pebble or drop of water is composite, though no one would call it intricately designed."
+  },
+  {
+   "term": "Subsistent existence itself",
+   "definition": "The Thomistic description of God as that whose essence just is existence — not a thing that has existence as something received, but existence itself, underived and unlimited.",
+   "example": "A lion's essence tells you what a lion is but not that one exists; in God there is no such gap between what he is and that he is.",
+   "origin": "Latin ipsum esse subsistens, Aquinas' phrase.",
+   "confuseWith": "A being that happens to have always existed: something could have existed forever and still have received its existence."
+  },
+  {
+   "term": "Platonic realism (the “third realm”)",
+   "definition": "The view that universals, numbers, and propositions exist in a realm of their own, independent of every mind and of the world of particular things. The Augustinian proof accepts that such objects are real but rejects this location for them.",
+   "example": "A Platonist would say triangularity would exist even if there were no triangles and no minds at all.",
+   "origin": "From Plato's theory of Forms; “third realm” (beyond the physical and the mental) is a later phrase associated with Frege.",
+   "confuseWith": "Realism as such about universals: Aristotelians and Augustinians are also realists, but locate universals in things and in minds, ultimately the divine mind."
+  },
+  {
+   "term": "Existential inertia",
+   "definition": "The thesis, rejected in chapter 6, that at least some things, once they exist, tend to persist on their own until something destroys them, so that they need no sustaining cause.",
+   "example": "A defender might say a rock just keeps existing unless crushed, as a body keeps moving unless stopped.",
+   "origin": "A term used by contemporary critics of cosmological arguments; Feser has also answered it in a separate article.",
+   "confuseWith": "Newtonian inertia of motion: the existential version is about existing, not moving, and Feser argues nothing composite could have it."
+  },
+  {
+   "term": "Deism",
+   "definition": "The view that God created the world but that it can carry on without him once created, like a machine running on its own.",
+   "example": "“God lit the fuse of the Big Bang and has left the universe alone ever since.”",
+   "origin": "From Latin deus, “god”; associated with seventeenth- and eighteenth-century rationalist religion.",
+   "confuseWith": "Classical theism's First Cause: for classical theism, God causes the world's existence at every moment, which rules deism out."
+  },
+  {
+   "term": "Occasionalism",
+   "definition": "The view that nothing in the created world has any causal power at all; God alone causes everything, on the “occasion” of what looks like a creaturely cause.",
+   "example": "On occasionalism, the sun doesn't really melt the ice in your iced tea; God melts it when the sun is out.",
+   "origin": "From Latin occasio, “occasion”; held by some medieval Islamic thinkers and by Malebranche.",
+   "confuseWith": "Divine concurrence: concurrence agrees God acts in every creaturely action, but insists creatures really cause things too."
+  },
+  {
+   "term": "Pantheism",
+   "definition": "The view that God is identical with the world. Ruled out because the world is composite, changing, and contingent, while God is simple, pure actuality, and necessary.",
+   "example": "“God just is nature — the totality of everything.”",
+   "origin": "Greek pan, “all,” plus theos, “god.”",
+   "confuseWith": "Panentheism, which says God is not identical to the world but includes it and is changed by it."
+  },
+  {
+   "term": "Panentheism",
+   "definition": "The view that God is not identical with the world but is present in it in such a way that he is changed by it, as if the world were in some sense part of God.",
+   "example": "Some process theologians hold that God grows and changes along with the world's history.",
+   "origin": "Greek pan-en-theos, “all-in-God.”",
+   "confuseWith": "Classical doctrine of divine omnipresence: God is present to all things as their cause, but is not changed by them, since he is immutable."
+  },
+  {
+   "term": "Mere conservationism",
+   "definition": "The view that God keeps things in existence but that, while existing, they exercise their causal powers entirely independently of him.",
+   "example": "God keeps the cue ball in being, but the cue ball moves the eight ball all on its own.",
+   "origin": "A position in the medieval and modern debate over divine causality (discussed by Freddoso, whom Feser cites).",
+   "confuseWith": "Divine concurrence: concurrence adds that creatures cannot exercise their causal power apart from God's concurrent action."
+  },
+  {
+   "term": "Miracle",
+   "definition": "An effect produced by God that goes beyond what created natures could produce on their own. On Feser's account it is not a “violation” of natural law or an “intervention” from outside, but an elevation of nature beyond its own powers or a suspension of a law.",
+   "example": "Feser compares natural order to a musician playing from the score, and a miracle to the same musician improvising: every note is his.",
+   "origin": "Latin miraculum, “object of wonder”; Feser draws on Aquinas, Ramelow, Oderberg, and C. S. Lewis.",
+   "confuseWith": "Preternatural events: extraordinary effects an angel might produce are still within the created order; only God can cause a strictly supernatural event."
+  },
+  {
+   "term": "Scholasticism",
+   "definition": "The philosophical and theological tradition of the medieval universities and their later heirs, marked by rigorous argument and disputation. Thomists are one school of Scholastics.",
+   "example": "The introduction lists Thomists and other Scholastics among those who held God's existence to be demonstrable.",
+   "origin": "From Latin scholasticus, “of the school.”",
+   "confuseWith": "Thomism specifically: Scholasticism includes other schools, such as those of Scotus and Ockham."
+  },
+  {
+   "term": "Neo-Platonism",
+   "definition": "The school of late-ancient philosophy founded by Plotinus, which traces all things to an absolutely simple first principle, the One. It inspired the Neo-Platonic proof and shaped Augustine's idea of divine ideas.",
+   "example": "Chapter 2's argument from composition is labeled Neo-Platonic because its core idea is in Plotinus' Enneads.",
+   "origin": "A modern label for Plotinus (third century A.D.) and his successors such as Porphyry and Proclus.",
+   "confuseWith": "Plato's own philosophy: Neo-Platonism develops Plato but adds distinctive ideas, such as the One beyond all composition."
+  },
+  {
+   "term": "Analytic philosophy",
+   "definition": "The dominant style of academic philosophy in the English-speaking world, known for precise, step-by-step argument. Feser borrows its numbered format for the formal statements but not for the informal presentations.",
+   "example": "The introduction mentions the explicit step-by-step format that analytic philosophers love.",
+   "origin": "Twentieth-century tradition associated with Frege, Russell, Moore, and Wittgenstein.",
+   "confuseWith": "Formal logic: analytic philosophy is a broad style of doing philosophy, not the same thing as symbolic logic, and Feser uses its format without adopting the metaphysical views common among analytic philosophers."
+  },
+  {
+   "term": "Formally, virtually, eminently",
+   "definition": "The three ways an effect's feature can pre-exist in its cause under proportionate causality: formally (the cause has the same feature), virtually (it has the power to obtain it), or eminently (it has a higher power to produce it).",
+   "example": "Feser's $20: a bill in your wallet (formally), money in the bank (virtually), or the power to print bills (eminently).",
+   "origin": "Scholastic terminology, also used by Descartes.",
+   "confuseWith": "The “heirloom” picture on which causes must literally possess and pass on the very property they cause."
+  },
+  {
+   "term": "Univocal and equivocal predication",
+   "definition": "A term is used univocally when it has exactly the same sense in two uses, and equivocally when the senses are unrelated. The Thomist view is that terms like “wise” apply to God analogically, between these extremes.",
+   "example": "“Bat” (animal) vs. “bat” (baseball) is equivocal; Plantinga's reading of “wise” for God and Socrates in the same sense is univocal.",
+   "origin": "Latin univocus, “one-voiced,” and aequivocus, “equal-voiced” (same word, different meanings).",
+   "confuseWith": "Analogical predication: Feser says theistic personalists like Plantinga go wrong by treating divine predicates univocally."
+  },
+  {
+   "term": "Ontological argument",
+   "definition": "An a priori argument that God exists from the very concept of God — for example, Descartes' claim that a supremely perfect being must exist because existence is a perfection. None of the five proofs is an ontological argument.",
+   "example": "Kant claimed the cosmological argument secretly depends on the ontological argument; Feser replies that Aquinas and most Thomists reject the ontological argument yet accept cosmological ones.",
+   "origin": "Associated with Anselm and Descartes; the name was given by Kant.",
+   "confuseWith": "Cosmological arguments like the five proofs, which begin from features of the world we experience."
+  },
+  {
+   "term": "A priori vs. a posteriori",
+   "definition": "An a priori argument proceeds independently of experience; an a posteriori one starts from experience. Feser says the Aristotelian proof is not a priori, since we know change occurs through experience, yet its starting point can't be overturned by further experience.",
+   "example": "We could discover that one apparent change was an illusion, but not that all change is, since discovering it would itself be a change.",
+   "origin": "Latin, “from what comes before” and “from what comes after.”",
+   "confuseWith": "Certain vs. uncertain: an a posteriori premise can still be certain if every possible experience presupposes it."
+  },
+  {
+   "term": "Ockham's razor (parsimony)",
+   "definition": "The methodological rule not to multiply entities beyond necessity, used to prefer the simpler of competing hypotheses. New Atheists invoke it against God.",
+   "example": "Hitchens and Dawkins argue a physical singularity is more parsimonious than God; Feser replies that parsimony is the wrong test for a demonstration.",
+   "origin": "Named after the fourteenth-century Scholastic William of Ockham.",
+   "confuseWith": "Divine simplicity: parsimony concerns the number of entities posited; simplicity concerns a being's lack of parts."
+  },
+  {
+   "term": "Fallacy of composition",
+   "definition": "Wrongly inferring that a whole has a property because its parts do. Critics like Grayling accuse cosmological arguments of it; Feser replies that his proofs need not start from any claim about the universe as a whole.",
+   "example": "Feser's counterexamples: an infinite series of moving sticks, reflecting mirrors, or copied geometry books still needs an explanation outside the series.",
+   "origin": "A classical informal fallacy, discussed since Aristotle.",
+   "confuseWith": "Legitimate part-to-whole reasoning: if every brick in a wall is red, the wall is red — not every inference from parts to whole is fallacious."
+  },
+  {
+   "term": "New Atheism",
+   "definition": "The popular early twenty-first-century movement of atheist authors whose objections to arguments for God Feser answers in chapter 7, and whom he treats as having revived weak objections.",
+   "example": "Dawkins, Harris, Dennett, Hitchens, Stenger, Krauss, Rosenberg, Grayling, and Hawking and Mlodinow are all cited.",
+   "origin": "A journalistic label from around 2006, when several of these books appeared.",
+   "confuseWith": "Atheism as such: Feser criticizes the New Atheists' arguments, and notes that not all atheists are intellectually dishonest."
+  },
+  {
+   "term": "Philosophical theism",
+   "definition": "Belief in God based on philosophical argument alone, without commitment to any particular revealed religion. The introduction lists purely philosophical theists as parties to the real debate among theists.",
+   "example": "Aristotle affirmed an Unmoved Mover without any scriptural revelation.",
+   "origin": "The ancient Greek philosophical tradition; later figures who accepted God on philosophical grounds alone.",
+   "confuseWith": "Deism: a philosophical theist may hold that God sustains the world at every moment, which the deist denies."
+  },
+  {
+   "term": "Eternity (divine)",
+   "definition": "Existing outside time altogether, without beginning, end, or succession — not merely lasting forever. It follows from immutability, since being in time involves change.",
+   "example": "God doesn't experience a “before” and “after” the way a person living through a century does.",
+   "origin": "Latin aeternitas; the classic definition is Boethius'.",
+   "confuseWith": "Everlastingness (sempiternity): lasting through endless time would still involve change and succession."
+  },
+  {
+   "term": "Immutability",
+   "definition": "Being incapable of change. Because God is purely actual, he has no potential to be actualized and so cannot go from potential to actual.",
+   "example": "Unlike the hot coffee, which has a potential to cool, nothing in God is waiting to be realized.",
+   "origin": "Latin immutabilis, “unchangeable.”",
+   "confuseWith": "Inertness or indifference: an immutable God is supremely active (pure act), not frozen or uncaring."
+  },
+  {
+   "term": "Privation",
+   "definition": "The absence of a feature that a thing would naturally have in order to be complete — a failure to realize a potential inherent in its nature. What is purely actual has no privations and so is perfect.",
+   "example": "A squirrel injured by a car and unable to flee predators suffers a privation.",
+   "origin": "Latin privatio, “deprivation”; a key concept in Aristotelian and Augustinian accounts of evil.",
+   "confuseWith": "Mere absence: a rock's lack of sight is not a privation, since sight is not natural to rocks; a blind dog's is."
+  },
+  {
+   "term": "Quod erat demonstrandum (Q.E.D.)",
+   "definition": "“Which was to be demonstrated” — the traditional phrase marking the completion of a proof. Feser ends the book with it.",
+   "example": "Geometry textbooks once ended each theorem's proof with Q.E.D.",
+   "origin": "Latin translation of the Greek phrase Euclid used to close his proofs.",
+   "confuseWith": "A mere flourish: Feser uses it deliberately, to assert that the demonstrations have been successfully defended."
+  },
+  {
+   "term": "Category mistake",
+   "definition": "Treating something as belonging to a category it doesn't belong to. Feser says the “one god further” objection makes one by treating God as one member of the class of “gods.”",
+   "example": "Like treating triangularity as one more triangle, only better drawn.",
+   "origin": "Term popularized by Gilbert Ryle.",
+   "confuseWith": "A factual error: a category mistake misunderstands what kind of thing is under discussion, rather than getting a fact wrong."
+  },
+  {
+   "term": "Fideism",
+   "definition": "The view that belief in God rests on faith alone, not on rational argument. Feser describes his position as rationalist as opposed to fideist.",
+   "example": "“You can't argue your way to God; you just have to believe.”",
+   "origin": "From Latin fides, “faith.”",
+   "confuseWith": "Faith as such: classical theists accept faith in revealed truths while holding that God's existence can also be known by reason."
+  },
+  {
+   "term": "Divine incomprehensibility",
+   "definition": "The doctrine that, although we can know and speak about God truly in a loose sense, we cannot comprehend God in the strictest sense. Divine simplicity guarantees this, since we understand things by their parts and by genus and difference.",
+   "example": "Just as physics must describe light in odd terms, natural theology reaches a level of reality that ordinary concepts grasp only feebly.",
+   "origin": "Latin incomprehensibilis, “not graspable”; Aquinas, Summa Theologiae I, q. 12, a. 7.",
+   "confuseWith": "Unknowability: incomprehensibility doesn't mean we know nothing of God, only that we cannot grasp him completely."
+  },
+  {
+   "term": "Metaphysics",
+   "definition": "The part of philosophy that studies the most general features of reality — being, change, causality, essence, existence — which any science presupposes. The five proofs rest on metaphysical rather than scientific premises.",
+   "example": "Whether change is the actualization of potential is a metaphysical question; how fast coffee cools is a physical one.",
+   "origin": "Greek ta meta ta physika, “the things after the physics,” the title given to Aristotle's treatise.",
+   "confuseWith": "Physics or cosmology: metaphysics asks what any physical theory must take for granted, not which physical theory is true."
+  },
+  {
+   "term": "Ad hominem (poisoning the well)",
+   "definition": "Rejecting an argument because of the arguer's motives or character rather than its merits. Feser identifies the charge that theistic arguments are just rationalizations as this fallacy.",
+   "example": "“You only defend that proof because you're Catholic” says nothing about whether its premises are true.",
+   "origin": "Latin, “to the person.”",
+   "confuseWith": "Legitimately questioning someone's testimony: motives matter when we rely on a person's word, not when we can check their argument ourselves."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "In this module's reconstruction of the introduction's reasoning, which step secures the claim that no future scientific discovery could overturn the proofs?",
+   "options": [
+    "Step 2: a long tradition held God's existence to be demonstrable",
+    "Step 7: the proofs' starting points are presupposed by any possible empirical inquiry",
+    "Step 15: each proof has two stages",
+    "Step 18: natural theology does not establish revealed doctrines"
+   ],
+   "answer": 1,
+   "explanation": "Because change, composition, contingency, and so on are presupposed by any empirical inquiry, no empirical result could undermine them. Step 2 is an appeal to history, not a reason why science can't overturn the premises.",
+   "level": "analyze"
+  },
+  {
+   "q": "A critic says: “The Big Bang may have had no cause at all, so the proofs fail.” Which distinction does this objection ignore?",
+   "options": [
+    "Natural vs. revealed theology",
+    "Stage 1 vs. Stage 2",
+    "Hierarchical causes operating here and now vs. linear causes stretching back in time",
+    "Informal vs. formal statement"
+   ],
+   "answer": 2,
+   "explanation": "The proofs are about what sustains things in existence now, not about the first event in time. Whether the Big Bang had a cause is simply not their question.",
+   "level": "analyze"
+  },
+  {
+   "q": "“Monotheists already reject Thor and Zeus; atheists just go one god further.” Which distinction does this objection ignore?",
+   "options": [
+    "Classical theism's God as being itself vs. a “god” as one being among others",
+    "Demonstration vs. probabilistic argument",
+    "Exegesis vs. philosophical defense",
+    "Divine conservation vs. divine concurrence"
+   ],
+   "answer": 0,
+   "explanation": "Feser calls it a category mistake: the God of classical theism is not a member of any class of gods, any more than triangularity is one more triangle.",
+   "level": "analyze"
+  },
+  {
+   "q": "What would Feser reply to: “A beginningless multiverse is a more parsimonious explanation than God”?",
+   "options": [
+    "He would agree and concede the point",
+    "He would argue that God is actually the more parsimonious hypothesis",
+    "He would reject multiverse theories as unscientific",
+    "He would say the proofs are attempted demonstrations, so parsimony is the wrong test; the critic must find a false premise or an invalid step — and a multiverse would itself need a sustaining cause"
+   ],
+   "answer": 3,
+   "explanation": "Parsimony judges rival hypotheses. The proofs claim no alternative is possible in principle, and they grant a beginningless universe anyway.",
+   "level": "apply"
+  },
+  {
+   "q": "According to the introduction, why does chapter 6's discussion of miracles matter?",
+   "options": [
+    "It demonstrates that particular miracles have actually occurred",
+    "It shows that miracles violate the laws of nature",
+    "It is crucial for whether knowledge of God could come through special revelation, though whether any revelation has occurred is beyond the book",
+    "It refutes the principle of sufficient reason"
+   ],
+   "answer": 2,
+   "explanation": "Miracles are the hinge between natural and revealed theology; the book examines what they are, not whether any occurred. Feser also denies they are violations of natural law.",
+   "level": "understand"
+  },
+  {
+   "q": "Which four views of God's relation to the world does the introduction say chapter 6 rules out?",
+   "options": [
+    "Theism, deism, polytheism, atheism",
+    "Pantheism, panentheism, occasionalism, and deism",
+    "Concurrentism, conservationism, occasionalism, and classical theism",
+    "Platonism, nominalism, conceptualism, and realism"
+   ],
+   "answer": 1,
+   "explanation": "These four are named explicitly. Concurrentism is Feser's own view, not one he rules out.",
+   "level": "recall"
+  },
+  {
+   "q": "Ice in your iced tea melts in the sun. What would a defender of divine concurrence say?",
+   "options": [
+    "God alone melts the ice; the sun is merely the occasion",
+    "The sun melts the ice entirely on its own, though God keeps the sun in existence",
+    "Nobody melts the ice; it's an uncaused event",
+    "The sun really melts the ice, but it can exercise that power only as God imparts it at that moment"
+   ],
+   "answer": 3,
+   "explanation": "The first option is occasionalism and the second is mere conservationism. Concurrence is the middle view: real creaturely causation that still depends on God.",
+   "level": "apply"
+  },
+  {
+   "q": "Your friend says: “God created the universe 13.8 billion years ago and it's been running on its own ever since.” Which view is this, and how does the book respond?",
+   "options": [
+    "Classical theism; the book endorses it",
+    "Occasionalism; the book says creatures have no power",
+    "Deism; the book rejects it through divine conservation, since nothing could exist for an instant without God's sustaining causality",
+    "Pantheism; the book says God is the universe"
+   ],
+   "answer": 2,
+   "explanation": "A God who starts things and steps away is the deist picture. The proofs conclude to a cause of existence here and now, so creation is ongoing.",
+   "level": "apply"
+  },
+  {
+   "q": "What does Feser mean by saying he defends an Aristotelian proof, but “not Aristotle's own proof, exactly”?",
+   "options": [
+    "He thinks Aristotle's argument was invalid",
+    "The argument captures what is essential in Aristotle's reasoning, but it isn't an interpretation of his texts, and Feser doesn't claim Aristotle would agree with everything",
+    "He uses only Aristotle's premises but adds a new conclusion",
+    "He replaces Aristotle's metaphysics with modern physics"
+   ],
+   "answer": 1,
+   "explanation": "The book avoids exegesis. It is inspired by great thinkers and faithful to their core insights without claiming to report their views.",
+   "level": "understand"
+  },
+  {
+   "q": "Why does the introduction highlight divine simplicity?",
+   "options": [
+    "Because it is central to the classical theist conception of God yet strangely neglected by contemporary writers, theists as well as atheists — and the book aims to restore it",
+    "Because it makes God easy to understand",
+    "Because only the Neo-Platonic proof depends on it",
+    "Because it is a revealed doctrine that natural theology cannot reach"
+   ],
+   "answer": 0,
+   "explanation": "Simplicity is the core of classical theism. Chapter 6 shows every proof arrives at a noncomposite cause, and “simple” there means having no parts, not being easy to grasp.",
+   "level": "understand"
+  },
+  {
+   "q": "Why does the question “What caused God?” fail against the five proofs?",
+   "options": [
+    "Because God caused himself",
+    "Because the proofs admit God needs a cause but say it is unknowable",
+    "Because none of the proofs rests on “everything has a cause”; each says only certain kinds of things need causes and concludes to something that lacks exactly that feature",
+    "Because the question is meaningless in any context"
+   ],
+   "answer": 2,
+   "explanation": "What needs a cause is what has potential, parts, a distinction of essence and existence, or contingency. What is purely actual, simple, and necessary could not have a cause. “Self-caused” is not the classical view.",
+   "level": "analyze"
+  },
+  {
+   "q": "A student reads only the formal statement of the Thomistic proof and complains that “imparting existence” is unintelligible. What would Feser advise?",
+   "options": [
+    "Ignore the informal statement, since the formal one is definitive",
+    "Read the informal statement, where the key concepts are explained; the formal statements aren't meant to stand alone",
+    "Skip to chapter 7's objections",
+    "Accept the step on faith"
+   ],
+   "answer": 1,
+   "explanation": "The introduction says a reader who hasn't worked through the informal sections may misunderstand the formal ones.",
+   "level": "apply"
+  },
+  {
+   "q": "Which two earlier Feser books approached natural theology through exposition of Aquinas?",
+   "options": [
+    "Scholastic Metaphysics and Neo-Scholastic Essays",
+    "Aquinas and Philosophy of Mind",
+    "The Last Superstition and Five Proofs",
+    "The Last Superstition and Aquinas"
+   ],
+   "answer": 3,
+   "explanation": "The introduction names The Last Superstition (2008) and Aquinas (2009). Scholastic Metaphysics and Neo-Scholastic Essays are cited elsewhere but aren't the books he contrasts with this one.",
+   "level": "recall"
+  },
+  {
+   "q": "What two limitations of the Aquinas-centered approach does Feser identify?",
+   "options": [
+    "It relied on revelation and ignored science",
+    "It was too informal and too brief",
+    "It was exegetical (requiring long metaphysical preliminaries and separating ideas from outdated science) and was confined to the arguments Aquinas himself favored",
+    "It defended too many arguments and neglected objections"
+   ],
+   "answer": 2,
+   "explanation": "These are the two drawbacks the introduction names — hence roughly seventy pages of metaphysics before God in those books.",
+   "level": "understand"
+  },
+  {
+   "q": "In what sense is the Aristotelian proof's first premise “empirical” and yet immune to empirical refutation?",
+   "options": [
+    "It isn't empirical; it's known by pure definition",
+    "We know change occurs through experience, but any future experience would itself be a change, so experience can't show that all change is unreal",
+    "It's a scientific hypothesis confirmed by physics",
+    "It's an assumption granted for argument's sake"
+   ],
+   "answer": 1,
+   "explanation": "Feser says the argument is not a priori, but its starting point is presupposed by every possible experience. We can doubt particular changes, not change as such.",
+   "level": "understand"
+  },
+  {
+   "q": "Which statement would a classical theist reject?",
+   "options": [
+    "God is the greatest member of the genus “person”",
+    "God has intellect and will",
+    "God is personal",
+    "God is absolutely simple"
+   ],
+   "answer": 0,
+   "explanation": "Classical theists generally affirm that God is personal, with intellect and will. What they reject is placing God in a genus, which would make him composite.",
+   "level": "analyze"
+  },
+  {
+   "q": "A skeptic says: “Hume answered all this two centuries ago; the question is closed.” Which of Feser's points applies most directly?",
+   "options": [
+    "Hume was a theist in disguise",
+    "Hume never discussed arguments for God",
+    "The double standard: other philosophical arguments stay open despite objections, yet an old objection is treated as a final refutation of theistic arguments",
+    "Hume's objections were about the ontological argument only"
+   ],
+   "answer": 2,
+   "explanation": "Feser notes skeptics treat an objection to a theistic argument as decisive in a way they never treat objections to materialism or to free-will skepticism.",
+   "level": "apply"
+  },
+  {
+   "q": "Which groups does the introduction say have affirmed that God's existence can be demonstrated by philosophy alone?",
+   "options": [
+    "Only Catholic theologians since Vatican I",
+    "Aristotelians, Neo-Platonists, Thomists and other Scholastics, early modern rationalists, and others — pagans, Jews, Christians, Muslims, and philosophical theists",
+    "Only medieval Christian philosophers",
+    "Empiricists such as Hume and Locke"
+   ],
+   "answer": 1,
+   "explanation": "The introduction stresses how long and diverse the tradition is, which is why it calls the confident claim a return to the mainstream.",
+   "level": "recall"
+  },
+  {
+   "q": "What does the principle of proportionate causality say?",
+   "options": [
+    "Every effect is proportionally smaller than its cause",
+    "Causes and effects must be the same size",
+    "Only material causes matter",
+    "Whatever is in an effect must in some way pre-exist in its total cause — formally, virtually, or eminently"
+   ],
+   "answer": 3,
+   "explanation": "A cause can't give what it doesn't have in some way. Feser's $20 example shows the three ways it can have it.",
+   "level": "recall"
+  },
+  {
+   "q": "Someone says: “If God is simple, he must be easy to understand.” How does the book respond?",
+   "options": [
+    "“Simple” means having no parts; since we understand things by their parts and by genus and difference, simplicity actually makes God incomprehensible in the strictest sense",
+    "God is indeed easy to understand once you accept the proofs",
+    "Simplicity is a metaphor for God's humility",
+    "The book denies God is simple"
+   ],
+   "answer": 0,
+   "explanation": "Chapter 6 says God is hard to understand precisely because he is simple. We can know him truly in a loose sense, but not comprehend him fully.",
+   "level": "apply"
+  }
+ ],
+ "shortAnswer": [
+  {
+   "q": "Distinguish occasionalism, mere conservationism, and divine concurrence. Why does Feser reject the first two?",
+   "model": "Occasionalism says creatures have no causal power at all; God alone causes everything on the “occasion” of apparent causes (God, not the sun, melts the ice). Mere conservationism says God keeps things in existence but they then act entirely on their own. Concurrence is the middle view: creatures really cause things, but they can exercise that power only as God imparts it at each moment.\n\nFeser rejects occasionalism using agere sequitur esse: if things did nothing, they wouldn't truly exist, so occasionalism implies that God alone exists, which is false. He rejects mere conservationism with the same principle run the other way: if things could act independently of God, they could exist independently of him, which collapses into deism, and the proofs show nothing can exist without God's sustaining causality.",
+   "rubric": [
+    "Accurate definition of occasionalism with example",
+    "Accurate definition of mere conservationism",
+    "Accurate definition of concurrence as the middle position",
+    "Uses agere sequitur esse in at least one rejection",
+    "Links mere conservationism to deism or independent existence"
+   ]
+  },
+  {
+   "q": "What is a miracle on Feser's account, and why does the topic matter for the relation between natural and revealed theology?",
+   "model": "A miracle is an effect God produces that goes beyond what created natures could do on their own. It is not a “violation” of natural law or an “intervention” by an outside mechanic, since God already causes everything. It either raises a nature beyond its own powers or suspends a law, and only God can cause one; an angel's extraordinary effects would be merely preternatural. Feser's analogy is a musician who plays the written score and occasionally improvises: every note is his.\n\nThe topic matters because, as the introduction says, what miracles are and how God could cause them is crucial for whether there could be any source of knowledge about God beyond natural theology, in a special revelation. Whether any revelation has actually occurred lies outside the book.",
+   "rubric": [
+    "Defines a miracle as going beyond natural powers",
+    "Rejects the “violation” or “intervention” model",
+    "Only God can cause strictly supernatural effects",
+    "Gives an analogy (musician, director's cut, or second edition)",
+    "Explains the link to revealed theology and the book's scope limit"
+   ]
+  },
+  {
+   "q": "Why does Feser avoid exegesis in this book? What does he gain, and what might a critic say is lost?",
+   "model": "His earlier Aquinas-based books had to explain what Aquinas meant, lay out his background metaphysics, and separate essential ideas from outdated science, producing about seventy pages of metaphysics before reaching God, and they were confined to Aquinas' own arguments. Dropping exegesis lets Feser get straight to each argument, bring in background principles only as needed, include arguments Aquinas didn't develop (Neo-Platonic, Augustinian, rationalist), and present them as a thinker of that school might today.\n\nA critic might say something is lost: historical accuracy, or the ability to claim the authority of a great thinker. Feser's reply is that he isn't claiming that authority. The arguments must stand or fall on their own merits.",
+   "rubric": [
+    "Describes the limitations of the earlier approach",
+    "Identifies what is gained (directness, breadth, accessibility)",
+    "Notes the inclusion of non-Aquinas arguments",
+    "States a plausible cost",
+    "Explains why Feser thinks the cost doesn't matter to soundness"
+   ]
+  },
+  {
+   "q": "Explain the principle of causality and the principle of sufficient reason, and how Feser relates them.",
+   "model": "The principle of causality (PC) says that any potential that is actualized must be actualized by something already actual. It is not the claim that everything has a cause. The principle of sufficient reason (PSR) says that everything is intelligible, with an explanation for why it exists and has the attributes it has.\n\nIn chapter 7's discussion of demonstration, Feser says PC can be defended as following from PSR (an actualized potential with no actualizer would be an unexplained fact), and that PSR, rightly understood, can be established by reductio ad absurdum of attempts to deny it. Chapter 6 adds that proportionate causality follows from both. PC drives the Aristotelian proof, and PSR is the starting point of the rationalist proof.",
+   "rubric": [
+    "Correct statement of PC",
+    "Correct statement of PSR",
+    "Notes that PC is not “everything has a cause”",
+    "Explains that PC follows from PSR",
+    "Mentions reductio defense of PSR or the proofs that use each"
+   ]
+  },
+  {
+   "q": "Using Feser's triangle analogy, explain why the “one god further” objection is a category mistake. Does the point depend on classical theism being true?",
+   "model": "The objection treats God as one member of the class “gods,” like Zeus or Thor, so rejecting one more seems consistent. But the God of classical theism is not in any genus: he is not “a being” with a shared essence but subsistent being itself, the source of all being. Feser compares a critic who tells geometers to extend their doubts about imperfect chalk triangles to triangularity itself. Triangularity isn't one more triangle, only better drawn; it is the standard the drawn ones fall short of.\n\nThe point does not depend on classical theism being true. Even if atheism were correct, it wouldn't be because God turned out to be one more nonexistent member of the class of gods. That suggestion misunderstands what classical theists claim. Separately, Feser notes there are demonstrations for the God of classical theism and none for Zeus.",
+   "rubric": [
+    "States the objection fairly",
+    "Explains why God is not in the class “gods”",
+    "Accurately uses the triangle (or Form of the Good) analogy",
+    "Notes the point is independent of whether theism is true",
+    "Mentions the asymmetry of arguments"
+   ]
+  },
+  {
+   "q": "Feser claims the contemporary neglect of these arguments tells us nothing about the arguments themselves. Explain and evaluate this claim.",
+   "model": "Feser observes that these arguments were historically prominent across many schools and religions, yet today they get little attention, even from philosophers of religion. He concludes that the neglect reflects the state of academic philosophy, not the quality of the arguments. Chapter 7 supports this: many standard criticisms target caricatures (“everything has a cause,” the Big Bang, design), and skeptics hold theistic arguments to a double standard.\n\nEvaluation: the logical point is sound, since an argument's validity and the truth of its premises don't depend on how popular it is. A fair critic might reply that expert neglect is weak evidence the arguments have been found wanting. Feser's answer is that this can only be checked by examining the arguments and the actual objections, which is what the book does.",
+   "rubric": [
+    "Explains the historical prominence vs. current neglect",
+    "States Feser's diagnosis",
+    "Cites supporting points (caricatures, double standard)",
+    "Offers a reasonable counterpoint",
+    "Concludes that the arguments must be judged on their merits"
+   ]
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "Principle of causality (PC)",
+   "back": "Any potential that is actualized is actualized by something already actual. Not the claim that everything has a cause."
+  },
+  {
+   "front": "Contingent being",
+   "back": "Something that could have failed to exist; it needs an explanation outside itself, even if it existed forever."
+  },
+  {
+   "front": "Composite",
+   "back": "Made up of parts (physical or metaphysical), so it depends at every moment on its parts existing and being combined."
+  },
+  {
+   "front": "Subsistent existence itself (ipsum esse subsistens)",
+   "back": "God as that whose essence just is existence: not a being that received existence, but existence itself."
+  },
+  {
+   "front": "Existential inertia",
+   "back": "The claim that things persist in existence on their own. Rejected in chapter 6, since anything composite needs a sustaining cause."
+  },
+  {
+   "front": "Deism vs. classical theism",
+   "back": "Deism: God starts the world, which then runs without him. Classical theism: God causes the world's existence at every moment."
+  },
+  {
+   "front": "Occasionalism",
+   "back": "Only God causes anything; creatures are mere occasions. Rejected: by agere sequitur esse, it would imply only God exists."
+  },
+  {
+   "front": "Mere conservationism",
+   "back": "God keeps things in being, but they act independently of him. Rejected: it collapses toward deism."
+  },
+  {
+   "front": "Pantheism vs. panentheism",
+   "back": "Pantheism: God is the world. Panentheism: the world is in God and changes him. Both are ruled out, since God is simple and immutable."
+  },
+  {
+   "front": "Miracle (Feser's account)",
+   "back": "God elevating nature beyond its own powers or suspending a law. Not a “violation” or “intervention,” like a musician improvising on his own score."
+  },
+  {
+   "front": "Formally / virtually / eminently",
+   "back": "Three ways an effect's feature can pre-exist in its cause. The $20 example: a bill in hand, money in the bank, the power to print bills."
+  },
+  {
+   "front": "Univocal vs. equivocal vs. analogical",
+   "back": "Same sense / unrelated senses / related senses that are still literal. Terms apply to God analogically."
+  },
+  {
+   "front": "Ontological argument and the five proofs",
+   "back": "None of the five proofs is ontological. Kant's claim that cosmological arguments presuppose the ontological argument fails: Aquinas rejects the latter while accepting the former."
+  },
+  {
+   "front": "Is the Aristotelian proof a priori?",
+   "back": "No. We know change occurs through experience, but no experience could overturn that premise, since every experience is itself a change."
+  },
+  {
+   "front": "Ockham's razor vs. the five proofs",
+   "back": "Parsimony judges rival hypotheses. The proofs are attempted demonstrations, so “a simpler explanation” is not a refutation."
+  },
+  {
+   "front": "Fallacy-of-composition objection: reply",
+   "back": "The proofs need not start from the universe as a whole; an infinite series of sticks, mirrors, or copied books still needs an outside explanation."
+  },
+  {
+   "front": "Eternity vs. everlastingness",
+   "back": "Divine eternity means being outside time altogether, not lasting through endless time."
+  },
+  {
+   "front": "Privation",
+   "back": "The lack of something a thing's nature calls for (a blind dog, an injured squirrel). What is purely actual has none, so it is perfect."
+  },
+  {
+   "front": "Divine incomprehensibility",
+   "back": "We know God truly but only loosely. Simplicity rules out understanding him by parts or by genus and difference."
+  },
+  {
+   "front": "Fideism",
+   "back": "Belief in God by faith alone, without argument. Feser's position is rationalist, not fideist."
+  },
+  {
+   "front": "Category mistake in “one god further”",
+   "back": "It treats God as one member of the class of gods, like treating triangularity as one more triangle."
+  },
+  {
+   "front": "Step 3 of the module argument: what does it claim?",
+   "back": "A demonstration is a deduction from certain premises whose certainty is shown by metaphysical analysis (from chapter 7's final section)."
+  },
+  {
+   "front": "Step 5: what follows about criticizing the proofs?",
+   "back": "To refute one, show a premise false, the logic invalid, or the question begged, not that a rival seems simpler."
+  },
+  {
+   "front": "Step 7: why can't science overturn the premises?",
+   "back": "The starting points (change, composition, contingency, and so on) are presupposed by any possible empirical inquiry."
+  },
+  {
+   "front": "Step 10: what does the hierarchical-series point imply?",
+   "back": "No beginning of the universe is needed; God is the sustaining cause now (conservation), not a first domino."
+  },
+  {
+   "front": "Step 13: why only classical theism?",
+   "back": "Every proof concludes to a cause with no composition; a being in the genus “person” is composite and would need a cause."
+  },
+  {
+   "front": "Step 19: the conclusion",
+   "back": "If the proofs succeed, atheism is false and the remaining debate is among theists about revelation."
+  },
+  {
+   "front": "Objection “Outdated science” → reply",
+   "back": "The kernel (change as actualization of potential) doesn't depend on the husk (celestial spheres); science itself presupposes change."
+  },
+  {
+   "front": "Objection “Rationalizations” → reply",
+   "back": "An ad hominem (poisoning the well); motives cut both ways (Nagel); only the arguments' merits matter."
+  },
+  {
+   "front": "Objection “Not the God of religion” → reply",
+   "back": "True that the proofs don't establish revealed doctrines, but that is irrelevant; believers affirm the same God less technically, like a layperson's atoms."
+  },
+  {
+   "front": "Objection “A first cause isn't God” → reply",
+   "back": "Stage 2 of every proof, plus chapter 6, derives the divine attributes; critics rarely engage these arguments."
+  },
+  {
+   "front": "Why the five proofs are not redundant",
+   "back": "Five different starting points converge on one God. Doubting one starting point leaves four others, and the convergence itself strengthens the case."
+  }
+ ],
+ "socratic": [
+  "If something could continue to exist entirely on its own once made, what would it have to have in itself? Does anything composite have that?",
+  "When you say God “intervenes” in the world, are you picturing him outside the world like a mechanic? What would change if he is already the cause of everything at every moment?"
+ ],
+ "misconceptions": [
+  {
+   "myth": "Divine simplicity means God is easy to understand or a “simple” idea.",
+   "correction": "It means God has no parts of any kind. Feser argues this makes God incomprehensible in the strictest sense, since we understand things by their parts and by genus and difference."
+  },
+  {
+   "myth": "Miracles, on this view, are God breaking the laws of nature he normally leaves alone.",
+   "correction": "God causes the ordinary course of nature at every moment. A miracle elevates nature beyond its own powers or suspends a law; it is not a violation or an intervention by an outsider."
+  }
+ ]
+}

@@ -1,0 +1,256 @@
+{
+  "quiz": [
+    {
+      "q": "Which of the following is NOT one of the four kinds of abstract object Feser discusses at the start of the chapter?",
+      "options": ["Universals, such as redness and triangularity", "Propositions, such as that snow is white", "Brain states, such as the neural firing involved in thinking of snow", "Possible worlds, such as a world where Mars has three moons"],
+      "answer": 2,
+      "explanation": "Feser’s four examples are universals, propositions, numbers (and other mathematical objects), and possible worlds. Brain states are concrete physical events; Feser mentions identifying universals or propositions with brain processes only as one of the options realism rejects.",
+      "level": "recall"
+    },
+    {
+      "q": "Why does Feser hold that erasing every written or spoken token of “Snow is white,” in every language, would not destroy the proposition that snow is white?",
+      "options": ["Because a proposition is distinct from the sentences that express it, and its truth does not depend on any of them", "Because the proposition would survive in digital storage and human memory", "Because snow itself would still exist and could re-create the sentence", "Because propositions are physical objects of an exotic kind that cannot be erased"],
+      "answer": 0,
+      "explanation": "The point is the sentence/proposition distinction: sentences are tokens that can be seen and erased; the proposition they express is not identical to any of them. Memory and storage (option 2) are just more tokens, which misses the point.",
+      "level": "understand"
+    },
+    {
+      "q": "Conceptualism, as Feser defines it, is the view that abstract objects:",
+      "options": ["do not exist; there are only particular things and general words", "exist in a third realm outside space, time, and every mind", "exist ultimately as ideas in an infinite, eternal divine intellect", "are real, but wholly constructed by the human mind"],
+      "answer": 3,
+      "explanation": "Conceptualism is the middle way between nominalism (option 1) and realism: it grants that universals exist but denies them any existence independent of human minds.",
+      "level": "recall"
+    },
+    {
+      "q": "What is the vicious regress problem that Feser, following Russell, raises against nominalism?",
+      "options": ["The word “red” is itself a universal, so nominalism contradicts itself", "Resemblance is itself a universal; explaining cases of resemblance by further resemblance just raises the problem again at each higher level", "Each Platonic Form requires a further Super-Form, and so on endlessly", "Explaining logic by evolution presupposes the objective validity of logic"],
+      "answer": 1,
+      "explanation": "Russell’s point is that the nominalist’s appeal to resemblance brings in a universal — resemblance — and trying to explain that away by resemblances among resemblances starts an infinite regress. Option 1 is the separate “words are universals too” problem; option 3 is the Third Man.",
+      "level": "understand"
+    },
+    {
+      "q": "A student says: “There is no such thing as triangularity — there’s just the word ‘triangle,’ which we apply to lots of shapes.” Which of Feser’s arguments targets this claim most directly?",
+      "options": ["The argument from the nature of possible worlds", "The “words are universals too” problem", "The Third Man argument", "Welty’s relevance condition"],
+      "answer": 1,
+      "explanation": "The student is a nominalist appealing to a general word. Feser replies that the word “triangle” is itself a universal — one type with many tokens — so the view reintroduces exactly the one-over-many situation it tried to avoid. The Third Man targets Platonism, not nominalism.",
+      "level": "apply"
+    },
+    {
+      "q": "Which thinker is associated with the critique of psychologism, the view that the laws of logic and mathematics are merely psychological laws of human thinking?",
+      "options": ["Bertrand Russell", "G.W. Leibniz", "Greg Welty", "Gottlob Frege"],
+      "answer": 3,
+      "explanation": "Feser links the argument from the incoherence of psychologism to Frege, who defended the objectivity of logic and mathematics. Russell supplies the regress argument against nominalism; Leibniz the interlocking-system point.",
+      "level": "recall"
+    },
+    {
+      "q": "What is the dilemma Feser poses for the Kantian version of conceptualism?",
+      "options": ["If our concepts and logic lack objective validity, the Kantian cannot defend his view; if they have it, he has claimed objective knowledge of our minds that his view rules out", "Either our minds evolved or they were designed, and both options lead to God", "Either universals exist in things or in Forms, and both are unacceptable to Kant", "Either God wills logical truths or merely knows them, and both undermine divine freedom"],
+      "answer": 0,
+      "explanation": "The Kantian says our concepts reflect only our minds’ necessary structure. To defend this he must use concepts and logic: if they are cut off from reality, his defense fails; if they reveal the objective nature of our minds, he contradicts his own theory.",
+      "level": "analyze"
+    },
+    {
+      "q": "Which objection to Platonic realism does Feser describe as more telling than the Third Man argument?",
+      "options": ["Forms are causally inert and so cannot be known", "Platonism makes trees no more treelike than their mirror images", "Animality would have to exist as an individual that is neither rational nor nonrational, which is impossible", "Platonism violates Welty’s simplicity condition by adding a third realm"],
+      "answer": 2,
+      "explanation": "After noting that the Third Man’s force has been disputed for millennia, Feser calls the animality argument more telling: a universal must be neutral between contradictory differences, but no individual thing can be.",
+      "level": "understand"
+    },
+    {
+      "q": "According to Aristotelian realism, universals such as animality:",
+      "options": ["exist only as general words applied to similar things", "exist in a third realm and are imperfectly copied by animals", "exist only in human minds as free inventions", "exist in actual things tied to individuating features, and exist as abstract only in intellects that abstract them"],
+      "answer": 3,
+      "explanation": "Animality exists in Socrates tied to rationality and in Fido tied to dogness; considered in isolation, it exists only in a mind. That is why the view is realist (not nominalist) and not conceptualist — the mind abstracts universals from things rather than inventing them.",
+      "level": "recall"
+    },
+    {
+      "q": "Which of these poses the hardest problem for an Aristotelian realism that appeals only to things and finite minds?",
+      "options": ["That an ordinary man can hold his breath for ten seconds but not ten hours", "That unicorns are possible, though none has ever existed and they were possible before anyone imagined them", "That two men plus two more men make four men", "That Fido, being a dog, is an animal"],
+      "answer": 1,
+      "explanation": "The breath, arithmetic, and Fido cases can be grounded in the essences of actual things as abstracted by human minds. Unicorns are pure possibles: no actual unicorns ground their possibility, and it preceded human imagination.",
+      "level": "apply"
+    },
+    {
+      "q": "Scholastic realism is best described as:",
+      "options": ["Aristotelian in spirit, but holding that abstract objects exist ultimately in an infinite, eternal, divine intellect", "Platonic realism with God added as the creator of the Forms", "Nominalism combined with belief in God", "Conceptualism extended to include angelic as well as human minds"],
+      "answer": 0,
+      "explanation": "Scholastic realism agrees with Aristotle that there is no mindless third realm, and with Plato that there must be a realm beyond matter and finite minds — which it identifies as the divine intellect (the Augustinian thesis).",
+      "level": "recall"
+    },
+    {
+      "q": "Why, according to Feser, can’t angelic intellects be the ultimate ground of necessary truths?",
+      "options": ["Because angels have material bodies of an unusual kind", "Because angels, like humans, eventually pass away", "Because although angels do not pass away, they still exist contingently — only if God creates them", "Because angels lack the ability to grasp mathematical truths"],
+      "answer": 2,
+      "explanation": "Feser grants that angels do not perish as we do, but they are still contingent. Necessary truths, and possibilities that would hold even if no angel existed, cannot depend on them.",
+      "level": "understand"
+    },
+    {
+      "q": "What work does the claim that abstract objects form an “interlocking system” do in Stage 2?",
+      "options": ["It shows that abstract objects are really material structures", "It proves directly that the necessary intellect is omnipotent", "It rules out dividing abstract objects among several necessary minds, since grasping any of them requires grasping its logical ties to the rest", "It refutes nominalism by showing that words form a system"],
+      "answer": 2,
+      "explanation": "Because universals are defined by other universals and every proposition is logically related to every other, the whole system — not scattered pieces — must be in a necessary intellect. Omnipotence comes later, through pure actuality.",
+      "level": "analyze"
+    },
+    {
+      "q": "Why must an intellect that exists with absolute necessity be purely actual?",
+      "options": ["Because if its existence required some potential to be actualized, it would depend on that actualization and so exist only contingently", "Because anything that knows mathematics must be purely actual", "Because all intellects, as immaterial, are purely actual", "Because Welty’s simplicity condition requires it"],
+      "answer": 0,
+      "explanation": "This is step 19. A being whose existence presupposes an actualized potential exists only on condition of that actualization. Option 3 is false — human and angelic intellects are immaterial (at least in part) yet not purely actual.",
+      "level": "understand"
+    },
+    {
+      "q": "A skeptic grants that a necessary mind knows every necessary truth and possibility, but denies that it knows contingent facts, such as what you ate for breakfast. What is Feser’s reply?",
+      "options": ["Breakfast facts are secretly necessary truths", "God learns contingent facts by observing the world over time", "Welty’s plenitude condition requires God to know contingent facts", "Ignorance of any truth would be an unactualized potential, incompatible with pure actuality; and the actual is a subset of the possible anyway"],
+      "answer": 3,
+      "explanation": "Steps 24–25: a purely actual intellect cannot have the potential to know something it does not know. Feser’s footnote adds that knowing all possible truths already includes the actual ones. Option 2 would make God changeable.",
+      "level": "apply"
+    },
+    {
+      "q": "Which of the following is NOT one of Greg Welty’s six conditions for an adequate theory of abstract objects?",
+      "options": ["Plenitude", "Falsifiability", "Intentionality", "Relevance"],
+      "answer": 1,
+      "explanation": "Welty’s conditions are objectivity, necessity, intentionality, relevance, plenitude, and simplicity. Falsifiability is not among them.",
+      "level": "recall"
+    },
+    {
+      "q": "What is the point of Welty’s example of a drawing of Socrates hammering nails?",
+      "options": ["It shows that the intentionality condition favors Platonic realism", "It shows that drawings are abstract objects", "It shows that Socrates actually worked as a carpenter", "A mere representation, whether a drawing or a third-realm object, does not make something possible, whereas an idea in an omnipotent mind can"],
+      "answer": 3,
+      "explanation": "This is the relevance condition. A drawing represents a possibility but does not make it possible; a Platonic possible world is in the same boat. A divine idea is relevant because God could create what it represents.",
+      "level": "analyze"
+    },
+    {
+      "q": "How does Feser answer the objection that ideas in God’s mind would be concrete rather than abstract?",
+      "options": ["There is no consensus on what abstract objects are, and for Scholastics an abstract object just is what an intellect forms by abstracting — so the objection begs the question", "He concedes the point and says abstract objects are not needed", "He argues that divine ideas are located in a Platonic third realm", "He argues that God exists in space and time, so his ideas are concrete"],
+      "answer": 0,
+      "explanation": "The objection presupposes the contemporary definition of “abstract” (outside space and time, either abstract or concrete full stop). The Scholastic defines abstractness by the intellect’s act of abstraction; asserting the rival definition does not refute it.",
+      "level": "understand"
+    },
+    {
+      "q": "Leftow argues that deity theories make God’s existence depend on facts about water. What does Feser’s two-rocks parallel show?",
+      "options": ["That mathematics really does depend on facts about rocks", "That a necessary truth’s entailing necessary truths about something does not make it depend on that thing in any interesting sense", "That water is not necessarily H₂O after all", "That God freely wills the laws of chemistry"],
+      "answer": 1,
+      "explanation": "2 + 2 = 4 entails necessary truths about rocks without depending on rocks — mineralogy will never overturn arithmetic. Likewise the divine nature entails truths about water without depending on it. Option 4 is Leftow’s voluntarism, which begs the question.",
+      "level": "analyze"
+    },
+    {
+      "q": "What is Plantinga’s reply, as reported by Feser, to Grim’s Cantorian argument against omniscience?",
+      "options": ["Cantor’s theorem is false for infinite sets", "God knows only finitely many truths, so no paradox arises", "The argument proves too much: it would rule out a set of all propositions, yet we coherently say that every proposition is true or false", "Omniscience requires a set of all truths, and God creates that set"],
+      "answer": 2,
+      "explanation": "If Grim’s reasoning worked, we could say nothing about all propositions, but we clearly can. Simmons adds that no set is needed, and Wainwright appeals to divine simplicity.",
+      "level": "understand"
+    },
+    {
+      "q": "Coffey says anyone affirming a mind-independent order of abstract objects means either a Platonic realm (false) or divine ideas (question-begging). Why does Feser call this a false choice?",
+      "options": ["One can affirm an order of abstract objects existing in some way independent of all finite minds while leaving open what way — the common ground of Platonists and Scholastics", "Because Platonic realism is actually true, so the first option is not false", "Because Coffey is not really a Scholastic realist", "Because possibilities are not eternal, so no such order needs to be affirmed"],
+      "answer": 0,
+      "explanation": "The Augustinian starts from the thesis both Platonists and Scholastics accept, without assuming either interpretation, and then argues for the Scholastic one. So he assumes nothing false and begs no question.",
+      "level": "analyze"
+    },
+    {
+      "q": "Why is the objection “But what caused God?” not even relevant to the Augustinian proof?",
+      "options": ["Because the proof shows that God caused himself", "Because the interlocking system of ideas has no beginning", "Because Cantor’s theorem shows that causes form no set", "Because, unlike Feser’s other proofs, the Augustinian proof is not a causal argument at all"],
+      "answer": 3,
+      "explanation": "Feser notes that the Augustinian proof does not reason from effects to a cause; it reasons from the nature of necessary truths to the kind of intellect in which they must exist. So the objection has no target.",
+      "level": "apply"
+    }
+  ],
+  "shortAnswer": [
+    {
+      "q": "Explain the difference between a sentence and a proposition (and between a numeral and a number). Why is this distinction the doorway into the Augustinian proof?",
+      "model": "A sentence is a physical or spoken token in a particular language; a proposition is what the sentence expresses — a claim that is true or false. “Snow is white” and “Schnee ist weiss” are two sentences with one proposition, and Socrates and Obama can think the same proposition in different languages centuries apart. Likewise “2” and “II” are numerals naming one number.\n\nThe distinction matters because it shows that propositions and numbers are not physical: erasing every token would not make it false that snow is white or that 2 + 2 = 4. Once that is clear, we must ask what kind of reality they do have — the question the whole argument answers.",
+      "rubric": ["Defines both sentence and proposition (or numeral and number)", "Uses an example such as Snow is white / Schnee ist weiss or 2 / II", "Makes the erasure point", "Notes that the same proposition is shared across speakers and languages", "Connects to the question of what kind of existence abstract objects have"]
+    },
+    {
+      "q": "Present two of Feser’s direct arguments for realism in your own words.",
+      "model": "**Mathematics:** Mathematical truths are necessary and unchangeable; 2 + 2 = 4 was true before anyone knew it and would stay true if humanity vanished or the universe disappeared. Moreover the number series is infinite, while material things and human ideas are finite. So numbers depend neither on the material world nor on human minds.\n\n**Possible worlds:** Many possibilities have nothing to do with the actual world or us — worlds with different physical laws, even ones where humans could not exist. Before the world and human minds existed, it was already possible for them to exist, and that possibility could not depend on things that did not yet exist.",
+      "rubric": ["States two distinct arguments accurately (from one over many, geometry, mathematics, propositions, science, possible worlds)", "Shows for each why the objects cannot depend on the material world", "Shows for each why they cannot depend on human minds", "Uses at least one concrete example"]
+    },
+    {
+      "q": "Why is nominalism self-undermining? Give both of Feser’s specific arguments.",
+      "model": "Nominalism says there are no universals, only general words. But why do we apply “red” to just these things? Saying they share redness brings universals back; saying they resemble one another invites the question “in what respect?”\n\n**Vicious regress (Russell):** resemblance is itself a universal, found in many pairs. Saying those resemblances merely resemble one another produces a higher-order resemblance, and so on forever.\n\n**Words are universals too:** the word “red” is one word type with many tokens — your utterance, mine, Socrates’. That is a one-over-many situation. If the nominalist says each utterance is a different, merely resembling word, then no one ever uses the same word twice, communication is impossible, and the nominalist cannot even state his view — while the appeal to resemblance reopens the regress.",
+      "rubric": ["States nominalism accurately", "Explains why appeal to resemblance is required and why it is problematic", "Explains Russell’s regress", "Explains type/token and the words-are-universals problem", "Notes the communication consequence or the back-door smuggling of universals"]
+    },
+    {
+      "q": "Explain the two main arguments against conceptualism, including the argument against psychologism in both its relativist and Kantian forms.",
+      "model": "**Objectivity and communication:** You and I entertain one and the same concept of redness and one and the same Pythagorean theorem, as do people long dead and not yet born, and as new intelligent beings could after human extinction. If concepts were private constructs, your idea of snow and mine would never coincide and we could never communicate — not even to argue about conceptualism.\n\n**Psychologism (Frege):** If logic and math only describe how our minds work, and our minds are shaped by contingent biological and cultural forces, then to explain how, one must use universals (selection pressures, class interests), scientific and mathematical laws, and logic — the very things declared non-objective. The Kantian version (our minds are necessarily structured so) faces a dilemma: if our concepts lack objective validity, he cannot defend his view; if they give knowledge of the objective structure of our minds, he contradicts it.",
+      "rubric": ["Explains the shared-concepts point", "Explains the communication argument", "Defines psychologism and links it to Frege", "Shows the self-refutation of the relativist version", "States the dilemma for the Kantian version"]
+    },
+    {
+      "q": "Explain the animality objection to Platonic realism and how it supports the Aristotelian thesis that nothing abstract exists without abstraction.",
+      "model": "Every animal is either rational or nonrational. Animality as a universal must apply to both, so it cannot include either — they are contradictory — and in itself is neither. But no individual thing can be neither rational nor nonrational. So animality cannot exist as an individual thing in its own right, which is what a Platonic Form would be.\n\nWhere, then, can it exist? Either in actual animals, always tied to rationality (Socrates) or nonrationality (Fido), or considered by itself as abstracted by an intellect. That is exactly the Aristotelian claim: universals exist mind-independently only in things (not as abstract), and as abstract only in minds. There is no third way of being abstract and mind-independent at once — so abstract objects require an intellect.",
+      "rubric": ["States the rational/nonrational dilemma", "Concludes animality cannot be an individual thing (a Form)", "Identifies the two ways animality can exist (in things, in intellects)", "Links to “no third way” / nothing abstract without abstraction", "Notes this is why the argument needs a mind"]
+    },
+    {
+      "q": "Why is Aristotelian realism, appealing only to things and finite minds, insufficient? Identify the hard cases and explain why no contingent mind can handle them.",
+      "model": "Aristotelian realism grounds much of modality in essences in things (a man can hold his breath ten seconds, not ten hours; two men plus two make four). But some cases cannot be handled: (1) if no world or human minds had existed, it would still have been possible for them to exist — with no essences or minds to ground that; (2) pure possibles like unicorns, never instantiated and possible before anyone imagined them; (3) propositions that would be true with no world or minds, including historical truths like Caesar’s assassination and the proposition that no world exists; (4) necessary truths of math and logic.\n\nAll finite minds — human, extraterrestrial, angelic — are contingent: they come to be, or could have failed to exist. What holds necessarily, and would hold in their absence, cannot depend on them. Only a necessarily existing intellect can ground these.",
+      "rubric": ["Acknowledges what Aristotelian realism can explain", "Lists at least three of the four hard cases", "Explains contingency of human minds", "Extends the point to extraterrestrials and angels", "Concludes a necessarily existing intellect is required"]
+    },
+    {
+      "q": "Why can’t the ground of abstract objects be a committee of several necessary minds? Give both lines of reasoning.",
+      "model": "First, abstract objects form an interlocking system. Grasping humanness requires grasping animality and rationality, and those require further universals; propositions are built from universals; every proposition is logically related to every other (entailment, consistency, truth-functional combination). These relations hold independently of any world or finite mind, so the mind that grounds them must grasp them all — you cannot hold one strand of the web without the rest. And the system is infinite (parity truths for every number), so this one mind is conceptually omniscient.\n\nSecond, a necessarily existing intellect must be purely actual, and by Chapter 1 there cannot be two purely actual things, since nothing could differentiate them — no material or temporal feature, and no perfection or privation that one has and the other lacks.",
+      "rubric": ["Explains the interlocking system with examples", "Explains why the relations need a necessary ground", "Draws the conclusion that one mind must grasp the whole", "Gives the pure-actuality uniqueness argument", "Mentions infinity or conceptual omniscience"]
+    },
+    {
+      "q": "Trace how Stage 2 moves from a conceptually omniscient necessary intellect to the God of classical theism.",
+      "model": "A critic can grant a necessary intellect that knows all essences, possibilities, and necessary truths, yet ask whether it knows contingent truths, whether there might be several, and whether it is powerful or good. Feser answers through pure actuality. A necessarily existing intellect must be purely actual, since if its existence required the actualization of any potential it would be contingent. Chapter 1 showed that what is purely actual is unique, omnipotent, perfectly good, immutable, immaterial, incorporeal, and eternal. It must know all truths, including contingent ones, because ignorance would be an unactualized potential to know; and the actual is a subset of the possible anyway. So there is one necessary, purely actual, omniscient, omnipotent, perfectly good, immutable, immaterial, incorporeal, eternal intellect — which is what it is for God to exist.",
+      "rubric": ["States the critic’s worries", "Explains why necessity entails pure actuality", "Lists the attributes derived from Chapter 1", "Explains the move from conceptual to unqualified omniscience", "Draws the conclusion that this is God"]
+    },
+    {
+      "q": "State Leftow’s objection to “deity theories” and Feser’s replies.",
+      "model": "Leftow: deity theories ground necessity in God’s nature. If water = H₂O is necessary, God’s nature entails it; so if it were not necessary, God would not exist — making God depend on facts about water.\n\nFeser: (1) Parallel: 2 + 2 = 4 entails that two rocks plus two rocks make four; by the same pattern, if that were not necessary, 2 + 2 = 4 would not be — yet arithmetic does not depend on rocks. Entailment is not dependence; mineralogy will never overturn arithmetic, and hydrology will never overturn God. (2) Since Leftow does not claim hydrology could falsify God, the alleged dependence is elusive. (3) The antecedent (“if it were not necessary…”) describes no real scenario, just as there is no scenario where 2 + 2 does not necessarily equal 4. (4) Leftow’s voluntarism, on which God could have willed otherwise, begs the question against deity theorists.",
+      "rubric": ["States the objection with the water example", "Gives the two-rocks parallel", "Distinguishes entailment from dependence", "Makes the impossible-antecedent point", "Notes that voluntarism begs the question"]
+    },
+    {
+      "q": "State Grim’s Cantorian objection to omniscience and the three replies Feser reports.",
+      "model": "Grim: omniscience requires a set of all truths. But for any set S of truths, Cantor’s theorem says its power set is larger, and each subset generates a further truth, so S cannot contain them all. There is no set of all truths, hence no omniscience.\n\nReplies: (1) Plantinga — it proves too much: it would rule out a set of all propositions, yet we coherently say every proposition is true or false. (2) Simmons — omniscience does not require a set; even if there is none, it does not follow that there is some particular proposition God does not know. (3) Wainwright — Grim assumes God’s knowledge is a set of discrete ideas; given divine simplicity, what we describe as many distinct grasps of propositions is one reality in God.",
+      "rubric": ["States Grim’s argument, mentioning the power set / Cantor", "Gives Plantinga’s proves-too-much reply", "Gives Simmons’s no-particular-truth-unknown reply", "Gives Wainwright’s divine simplicity reply"]
+    },
+    {
+      "q": "Explain Coffey’s objection that the Augustinian argument begs the question, and why Feser thinks it fails.",
+      "model": "Coffey, a Scholastic realist, thinks Scholastic realism should come in only after God is proven. He says the argument presupposes that possibilities are eternally and necessarily possible — which we could know only if we already knew of a necessary intellect — and that the idea of an order of abstract objects independent of our minds is a Platonic illusion.\n\nFeser: (1) Even an atheist Platonist accepts that possibilities are eternal and necessary, so the premise does not presuppose God. (2) Coffey himself believes such an order exists — in God — so it cannot be wholly illusory; only the Platonic interpretation could be. (3) The implied dilemma (Platonic realm, which is false, or divine ideas, which beg the question) is a false choice: one can affirm an order existing in some way independent of all finite minds while leaving open what way. That is the common ground of Platonists and Scholastics, and the Augustinian argues from it without assuming either.",
+      "rubric": ["States who Coffey is and his two complaints", "Gives the atheist-Platonist point", "Notes that Coffey himself affirms the order in God", "Identifies and explains the false choice", "Concludes the argument neither assumes a falsehood nor begs the question"]
+    }
+  ],
+  "flashcards": [
+    { "front": "What are the four kinds of abstract object in Chapter 3?", "back": "Universals, propositions, numbers (and other mathematical objects), and possible worlds." },
+    { "front": "What is a universal? Give Feser’s pool-hall examples.", "back": "A general pattern many particulars share: being a billiard ball; redness (balls, stop signs, strawberries); roundness (balls, globes, the moon); triangularity (rack, pyramids, dunce caps)." },
+    { "front": "Proposition vs. sentence?", "back": "A sentence is a token in some language; a proposition is what it expresses, true or false. “Snow is white” and “Schnee ist weiss” express one proposition." },
+    { "front": "What is a possible world, and what limits it?", "back": "A way things could have been (Romney winning in 2012, Mars with three moons). Limited by logic, not physics — no world where 2 + 2 = 5." },
+    { "front": "Realism, nominalism, conceptualism — one line each.", "back": "Realism: abstract objects are real, not material, not human-made. Nominalism: they are not real; only general words. Conceptualism: real but wholly constructed by human minds." },
+    { "front": "The one-over-many argument", "back": "Triangularity is not any triangle or collection of them; all could be destroyed and it could be instantiated again, and it is instantiated unobserved. So it is neither material nor mind-dependent." },
+    { "front": "The argument from geometry", "back": "Geometry discovers objective, necessary truths about perfect figures; they held before humans and would hold without them or the material world, and no material thing is geometrically perfect." },
+    { "front": "What extra point does the argument from mathematics add about infinity?", "back": "The number series is infinite, but material things and the ideas in all human minds are finite, so numbers can depend on neither." },
+    { "front": "The argument from propositions — Feser’s two striking examples", "back": "Caesar’s assassination would stay true if everything vanished tomorrow; and if nothing material or human had ever existed, the proposition that nothing material or human exists would have been true." },
+    { "front": "The argument from science", "back": "Scientific laws and classifications are general, so they refer to universals; science seeks mind-independent facts and uses mathematics. Accepting science means accepting mind-independent abstract objects." },
+    { "front": "Russell’s vicious regress against nominalism", "back": "Resemblance is itself a universal. Explaining resemblances by further resemblances generates a higher-order universal at every level, forever." },
+    { "front": "The “words are universals too” problem", "back": "“Red” said by you, me, and Socrates is one word type with many tokens — a one-over-many. Deny it and no one ever uses the same word twice, so communication (and stating nominalism) becomes impossible." },
+    { "front": "The argument from communication against conceptualism", "back": "If concepts were private constructs, your idea of snow and mine would never coincide and we could never mean the same thing — not even to disagree about conceptualism." },
+    { "front": "What is psychologism, and who opposed it?", "back": "The view that logical and mathematical laws are merely psychological laws of how human minds work. Opposed by Frege." },
+    { "front": "Why does evolutionary/cultural relativism about logic refute itself?", "back": "Explaining how evolution or culture shaped our minds requires universals, scientific and mathematical laws, and logic — the very things it says lack objective validity." },
+    { "front": "The Kantian conceptualist’s dilemma", "back": "If our concepts and logic lack objective validity, he cannot defend his view; if they give objective knowledge of our minds’ structure, he contradicts his view." },
+    { "front": "Platonic realism in one sentence", "back": "Abstract objects exist in a “third realm” outside space, time, matter, and all minds — the Forms, in which particulars participate and which they imperfectly resemble." },
+    { "front": "The causal-inertness problem for Platonism", "back": "A Form in no thing and no mind affects nothing — so it could not affect us (how would we know it?) or particular things (how would it explain their pattern?)." },
+    { "front": "The Third Man argument", "back": "If the Form of Man is an individual, it and men need a further Super-Form, then a Super-Super-Form, endlessly. Plato raised it himself; its force is disputed." },
+    { "front": "The animality problem", "back": "Animality must cover rational and nonrational animals, so it is in itself neither; nothing individual can be neither; so animality cannot exist as a Form. Feser calls this more telling than the Third Man." },
+    { "front": "The tree and its mirror image", "back": "If treeness is in the Form, not in the tree, a real tree is no more genuinely treelike than a statue or reflection of one — absurd, since trees are substances." },
+    { "front": "Aristotelian realism in one sentence", "back": "Universals exist mind-independently only in things (tied to individuating features) and exist as abstract only in intellects that abstract them — there is no third way." },
+    { "front": "Oderberg’s point about squareness (paraphrase)", "back": "We meet squareness constantly — in square things — but never squareness in the abstract, because that is something we abstract. Nothing abstract exists without abstraction." },
+    { "front": "Four cases Aristotelian realism (finite minds only) cannot ground", "back": "1) the possibility of a world if none existed; 2) pure possibles (unicorns, centaurs, mermaids); 3) propositions true with no world or minds; 4) necessary truths of math and logic." },
+    { "front": "Scholastic realism", "back": "Aristotelian in spirit (no mindless third realm), with a nod to Plato (a realm beyond matter and finite minds): abstract objects exist ultimately in an infinite, eternal, divine intellect — the Augustinian thesis." },
+    { "front": "Why not human, alien, or angelic minds?", "back": "All are contingent — they come to be or could have failed to exist (angels exist only if God creates them). Necessary truths cannot depend on them." },
+    { "front": "The interlocking system (Leibniz)", "back": "Universals are defined by others; propositions are built from universals; every proposition is logically related to every other. So one necessary mind must grasp the whole infinite web." },
+    { "front": "Conceptual omniscience (Adams)", "back": "Eternally understanding all essences, possibilities, and necessary truths." },
+    { "front": "Why must a necessary intellect be purely actual?", "back": "If its existence required some potential to be actualized, it would depend on that and so be contingent." },
+    { "front": "Conceptual → unqualified omniscience: how?", "back": "Not knowing some truth would be an unactualized potential, impossible for pure actuality. Also, the actual is a subset of the possible." },
+    { "front": "Welty’s six conditions", "back": "Objectivity, necessity, intentionality, relevance, plenitude, simplicity. Welty’s “Theistic Conceptual Realism” ≈ Feser’s Scholastic realism." },
+    { "front": "Welty’s Socrates-the-carpenter drawing", "back": "A drawing represents the possibility but does not make it possible; neither would a third-realm world. A divine idea does, because God could create that world (relevance)." },
+    { "front": "“Divine ideas would be concrete, not abstract” — reply", "back": "No consensus on what abstract objects are; and for Scholastics an abstract object just is what an intellect forms by abstraction, so the objection begs the question." },
+    { "front": "Leftow’s water objection — reply in a phrase", "back": "Two rocks + two rocks: entailment is not dependence. Also: the antecedent is impossible, and voluntarism begs the question." },
+    { "front": "Grim’s Cantorian objection — three replies", "back": "Plantinga: proves too much (no set of all propositions either). Simmons: no set is needed — no particular truth is unknown. Wainwright: divine simplicity — God’s knowledge is not a set of discrete ideas." },
+    { "front": "Coffey’s objection — reply in a phrase", "back": "False choice: one can affirm an order of abstract objects independent of finite minds while leaving open whether it is Platonic or divine; even atheist Platonists accept the premise." },
+    { "front": "How is the Augustinian proof unlike Feser’s other four?", "back": "It is not a causal argument: it starts from abstract objects, not concrete things, so “What caused God?” is irrelevant to it." }
+  ],
+  "teachBack": "**Your challenge:** Explain the Augustinian proof out loud, in 8–10 minutes, to a friend who likes math or science but has never studied philosophy. Stand at a whiteboard or use a sheet of paper.\n\n**Constraints:**\n- You may not use the words “Platonic,” “Scholastic,” or “actuality” until you have explained, in plain words, the idea each names.\n- You must use exactly one concrete example for each of the four kinds of abstract object.\n- You must present at least one argument against nominalism, one against conceptualism, and one against the Platonic third realm — and name the hard case (unicorns, or possibility with no world) that rules out finite minds.\n- You must carry the argument all the way to God, not stop at a “cosmic mind”: say why a necessary mind must be purely actual, why it is one, and why it knows contingent truths.\n\n**Then have your friend (or you, playing skeptic) raise two objections:** “Why can’t numbers just exist on their own?” and “Doesn’t Cantor show omniscience is impossible?” Answer each in under a minute.\n\n**Check yourself:**\n1. Did you separate sentence from proposition, and numeral from number, at the start?\n2. Did you say clearly that this is *not* a causal argument?\n3. Could your friend restate, in one sentence, why the truths need a mind (they represent; representations exist as abstract only in minds)?\n4. Could your friend restate why the mind must be necessary (the truths are necessary; contingent minds cannot ground them)?\n5. Did you avoid implying that God invents logic by arbitrary choice?\n\nIf you stumble on any step, reread the corresponding summary section and flashcards, then try again — this time in half the time.",
+  "videoPrompt": "Audience: curious, intelligent adults with no philosophy background, some of them skeptical of religion. Explain Edward Feser’s Augustinian proof of God (Five Proofs, chapter 3). Emphasize in order: (1) abstract objects — universals, propositions, numbers, possible worlds — using the pool hall, “Snow is white / Schnee ist weiss,” and erasing every numeral; (2) why nominalism and conceptualism refute themselves (resemblance regress, shared concepts, psychologism); (3) why Plato’s mindless third realm fails (inert Forms, animality, trees as mirror images) and why nothing abstract exists without a mind; (4) why human, alien, or angelic minds can’t ground necessary truths (unicorns, possibility before any world); (5) one necessary mind grasping the whole interlocking system; (6) pure actuality leading to the full divine attributes. Correct these misconceptions: that this is a causal argument, that it is Platonism, and that God invents logic arbitrarily. Tone: clear, warm, intellectually serious, with a sense of wonder."
+}

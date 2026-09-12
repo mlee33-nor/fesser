@@ -1,0 +1,215 @@
+{
+  "illustrations": [
+    {
+      "title": "Sunglasses, a rash, and raccoons on the roof",
+      "body": "Feser starts with the small detective stories of daily life. There are unfamiliar sunglasses on the couch (a friend forgot them), a rash on your arm (poison oak on Saturday’s hike), scratching overhead (a cat or raccoons). Science extends the same habit to evolution, temperature, and planetary orbits.\n\nThe telling detail is the **unsolved murder**. We don’t conclude that the victim died for no reason. We explain even our failure to explain: the killer wore gloves, left no witnesses, and hid the body. Use this to show that *we already live by PSR*, and that ‘no explanation found’ never slides into ‘no explanation exists.’",
+      "source": "book"
+    },
+    {
+      "title": "The book on the shelf that holds itself up for no reason",
+      "body": "A book is off the floor because it rests on a shelf. Now suppose the shelf’s staying up has *no explanation at all* — no brackets, no wall, nothing. It just hangs there, brutely. Have we explained why the book stays up? No. The shelf has no real tendency to stay aloft, so it has none to lend the book. Saying the book has its own brute tendency just moves the mystery.\n\nFeser applies this to laws of nature. If law C is explained by B and B by A, but A is a brute fact, then C and B are not really explained either; the ‘explanation’ is a trompe-l’oeil. In ch7b Feser extends the image: it is like resting the shelf on brackets and then letting go of the brackets in midair.",
+      "source": "book"
+    },
+    {
+      "title": "Stones versus red Lego bricks",
+      "body": "Critics say that asking why the whole series of contingent things exists commits the fallacy of composition: pebbles each under an ounce don’t make a pile under an ounce. Feser agrees that part-to-whole reasoning *sometimes* fails — for weight, for example. But it works for color: build anything out of red Lego bricks and it will be red.\n\nContingency is like color. One stone is contingent. Three stones are no less so, and three million no less than three. In fact a collection is **doubly contingent**: it needs each stone to go on existing *and* needs the stones to be gathered together as they are. The collection of *all* contingent things doesn’t suddenly become necessary.",
+      "source": "book"
+    },
+    {
+      "title": "Leibniz’s infinite library of geometry books",
+      "body": "Imagine a geometry textbook copied from an earlier copy, that one from a still earlier one, and so on with no first copy. Each book has a perfectly good immediate cause. Yet the important questions are untouched. Why does the series contain *this* content? Why geometry, and not Shakespeare, a coloring book, or an auto-repair manual copied forever?\n\nThe universe is the same. Even an infinitely old chain of stars, dogs, and galaxies leaves open why it is made of *these* kinds of things, governed by *these* laws. This is Leibniz’s answer to Hume’s claim that explaining each member explains everything.",
+      "source": "book"
+    },
+    {
+      "title": "The instrument that is the instrument of nothing",
+      "body": "In earlier chapters, a stone is moved by a stick, which is moved by a hand. The stick has causal power only as an instrument; take away the hand and it moves nothing, no matter how long the chain of sticks. Feser says a chain of ever-deeper laws of nature is like this kind of hierarchical series. Each law ‘transmits’ explanatory power from the one above it. A chain ending in a brute fact is like a stick moving a stone with no hand anywhere — an instrument that is not the instrument of anything.",
+      "source": "book"
+    },
+    {
+      "title": "The calculator or the slot machine?",
+      "body": "Imagine a device whose screen shows ‘4’ when you type ‘2+2.’ If its circuitry really computes, the display is reliable. But suppose displays could appear *for no reason at all*, unconnected to the circuitry, and occasionally match the right answer by coincidence. You could never know whether you were holding a calculator or a slot machine that sometimes pays out.\n\nThat is your mind if PSR is false. Your beliefs might arise with no connection to your evidence, and your sense that ‘this follows logically’ might itself occur for no reason. Every argument — including arguments against PSR — would then be a slot-machine readout. Use this to make the self-undermining point concrete.",
+      "source": "course"
+    },
+    {
+      "title": "The endless chain of IOUs",
+      "body": "You ask a friend for $100. He says he’ll borrow it from his cousin, who will borrow it from her coworker, and so on forever. Does anyone ever get the money? Only if someone in the chain *has* money that isn’t borrowed. Lengthening the chain — even to infinity — just multiplies debts. Adding a second infinite chain of lenders ‘outside’ the first changes nothing.\n\nContingent things have their existence ‘on loan.’ A series of borrowers, however long, cannot explain why there is any existence to pass around. Only something that owns its existence by its very nature — a necessary being — can explain it. This makes the ‘passing the explanatory buck’ point vivid.",
+      "source": "course"
+    },
+    {
+      "title": "The lamp that is on right now",
+      "body": "Why is the lamp shining at this moment? ‘Because someone flipped the switch yesterday’ is part of its history, but it doesn’t explain the light *now*. Cut the current and the light is gone instantly, whatever happened yesterday. What explains the present light is something acting *simultaneously*: current from the wiring, from the grid, from the generator.\n\nFeser’s second route asks this question about existence itself. Whatever produced a tree long ago, nothing in the tree’s nature guarantees that it exists at this instant. So something must be sustaining it now — and a chain of contingent sustainers is another ‘current’ that must come from somewhere. (Like all physical analogies, this one is imperfect: the generator is itself contingent. That is exactly the point — the chain has to end in what is not contingent.)",
+      "source": "course"
+    },
+    {
+      "title": "The selective detective",
+      "body": "Picture a detective who insists on explaining every clue — the muddy boots, the missing key, the torn letter — until the last clue points to something inconvenient. Then he announces, ‘That one has no explanation. It just happened.’ We would call this arbitrary, not rigorous.\n\nThis is Della Rocca’s point. PSR’s critics demand explanations everywhere in science and philosophy, then declare the existence of things off-limits. Unless they can give a *non-arbitrary* reason for drawing the line there, and not one that itself relies on a brute fact or a question-begging intuition, their stance is special pleading.",
+      "source": "course"
+    }
+  ],
+  "objections": [
+    {
+      "title": "Explain each member and you’ve explained the whole",
+      "whoRaises": "David Hume (Dialogues Concerning Natural Religion); many modern skeptics",
+      "objection": "Suppose the universe has an infinite past, each state caused by the one before. Then every contingent thing has an explanation — its predecessor. PSR is fully satisfied without any necessary being. Asking for an explanation of ‘the whole series’ in addition is asking for something extra that doesn’t exist.",
+      "reply": "Feser grants the infinite series for argument’s sake and then shows that something is still unexplained.\n\n1. **The series is itself contingent.** It could have failed to exist, so why does it exist? (Leibniz, Clarke.)\n2. **Its specific character is unexplained.** In Leibniz’s infinite chain of copied geometry books, each copy has a cause, but nothing explains why the series is about geometry rather than Shakespeare. Similarly, nothing in an infinite regress explains why the world consists of *these* kinds of things under *these* laws.\n3. **The present is unexplained.** Even granting the past chain, what keeps any one thing in existence *now*? Its past producer doesn’t, since nothing in the thing’s nature guarantees its existence at this moment.\n\nSo the regress leaves the most important questions untouched.",
+      "pushback": "If the skeptic says the whole is ‘just the sum of its parts, explained when the parts are,’ ask whether the infinite geometry library really leaves nothing to explain. If the skeptic still resists, switch to the here-and-now route, which makes no claim about wholes at all: *this* stone exists now; what explains that, right now?",
+      "difficulty": 2
+    },
+    {
+      "title": "The fallacy of composition",
+      "whoRaises": "Hume tradition; Russell; Grayling (see ch7a)",
+      "objection": "Each member of the series is contingent, but it doesn’t follow that the series as a whole is contingent — just as each brick weighing a pound doesn’t make the wall weigh a pound. Asking for a cause of ‘the whole’ commits the fallacy of composition.",
+      "reply": "Part-to-whole reasoning is fallacious only for *some* properties. It fails for weight, but not for color: a wall of red Lego bricks is red. Contingency is color-like. A collection of three contingent stones is no less contingent than one stone, and a collection of millions no less than three. In fact, collections are **doubly contingent**: they depend on each member existing *and* on the members being assembled as they are. Nothing about piling up contingent things makes them necessary.\n\nIn addition, the here-and-now route does not reason from parts to whole at all. It starts from the continued existence of one particular thing.",
+      "pushback": "If the critic says, ‘But maybe the totality is different in kind,’ ask what feature of adding more contingent items would remove their dependence. Each addition adds dependence, not independence. You can also turn the charge around, as Feser does in ch7a: it is Hume who reasons fallaciously when he infers that explaining each member explains why there is anything in the series at all.",
+      "difficulty": 2
+    },
+    {
+      "title": "A contingent cause outside the series",
+      "whoRaises": "Typical skeptic seeking to avoid a necessary being",
+      "objection": "Grant that the series of contingent things needs a cause beyond itself. Why must that cause be *necessary*? Perhaps it is some further contingent thing — a meta-universe, a universe-generating mechanism, or a higher-level series.",
+      "reply": "Then that contingent cause needs a cause of its own, and so does the next. Positing a second infinite series of higher-order contingent causes merely **relocates** the problem, because every reason that forced us beyond the first series applies equally to the second. We would then need a third series, a fourth, and so on — even an infinite series of infinite series — and each move just passes the explanatory buck. Only something whose existence is explained by its own nature can end the regress, so, given PSR, the cause must be necessary.",
+      "pushback": "If the skeptic asks, ‘Why not an infinite hierarchy of generators, forever?’ point out that the whole hierarchy is contingent too and is itself one more thing needing explanation. Infinity doesn’t turn borrowed existence into owned existence; think of the endless chain of IOUs.",
+      "difficulty": 2
+    },
+    {
+      "title": "The fundamental laws are just brute facts",
+      "whoRaises": "J. L. Mackie; Bertrand Russell (in the Copleston debate); many scientific naturalists",
+      "objection": "Science explains phenomena by laws, and laws by deeper laws. At the bottom lie the most fundamental laws, which simply hold. That is a perfectly respectable place for explanation to stop. We have real explanations without PSR.",
+      "reply": "This is incoherent. If the deepest law A is a brute fact — nothing in A and nothing beyond A accounts for its operation — then A has nothing to pass on to the laws it supposedly explains. It is like saying a book stays up because of a shelf that stays up for no reason. The shelf has no real tendency to stay aloft, so it can give none to the book. A regress of laws is a **hierarchical series**, and a hierarchical series whose first member has no power of its own is like an instrument that is the instrument of nothing. So if the base is brute, *none* of the higher explanations is genuine, which undercuts the very science the objector is relying on.",
+      "pushback": "If the objector says, ‘The higher laws are still explained relative to the lower ones,’ grant that this is a *conditional* explanation, then ask whether a chain of conditionals whose first antecedent has no ground actually explains why anything happens. Also note, with ch7b, that this position is ad hoc: its only motive seems to be avoiding arguments like this one.",
+      "difficulty": 2
+    },
+    {
+      "title": "PSR is just a useful empirical generalization",
+      "whoRaises": "Empiricist skeptics; those who say PSR holds ‘within the universe’ but not for the universe",
+      "objection": "Sure, we usually find explanations. But that is an inductive generalization from local cases. It may simply break down at the level of existence itself or of the cosmos as a whole. PSR is a helpful rule of thumb, not a law of reality.",
+      "reply": "Feser grants that PSR has *at least* the inductive support any generalization can have: we find explanations when we look, and the world lacks the constant brute events we would expect if PSR were false. But he insists it is far more certain than any empirical hypothesis, because it can be defended by **reductio**. Denying it undermines trust in perception (Pruss/Koons), then reasoning itself, since beliefs could arise with no connection to reasons or truth, and it makes scientific explanation illusory. Induction itself presupposes that things have explanations (Della Rocca). So PSR is not one generalization among others; it is a precondition of forming generalizations at all. As for ‘not for the cosmos,’ that is Della Rocca’s option 1, which cannot be defended without arbitrariness.",
+      "pushback": "If the skeptic insists that a rule can hold locally and fail globally, ask what *principled* feature of existence exempts it. As chapter 1 argued against Kant, we learn a principle from experience without its scope being limited to experience — just as geometry learned from black-ink diagrams applies to figures of any color.",
+      "difficulty": 2
+    },
+    {
+      "title": "Bite the bullet: accept perceptual skepticism",
+      "whoRaises": "A determined critic of PSR",
+      "objection": "Fine — without PSR, I can’t justify trusting my senses. I’ll accept that and retreat to a priori knowledge: logic and mathematics, which don’t depend on perception. I can still reject PSR from there.",
+      "reply": "There is no refuge in the a priori. Any justified belief assumes two things: that we have a good reason for it, and that this reason is *why* we hold it. We also assume our faculties track truth and logic. Without PSR, none of this is secure. Our assent might be caused by something unrelated to our reasons, our faculties might produce outputs unrelated to truth, and it might merely seem — for no reason — that we reason well. That covers a priori reasoning too, and in particular it covers the reasoning behind rejecting PSR. So denying PSR is **self-undermining**: it removes the possibility of rational inquiry altogether.",
+      "pushback": "If the critic says, ‘I’m not claiming my beliefs *are* uncaused, only that they *could* be,’ reply that this is enough. If PSR is false, there is no principled reason to think any belief is connected to its grounds, so the critic has lost any right to confidence in his own argument.",
+      "difficulty": 3
+    },
+    {
+      "title": "Explicability arguments are fine — just not about existence",
+      "whoRaises": "Contemporary critics of PSR (Della Rocca’s option 1)",
+      "objection": "I happily argue that things must have explanations in science and philosophy. But the sheer existence of things is a special case where demanding an explanation is inappropriate. That’s just where explanation stops.",
+      "reply": "Following Della Rocca: why draw the line exactly there? The critic cannot say it is a brute fact that some explicability arguments work and others don’t, since that begs the question against PSR, which denies brute facts. Nor can he appeal to intuition, because his own reliance on explicability arguments everywhere else undermines trust in this one exempting intuition. Without a non-question-begging rationale, the exemption is special pleading. The upshot: we have no good reason to think *anything* is explicable unless *everything* is.",
+      "pushback": "If the critic says, ‘Existence isn’t a property, so there’s nothing to explain,’ note that the question is not about an abstract property but about why these concrete, dependent things exist and continue to exist. That is exactly what the here-and-now route asks of each individual thing.",
+      "difficulty": 3
+    },
+    {
+      "title": "Then I reject all explicability arguments",
+      "whoRaises": "Hard-nosed skeptic (Della Rocca’s option 2)",
+      "objection": "To avoid inconsistency, I’ll give up explicability arguments entirely. I won’t argue that anything must have an explanation. Della Rocca himself concedes this may not be strictly incoherent.",
+      "reply": "Feser thinks Della Rocca is too generous. Even someone who gives up the specific examples still accepts valid and inductively strong patterns of reasoning and rejects fallacies, *because* logic embodies standards of intelligibility and explanatory adequacy. Many arguments are themselves explanations: explanatory demonstrations (all rational animals can use language; humans are rational animals; so humans can use language), inference to the best explanation, and induction. Abandoning all of these means abandoning argument itself, which is incoherent for anyone who argues against PSR. And if the critic keeps argument in general while rejecting particular explicability arguments, he is really back at option 1, which is arbitrary.",
+      "pushback": "If the critic says he can use deduction without explanation, ask why he trusts modus ponens: because the premises make the conclusion’s truth *intelligible*. And ask whether he ever uses induction or inference to the best explanation. Almost everyone does, many times a day.",
+      "difficulty": 3
+    },
+    {
+      "title": "It’s ‘rationalism’ — innate ideas and armchair a priori knowledge",
+      "whoRaises": "Empiricists; readers wary of Descartes, Spinoza, and Leibniz",
+      "objection": "Rationalism is a discredited school that believed in innate ideas and thought all knowledge rests on truths known independently of experience. An argument built on it inherits its flaws.",
+      "reply": "The argument assumes none of those doctrines. It is ‘rationalist’ only in one respect: it denies that there are, or could be, inexplicable brute facts, and holds that reality is intelligible through and through. Its rationalism is simply PSR. Feser, a Thomist, takes knowledge to begin with experience. Moreover, the argument does not accept everything defended in PSR’s name: it does not require explaining propositions, and it does not demand that explanations entail what they explain.",
+      "pushback": "If the objector says PSR itself is an ‘a priori prejudice,’ point out that it has inductive support *and* a reductio defense, and that the objector presupposes it whenever he reasons from evidence.",
+      "difficulty": 1
+    },
+    {
+      "title": "The big conjunction of contingent truths (the ‘modal collapse’ argument)",
+      "whoRaises": "James Ross, Peter van Inwagen, William Rowe",
+      "objection": "Conjoin every true contingent proposition into one Big Conjunction. It is contingent. It can’t be explained by a necessary proposition, because whatever a necessary truth entails is necessary — which would make everything necessary (modal collapse). It can’t be explained by a contingent proposition, because any such proposition is already a conjunct, so the Big Conjunction would explain itself, and nothing contingent explains itself. So something has no explanation, and PSR is false.",
+      "reply": "Feser’s Thomist version of PSR escapes both horns.\n\n1. **Propositions aren’t Platonic objects that need explaining.** The objection has force only if propositions exist ‘out there’ like stones and dogs. For the Scholastic realist (ch3), abstract objects exist only in the minds that think them. What needs explaining are concrete things and their attributes. Once concrete triangles and the minds (including God’s) that grasp triangularity are explained, there is nothing left over. The same goes for propositions: explain the concrete states of affairs and the minds that entertain them, and everything is explained.\n2. **Explanation isn’t entailment.** The argument needs the premise that an explanans must *logically entail* the explanandum. Few real explanations work that way. As Pruss notes, scientific causal explanations generally don’t. The sun’s gravity explains elliptical orbits, yet other gravitational influences could have interfered. PSR requires only that the explanans make the explanandum **intelligible**. So a necessary being can explain contingent reality without making it necessary.",
+      "pushback": "If the critic reformulates in terms of concrete things (‘the aggregate of all contingent beings’), you are back to the series argument, which Feser answers directly. If the critic insists that a ‘full’ explanation must rule out every alternative, ask whether he thinks science has *never* explained anything. If entailment were required, almost no scientific explanation would count.",
+      "difficulty": 3
+    },
+    {
+      "title": "We can conceive of something happening for no reason",
+      "whoRaises": "Hume; Grayling and other Humeans",
+      "objection": "I can imagine a coffee cup popping into existence with no explanation. Whatever is conceivable is possible, so PSR is not necessarily true.",
+      "reply": "This recycles the Humean objection to the principle of causality answered in chapter 1. Imagining a cup appearing *without also imagining its explanation* is not imagining it *as having no explanation*. We can think of a trilateral without thinking of it as a triangle, but no trilateral could fail to be a triangle. Also (Anscombe), to tell a cup’s coming into existence apart from its merely being moved from elsewhere, Hume must bring causes back into the story. And PSR is additionally backed by the reductio: a world where things can happen for no reason is one where we couldn’t trust our minds.",
+      "pushback": "If the objector presses ‘conceivability implies possibility,’ point out that what we can picture (mental images) is a poor guide to what is metaphysically possible, as ch6a argues. Picturing an empty scene tells us nothing about whether anything could exist unexplained.",
+      "difficulty": 2
+    },
+    {
+      "title": "Quantum mechanics shows events happen for no reason",
+      "whoRaises": "Popular science writers (e.g., Stenger, Krauss, Rosenberg); typical skeptic",
+      "objection": "Radioactive decay and other quantum events are indeterministic. Nothing determines when a particular atom decays, so some events have no explanation. PSR is empirically refuted.",
+      "reply": "This objection is even weaker against PSR than against the principle of causality. Whether or not odd quantum phenomena have a *cause*, they plainly have an *explanation*: they presuppose, and are made intelligible by, the laws of quantum mechanics. Indeterminism is not unintelligibility, and PSR does not require deterministic entailment (recall the sun and the orbits). And, as Della Rocca notes, the critic who appeals to quantum mechanics still owes an answer: where exactly is the line between legitimate and illegitimate explicability arguments, and why there?",
+      "pushback": "If the critic says, ‘The specific timing of this decay is unexplained,’ answer that the statistical laws and the nature of the system make it intelligible that such an event happens with such a probability. PSR asks for intelligibility, not entailment. The interpretation of quantum mechanics is also disputed; some interpretations are deterministic (ch1). It can’t bear the weight of refuting a principle presupposed by all inquiry.",
+      "difficulty": 2
+    },
+    {
+      "title": "Puzzles about PSR show it’s false, so the burden is on its defenders",
+      "whoRaises": "Analytic critics of PSR",
+      "objection": "PSR generates paradoxes — the Big Conjunction, quantum cases, and so on. Until its defenders resolve every puzzle, we should reject it.",
+      "reply": "Raising puzzles for *some* formulation of PSR doesn’t refute PSR as such. Some formulations, like the Thomist one, lack the assumptions that generate the puzzles. More importantly, there are *positive arguments* that PSR is true and that even its critics presuppose it, and puzzles don’t answer those arguments. So the burden of proof lies on the critic, who must show how PSR can be **coherently rejected**. (The defender can meet a burden too, and Feser thinks he has.)",
+      "pushback": "If the critic says the burden always lies on the one making a universal claim, ask whether he places the same burden on the laws of logic. Principles presupposed by all inquiry are not treated like ordinary hypotheses.",
+      "difficulty": 2
+    },
+    {
+      "title": "Why not say the universe itself is the necessary being?",
+      "whoRaises": "Hume (Cleanthes in the Dialogues, Part IX); New Atheists such as Dawkins and Krauss (see ch7a)",
+      "objection": "Grant PSR and grant that something exists necessarily. Why think it’s God? Maybe the universe itself — or matter-energy, or the multiverse — is the necessary being.",
+      "reply": "Whatever exists necessarily must be purely actual and simple (Stage 2). The universe changes, so it has potentials being actualized and is not purely actual. It has many diverse parts, so it isn’t simple. It is as contingent as its parts. Therefore it cannot be a necessary being. The same holds for the multiverse, the Big Bang, or the laws of physics, each of which involves potency, composition, or an essence distinct from existence. Stage 2 has also shown why the necessary being must have the other divine attributes.",
+      "pushback": "If the critic suggests ‘the fundamental stuff’ (energy, the quantum field) is necessary, ask whether it has potentials (it changes state) and structure (it has parts or components). If it does, it isn’t necessary in the strict sense. As ch7a notes, if something really were purely actual, simple, and self-existent, it would have divine attributes, and the view would be pantheism, not atheism.",
+      "difficulty": 2
+    },
+    {
+      "title": "Numbers and propositions are necessary beings that aren’t God",
+      "whoRaises": "Platonists about abstract objects",
+      "objection": "Mathematical objects and propositions exist necessarily, yet no one calls them God. So ‘necessary being’ doesn’t get you to God.",
+      "reply": "As chapter 3 argued, on independent grounds, abstract objects cannot exist apart from minds that entertain them. So if they are necessary — and there is reason to think they are — their necessity is **derivative**, depending on an infinite mind that thinks them. They are not absolutely necessary in the strict sense Stage 2 uses, which is necessity that depends on nothing.",
+      "pushback": "If the Platonist insists abstracta exist mind-independently, you are in chapter 3 territory: press the Augustinian argument that universals, propositions, and possibilities must exist in an intellect, and ultimately in a divine one.",
+      "difficulty": 2
+    },
+    {
+      "title": "‘What caused God?’ / ‘If God can be unexplained, so can the universe’",
+      "whoRaises": "Russell, Dawkins, and popular atheism",
+      "objection": "If everything needs an explanation, what explains God? And if you say God needs no explanation, why can’t I say the universe needs none?",
+      "reply": "This fails twice over. First, the proof never says everything has a *cause*; it says everything has an *explanation*. Second, it makes **no exception for God**. God’s existence is explained by his own nature as purely actual, simple, and subsistent existence itself. The universe cannot be explained by its own nature, since it has potentials and parts and is as contingent as its components. So the contrast is not ‘explained vs. unexplained’ but **self-explanatory vs. not self-explanatory**. The line is drawn by independently motivated distinctions (act/potency, simple/composite, essence/existence), not by special pleading. And self-explanatory is not self-caused: having a cause means having a potential actualized, and having an explanation does not.",
+      "pushback": "If the critic says ‘self-explanatory’ is just a label, ask him to state what feature of the universe could make its existence follow from its nature. If none can be named, the asymmetry is real, not stipulated.",
+      "difficulty": 1
+    },
+    {
+      "title": "‘Why is there something rather than nothing?’ — couldn’t there just have been nothing?",
+      "whoRaises": "Popular framing of cosmological arguments; physicists writing on ‘universes from nothing’",
+      "objection": "The rationalist argument answers the question ‘why is there something rather than nothing?’ But that question assumes there *could* have been nothing at all. If total nothingness was possible, perhaps our universe is just the lucky alternative.",
+      "reply": "Feser warns against this framing. It suggests that absolute nothingness was a genuine possibility, and the proofs imply otherwise: what is purely actual, simple, the ground of all possibility, subsistent existence, and absolutely necessary could not have failed to exist. So the correct question is: **why are there any contingent things at all?** Framed this way, the proof asks nothing about ‘nothing’; it asks what explains dependent things.",
+      "pushback": "If the critic asks how we know there couldn’t have been nothing, reply that this is a *conclusion* of the argument, not a premise. And if someone offers a physical ‘nothing’ (a quantum vacuum governed by laws), note that such a ‘nothing’ is a contingent something that needs explaining (ch7a on Krauss).",
+      "difficulty": 2
+    },
+    {
+      "title": "PSR collapses modality even for God: creation would be necessary and God unfree",
+      "whoRaises": "Contemporary analytic critics of PSR and of classical theism (a modern variant; not discussed in ch5)",
+      "objection": "If God’s necessary nature fully explains why this world exists, then this world follows necessarily from God, and nothing could have been otherwise. That is modal collapse and it removes divine freedom. If instead God’s choice is not fully explained, PSR fails.",
+      "reply": "Use the chapter’s own resources. PSR, as Feser construes it, requires that the explanans make the explanandum **intelligible**, not that it **entail** it. The sun explains the orbits without necessitating them, and a free agent’s reasons explain a choice without forcing it. The world is intelligible in light of God’s nature, knowledge, goodness, and will, without being logically deducible from God’s nature alone. As ch6b argues, nothing internal or external compels God to create lions rather than unicorns, so his will is free. His free choice is the explanation, and it makes creation intelligible without making it necessary.",
+      "pushback": "If the critic insists that an explanation leaving alternatives open is ‘not sufficient,’ ask whether he accepts any explanation of human free action or any scientific explanation. By his standard almost nothing is ever explained. Grant that divine freedom is mysterious; ch6b notes our own freedom is too. Mystery is not contradiction.",
+      "difficulty": 3
+    },
+    {
+      "title": "A ‘necessary being’ is incoherent",
+      "whoRaises": "Hume, Kant, J. N. Findlay; also Russell in the Copleston debate (a modern variant answered in ch6a and ch7a)",
+      "objection": "Necessity belongs to propositions (such as ‘bachelors are unmarried’), not to things. Whatever we can conceive as existing we can conceive as not existing, so no being exists necessarily. And appealing to a necessary being secretly relies on the ontological argument.",
+      "reply": "The necessity at issue is not logical or definitional necessity — God does not exist ‘by definition’ the way bachelors are unmarried. It is **metaphysical** necessity grounded in what the being is: something with no potentials that could fail to be actualized, no parts that could come apart, and no essence that must receive existence from outside. That is neither logical necessity nor mere conditional necessity (ch7a). Nor is imagining an empty scene a real test of possibility, since God is not an object we could picture present or absent (ch6a). And Aquinas rejected the ontological argument while endorsing arguments like this one, which shows there is no hidden dependence.",
+      "pushback": "If the critic insists that all necessity is conventional, note that the truths of logic and mathematics are necessary without being mere conventions (ch3, ch6a). Also note that the argument *derives* the existence of a necessary being from contingent things plus PSR, so rejecting its possibility at the outset begs the question.",
+      "difficulty": 2
+    }
+  ],
+  "misconceptions": [
+    { "myth": "PSR is just another way of saying ‘everything has a cause.’", "correction": "PSR says everything has a *sufficient reason*, which may be an outside cause or the thing’s own nature. The principle of causality, by contrast, applies only to potentials being actualized and never says that everything has a cause. Every cause is a reason, but not every reason is a cause." },
+    { "myth": "The argument needs the universe to have had a beginning.", "correction": "Feser explicitly grants an infinite past — a beginningless universe, endless Big Bang/Big Crunch cycles, or a beginningless multiverse — and argues that a necessary being is still required." },
+    { "myth": "The argument stands or falls with claims about ‘the universe as a whole,’ so the fallacy of composition sinks it.", "correction": "The composition charge fails anyway, since contingency is color-like, not weight-like. And Feser’s here-and-now route starts from one contingent thing’s present existence, with no premise about the whole." },
+    { "myth": "Feser’s PSR requires every explanation to logically entail what it explains, which makes everything necessary.", "correction": "The Thomist PSR requires only that explanations make things *intelligible*. Most scientific explanations, like gravity explaining orbits, do not entail their explananda. This is why the big-conjunction (modal-collapse) objection misses." },
+    { "myth": "The argument says God is self-caused (causa sui).", "correction": "God is *self-explanatory*, not self-caused. To be caused is to have a potential actualized, which is impossible for pure act. Explanation by one’s own nature involves no such actualization." },
+    { "myth": "Calling it ‘rationalist’ means it relies on innate ideas and armchair knowledge of the world.", "correction": "Its only ‘rationalism’ is PSR — the denial of brute facts. It assumes no doctrine of innate ideas or a priori foundationalism." },
+    { "myth": "PSR is merely an inductive rule of thumb that might fail at the cosmic scale.", "correction": "PSR has inductive support, but Feser’s main defense is a reductio: denying it undermines perception, reasoning, and scientific explanation, including the reasoning used to deny it." },
+    { "myth": "A ‘necessary being’ means a being that exists by definition, so the argument presupposes the ontological argument.", "correction": "The necessity is metaphysical, grounded in pure actuality, simplicity, and identity of essence and existence, not in the definition of a word. Aquinas rejected the ontological argument while accepting arguments like this one." },
+    { "myth": "Once you have ‘a necessary being,’ it could be the universe, the laws of physics, or numbers.", "correction": "Stage 2 shows that a strictly necessary being must be purely actual and simple, which rules out anything that changes or has parts. Abstract objects have only derivative necessity, dependent on an infinite mind." },
+    { "myth": "The proof is basically Leibniz’s argument restated.", "correction": "Feser adds a Thomist PSR (intelligibility, not entailment; no Platonic propositions), a stronger reductio defense of PSR, the here-and-now route alongside the whole-series route, and a Stage 2 that grounds necessity in act/potency, simplicity, and essence/existence." }
+  ]
+}

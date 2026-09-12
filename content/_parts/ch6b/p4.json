@@ -1,0 +1,252 @@
+{
+  "objections": [
+    {
+      "title": "The paradox of the stone",
+      "whoRaises": "Classic puzzle; popular skeptics and introductory philosophy classes",
+      "objection": "Can God make a stone so heavy he cannot lift it? If he can, there is something he cannot do: lift it. If he cannot, there is something he cannot do: make it. Either way there is something God cannot do, so he is not omnipotent — and the very idea of omnipotence is incoherent.",
+      "reply": "1. Omnipotence is the power to actualize any potential that can be actualized, to cause anything that could in principle exist or occur.\n2. It is not a limitation to be unable to do what is self-contradictory, since there is no *capacity* to make a round square for anyone to lack; the phrase describes nothing.\n3. A stone's rising is something that can occur, so God can always cause any stone to rise.\n4. So ‘a stone too heavy for God to lift’ is self-contradictory — as empty as ‘round square.’ Failing to make it is not failing to do anything.",
+      "pushback": "If they say ‘an omnipotent being should be able to do even the contradictory,’ note Frankfurt's point (cited by Feser): then God could make the unliftable stone and also lift it, so the paradox still refutes nothing. But the better answer is that ‘doing the contradictory’ isn't a doing at all; asking for it is asking for a word-salad, not a feat.",
+      "difficulty": 1
+    },
+    {
+      "title": "A God who cannot sin is not all-powerful",
+      "whoRaises": "Typical skeptic; some philosophers of religion",
+      "objection": "Humans can sin and God, being perfectly good, cannot. So there is at least one thing we can do that God cannot, and he is not omnipotent.",
+      "reply": "1. Being perfectly good is shown later in the chapter to follow from pure actuality.\n2. ‘Perfectly good yet sinning’ is self-contradictory, just like ‘round square.’\n3. So God's not sinning is no more a limit on his power than his not making round squares.\n4. Moreover sin, on the privation account, is a *defect* — a failure to realize what one should. The ability to sin is a liability of finite, fallible wills, not an additional power.",
+      "pushback": "If they say ‘but *I* can do something he can't,’ point out that the ‘something’ is a way of falling short. Being able to trip is not an athletic skill; being able to forget is not an extra kind of knowledge.",
+      "difficulty": 2
+    },
+    {
+      "title": "Timeless knowledge implies a ‘block universe’",
+      "whoRaises": "Philosophers of time (discussed by Katherin Rogers and others)",
+      "objection": "If God knows past, present, and future all in a single timeless act, then past, present, and future must all somehow exist together for him to know them together. So classical theism commits us to four-dimensionalism: time is a spacelike dimension and nothing really comes into or passes out of being.",
+      "reply": "1. That inference would follow if God's knowledge were observational: to observe everything at once, everything would have to be there at once.\n2. But God does not know the world by observing it; he knows it by knowing himself as its cause.\n3. What he knows timelessly is that he causes, timelessly, a world with a temporal history. It does not follow that the world he causes is itself timeless.\n4. Compare a motionless hunter who knows in an instant that he fired a bullet: it doesn't follow that the bullet is motionless or present all along its path at once.",
+      "pushback": "If pressed on how a timeless act can have a temporal effect, point back to Part A: the change is in the effect, not the cause (a ‘Cambridge’ change in God). And stress that the time of the effect and the ‘time’ of the cause needn't match any more than the hunter's stillness must match the bullet's motion.",
+      "difficulty": 3
+    },
+    {
+      "title": "Infallible foreknowledge rules out free will",
+      "whoRaises": "Nelson Pike and many popular skeptics",
+      "objection": "If God infallibly knows I will go to work tomorrow, then if I didn't go, God would have been wrong, which is impossible. So it is impossible that I not go, and I don't freely choose to go.",
+      "reply": "1. Knowing that someone does something does not make them do it.\n2. If I know, however certainly, that you are sitting in the next room, that is compatible with your freely deciding to sit there.\n3. If I somehow knew with certainty (a promise, a crystal ball) that you would sit there tomorrow, why would that be any different? Knowledge of a free act in the future no more compels it than knowledge of a free act in the present.\n4. And if it isn't incompatible when I am the knower, why would it be when God is?",
+      "pushback": "The skeptic may say the problem is infallibility: God *can't* be wrong. Reply that ‘if God knows I will do X, I will do X’ is necessarily true, but that is only because knowledge implies truth; it doesn't make ‘I will do X’ itself necessary. The necessity attaches to the conditional, not to my act. Then note Feser's deeper point: God's knowledge isn't foreknowledge at all, since he is not in time looking ahead.",
+      "difficulty": 2
+    },
+    {
+      "title": "But God causes everything — so we aren't free",
+      "whoRaises": "Critics of classical theism; the follow-up to the foreknowledge objection",
+      "objection": "Unlike a human knower, God doesn't merely know the future; he causes it, and he knows it precisely by causing it. The same goes for the present. So all our actions, present and future, are caused by God, and none is freely chosen.",
+      "reply": "1. Consider a crime novel in which a character plots and commits a murder for money. He acts freely and is justly punished, and it would be silly to deny this because the author wrote the story.\n2. Contrast a plot twist in which another character hypnotized him: then we'd say the act wasn't free.\n3. The difference: the hypnotist is a character alongside the others who interferes with them; the author is not in the story and interferes with no one.\n4. God relates to us as the author, not as a hypnotist. His causal relation to the world is radically unlike the relations creatures have to each other.\n5. The objection only seems strong when we speak of God's knowledge and causation univocally, as if he were one more agent in the world.",
+      "pushback": "If they say ‘the characters aren't really free — they're fictional,’ concede the analogy is imperfect: the point is logical. ‘X was caused by the author of the whole’ doesn't compete with ‘X was the character's free choice,’ whereas ‘X was caused by another character’ does. Then add concurrence (the father guiding the hand): God gives our choices their being and power; he doesn't substitute for them.",
+      "difficulty": 3
+    },
+    {
+      "title": "Ideas in God contradict divine simplicity",
+      "whoRaises": "Critics of simplicity; careful students",
+      "objection": "Feser says concepts and propositions exist in God's intellect. But concepts and propositions are many and distinct, and a simple God can contain no multiplicity. So either God is not simple or he doesn't have ideas.",
+      "reply": "1. Feser grants that concepts and propositions cannot exist in God as they do in us, as distinct thoughts; that is why language about them is analogical.\n2. Even the idea of one vast conjunctive proposition fails, since it too would have parts.\n3. Better: think of white light that contains all colors in a unified way before a prism separates them, or dough that virtually contains all cookie shapes.\n4. God is unlimited actuality; each creature is a limited way of being actual. By knowing himself perfectly in one act, God knows all the limited ways of being that could be drawn from him. The multiplicity is on the side of creatures, not in God.",
+      "pushback": "If they say ‘that's just a metaphor,’ answer that the analogy is offered as suggestive, and that its imperfection is expected: we are describing the deepest level of reality with concepts formed from composite things. The argument for intellect in God doesn't depend on picturing it, only on the elimination argument from proportionate causality and the reality of universals.",
+      "difficulty": 3
+    },
+    {
+      "title": "Good and bad are just subjective preferences",
+      "whoRaises": "Popular relativists; emotivists and expressivists",
+      "objection": "Calling something good or bad just expresses our likes and dislikes. So talk of God's ‘goodness’ is either projection or empty.",
+      "reply": "1. Take a triangle: its essence (closed, three straight sides) has objective consequences, like angles summing to 180 degrees.\n2. A triangle scrawled on a moving bus seat falls short of that essence; one drawn with a ruler comes closer. Calling the first bad and the second good simply reports how well each realizes the nature of a triangle.\n3. Likewise a tree that sinks deep roots and photosynthesizes is a good tree; one damaged by disease is to that extent bad. This is grounded in what a tree is, not in anyone's preference.\n4. So ‘good’ in the sense of ‘good specimen’ is objective, and moral goodness is the special case of creatures who freely promote or frustrate their own flourishing.",
+      "pushback": "If they say ‘that's not *moral* goodness,’ agree and explain that moral goodness is the same notion applied to rational creatures who can choose to act for or against their natural ends. Feser notes a full ethics is beyond this book; the point needed here is only that goodness tracks actuality in line with nature.",
+      "difficulty": 2
+    },
+    {
+      "title": "The privation theory denies that evil is real",
+      "whoRaises": "Many contemporary philosophers; people moved by the horror of evil",
+      "objection": "If evil is ‘just the absence of good,’ then evil isn't real — which is an insult to victims of real horrors.",
+      "reply": "1. Blindness is the absence of sight, yet nobody thinks saying so denies that blindness is real.\n2. Explaining what blindness consists in (the failure of eyes or optic nerves to function) gives an account of its reality.\n3. Likewise, saying evil is a privation of due good explains what evil's reality consists in; it does not explain it away.",
+      "pushback": "If they insist that absences can't hurt, point out that absences hurt all the time: the absence of oxygen suffocates, the absence of food starves, the absence of a railing on a cliff kills. A privation is a real lack of what should be there, and that can be devastating.",
+      "difficulty": 1
+    },
+    {
+      "title": "Pain is a positive evil, not an absence",
+      "whoRaises": "Contemporary critics of the privation account (discussed by David Alexander)",
+      "objection": "Pain is bad, but it's not the absence of anything; it's the presence of something — a vivid sensation. So not all badness is privation.",
+      "reply": "1. Pain is not bad without qualification: it signals damage and danger. An organism that felt no pain when touching something that would burn it would be worse off. Sometimes its *absence* is the bad thing.\n2. Pain isn't always even experienced as bad: the ache after a hard workout can feel satisfying.\n3. What is bad is what pain is associated with: the bodily damage it signals, or the loss of peace of mind it causes.\n4. Pain asymbolia, in which brain damage leaves people feeling pain without its unpleasantness, supports separating the sensation from its badness.",
+      "pushback": "If they point to pointless agony, reply that its badness still lies in privations: the damaged tissue, the disrupted functioning, the lost tranquility. The sensation is a positive reality, but its *badness* is the harm and disorder it involves or signals.",
+      "difficulty": 2
+    },
+    {
+      "title": "Murder involves a positive intention",
+      "whoRaises": "Todd Calder, ‘Is the Privation Theory of Evil Dead?’",
+      "objection": "The murderer doesn't just fail to respect a duty; he positively intends to kill an innocent person unjustly, and he has positive beliefs and desires. Those are presences, not absences, so moral evil can't be analyzed as privation.",
+      "reply": "1. Following David Alexander: the privation theory never said that a bad act has no positive features, only that its *badness* consists in a privation.\n2. The murderer does have beliefs and desires, and having a desire is really having something.\n3. The desire may even be good in itself — for example, a desire for money.\n4. What is bad is what is missing: an intention to pursue money only in ways that respect the rights of the innocent.",
+      "pushback": "If they say ‘but the *intention to kill* is itself positive,’ answer that an intention is a real act of will, and what makes it evil is its disorder: it lacks the conformity to right reason and justice that a good will has. The positive ‘stuff’ of the act is good qua being; the evil is the missing order.",
+      "difficulty": 2
+    },
+    {
+      "title": "Sadism is a positive delight in harm",
+      "whoRaises": "Critics of the privation account",
+      "objection": "The sadist doesn't merely fail to respect others; he positively enjoys harming them. Sadistic desire is a presence, not an absence.",
+      "reply": "1. Sadistic desire is desire that is misdirected: aimed at an end contrary to the concern for others that we, as social animals, need in order to flourish.\n2. It is a psychological deformity or defect, just as blindness is a physiological one.\n3. Fully defending this needs ethics, but it suffices to show that sadism is no more resistant to a privation analysis than any other badness.",
+      "pushback": "If they say the sadist's pleasure is intense and real, agree: pleasure is real, and the capacity to take pleasure is good. What is evil is that it attaches to the wrong object, the harm of another, reflecting a missing rightly ordered concern. A deformed limb is real tissue; its deformity is the lack of proper form.",
+      "difficulty": 2
+    },
+    {
+      "title": "By proportionate causality, evil must be in God",
+      "whoRaises": "Natural objection to Feser's own principle",
+      "objection": "If whatever is in an effect must be in its cause, and there is evil in the world, then evil must be in God.",
+      "reply": "1. Evil is not a positive reality but an absence of due good.\n2. So making a world with evil in it is not making two kinds of thing, good ones and bad ones; it is making good things while refraining from making certain other goods.\n3. If I draw two sides of a triangle and stop partway through the third, the badness isn't an extra thing I added but what I left out.\n4. The principle says that positive features of an effect must be in its total cause. Evil isn't that sort of thing, so the principle doesn't put it in God.",
+      "pushback": "If they say ‘fine, but then God is responsible for what he left out,’ that is really the next objection — and ultimately the problem of evil (chapter 7). Here the claim is only metaphysical: God is not evil and evil is not in him.",
+      "difficulty": 2
+    },
+    {
+      "title": "Not creating all possible good is a defect in God",
+      "whoRaises": "Typical skeptic; a preview of the problem of evil",
+      "objection": "Even if evil is a mere absence, God could have filled that absence. His failing to create all the good he could have created is a defect in him, so he isn't perfectly good.",
+      "reply": "1. My leaving a triangle unfinished indicates no defect in me if I had a good reason — say, to make a philosophical point in a lecture.\n2. The incomplete triangle is bad taken alone, but the whole situation (lecture, audience, understanding) is good, and good in a way impossible without that element of badness.\n3. Similarly, some goods of creation are impossible without the permission of local badness. Courage requires facing real danger of harm and doing right anyway.\n4. God can no more make a world with courage but no real danger than he can make a round square. So permitting some badness is consistent with perfect goodness.",
+      "pushback": "If they ask about courage in heaven, where there is no danger, Feser's footnote answers: the blessed keep the courage they acquired on earth, as an old veteran keeps the courage he won in battle. For the general problem of evil, note that chapter 7 treats it at length.",
+      "difficulty": 2
+    },
+    {
+      "title": "A simple, purely actual God cannot be free",
+      "whoRaises": "Norman Kretzmann; Jay Wesley Richards",
+      "objection": "To act freely is to have the potential to do this or that and to actualize one. A purely actual, simple God has no potentials. So either he isn't free (Kretzmann weakens freedom) or he isn't strictly simple (Richards weakens simplicity).",
+      "reply": "1. When *we* choose, we do actualize potentials, such as moving a limb one way rather than another.\n2. But inferring that free choice as such requires actualizing potentials is a fallacy of accident, like inferring that all acting requires change because our acting does.\n3. What freedom essentially requires is that the agent not be compelled by anything outside or inside it, and that holds of God (nothing external exists independently; no possible creature's concept necessitates its existence).\n4. Granted, it is hard to picture a will that is free yet has no potentialities. Brian Davies suggests treating divine freedom mainly as a negative claim: God is not compelled. But difficulty is expected when reasoning reaches this far beyond everyday experience, and our own freedom is famously mysterious too.",
+      "pushback": "If they say ‘then God could have done otherwise, so there's an unrealized alternative in him,’ answer that the alternatives are alternative effects, not alternative states of God. Different creations would mean different Cambridge relations to God, not a different God; the variation is on the side of the world.",
+      "difficulty": 3
+    },
+    {
+      "title": "God must create the best possible world (so he isn't free)",
+      "whoRaises": "Leibniz; revived by William Rowe, Can God Be Free?",
+      "objection": "An omnipotent, omniscient, perfectly good God must create the best possible world; otherwise he couldn't, didn't know how, or didn't want to. But then he could not have done otherwise, so he is not free.",
+      "reply": "The argument assumes (a) that one is always obliged to bring about the best one can, and (b) that there is a best possible world. Both are false.\n\n1. Against (a): suppose a world with trees is better than one with only stones and water. Who is wronged if God doesn't make it? Not God, who is already perfectly good and needs nothing — so he need not create at all. Not the trees, since what does not exist cannot be harmed or wronged. (Creating trees without water would harm them, but only because they'd then exist.)\n2. Against (b): if trees make a world better, a forest is better than a tree and two forests better than one — and for any world with x forests, there is a possible world with x + 1. So there is no best possible world (Aquinas makes the point).\n3. God can no more be obliged to create a best world than to create a round square.",
+      "pushback": "If they propose that goodness comes in some other dimension that does have a maximum, ask what it would be — and note that the first reply (no one is wronged by not being created) still stands on its own.",
+      "difficulty": 2
+    },
+    {
+      "title": "No best world means no most perfect being",
+      "whoRaises": "William Rowe",
+      "objection": "If there is no best world, then whatever world God makes, a being who made a better one would be more perfect than God — and so on forever. So there can be no most perfect being, and if God must be perfect, there is no God.",
+      "reply": "1. The objection assumes God's perfection depends on what he does or makes.\n2. It doesn't: it follows from what he is — pure actuality and all that entails. He has it whatever he creates, or if he creates nothing.\n3. A perfect diamond is perfect whether it cuts thin glass, thick glass, or none; because action follows being, it has the capacity to cut many kinds, but need not exercise it in any particular way.\n4. Likewise a perfect being has the power to create any possible world without having to create any given one. Which world God makes is irrelevant to whether he is the most perfect possible being.",
+      "pushback": "If they say ‘but surely making a better world shows more goodness,’ reply that it would show more goodness *in the product*, not more perfection in the maker. A maker who is already infinite act has nothing to gain; the ‘more’ is all on the side of creatures.",
+      "difficulty": 3
+    },
+    {
+      "title": "An immutable God cannot love",
+      "whoRaises": "Open theists, process theologians, many ordinary believers",
+      "objection": "Love means being affected by the beloved: the parent's worry for a distressed child, the lover who can't stop thinking of the beloved. Being affected is being changed. So if God is immutable, he doesn't love us.",
+      "reply": "1. This is a fallacy of accident: our love usually comes with such emotional changes, but that doesn't make them essential to love.\n2. What is essential is that the lover wills the good of the beloved.\n3. That's why love made only of feelings that wax and wane counts as shallow, while love that keeps willing the other's good when feelings flag counts as serious — and why ‘tough love’ and love of enemies are genuine love despite conflicting feelings.\n4. Love is chiefly an act of will (active), not an emotion (passive).\n5. God has will, and in creating he wills that things exist together with all the goods that flow from their natures (the tree's roots and photosynthesis). So he loves what he creates.",
+      "pushback": "If they say ‘a love that isn't moved by my suffering is cold,’ reply that the love that moves us to feeling is a finite love that needs to be stirred. God's love is not less than ours but more: it doesn't wait to be stirred because it is the very source of our existence and every good we have. Nothing is added to it by our pain because nothing is lacking in it.",
+      "difficulty": 2
+    },
+    {
+      "title": "Analogy and mystery are obscurantism",
+      "whoRaises": "Skeptics; some analytic philosophers",
+      "objection": "When pressed, the classical theist retreats to ‘analogy’ and ‘mystery.’ That's an evasion: either your words mean what they normally mean or they are empty.",
+      "reply": "1. We do comprehend God in a loose sense: we understand the arguments, we have real negative knowledge, and analogical predication is literal, not metaphorical, and is used outside theology too.\n2. Analogy of attribution: God is the primary analogate of power; the sun's power to melt ice is derived. Proper proportionality: a tree, a human, an angel, and God are each to their own goodness in proportionally similar ways.\n3. What we cannot do is comprehend God strictly, since strict comprehension analyzes things into parts or genus and difference, and God is simple. He is hard to understand precisely because he is simple (partless, not easy).\n4. This isn't obscurantism but what we should expect. Physics, far from everyday experience, must speak of wave-particles and curved space, and no one calls that evasion. Natural theology reaches a deeper level still, and the arguments themselves predict our grasp will be feeble.",
+      "pushback": "If they say ‘physics has equations; you have nothing,’ answer that natural theology has deductive arguments whose conclusions include precisely the claim that God lacks composition. The limits of our concepts are a *result* of the reasoning, not a patch added when the reasoning fails.",
+      "difficulty": 2
+    },
+    {
+      "title": "Existential inertia: things might just keep existing",
+      "whoRaises": "John Beaudoin, Mortimer Adler, Bede Rundle",
+      "objection": "Maybe things, once they exist, just tend to keep existing until something destroys them, the way a moving body keeps moving. Then they need no divine conserver, and the proofs fail.",
+      "reply": "1. Defenders of existential inertia never explain what feature of a material or contingent thing could give it this remarkable power; they merely suggest it as if it were as plausible as conservation.\n2. No contingent thing could have it. Every such thing is composite — a mixture of act and potency and of essence and existence — and anything composite in these ways needs a cause of its being here and now.\n3. So proposing existential inertia doesn't answer the arguments of chapters 1, 2, 4, and 5; it ignores them.",
+      "pushback": "If they appeal to physical inertia, point out that Newtonian inertia concerns a thing's *state of motion*, given that it exists; it says nothing about what keeps the thing itself in being. The question is why a thing whose essence doesn't include existence has existence at this moment.",
+      "difficulty": 3
+    },
+    {
+      "title": "Maybe the world itself is the necessary being",
+      "whoRaises": "Some atheists (addressed in a footnote)",
+      "objection": "Grant that there must be a necessary being. Why not the universe itself rather than God?",
+      "reply": "1. Nothing that is a mixture of act and potency, or has an essence distinct from its existence, or is composite in any way can be absolutely necessary.\n2. The world is all of these, so it cannot be the necessary being.\n3. And as Aquinas's Third Way shows, even if something other than God had necessity of some kind, it would be a derived necessity presupposing God as its source.",
+      "pushback": "If they say ‘maybe the fundamental physical stuff is simple and necessary,’ ask whether it changes, has distinct parts or properties, or could be otherwise; anything that does is not the purely actual, simple being the proofs require, and anything that doesn't has the divine attributes, whatever it's called.",
+      "difficulty": 2
+    },
+    {
+      "title": "Occasionalism: God is the only real cause",
+      "whoRaises": "Al-Ghazali, Malebranche and other occasionalists; also some who over-apply divine sovereignty",
+      "objection": "If God is the source of all causal power, why not say he is the *only* cause? The sun doesn't really melt the ice; God does, on the occasion of the sun's being out.",
+      "reply": "1. Action follows being: whatever could truly do nothing would not truly exist. So occasionalism implies only God exists.\n2. But you know at least one thing other than God exists — you. Even if you doubted tables and chairs, you would know you exist, and you are not God: you move from thought to thought (so you change), you are uncertain (so you are not omniscient), you cannot stop experiences you judge unreal (so you are not omnipotent).\n3. Occasionalism is also self-undermining: we reached God as First Cause by reasoning from real things that change and are composite. Denying they really exist or act pulls away the ladder we climbed.\n4. Nor can the occasionalist fall back on the Augustinian proof, since it does not begin from causality and so doesn't give him God as the source of all causal power.",
+      "pushback": "If they say ‘it magnifies God to give him all causation,’ answer that it actually diminishes him: a God who can only make puppets that do nothing is less than a God who can make real causes that share in his causality.",
+      "difficulty": 2
+    },
+    {
+      "title": "Pantheism rescued: the world of change is an illusion",
+      "whoRaises": "Some pantheists (addressed in a footnote)",
+      "objection": "The obstacle to identifying God with the world is that the world is changing, many, and contingent. But if change and multiplicity are illusions, nothing prevents identifying reality with the one immutable, simple, necessary God.",
+      "reply": "1. Someone or something would still have to *have* the illusion.\n2. Having the illusion of a changing world means having one experience and then another, which is itself change; so the subject isn't immutable.\n3. Having different experiences means having parts, so it isn't simple; whatever changes or has parts is contingent, so it isn't necessary.\n4. Having an illusion involves error and ignorance, so it isn't omniscient. So whatever has the illusion isn't God.",
+      "pushback": "If they say the illusion has no subject, ask who is being deceived — an illusion without anyone deceived is not an illusion at all.",
+      "difficulty": 2
+    },
+    {
+      "title": "Mere conservationism (deism-lite)",
+      "whoRaises": "Many modern theists and deists",
+      "objection": "God keeps things in existence, sure, but once they exist they use their powers on their own. The sun melts the ice by itself; God just keeps the sun around.",
+      "reply": "1. Action follows being: if something could act independently of God, it could exist independently of him.\n2. That yields essentially a deist God, whose creatures could carry on without him once created.\n3. But nothing other than God can exist for even an instant without being conserved, since it is composite, a mix of act and potency, with essence distinct from existence.\n4. And like occasionalism it is self-undermining: the proofs began precisely from the fact that things cannot exist on their own even for an instant.",
+      "pushback": "If they worry that concurrence makes creatures' causation redundant, use Freddoso's chalk: you are why there's a square at all, the chalk is why it's blue. The two causes are not doing the same job, so neither is redundant.",
+      "difficulty": 2
+    },
+    {
+      "title": "Divine concurrence destroys human freedom",
+      "whoRaises": "Libertarian free-will theorists; typical skeptic",
+      "objection": "If God must concur with everything a creature does, including every human choice, then our choices are really his, and we are not free.",
+      "reply": "1. Consider David Oderberg's example of a father guiding his young son's hand to write an A.\n2. The child can resist and move his hand wrongly, or cooperate; nothing in the father's guidance as such rules out either. So the child's choice makes a real contribution.\n3. Yet the A will not appear without the father's guidance.\n4. God's concurrence with our free acts is analogous: it gives our acts their being and power without substituting for them. And as with the author and the hypnotist, God is not a rival cause on the same level as we are.",
+      "pushback": "If they say the analogy fails because God concurs even with the child's *choice* to cooperate, admit that the analogy is imperfect precisely there — every creaturely analogy puts God alongside us. The key logical point remains: a cause of the whole order is not a competing force within it, so ‘God causes it’ and ‘I freely do it’ are not in rivalry.",
+      "difficulty": 3
+    },
+    {
+      "title": "Miracles are violations of natural law — and so incoherent",
+      "whoRaises": "David Hume and his followers",
+      "objection": "A miracle is a violation of a law of nature. But any evidence that a supposed law was violated is really evidence that it wasn't a law after all. So there can be no genuine miracle, and the concept is incoherent.",
+      "reply": "1. On the Aristotelian view, a law of nature describes the dispositions things have by virtue of their natures (water's disposition to freeze at 32°F).\n2. Dispositions can be blocked or can lack their triggers (liquid water can exist below 32°F in unusual conditions), and such failures to manifest are not violations; they are evidence neither of a miracle nor of a failed law. The Humean picture of laws is too crude.\n3. Because the laws of nature are the laws of natures, they are not contingent in the Humean way: anything that reliably turned to chocolate mousse at 32°F just wouldn't be water. Given that the things exist, their laws are metaphysically necessary, and genuine violations are impossible.\n4. So a miracle is not a violation at all; it is an effect that elevates nature beyond the power of any created nature (supernatural), or, in the subtractive case, a suspension of a law.",
+      "pushback": "If they ask how anything could count as a miracle if not by breaking a law, answer: an effect no created cause could produce — a dead man raised — given that all the natural factors present are known to be incapable of it. That's identifiable without any ‘violation.’ Whether such an event happened is a historical question beyond natural theology.",
+      "difficulty": 3
+    },
+    {
+      "title": "A miracle is God tinkering with a defective machine",
+      "whoRaises": "Deists; skeptics; some theists who talk of ‘intervention’",
+      "objection": "If God performs miracles, he must be stepping in to fix or override his own creation — which implies either that it was defective or that he is an interfering outside force.",
+      "reply": "1. God is not a cause alongside natural and preternatural causes; he is the precondition of there being any causal power at all. So ordinary events don't ‘happen on their own’ while God causes miracles; he causes both.\n2. The world is not a plane on autopilot with a pilot occasionally grabbing the controls. The ordinary course of nature is in fact the most direct evidence of God as First Cause.\n3. As McCabe argues, God cannot interfere — not from a shortage of power but, as it were, from an excess of it: to interfere you must be alongside what you interfere with, and the cause of everything is alongside nothing.\n4. A miracle is like a jazz improvisation, a director's cut, or a second edition: it adds to something already complete and good, raising it higher, rather than correcting a defect.",
+      "pushback": "If they ask why God doesn't do it all the time, note that the value of a miracle as a sign depends on its standing out against the regular order — and that the regular order is itself God's continuous, constant work.",
+      "difficulty": 2
+    },
+    {
+      "title": "The fiery furnace would be a violation",
+      "whoRaises": "Careful critics of Feser's own view",
+      "objection": "Feser says laws are metaphysically necessary and can't be violated. But in the story of Shadrach, Meshach, and Abednego the fire fails to burn them. Isn't that exactly a violation of the law that fire burns?",
+      "reply": "1. Not every miracle adds to nature; some subtract. What matters in the furnace story is what does *not* happen.\n2. Following Oderberg, a miracle is a suspension of a law, not a breach — like a government temporarily revoking a law, rather than leaving it on the books and not enforcing it.\n3. Since a thing can act at any moment only as God conserves it and concurs with it, God can simply refrain from conserving or concurring with some or all of the relevant factors (the fire, its preconditions such as oxygen).\n4. Then the normal effect doesn't follow. God isn't making fire act against its nature (which would be a violation); he is not bringing certain things about in the first place.",
+      "pushback": "If they ask whether this is a trick of wording, point to the analogy: a musician who omits notes from the score is not ‘violating’ the notes he plays; he is just not playing some. The difference between forcing something to act against its nature and not giving it the act at all is real.",
+      "difficulty": 3
+    },
+    {
+      "title": "Faith is belief without evidence",
+      "whoRaises": "Richard Dawkins, popular New Atheism; also some fideists",
+      "objection": "Religious faith just means believing without evidence, or against it. So even if natural theology works, revealed religion is irrational.",
+      "reply": "1. As understood by Aquinas and the tradition, faith is believing something *because God has revealed it*.\n2. That God has in fact revealed it is something for which evidence must be given.\n3. Only a miracle in the strict sense could supply that evidence, since only God can work one; it functions as a divine ‘seal of approval’ on a prophet's message.\n4. So miracles are the bridge between natural and revealed theology, and faith is grounded in reason, not opposed to it.",
+      "pushback": "If they ask for proof that any miracle happened, grant that this is a historical question beyond natural theology — but note that natural theology already shows miracles possible and rules out many religions (those making God many, material, finite, impersonal, or identical with the world) and any religion claiming revelation without miraculous credentials.",
+      "difficulty": 2
+    },
+    {
+      "title": "Calling God ‘he’ is sexist",
+      "whoRaises": "Some contemporary theologians and writers",
+      "objection": "God has no sex, so masculine language for God is arbitrary and sexist. We should say ‘he/she/it’ or use feminine language equally.",
+      "reply": "1. Agreed: God is immaterial, not an animal, so not literally male or female; he is sexless.\n2. But he has intellect and will, which define personhood, so the impersonal ‘it’ is wrong.\n3. And his relation to the world is more like a father's role in procreation than a mother's: the father is active, unchanged by conception, not physically dependent on mate or child, and not physically continuous with the child; the mother is changed and continuous with the child.\n4. God likewise is active in creating, unchanging, independent of the world, and utterly distinct from it. Maternal imagery would suggest a God changed by or continuous with the world — panentheism or pantheism.",
+      "pushback": "If they say this relies on a dated view of parenthood, clarify that the point is not about social roles or worth but about a biological asymmetry of dependence and continuity used analogically; and ask which pronoun would better convey a personal being who is utterly independent of and distinct from what he makes.",
+      "difficulty": 2
+    },
+    {
+      "title": "The Euthyphro dilemma (course addition)",
+      "whoRaises": "Plato's Euthyphro, pressed by modern skeptics",
+      "objection": "Is something good because God wills it, or does God will it because it is good? If the first, goodness is arbitrary; if the second, goodness is a standard above God.",
+      "reply": "1. The chapter's account of goodness escapes both horns. Goodness is actuality in line with a thing's nature, not an arbitrary decree.\n2. Nor is it a standard external to God: God is pure actuality, so he is goodness itself, the limit case of goodness, and the natures of creatures are ways of participating in his actuality, known in his intellect.\n3. So God wills the good because he is the good, and what is good for creatures follows from their natures, which reflect the divine intellect. Neither arbitrariness nor an external standard results.",
+      "pushback": "If they say ‘then God couldn't have made torture good,’ agree: given what human beings are, their good cannot be otherwise, and God's will is not a force that can override his own intellect and nature. That is not a limitation any more than being unable to make round squares.",
+      "difficulty": 3
+    },
+    {
+      "title": "Science has shown nature is causally closed (course addition)",
+      "whoRaises": "Scientific naturalists",
+      "objection": "Physics shows that every physical event has a sufficient physical cause. There's no room for God to act, whether in ordinary events or miracles.",
+      "reply": "1. The objection pictures God as one more cause competing for room in the causal chain — exactly the picture this chapter rejects.\n2. On concurrentism, physical causes are real causes, and God is the source of their existence and power at every moment, not a rival force. Science describes the secondary causes; it doesn't and can't show they would exist or act on their own.\n3. Laws describe the dispositions of natures; they say what things do when left to their natures, not that nothing beyond natures exists. A miracle is not a physical cause displacing another but the source of all natures elevating or suspending one.\n4. ‘Every physical event has a sufficient physical cause’ is not a finding of any experiment but a philosophical thesis — and the proofs give reason to deny that physical things are sufficient for their own existence.",
+      "pushback": "If they cite conservation of energy, note that conservation laws describe closed systems; whether the universe as a whole depends on something beyond it is exactly what's in question, and a law describing how natures behave can't answer it.",
+      "difficulty": 3
+    }
+  ]
+}

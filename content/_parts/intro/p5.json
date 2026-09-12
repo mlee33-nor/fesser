@@ -1,0 +1,359 @@
+{
+  "quiz": [
+    {
+      "q": "How does Feser define natural theology in the introduction?",
+      "options": [
+        "The use of scientific evidence, such as cosmic fine-tuning, to show that God probably exists",
+        "The philosophical interpretation of scripture and church teaching",
+        "Inquiry into what unaided human reason, apart from divine revelation, can know about God's existence, nature, and relationship to the world",
+        "The study of how belief in God arose through natural evolutionary and psychological processes"
+      ],
+      "answer": 2,
+      "explanation": "Natural theology is defined by its method (reason alone, without revelation) and its subject (God's existence, nature, and relation to the world). The first option is tempting, but it describes a probabilistic, science-based approach that Feser's proofs explicitly are not.",
+      "level": "recall"
+    },
+    {
+      "q": "What is the relationship between this book and Aquinas' Five Ways?",
+      "options": [
+        "It is not a book about the Five Ways; two of its proofs can be found in Aquinas, while three are not arguments he develops, at least not at length or in this form",
+        "It is a line-by-line commentary on the Five Ways, updated for modern readers",
+        "It defends each of the Five Ways in turn, one per chapter",
+        "It argues that the Five Ways fail and replaces them with arguments original to Feser"
+      ],
+      "answer": 0,
+      "explanation": "Feser opens by saying explicitly that this is not a book about the Five Ways and involves no exegesis. The last option is wrong twice over: he doesn't reject the Five Ways, and he says none of the proofs is original with him.",
+      "level": "recall"
+    },
+    {
+      "q": "In each of the five proof chapters, what does Stage 2 of the informal statement do?",
+      "options": [
+        "Restates Stage 1 in explicit numbered steps",
+        "Responds to objections raised against Stage 1",
+        "Shows that the universe must have had a beginning in time",
+        "Argues that whatever fits the description reached in Stage 1 must have key divine attributes such as unity, eternity, immateriality, omnipotence, omniscience, and perfect goodness"
+      ],
+      "answer": 3,
+      "explanation": "Stage 1 establishes that something fitting a key description exists; Stage 2 shows it must be God. The formal statement and the objections section are separate parts of each chapter, not Stage 2.",
+      "level": "recall"
+    },
+    {
+      "q": "Why does Feser present each argument informally before giving a formal statement?",
+      "options": [
+        "Because the arguments cannot really be stated in a formal step-by-step way",
+        "To ease readers new to philosophy into the arguments, and to make room for metaphysical digressions that clarify the proofs and forestall misunderstandings and irrelevant objections",
+        "Because the informal version is for laypeople and the formal version is for academics, and each can be read independently",
+        "Because formal logic is unreliable when applied to metaphysics"
+      ],
+      "answer": 1,
+      "explanation": "Feser gives exactly these two reasons. The third option is tempting but contradicts his insistence that the formal statements are not meant to stand alone.",
+      "level": "understand"
+    },
+    {
+      "q": "What does Feser say about the formal statements of the arguments?",
+      "options": [
+        "They are the definitive versions and supersede the informal discussion",
+        "They are optional summaries that add nothing to the informal discussion",
+        "They are not meant to stand alone: they make the logical structure clear and tie things together, but their key concepts are explained only in the preceding informal sections",
+        "They are included only to satisfy analytic philosophers and can be skipped"
+      ],
+      "answer": 2,
+      "explanation": "The formal statements recapitulate the argument crisply and show how everything ties together, but a reader who skips the informal sections may misunderstand them.",
+      "level": "understand"
+    },
+    {
+      "q": "According to the introduction's roadmap, what is the starting point of the Aristotelian proof?",
+      "options": [
+        "The fact that real change occurs, analyzed as the actualization of potential",
+        "The fact that the universe began with the Big Bang",
+        "The fact that living things are too complex to have arisen by chance",
+        "The fact that we have an innate idea of a perfect being"
+      ],
+      "answer": 0,
+      "explanation": "The Aristotelian proof argues from change to a purely actual actualizer. It does not depend on the Big Bang (Feser grants a possibly beginningless universe) or on biological complexity.",
+      "level": "recall"
+    },
+    {
+      "q": "Which proof argues from universals, propositions, and possibilities to the existence of a divine intellect?",
+      "options": [
+        "The Neo-Platonic proof",
+        "The Thomistic proof",
+        "The rationalist proof",
+        "The Augustinian proof"
+      ],
+      "answer": 3,
+      "explanation": "The Augustinian proof (chapter 3) holds that abstract objects are real but cannot exist in a Platonic mind-independent “third realm,” and so must ultimately exist in the mind of God. The Neo-Platonic proof, by contrast, argues from composition.",
+      "level": "recall"
+    },
+    {
+      "q": "The Neo-Platonic proof moves from which starting point to which conclusion?",
+      "options": [
+        "From contingency to a necessary being",
+        "From the composite character of things to an absolutely simple or noncomposite cause, the One",
+        "From the distinction of essence and existence to subsistent existence itself",
+        "From degrees of perfection to a most perfect being"
+      ],
+      "answer": 1,
+      "explanation": "The Neo-Platonic proof, rooted in Plotinus, argues that composite things require an absolutely simple ultimate cause. The other options describe the rationalist proof, the Thomistic proof, and Aquinas' Fourth Way.",
+      "level": "recall"
+    },
+    {
+      "q": "In what sense does Feser say his chapter 5 argument is “rationalist”?",
+      "options": [
+        "It is committed to the principle of sufficient reason and the thorough intelligibility of the world, but not to innate ideas or the epistemology of the continental rationalists",
+        "It follows Leibniz's version exactly, including his theory of innate ideas",
+        "It relies on reason rather than experience at every step, like Descartes' ontological argument",
+        "It defends rationalism in the sense of rejecting all empirical starting points"
+      ],
+      "answer": 0,
+      "explanation": "Feser's version departs from Leibniz, interprets PSR in an Aristotelian-Thomistic way, and explicitly disowns the doctrine of innate ideas. It is rationalist only in its commitment to PSR and intelligibility.",
+      "level": "understand"
+    },
+    {
+      "q": "Which three background principles does the introduction say chapter 6 begins by defending?",
+      "options": [
+        "The principle of sufficient reason, the principle of causality, and Ockham's razor",
+        "The principle of non-contradiction, the principle of induction, and the principle of parsimony",
+        "The principle of proportionate causality, agere sequitur esse, and the Thomist account of analogical language",
+        "Divine simplicity, divine conservation, and divine concurrence"
+      ],
+      "answer": 2,
+      "explanation": "Chapter 6 opens with proportionate causality (what is in an effect pre-exists in its total cause), agere sequitur esse (action follows being), and analogy. Conservation and concurrence are doctrines it later derives, not its opening principles.",
+      "level": "recall"
+    },
+    {
+      "q": "What does the doctrine of divine conservation hold?",
+      "options": [
+        "That God created the world at a first moment and then left it to run on its own",
+        "That the world could not continue to exist even for an instant unless God were continually sustaining it in being",
+        "That God preserves only living things, while inanimate matter has existential inertia",
+        "That God is the only real cause, and created things have no causal power"
+      ],
+      "answer": 1,
+      "explanation": "Conservation means creation is ongoing, not a one-time past event. The first option describes deism, which the book rules out; the last describes occasionalism, also rejected in favor of concurrence.",
+      "level": "understand"
+    },
+    {
+      "q": "A critic says: “Physicists now take seriously a beginningless multiverse, so there's no need for a first cause.” Which reply best reflects the book?",
+      "options": [
+        "The multiverse hypothesis is unscientific, so it can be ignored",
+        "The Big Bang proves the universe had a beginning, so the multiverse is false",
+        "A multiverse would itself need a designer, which is more probable than chance",
+        "The proofs concern hierarchical causes that sustain things here and now, and they grant a possibly beginningless universe; even an eternal multiverse would need a cause keeping it in existence"
+      ],
+      "answer": 3,
+      "explanation": "Feser repeatedly grants a beginningless universe or multiverse for argument's sake, because the proofs are about present, sustaining causation. The second option makes the proofs hostage to cosmology, exactly what Feser avoids.",
+      "level": "analyze"
+    },
+    {
+      "q": "Which of the following would count as a genuine refutation of one of Feser's proofs, considered as a demonstration?",
+      "options": [
+        "Showing that one of its premises is false, that its conclusion does not follow, or that it begs the question",
+        "Proposing a naturalistic hypothesis that seems more parsimonious",
+        "Pointing out that many professional philosophers reject the argument",
+        "Noting that the thinker who first proposed it held outdated astronomical views"
+      ],
+      "answer": 0,
+      "explanation": "A demonstration stands or falls on the truth of its premises and the validity of its reasoning. Parsimony is a criterion for competing hypotheses; unpopularity and the original author's scientific errors are irrelevant.",
+      "level": "apply"
+    },
+    {
+      "q": "What distinguishes theistic personalism from classical theism, according to Feser?",
+      "options": [
+        "Theistic personalists regard God as personal, whereas classical theists regard God as impersonal",
+        "Theistic personalists believe in one God, whereas classical theists allow many gods",
+        "Theistic personalists treat God as falling under the genus “person” and so as not simple; classical theists deny God falls under any genus, though most attribute intellect and will to him",
+        "Theistic personalists rely on revelation, whereas classical theists rely only on reason"
+      ],
+      "answer": 2,
+      "explanation": "Feser explicitly warns against the first option: most classical theists regard God as personal. The difference is whether God is placed within a genus and is therefore composite.",
+      "level": "understand"
+    },
+    {
+      "q": "Why would Feser's proofs, even if sound, fail to support the existence of a theistic personalist “god”?",
+      "options": [
+        "Because the proofs establish only an impersonal force",
+        "Because theistic personalism is a revealed doctrine outside natural theology",
+        "Because the proofs are probabilistic and cannot establish any particular conception of God",
+        "Because each proof concludes to a cause that is in no way composite, whereas a being within a genus is composite and would itself require a cause"
+      ],
+      "answer": 3,
+      "explanation": "As arguments for a First Cause, the proofs are arguments for an absolutely simple cause. A composite being — even a supremely great one — would need something to account for its composition.",
+      "level": "analyze"
+    },
+    {
+      "q": "What does Feser say the neglect of these proofs in contemporary philosophy reveals?",
+      "options": [
+        "That the proofs were quietly refuted and no longer need discussion",
+        "Nothing about the proofs themselves, and a great deal about the state of contemporary academic philosophy, including philosophy of religion",
+        "That the proofs are too technical for most philosophers to understand",
+        "That theists themselves have abandoned natural theology in favor of faith"
+      ],
+      "answer": 1,
+      "explanation": "Feser's pointed diagnosis is that the neglect reflects on the discipline, not the arguments — which he considers historically prominent and the most powerful available.",
+      "level": "understand"
+    },
+    {
+      "q": "A friend says, “Aristotle's argument for an Unmoved Mover depended on celestial spheres, so it's obsolete.” What is the best reply in the spirit of the introduction?",
+      "options": [
+        "The argument's essential kernel doesn't depend on that outdated scientific husk; its core claim about change and the actualization of potential is metaphysical, not astronomical",
+        "Celestial spheres have not really been disproven",
+        "Modern physics supports the Unmoved Mover more strongly than ancient astronomy did",
+        "Aristotle's argument is obsolete, which is why Feser defends only Aquinas' version"
+      ],
+      "answer": 0,
+      "explanation": "The introduction says modern Aristotelians have shown the kernel survives without the husk. The third option is tempting but reintroduces the dependence on science that Feser avoids.",
+      "level": "apply"
+    },
+    {
+      "q": "Which of the following is NOT one of Feser's replies to the objection that no one can claim a proof of God because so many people reject the proofs?",
+      "options": [
+        "Many who reject the arguments are responding to caricatures and don't understand what defenders actually said",
+        "Skeptics apply a double standard, treating any objection as fatal to theistic arguments but not to arguments for materialism or against free will",
+        "Critics misunderstand what “demonstration” means; it does not require that everyone immediately see its force",
+        "Anyone who rejects the proofs must be intellectually dishonest"
+      ],
+      "answer": 3,
+      "explanation": "Feser explicitly says that not all atheists are intellectually dishonest (nor all theists), and that motives are beside the point. The other three are his actual replies.",
+      "level": "analyze"
+    },
+    {
+      "q": "According to the introduction, where does the real debate lie if the proofs succeed?",
+      "options": [
+        "Between atheists and agnostics",
+        "Between natural science and philosophy",
+        "Among theists of different kinds — Jews, Christians, Muslims, Hindus, purely philosophical theists — beginning where natural theology leaves off",
+        "Between classical theists and theistic personalists over the proofs' validity"
+      ],
+      "answer": 2,
+      "explanation": "Feser's closing claim is that the serious debate is among theists about what, if anything, God has revealed — a debate the book deliberately does not enter.",
+      "level": "understand"
+    },
+    {
+      "q": "Someone objects: “Even if the proofs work, they don't show that God is a Trinity or inspired the Bible.” How does the book respond?",
+      "options": [
+        "It argues that the Trinity can also be demonstrated by natural theology",
+        "It grants this is true but irrelevant: the proofs aim to establish one central tenet common to many religions, and whether any revelation occurred is a further question",
+        "It denies that such doctrines matter to religious belief",
+        "It concedes that this shows the proofs are worthless for believers"
+      ],
+      "answer": 1,
+      "explanation": "The book's scope is natural theology; it refutes atheism without adjudicating among religions. Failing to answer every question about God does not mean answering none.",
+      "level": "apply"
+    },
+    {
+      "q": "Why does it matter, in replying to Hume and Dawkins' “complex designer” objection, that Feser's proofs are not design arguments?",
+      "options": [
+        "Because design arguments are more probable than the five proofs",
+        "Because the five proofs concede that God is complex but deny that complexity needs a cause",
+        "Because Hume and Dawkins never discussed design arguments",
+        "Because the proofs don't argue from complexity or probability at all, and in fact agree that a complex cause would need a cause — which is why they conclude to an absolutely simple one"
+      ],
+      "answer": 3,
+      "explanation": "Feser turns the objection around: the proofs share its premise that composite things need causes, and that premise drives them to divine simplicity. The second option gets classical theism exactly backward.",
+      "level": "analyze"
+    },
+    {
+      "q": "Which thinkers does Feser name as the inspirations for the five proofs?",
+      "options": [
+        "Aristotle, Plotinus, Augustine, Aquinas, and Leibniz",
+        "Plato, Anselm, Descartes, Paley, and Kant",
+        "Aristotle, Anselm, Aquinas, Descartes, and Swinburne",
+        "Plotinus, Maimonides, Avicenna, Scotus, and Spinoza"
+      ],
+      "answer": 0,
+      "explanation": "The chapter titles track these five: Aristotelian, Neo-Platonic (Plotinus), Augustinian, Thomistic (Aquinas), and rationalist (Leibniz). Anselm's and Descartes' ontological arguments and Paley's design argument are not among the five proofs.",
+      "level": "recall"
+    }
+  ],
+  "shortAnswer": [
+    {
+      "q": "What is natural theology, and how does it differ from theology based on revelation? Why does the difference matter for what this book claims?",
+      "model": "Natural theology asks what unaided reason, apart from any divine revelation, can know about God's existence, nature, and relationship to the world. Revealed theology relies on what God is believed to have specially disclosed, such as scripture or prophecy.\n\nThe difference sets the book's scope. Because it uses only premises available to reason, it can claim to refute atheism for any rational inquirer, whatever their religion. But for the same reason it cannot establish specifically revealed doctrines like the Trinity, and it leaves open whether any revelation has occurred — though chapter 6's discussion of miracles addresses whether revelation is possible.",
+      "rubric": ["Defines natural theology as reason alone, apart from revelation", "Names its subject: God's existence, nature, relation to the world", "Contrasts with revelation-based knowledge", "Explains that the book refutes atheism but doesn't settle which religion is true", "Mentions that actual revelation is beyond scope (optionally: miracles as the hinge)"]
+    },
+    {
+      "q": "Explain the difference between a demonstration and a probabilistic or best-explanation argument. Why does Feser insist his proofs are the former, and what follows about how they should be criticized?",
+      "model": "A demonstration aims to show that its conclusion follows necessarily from premises that are certain, with that certainty established by metaphysical analysis. A probabilistic or abductive argument (like Paley's design argument) concludes that a hypothesis is the likeliest or simplest explanation, leaving rivals possible in principle.\n\nFeser's proofs claim that no alternative is possible in principle: nothing with potentiality, parts, or contingency could exist without a purely actual, simple, necessary cause. It follows that criticisms appropriate to hypotheses — “a multiverse is simpler,” “science may explain it later,” “the designer would be complex” — miss the mark. To refute a demonstration you must show a premise false, the inference invalid, or the question begged.",
+      "rubric": ["Defines demonstration as necessary inference from certain premises", "Defines probabilistic/abductive argument, with an example", "Notes rivals are possible in principle only for the latter", "States the correct form of refutation for a demonstration", "Gives at least one example of an objection that misfires"]
+    },
+    {
+      "q": "Describe the two-stage structure of each proof chapter and explain why Stage 2 is essential to the book's overall case.",
+      "model": "Stage 1 argues that something exists fitting a key description — for instance, a purely actual actualizer, an absolutely simple One, or an uncaused cause of the existence of things. Stage 2 argues that whatever fits that description must possess the divine attributes: unity, eternity, immateriality, omnipotence, omniscience, perfect goodness, and so on.\n\nStage 2 is essential because a very common objection holds that first-cause arguments at most reach some first cause, not God. By building the derivation of the attributes into every proof — and developing it systematically in chapter 6 — Feser answers that objection structurally. Without Stage 2, the case would be vulnerable to the suggestion that the first cause is an impersonal physical state.",
+      "rubric": ["Correctly describes Stage 1", "Correctly describes Stage 2 with several attributes named", "Identifies the 'first cause isn't God' objection", "Explains how Stage 2 answers it", "Mentions chapter 6's systematic treatment"]
+    },
+    {
+      "q": "Summarize the starting point and conclusion of each of the five proofs as the introduction describes them.",
+      "model": "- **Aristotelian:** from real change (the actualization of potential) to a purely actual actualizer, the Unmoved Mover.\n- **Neo-Platonic:** from the composite character of things to an absolutely simple cause, Plotinus' One.\n- **Augustinian:** from the reality of universals, propositions, possibilities, and other abstract objects (not in a Platonic third realm) to a divine intellect.\n- **Thomistic:** from the real distinction between essence and existence in contingent things to something whose essence just is existence, an uncaused cause of the existence of things.\n- **Rationalist:** from the principle of sufficient reason to a necessary being whose existence is explained by its own nature.",
+      "rubric": ["All five proofs named", "Correct starting point for each", "Correct conclusion for each", "Notes the Augustinian rejection of Plato's third realm or the Thomistic 'essence is existence'", "No confusion with design or ontological arguments"]
+    },
+    {
+      "q": "What is the difference between classical theism and theistic personalism, and why does it matter for evaluating the five proofs?",
+      "model": "Classical theism holds that God is pure actuality, absolutely simple, subsistent being itself — not a member of any genus and not one being among others. Theistic personalism treats God as the unique member of the genus “person,” like us minus our limitations, and so as composite; its defenders (Davies names Plantinga, Swinburne, Hartshorne) typically reject divine simplicity. The difference is not that classical theists deny God is personal; most attribute intellect and will to him.\n\nIt matters because every proof concludes to a cause with no composition at all. So the proofs, if sound, support classical theism and would not support a personalist “god,” which by classical lights would be a powerful creature. It also shows why objections like “What caused God?” and “Go one god further” misfire: they presuppose the personalist picture of God as one more item in reality.",
+      "rubric": ["Characterizes classical theism (simplicity, pure actuality, not a being among beings)", "Characterizes theistic personalism (God in the genus person, not simple)", "Notes classical theists do regard God as personal", "Explains that the proofs support only classical theism", "Connects to at least one objection it defuses"]
+    },
+    {
+      "q": "Why do Feser's proofs not depend on the universe having had a beginning? Use an example.",
+      "model": "The proofs concern hierarchical (per se) causal series, not linear (per accidens) series in time. In a hierarchical series, each member has only borrowed causal power here and now: the cup is held up by the desk, which is held up by the floor, which is held up by the foundation, all at this moment. Such a series needs a first member with underived power — “first” in the order of dependence, not in time. Applied to existence itself, the question becomes what keeps anything in existence right now.\n\nSo Feser grants, for argument's sake, that the universe or multiverse had no beginning. Even then, it would need a cause sustaining it at every moment. That is why chapter 6 treats creation as ongoing (divine conservation) and rules out deism.",
+      "rubric": ["Distinguishes hierarchical from linear series", "Gives a correct example (cup/desk/floor or similar)", "Explains 'first' as underived power, not earliest", "States that a beginningless universe is granted", "Connects to divine conservation or deism"]
+    },
+    {
+      "q": "Why are the five proofs philosophical rather than scientific, and why can't future scientific discoveries overturn them?",
+      "model": "Their starting points — that change occurs, that things are composite, that there are abstract objects, that essence and existence are distinct, that things are contingent — are not empirical hypotheses but features any empirical inquiry presupposes. For example, any future observation will itself involve change, so no observation could show change unreal.\n\nThe proofs also aren't god-of-the-gaps arguments, which allow a natural explanation might be found; they claim no alternative is possible in principle. And the introduction notes that ancient and medieval versions were clothed in outdated science (heavenly spheres), but the essential kernel doesn't depend on that husk. Insisting that only scientific explanation counts simply assumes, without argument, that natural theology is wrong — and scientism is self-refuting, since its central claim isn't scientific.",
+      "rubric": ["Identifies starting points as presupposed by empirical inquiry", "Gives the change example or similar", "Distinguishes from god-of-the-gaps reasoning", "Mentions the kernel/husk point", "Notes scientism's self-refutation or question-begging"]
+    },
+    {
+      "q": "How does Feser reply to the objection that no one can claim a proof of God's existence because so many people reject the alleged proofs?",
+      "model": "He gives three replies. First, many critics attack caricatures and are ignorant of what defenders actually said; ill-informed rejection shows nothing. Second, there's a double standard: skeptics treat any objection as proof that a theistic argument fails, yet treat disputed arguments for materialism or against free will as still open; old objections from Hume are treated as final. Third, critics misunderstand demonstration: it is a valid deduction from premises whose certainty can be shown metaphysically, but nothing about that requires universal or immediate assent, or that defending the premises be easy. What's required is that, all things considered, the argument can be defended against every objection to its premises and logic — which he claims the book has done.",
+      "rubric": ["Caricature/ignorance point", "Double standard point with example", "Correct account of demonstration", "Controversy does not entail failure", "Success = successful defense against all objections"]
+    },
+    {
+      "q": "Why does Feser present each argument informally, then formally, then with objections? What would go wrong if a reader skipped straight to the formal statements?",
+      "model": "The informal statement eases non-specialists into the argument and allows digressions into general metaphysics that clarify key concepts and forestall misunderstandings and irrelevant objections. The formal statement then sets out the steps explicitly to make the logical structure evident and recap how everything ties together. The objections section defends the argument, often at its most technical.\n\nA reader who skipped to the formal statements would lack the careful explanation of concepts like actuality, potentiality, hierarchical series, or composition, and would likely misread the steps — for instance, reading a hierarchical regress as a temporal one — and then raise objections the informal discussion was designed to prevent.",
+      "rubric": ["Two reasons for informal-first", "Purpose of the formal statement", "Role of the objections section", "Formal statements not meant to stand alone", "Concrete example of a likely misreading"]
+    },
+    {
+      "q": "What does Feser mean by saying the real debate is among theists rather than between theism and atheism? Is this claim arrogant?",
+      "model": "Feser claims that if the proofs succeed, atheism is refuted by reason alone, as a long tradition across schools and religions held. The remaining serious question is which kind of theism is correct — Jewish, Christian, Muslim, Hindu, purely philosophical — which turns on whether and what God has revealed. That debate begins where natural theology stops, and the book does not enter it.\n\nWhether it is arrogant: Feser admits the claim is confident but notes natural theology was historically a confident discipline and was the mainstream of Western thought. Confidence here is a function of the kind of argument (demonstration), not tone; whether it's justified can only be assessed by examining the arguments. A fair answer may note that presentation can be modest even if the claimed conclusion is strong.",
+      "rubric": ["Explains the claim's conditional basis (if proofs succeed)", "Identifies revelation as the remaining question", "Notes the book doesn't enter that debate", "Cites the historical tradition of demonstrative natural theology", "Addresses the arrogance charge thoughtfully"]
+    }
+  ],
+  "flashcards": [
+    { "front": "Natural theology", "back": "What unaided reason, apart from divine revelation, can know about God's existence, nature, and relationship to the world." },
+    { "front": "Is Five Proofs a book about Aquinas' Five Ways?", "back": "No. Two proofs can be found in Aquinas; three are not arguments he develops (at least not at length or in this form). No exegesis." },
+    { "front": "Five inspirations for the five proofs", "back": "Aristotle, Plotinus, Augustine, Aquinas, Leibniz." },
+    { "front": "Why did Feser's earlier books (The Last Superstition, Aquinas) need ~70 pages of metaphysics first?", "back": "They were exegetical: explaining Aquinas required background principles and separating his ideas from outdated science. This book introduces principles along the way instead." },
+    { "front": "Stage 1 of each proof", "back": "Argues that something exists fitting a key description (e.g., an uncaused cause of the existence of things)." },
+    { "front": "Stage 2 of each proof", "back": "Argues that whatever fits the Stage 1 description must have the divine attributes: unity, eternity, immateriality, omnipotence, omniscience, perfect goodness, etc." },
+    { "front": "Three parts of each proof chapter", "back": "Informal statement (two stages) → more formal statement → objections." },
+    { "front": "Are the formal statements meant to stand alone?", "back": "No. They depend on the informal sections, which explain the key concepts." },
+    { "front": "The shallow end / deep end image", "back": "Every chapter ends in the deepest part of the pool (technical metaphysics) but starts in the shallowest part Feser can find." },
+    { "front": "Aristotelian proof (ch. 1)", "back": "From real change (actualization of potential) → a purely actual actualizer, the Unmoved Mover." },
+    { "front": "Kernel and husk", "back": "Older Aristotelian arguments used archaic science (heavenly spheres); the essential kernel doesn't depend on that outdated husk." },
+    { "front": "Neo-Platonic proof (ch. 2)", "back": "From composite things → an absolutely simple, noncomposite cause: Plotinus' One." },
+    { "front": "Divine simplicity", "back": "God has no parts of any kind. Central to classical theism, yet neglected by contemporary theists and atheists alike." },
+    { "front": "Augustinian proof (ch. 3)", "back": "From universals, propositions, possibilities (real, but not in a Platonic third realm) → a divine intellect." },
+    { "front": "Thomistic proof (ch. 4)", "back": "From the real distinction of essence and existence in contingent things → something whose essence is existence, an uncaused cause of existence (from On Being and Essence)." },
+    { "front": "Rationalist proof (ch. 5)", "back": "From the principle of sufficient reason → a necessary being explained by its own nature. Departs from Leibniz; Aristotelian-Thomistic interpretation." },
+    { "front": "In what sense is the ch. 5 proof NOT rationalist?", "back": "No commitment to innate ideas or the epistemology of Descartes, Spinoza, and Leibniz; different interpretation of PSR." },
+    { "front": "Chapter 6's three background principles", "back": "Proportionate causality; agere sequitur esse; the Thomist account of analogical language." },
+    { "front": "Principle of proportionate causality", "back": "Whatever is in an effect must in some way pre-exist in its total cause (formally, virtually, or eminently)." },
+    { "front": "Agere sequitur esse", "back": "Action follows being: how a thing acts follows from what it is." },
+    { "front": "Divine conservation", "back": "The world could not exist for an instant unless God continually sustained it. Creation is ongoing, not a one-time event." },
+    { "front": "Divine concurrence", "back": "Creatures have real causal power but can exercise it only as God imparts it at each moment they act." },
+    { "front": "Four views chapter 6 rules out", "back": "Pantheism, panentheism, occasionalism, deism." },
+    { "front": "Why does ch. 6 discuss miracles?", "back": "Crucial for whether there could be knowledge of God through special revelation; whether revelation actually occurred is beyond the book's scope." },
+    { "front": "Chapter 7's promise", "back": "None of the objections to natural theology succeeds; the most common ones are feeble and overrated." },
+    { "front": "Demonstration (classical sense)", "back": "Conclusion follows with deductive necessity from certain premises whose certainty is shown by metaphysical analysis — not probabilistic, not best-explanation." },
+    { "front": "How do you refute a demonstration?", "back": "Show a premise false, the inference invalid, or the argument question-begging — not by proposing a simpler rival hypothesis." },
+    { "front": "Are the five proofs design arguments?", "back": "No. They don't appeal to complexity or probability; a pebble or drop of water serves as well as an eye." },
+    { "front": "Hierarchical vs. linear causal series", "back": "Hierarchical: members depend here and now on borrowed power (cup–desk–floor); must have a first member. Linear: chain back in time; could in principle regress infinitely." },
+    { "front": "Do the proofs require the universe to have had a beginning?", "back": "No. They grant a possibly beginningless universe; they concern what sustains things in existence now." },
+    { "front": "Classical theism", "back": "God as pure actuality, absolutely simple, subsistent being itself — not a being among beings or a member of a genus." },
+    { "front": "Theistic personalism", "back": "God as the unique member of the genus “person,” like us minus limitations; not simple. (Davies: Plantinga, Swinburne, Hartshorne.)" },
+    { "front": "Do classical theists think God is impersonal?", "back": "No. Most attribute intellect and will to God. The difference from personalism is about genus and composition." },
+    { "front": "Where does the real debate lie, per the introduction?", "back": "Among theists of different kinds (Jews, Christians, Muslims, Hindus, philosophical theists), beginning where natural theology ends." },
+    { "front": "Three replies to “No one can claim a proof since many reject it”", "back": "(1) Critics often attack caricatures; (2) double standard vs. other philosophical arguments; (3) misunderstanding of demonstration — controversy doesn't entail failure." }
+  ],
+  "teachBack": "**Challenge:** Explain to a thoughtful friend who has never studied philosophy — ideally one who assumes arguments for God are about the Big Bang or design — what Feser's book is trying to do, in **five minutes, without notes**.\n\n**You must cover, in your own words:**\n1. What natural theology is, and what it does *not* try to establish (specific revealed doctrines).\n2. The difference between a demonstration and a probabilistic or design argument — and what a real refutation would have to look like.\n3. The cup–desk–floor picture, and why the proofs don't care whether the universe had a beginning.\n4. The five starting points and their conclusions, in one sentence each.\n5. The two-stage structure, and why Stage 2 answers “a first cause isn't God.”\n6. The difference between the God of classical theism and a “very powerful person.”\n\n**Constraints:** Do not use the words “actuality,” “potentiality,” or “per se” until you've explained the idea with an everyday example. Do not mention any specific religion's doctrines except to say the book leaves them open.\n\n**Check yourself:** Afterwards, ask your listener to tell you (a) why “maybe the universe is eternal” doesn't answer the proofs, and (b) why “What caused God?” misfires. If they can't, identify which of your six points was fuzzy and try again. Then write down one objection your listener raised that you couldn't answer, and find where in chapters 1–7 Feser addresses it.",
+  "videoPrompt": "Audience: curious, intelligent adults with no philosophy background, including skeptics. Create an orientation to Edward Feser's Five Proofs of the Existence of God. Emphasize, in order: (1) natural theology means reasoning about God without appeal to revelation; (2) these proofs aim at strict demonstration, not probabilistic design arguments — so “a simpler explanation might exist” isn't a refutation; (3) they concern what sustains things in existence right now, not a first moment in time — use the cup held up by a desk held up by a floor; (4) a quick roadmap of the five proofs (change, composition, abstract objects, essence/existence, sufficient reason) and chapters 6–7; (5) the two-stage structure; (6) the God of classical theism is not a being among beings. Correct the misconceptions that the proofs depend on the Big Bang or on scientific gaps. Tone: clear, lively, fair to skeptics, confident but not preachy."
+}

@@ -1,0 +1,206 @@
+{
+ "objections": [
+  {
+   "title": "“If everything has a cause, then what caused God?”",
+   "whoRaises": "Dawkins, Dennett, Harris, Hitchens, Stenger, Krauss, Hawking & Mlodinow; Russell; countless ordinary skeptics",
+   "objection": "The cosmological argument says everything has a cause. But then God must have a cause too. If the theist says God doesn’t need one, he has contradicted his own premise or made an arbitrary exception — and if God can be uncaused, why not the universe?\n\n*Diagnostic failure: straw man + ignoring the principled criterion.*",
+   "reply": "Feser gives two independent replies.\n\n1. **No such premise.** None of the book’s arguments — and none of the historical cosmological arguments — starts from “everything has a cause.” So there is no contradiction and no exception to catch.\n2. **The arguments explain why God can’t have a cause.** Each proof identifies what makes things need a cause and argues for something lacking precisely that: potentials needing actualization (Aristotelian → pure actuality), parts needing combination (Neo-Platonic → absolute simplicity), essence needing existence added (Thomistic → subsistent existence), contingency (rationalist → necessary being).\n\nSo, understood in the arguments’ own terms, the question becomes “What caused the thing that could not in principle be caused?” — what actualized the potentials of what has none, assembled the parts of what has none, and so on. None of those questions makes sense. A critic can legitimately doubt that the arguments establish such a being, or argue the concepts are incoherent — but that requires engaging the details, not a single retort.",
+   "pushback": "**One-liner:** “The argument never says everything has a cause — it says things that *can* be caused need one, and concludes to something that *can’t* be.”\n\nIf pressed (“You’re just defining God as uncaused”): no — uncausedness is the *conclusion*, not a definition slipped in at the start. The argument first identifies what makes something need a cause (say, having potentials that something else must actualize), then shows the chain of such things must terminate in something without that feature. If you think nothing could lack that feature, that’s a fair debate — let’s look at the premise.",
+   "difficulty": 1
+  },
+  {
+   "title": "“The ‘basic cosmological argument’ is a fair simplification”",
+   "whoRaises": "Robin Le Poidevin; textbook and popular presentations (Dennett, Warburton, Priest, Martin, Russell)",
+   "objection": "Granted, no one states the argument quite so crudely. But “everything has a cause; nothing causes itself; the universe exists; so the universe has an external cause” captures the essence, and it is a useful stepping-stone for teaching. The more sophisticated versions are just refinements of it.\n\n*Diagnostic failure: straw man.*",
+   "reply": "Feser lists some thirty major defenders — Plato and Aristotle through Aquinas, Leibniz, and Clarke to Swinburne, Pruss, Oderberg, and Craig — and none gives this argument. Le Poidevin concedes the point but uses it anyway.\n\nThat framing is not neutral. Feser’s analogy: suppose ID theorists defined basic Darwinism as “a monkey gave birth to a human,” admitted nobody holds it, and still called it a stepping-stone. Darwinians would object that it poisons the whole discussion, making every real Darwinian claim look like a patch on an absurdity.\n\nNor are defenders *implicitly* committed to it: none appeals to “everything has a cause” (some deny it); none assumes a beginning (only the kalām version even tries to prove one); most don’t argue from the universe as a whole at all. A “simplification” that changes every premise isn’t a simplification.",
+   "pushback": "**One-liner:** “A simplification has to keep the premises; this one swaps out every premise the real arguments use.”\n\nIf pressed (“But it’s pedagogically handy”): handy for whom? Starting students with a version no one defends teaches them to dismiss Aquinas without reading him — which is exactly how the caricature has survived for generations. A better starting point is Aquinas’s actual question: what keeps this thing existing and acting right now?",
+   "difficulty": 2
+  },
+  {
+   "title": "“But some theists — Descartes, Spinoza — did say everything has a cause”",
+   "whoRaises": "Hume (in effect); critics in the Hume–Russell tradition",
+   "objection": "Descartes argued that something must cause him to exist from moment to moment, and both he and Spinoza called God “self-caused.” So the principle that everything has a cause really is part of the theistic tradition, and the objection is fair.\n\n*Diagnostic failure: equivocation on “cause”.*",
+   "reply": "Following W. Norris Clarke, Feser shows why even this doesn’t rescue the objection.\n\n- Descartes’ “preservation” argument doesn’t ask what caused the universe, doesn’t state “everything has a cause” as a premise, and makes *no exception* for God — since God is self-caused. So “What caused God?” doesn’t catch him in any inconsistency.\n- What Descartes and Spinoza really meant is close to the **principle of sufficient reason**: everything has an *explanation*. Contingent things are explained by another, a necessary being by its own nature. All causes are explanations, but not all explanations are causes.\n- Hume fused two senses of “cause”: *sufficient reason* (which rationalists said everything, including God, has) and *efficient cause distinct from its effect* (which no theist says God has). He then pinned the fused claim on cosmological arguers in general, and the “contradiction” appeared.\n\nClarke calls the result a hybrid that would make sense in neither the Scholastic nor the Cartesian tradition — a creature the critics built themselves.",
+   "pushback": "**One-liner:** “They meant everything has an *explanation* — and God is explained by his own nature, so there’s no exception and no contradiction.”\n\nIf pressed (“Isn’t ‘self-caused’ incoherent?”): taken as an efficient cause producing itself, yes — which is why Scholastics never said it. Taken as “self-explanatory,” it simply means God’s existence follows from what he is. Either way, the Humean objection trades on running the two meanings together.",
+   "difficulty": 2
+  },
+  {
+   "title": "“Maybe the universe (or the Big Bang, the multiverse, quantum events, the laws of physics) is the uncaused cause”",
+   "whoRaises": "Hume; Dawkins, Dennett, Grayling, Krauss, Rosenberg, Stenger",
+   "objection": "If you can stop at an uncaused God, I can stop one step earlier at the universe itself — or at the Big Bang, a multiverse, quantum fluctuations, or the laws of physics. That’s more economical and requires nothing supernatural.\n\n*Diagnostic failure: ignoring the principled criterion.*",
+   "reply": "The difference between God and the universe isn’t arbitrary; each argument states a principle, and the principle rules these candidates out.\n\n- **Aristotelian:** the universe mixes act and potency; the Big Bang, each stage of a multiverse, and each quantum event are actualizations of potential (determinism is irrelevant); laws are merely potential since they could be otherwise.\n- **Neo-Platonic:** the universe and multiverse are composite; laws and quantum events lack absolute simplicity.\n- **Thomistic:** none of them has an essence identical with existence.\n- **Rationalist:** all are contingent.\n\nOn laws specifically: if a law merely *describes* a regularity, it explains nothing; if it is a *Platonic entity*, we must explain the world’s participation in it and why these laws; if it *summarizes how substances behave* by nature, it depends on those substances. On no view is a law ultimate.\n\nThe atheist may reject all this, but simply *proposing* the universe as terminus ignores the arguments rather than answering them. And if the proposal worked, the universe would have divine attributes — **pantheism, not atheism**.",
+   "pushback": "**One-liner:** “The universe has exactly the features that made us look for a cause in the first place — it changes, has parts, and could have been otherwise.”\n\nIf pressed (“Why not just say the universe is necessary?”): then you owe an account of how a changing, composite thing whose laws could have been different exists necessarily. And notice what you’d be claiming: a necessary, self-explanatory, uncaused reality on which everything depends. That’s a divine attribute list — you’d have become a pantheist, not an atheist.",
+   "difficulty": 2
+  },
+  {
+   "title": "“Chance events show that not everything has a cause”",
+   "whoRaises": "Victor Stenger",
+   "objection": "Science recognizes that many events happen by chance rather than by causation. So the causal principle the arguments rely on isn’t universally true.\n\n*Diagnostic failure: straw man + equivocation (chance ≠ uncaused).*",
+   "reply": "No defender of the cosmological argument denies that chance events happen, so this attacks a straw man. More importantly, chance doesn’t exclude causation; it **presupposes** non-chance causal regularities.\n\n- A farmer finds buried treasure while plowing — chance, but only because two causal lines crossed: his decision to plow there, and another person’s decision to bury treasure there.\n- After an earthquake, boulder A happens to smash boulder B — chance, but only because of plate tectonics, gravity, and the solidity of rock.\n\nChance is a pattern *among* causes, not an absence of them.",
+   "pushback": "**One-liner:** “Chance is what happens when two causal lines cross — it needs causes; it doesn’t replace them.”\n\nIf pressed (“What about events with no identifiable causal lines?”): that moves you to the quantum objection or the Humean conceivability objection — neither of which shows anything happens uncaused either. Ask for an example of chance that doesn’t presuppose some regular causes operating in the background.",
+   "difficulty": 1
+  },
+  {
+   "title": "“Quantum mechanics shows events can happen without a cause”",
+   "whoRaises": "Dennett, Rosenberg (and frequently physicists in popular writing)",
+   "objection": "Radioactive decay and other quantum events have no cause — physics itself tells us so. The principle of causality is refuted by our best science.\n\n*Diagnostic failure: equivocation (indeterministic ≠ uncaused) + begging the question.*",
+   "reply": "1. **At most, no *deterministic* cause.** Quantum physics shows, at most, that some events don’t have a cause that necessitates one exact outcome. Neither the principle of causality nor PSR requires determinism — only that there be a cause or explanation.\n2. **Quantum events presuppose the laws of quantum mechanics.** Even indeterministic events occur only within a framework of contingent laws that are merely potential until a universe governed by them is actualized.\n3. **So the appeal misses the point or begs the question.** Quantum reality is part of what the cosmological argument says needs explaining; you can’t use it as the unexplained explainer.",
+   "pushback": "**One-liner:** “Quantum physics shows some causes aren’t deterministic — not that anything happens with no cause at all, outside any laws.”\n\nIf pressed (“The decay has literally no cause”): then what makes it a uranium atom rather than a teacup that decays — and at that characteristic rate? The atom’s nature and the quantum laws are doing causal work; they fix the probabilities even if they don’t fix the moment. And those laws and that atom are themselves among the things whose existence needs explaining.",
+   "difficulty": 2
+  },
+  {
+   "title": "“Maybe there’s simply no explanation in this case” (brute fact)",
+   "whoRaises": "Hume, Grayling; the familiar “the universe is just there” reply",
+   "objection": "Why must the existence of the universe have an explanation at all? Perhaps it is just a brute fact. We don’t have to accept the theist’s explanation just because one is on offer.\n\n*Diagnostic failure: special pleading + ignoring the argument actually given.*",
+   "reply": "Two points (the first of Feser’s three answers to the Humean objection).\n\n- **Special pleading.** No working physicist, chemist, biologist, or neuroscientist would take seriously the suggestion that the specific phenomenon under investigation simply has no cause or explanation. The critic must explain why that suggestion becomes respectable only when the question is God.\n- **Gerson’s point: an explanation is already on the table.** As Lloyd Gerson observes, the cosmological argument *is* a proposed explanation. It is no reply to say there might be no explanation, because one has been given. To avoid it, the critic needs some reason other than the bare possibility that no explanation exists.",
+   "pushback": "**One-liner:** “‘Maybe there’s no explanation’ is something you’d never accept in a lab — and here an explanation has actually been offered, so you need a reason to reject it.”\n\nIf pressed (“But the universe is a special case”): that is exactly the special pleading. If anything, the existence of everything is the case where we should be *least* willing to shrug. And if brute facts are allowed wherever convenient, science itself loses the right to insist that anything must have an explanation.",
+   "difficulty": 2
+  },
+  {
+   "title": "“We can conceive of an effect without a cause, so an uncaused event is possible”",
+   "whoRaises": "Hume; repeated by A. C. Grayling as a “definitive” response",
+   "objection": "I can imagine something simply popping into existence out of nowhere. Whatever is conceivable is possible. So it is possible for something to begin to exist without a cause, and the causal principle is not necessarily true.\n\n*Diagnostic failure: bad inference (conceivable-apart → possible-apart) + underdescription.*",
+   "reply": "Beyond the special-pleading point, Feser offers two further problems:\n\n1. **Conceiving apart isn’t being possible apart.** We can conceive what a triangle is without conceiving it as trilateral, but no triangle can fail to be trilateral. We can conceive of a man without conceiving his height, but no man can lack a height. So “we can conceive an effect without a cause” doesn’t show that any event could actually lack one.\n2. **Anscombe’s underdescription point.** What in Hume’s imagined scene makes it a case of something coming into being *uncaused*, rather than coming into being from an *unseen* cause, or being *transported* from elsewhere (teleported, say)? Nothing. To make the scenario do Hume’s work we must add something, and it’s hard to see what we could add without reintroducing causation — e.g., we tell coming-into-being from being-transported by a *generating* versus a *transporting* cause.",
+   "pushback": "**One-liner:** “Imagining a thing without thinking of its cause is like imagining a triangle without thinking ‘three-sided’ — it tells you about your attention, not about what’s possible.”\n\nIf pressed (“But I really can picture it”): picture it, then tell me what in the picture makes it *uncaused* rather than caused by something you can’t see, or teleported in. Whatever you add to settle that will turn out to involve a cause.",
+   "difficulty": 3
+  },
+  {
+   "title": "“Why assume the universe had a beginning?” (the beginningless multiverse)",
+   "whoRaises": "Alex Rosenberg, Lawrence Krauss",
+   "objection": "The multiverse hypothesis suggests our Big Bang branched off from an earlier universe in a beginningless series. If there was no first moment, there’s no need for a first cause.\n\n*Diagnostic failure: straw man + per se / per accidens confusion.*",
+   "reply": "The arguments in this book are not concerned with whether the universe had a beginning. They argue that even a universe — or multiverse — with no beginning would require a divine cause to keep it in existence perpetually and to explain why it exists at all. The regress they rule out is a hierarchical series of here-and-now dependence, not a temporal series stretching into the past. A beginningless succession of universes answers a question the arguments never asked.",
+   "pushback": "**One-liner:** “Grant an infinite past — the question is what keeps the whole thing existing *now*, not what started it.”\n\nIf pressed (“But then what does the First Cause do?”): it is the source of existence and causal power at every moment, the way the hand is the source of the stick’s pushing the stone. Remove it and the whole series — however old — doesn’t continue.",
+   "difficulty": 1
+  },
+  {
+   "title": "“Why must the regress of causes end? Maybe it’s laws all the way down”",
+   "whoRaises": "Lawrence Krauss (citing Richard Feynman)",
+   "objection": "For all we know, there are deeper and deeper layers of physical law, which we could keep probing until we got bored. There need be no bottom level and so no first cause.\n\n*Diagnostic failure: per se / per accidens confusion + treating laws as ultimate.*",
+   "reply": "1. **Laws can’t be ultimate explanations**, whether there is one layer or infinitely many (see the three views of laws above: descriptions, Platonic entities, or summaries of substances’ natures).\n2. **An infinite stack of laws would be a hierarchical series.** Laws at one level would hold only as special cases of laws at a deeper level, and those only as special cases of deeper ones still. That is exactly the per se structure from chapter 1, and such a series cannot lack a first member — something that imparts causal power without deriving it.\n\nNothing Krauss or the other New Atheists say even addresses this, let alone refutes it.",
+   "pushback": "**One-liner:** “If every layer of law holds only because a deeper one does, an infinite stack is just an infinitely long borrowed-money chain — it still needs someone who has the money.”\n\nIf pressed (“Why can’t it just be infinite?”): an infinite *temporal* series might be possible; an infinite series of *derivative* causes with no underived source isn’t, because no member has the power on its own. Adding more borrowers never produces a lender.",
+   "difficulty": 2
+  },
+  {
+   "title": "“First Cause arguments commit a fallacy of composition”",
+   "whoRaises": "A. C. Grayling, following Hume",
+   "objection": "Once each member of a series is explained by the member before it, everything has been explained. It’s a fallacy to suppose there’s something left over — “the whole” — requiring a further explanation.\n\n*Diagnostic failure: misunderstands the argument; the critic commits the fallacy.*",
+   "reply": "First, the arguments of this book don’t need any premise about the universe as a whole, so there is no part-to-whole inference to criticize. And chapter 5 showed that the rationalist proof’s possible inference from contingent parts to a contingent whole isn’t fallacious.\n\nSecond, Grayling’s claim is false. Consider:\n\n- **Sticks:** an infinite series of sticks each moved by the next still needs a mover outside it, since none, individually or collectively, can move by itself.\n- **Mirrors:** an infinite row of mirrors reflecting a face still needs an actual face outside the row.\n- **Leibniz’s geometry books:** infinitely many copies, each from an earlier one, leave unexplained why the series has *this* content at all.\n\nSo the fallacy runs the other way: Hume and Grayling infer from “each member is explained by another” to “the whole is explained” — which doesn’t follow.",
+   "pushback": "**One-liner:** “Explaining each mirror’s image by the next mirror never explains where the face came from — so it’s the objection that commits the composition fallacy.”\n\nIf pressed (“But the universe isn’t a row of mirrors”): the question is whether members that only *pass along* existence or power can account for there being any at all. If each thing in the universe exists only derivatively, adding more of them doesn’t add an underived source.",
+   "difficulty": 2
+  },
+  {
+   "title": "“Even if there were a first cause, there’s no reason to think it would be God”",
+   "whoRaises": "Grayling, Dawkins, Krauss",
+   "objection": "At best the argument gets you some impersonal first cause. The leap to an omnipotent, omniscient, perfectly good God is completely unwarranted.\n\n*Diagnostic failure: ignoring the arguments actually given.*",
+   "reply": "Historically, defenders have given a great many arguments for exactly these attributes. Aquinas devotes roughly a hundred dense pages of the *Summa Theologiae* (right after the Five Ways) to simplicity, goodness, infinity, immutability, unity, knowledge, life, will, and power, and about two hundred pages of book 1 of the *Summa Contra Gentiles*, plus more in *De potentia* and *De veritate*. Samuel Clarke’s *Demonstration of the Being and Attributes of God* argues for infinity, omnipresence, unity, intelligence, freedom, power, wisdom, and goodness. Aristotle, Plotinus, Avicenna, Scotus, and Leibniz do the same.\n\nThe New Atheists respond to none of these and seem unaware of them. And this book argues in chapters 1–5, and at length in chapter 6, that the first cause must be one, simple, immutable, eternal, immaterial, omnipotent, omniscient, and perfectly good. The objection is groundless.",
+   "pushback": "**One-liner:** “There are hundreds of pages of argument deriving the divine attributes from the first cause — the objection only works if you don’t read them.”\n\nIf pressed (“Give me one”): pure actuality can have no potential for improvement, so it lacks no perfection; and whatever power exists in effects must be found in their ultimate source, which therefore has power over everything that exists. (See chapter 6 for the full derivations.)",
+   "difficulty": 2
+  },
+  {
+   "title": "“It wouldn’t show that God sent prophets, inspired the Bible, or is a Trinity”",
+   "whoRaises": "Typical skeptic; New Atheist writers",
+   "objection": "Even if you prove an omnipotent, omniscient, good First Cause, you haven’t proved the God of any actual religion — prophets, scripture, the Trinity, and so on.\n\n*Diagnostic failure: true but irrelevant.*",
+   "reply": "True — and completely irrelevant. The arguments aim to establish one central tenet shared by many religions: a cause of the world that is one, simple, immaterial, eternal, immutable, omnipotent, omniscient, and perfectly good. If they succeed, atheism is false, and the remaining question is which theism to adopt — philosophical theism, Judaism, Christianity, Islam, or another — which requires further inquiry.\n\nIt’s silly to infer that because the arguments don’t answer every question about God, they answer none. That would be like rejecting special relativity because it says nothing about evolution, or quantum mechanics because it doesn’t settle every engineering question.",
+   "pushback": "**One-liner:** “Right — the arguments settle whether God exists, not which religion is true; that’s the next conversation, not a refutation of this one.”\n\nIf pressed (“So they’re useless for religion”): hardly. If they work, the question is no longer “God or no God?” but “Which account of God is true?” — and that already rules out atheism.",
+   "difficulty": 1
+  },
+  {
+   "title": "“The cosmological argument presupposes the ontological argument, which is unsound”",
+   "whoRaises": "Immanuel Kant; A. C. Grayling",
+   "objection": "The cosmological argument ends with a *necessary* being. But the only way something could exist necessarily is by definition — which is what Descartes’ ontological argument claims (existence is a perfection, so a supremely perfect being must exist). The ontological argument fails, since existence isn’t a perfection. So the cosmological argument, which secretly depends on it, fails too.\n\n*Diagnostic failure: equivocation on “necessary”.*",
+   "reply": "1. **Counterexample:** Aquinas and most Thomists reject the ontological argument while defending the cosmological. So the critic needs more than an assertion of dependence.\n2. **No inconsistency:** as chapter 6 showed, when these arguments say God exists necessarily, they don’t mean he exists *by definition*. Definitional necessity isn’t the only kind, nor the one they invoke — and Kant’s objection works only if it is.\n\nThe cosmological argument reasons *up* from contingent things to a cause whose nature makes it necessary; it doesn’t reason *down* from a definition to existence.",
+   "pushback": "**One-liner:** “‘Necessary’ here doesn’t mean ‘true by definition’ — it means ‘having nothing in it that could fail to exist’, which is why Aquinas could reject the ontological argument and keep this one.”\n\nIf pressed (“Then what kind of necessity is it?”): see the next objection — Grayling’s refinement — and the three accounts of metaphysical necessity.",
+   "difficulty": 3
+  },
+  {
+   "title": "“Metaphysical necessity is merely relative necessity”",
+   "whoRaises": "A. C. Grayling",
+   "objection": "A defender might say God is *metaphysically* rather than *logically* necessary — the stopping point for the regress, the ground of contingent existence. But that only makes God a necessary *condition* of the world, not a being that *couldn’t fail to exist*. And unconditional necessity is what the argument needed.\n\n*Diagnostic failure: false dichotomy.*",
+   "reply": "This is a false dichotomy: metaphysical necessity can be explained without collapsing into either logical necessity or mere conditional necessity.\n\n- **Aristotelian:** a thing is contingent because it mixes actuality with potentiality; what is purely actual has no potential that needs or could be actualized — including any potential not to exist — so it exists necessarily.\n- **Neo-Platonic:** contingency comes from composition; what is absolutely simple has no parts that need or could be combined (or separated), and so is necessary.\n- **Thomistic:** the first cause is necessary because its essence simply is existence; existence need not and cannot be added to it — and that need is what makes other things contingent.\n\nAll three give God more than conditional necessity without making it the logical necessity of a proposition. (Footnote: say God’s essence *is* existence, not that it “includes” existence — that phrasing implies composition.)",
+   "pushback": "**One-liner:** “God isn’t necessary *relative to* the world — he’s necessary because there’s nothing in him that could fail: no unrealized potential, no parts, no gap between what he is and that he is.”\n\nIf pressed (“That’s still just words”): then the argument has to be with the underlying metaphysics of act and potency or essence and existence — which is exactly where a serious critic should engage.",
+   "difficulty": 3
+  },
+  {
+   "title": "“It’s a ‘god of the gaps’: science already explains, or will explain, what God is invoked for”",
+   "whoRaises": "Hitchens (Ockham’s razor), Dawkins (parsimony), Harris (nobody knows how the universe arose), Krauss, Hawking & Mlodinow",
+   "objection": "Every time religion posited God to explain something, science eventually found a natural explanation. The universe’s existence is just the latest gap. A Big Bang singularity or some unknown physical principle is more parsimonious than God, and in any case we should say “we don’t know yet” rather than invoke the supernatural.\n\n*Diagnostic failure: begging the question (scientism) + misclassifying the argument.*",
+   "reply": "Feser calls this the central conceit of the New Atheism, and identifies two problems; the first is that it misses the point or begs the question.\n\n- **Not gap-filling.** A god-of-the-gaps explanation allows that a natural explanation *could* in principle be right and claims only that God is more probable. The book’s arguments are strict metaphysical demonstrations: they claim no alternative is possible in principle. Right or wrong, they aren’t evaluated by parsimony or fit with current theory.\n- **Metaphysical starting points.** They start from what any empirical theory must presuppose — actualization of potential, composite things, essences joined to existence, contingency. Whatever physics discovers will involve these. Declaring that only science can explain simply assumes the arguments are wrong; it doesn’t show it.\n\n(The second problem — that the proposed scientific explanations aren’t from “nothing” — is the next objection.)",
+   "pushback": "**One-liner:** “A gap closes when science finds a mechanism; but every mechanism science could find will itself involve change, parts, and contingency — which is what the argument starts from.”\n\nIf pressed (“Ockham’s razor still favors fewer entities”): Ockham’s razor chooses between explanations that each do the job. The argument claims the universe *can’t* do the job of ultimate explanation. You have to rebut that claim, not count entities.",
+   "difficulty": 2
+  },
+  {
+   "title": "“Physics shows the universe can arise from nothing”",
+   "whoRaises": "Lawrence Krauss (*A Universe from Nothing*); Stephen Hawking & Leonard Mlodinow (*The Grand Design*)",
+   "objection": "Because there is a law like gravity, the universe can create itself from nothing. Quantum physics shows how something comes from nothing, so no God is needed.\n\n*Diagnostic failure: equivocation on “nothing” + treating laws as ultimate.*",
+   "reply": "A law like gravity isn’t nothing, so an account that invokes one isn’t an account of the universe arising from nothing.\n\nKrauss’s book commits the same fallacy — notoriously, as philosophers without any theological stake (famously David Albert, reviewing it in the *New York Times*) pointed out. Roughly the first 152 of its 185 pages argue that the universe arose from empty space endowed with energy and governed by law, which Krauss admits isn’t nothing. By around page 170 he pares this to the laws of quantum gravity — also admitted not to be nothing. At page 177 he suggests there might be layer upon layer of laws.\n\nThe talk of “candidates” for nothingness and of nothing being as physical as something treats nothing as an elusive stuff. But nothing is simply the absence of anything. What Krauss is left with — laws, or layers of laws — is not nothing and, as shown earlier, cannot be the ultimate explanation.",
+   "pushback": "**One-liner:** “Empty space, energy, and the laws of quantum gravity are all *something* — so the question just becomes: why do they exist?”\n\nIf pressed (“Physicists define ‘nothing’ differently”): then the book answers a different question from the one on its cover. Nobody doubts that one physical state can arise from another; the question is why there is any physical reality or law at all.",
+   "difficulty": 1
+  },
+  {
+   "title": "“Why not many first causes — a committee of gods?”",
+   "whoRaises": "Typical skeptic (course addition — a common modern follow-up)",
+   "objection": "Even granting that chains of causes must end, why should they all end in *one* thing? Maybe there are several uncaused causes.\n\n*Diagnostic failure: ignoring the arguments for the divine attributes.*",
+   "reply": "This is one form of the “no reason to think it’s God” objection, and it overlooks the arguments for **unity** that Feser mentions among the attributes defended by Aquinas, Samuel Clarke, and in chapter 6. The core idea: to have two or more of something, there must be some difference between them — one has a feature, limitation, or potential the other lacks. But pure actuality has no potential or limitation, absolute simplicity has no distinguishing parts, and subsistent existence itself has nothing added to distinguish it. So there cannot be two of them. (The full derivation belongs to chapter 6; this module only notes that the critics ignore it.)",
+   "pushback": "**One-liner:** “Two first causes would have to differ somehow — but something with no limits, parts, or unrealized potential has nothing to differ by.”\n\nIf pressed (“Maybe they differ in something we can’t know”): any difference is a limitation in at least one of them — some perfection one has and the other lacks — which contradicts its being purely actual. That’s a claim about the argument’s premises you’re welcome to challenge, but it isn’t an unanswered gap.",
+   "difficulty": 2
+  },
+  {
+   "title": "“‘Pure actuality’ and ‘divine simplicity’ are incoherent jargon”",
+   "whoRaises": "Sophisticated modern critic (course addition — the serious version of the objection)",
+   "objection": "Rather than the crude “What caused God?”, the real problem is that the conclusion is unintelligible: a being with no potential, no parts, and no distinction between what it is and that it is can’t coherently act, know, or will.\n\n*Diagnostic status: a legitimate objection — this is where the real debate lies.*",
+   "reply": "Feser explicitly grants that this is the *right kind* of objection: an atheist may argue that pure actuality, absolute simplicity, or essence identical with existence harbor some hidden incoherence. What he rejects is short-circuiting the arguments with a single question. This objection does the work: it engages the details.\n\nThe response therefore lies in the earlier material, especially chapter 6 and the discussion of divine simplicity and the attributes (ch6a, ch6b), rather than in this module. The practical lesson for conversation: welcome this objection — it shows the person has understood what the arguments actually claim.",
+   "pushback": "**One-liner:** “Good — that’s the real question. Let’s look at what pure actuality means and whether it’s contradictory, rather than asking what caused it.”\n\nIf pressed: work through one specific alleged incoherence (e.g., how a simple God can know many things) with the chapter 6 material, and note that analogical predication means divine knowledge need not have the composite structure human knowing has.",
+   "difficulty": 3
+  }
+ ],
+ "misconceptions": [
+  {
+   "myth": "The cosmological argument begins from the premise that everything has a cause.",
+   "correction": "No major defender — from Aristotle and Aquinas to Leibniz and Craig — uses that premise; some explicitly deny it. The premise belongs to a caricature spread by the Hume–Russell tradition."
+  },
+  {
+   "myth": "Saying God has no cause is special pleading — an arbitrary exception.",
+   "correction": "Each proof gives a principled reason: things need causes because they have potentials, parts, an essence distinct from existence, or contingency. God’s uncausedness follows from lacking exactly those features; it is the conclusion, not an exemption."
+  },
+  {
+   "myth": "First Cause arguments need the universe to have had a beginning.",
+   "correction": "The book’s arguments concern here-and-now hierarchical dependence and would hold even for a beginningless universe or multiverse. Only the kalām version argues for a beginning — and it argues for it rather than assuming it."
+  },
+  {
+   "myth": "If God can be uncaused, the universe can just as well be uncaused.",
+   "correction": "The universe has the features that require a cause (change, composition, contingency). And if it somehow were necessary and self-explanatory, it would be divine — which is pantheism, not atheism."
+  },
+  {
+   "myth": "Quantum mechanics has shown that events happen without causes.",
+   "correction": "At most it shows some causes are not deterministic. Quantum events occur only given contingent quantum laws and systems, which themselves need explanation."
+  },
+  {
+   "myth": "Whatever we can imagine separately could exist separately, so uncaused events are possible.",
+   "correction": "We can think of a triangle without thinking of it as three-sided, but no triangle can lack three sides. And (Anscombe) the imagined uncaused appearance is underdescribed until causation is brought back in."
+  },
+  {
+   "myth": "Explaining each member of a series by the previous one explains the whole series.",
+   "correction": "Sticks, mirrors, and Leibniz’s geometry books show that explaining each by its neighbor leaves the motion, the image, or the content of the whole unexplained. That inference is itself the fallacy of composition."
+  },
+  {
+   "myth": "The cosmological argument is a scientific hypothesis competing with physics, so science can replace it.",
+   "correction": "It is a metaphysical demonstration from features any physical theory presupposes. It doesn’t claim greater probability than rival theories; it claims no non-divine explanation is possible in principle."
+  },
+  {
+   "myth": "“Necessary being” means a being that exists by definition, as in the ontological argument.",
+   "correction": "The cosmological arguments claim metaphysical necessity grounded in God’s nature (pure act, simplicity, essence = existence), not definitional necessity. That is why Aquinas could reject the ontological argument while accepting the cosmological."
+  },
+  {
+   "myth": "Physicists like Krauss have shown how a universe can come from literally nothing.",
+   "correction": "Their starting points — empty space with energy, laws of quantum gravity, layers of laws — are all something, as Krauss himself admits. Nothing is simply the absence of anything."
+  },
+  {
+   "myth": "Feser’s point is that atheists who raise these objections are stupid or dishonest.",
+   "correction": "His target is a specific inherited habit: attacking a caricature without checking sources. He explicitly grants that serious objections exist (e.g., arguing that pure actuality is incoherent) and says a critic must engage the details."
+  },
+  {
+   "myth": "Showing that the popular objections fail proves the arguments are sound.",
+   "correction": "It shows only that these objections leave the arguments standing. Soundness depends on the premises defended in chapters 1–6, which remain open to real criticism."
+  }
+ ]
+}
