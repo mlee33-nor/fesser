@@ -59,6 +59,10 @@ def main():
                 break
 
     data = {"modules": modules, "docs": docs, "videoFiles": video_files, "hostedVideos": hosted_videos}
+    dpath = os.path.join(ROOT, "content", "diagrams.json")
+    if os.path.exists(dpath):
+        with open(dpath, encoding="utf-8") as f:
+            data["diagrams"] = json.load(f)
     if lexicon:
         data["lexicon"] = lexicon
     os.makedirs(os.path.join(ROOT, "data"), exist_ok=True)

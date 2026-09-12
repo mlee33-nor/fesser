@@ -1,0 +1,300 @@
+{
+ "summary": [
+  {
+   "heading": "11. Universals and abstract objects: realism, nominalism, conceptualism",
+   "plain": "Lots of different things are red, and lots of different things are triangular. Is redness itself something real, over and above the red things? Or is it just a word we use, or just an idea in our heads? Philosophers have three standard answers, and chapter 3 needs you to know them, because its whole argument is that two of the three fail.",
+   "body": "Look around a pool hall. There are many individual cues, many individual balls, one rack. Yet each cue is an instance of the same pattern, *being a pool cue*. Several balls share the pattern *redness* with stop signs and strawberries; all of them share *roundness* with basketballs and the moon; the rack shares *triangularity* with pyramids and dunce caps. Philosophers call such shared patterns **universals** — one pattern that many particular things can exhibit.\n\nThey are called **abstract** because in considering them we abstract from — leave out — the individualizing features of concrete things: that this triangle is wooden and green, that one metal and orange. An **abstract object**, in the philosopher’s sense, is not vague or hazy; it is something real that is not located in space, cannot be seen or touched, and does not enter into causal transactions. Chapter 3 identifies four families: **universals** (redness, triangularity, humanness); **propositions** (what a statement says, as opposed to the sentence used to say it — “Snow is white” and “Schnee ist weiss” are two sentences expressing one proposition); **numbers** and other mathematical objects (the numeral “2” is a label, not the number); and **possible worlds** (complete ways things could have been).\n\nNow the three positions.\n\n**Realism** says universals are real and exist independently of the human mind. Triangles would still all be three-sided if no one were around to notice.\n\n**Nominalism** (from Latin *nomen*, name) says only particular things exist; “redness” is just a name, a convenient label we apply to a bunch of individuals. There is no such thing as redness itself.\n\n**Conceptualism** says universals exist, but only as concepts in human minds. Triangularity is something we make when we form a general idea.\n\nChapter 3 argues that nominalism and conceptualism both fail, for reasons a beginner can appreciate. Mathematical and logical truths hold whether or not any human being thinks them; they held before there were humans and would hold if humanity vanished. Erase every instance of the sentence “Snow is white” in every language and the proposition it expressed is still true. So these things cannot be human concepts, and they cannot be mere names, because names are things we make.\n\nBut Feser also rejects the most famous version of realism. **Plato** placed the universals in a realm of their own — a “third realm” beside minds and physical things. Chapter 3 argues that this is unsatisfactory: such objects would be causally inert and disconnected from everything, and it becomes mysterious how we could ever come to know them. The alternative, developed from Augustine, is called **Scholastic realism**: universals and other abstract objects are real and mind-independent with respect to *our* minds, but they exist as ideas in an intellect — a divine intellect. That is the conclusion of the Augustinian proof.",
+   "takeaway": "Universals are the patterns many things share; realism says they are real independently of us, nominalism says they are only names, conceptualism says they are only human concepts — and chapter 3 argues that only a realism grounding them in a divine intellect survives.",
+   "deepDive": "**Why this feels strange at first, and why it shouldn’t.** Beginners often think the question is verbal fussing. Try this test instead. Before any human being existed, was it true that seven is prime, and that nothing can be both round and square? Almost everyone says yes. But if a truth requires a proposition, and a proposition is neither a physical object nor a human thought, then something real existed before us that was neither physical nor human-mental. That is not a trick; it is a genuine tension in the ordinary view of the world, and chapter 3 is the attempt to relieve it.\n\n**A worked example: the proposition versus the sentence.** Write “Snow is white” on a whiteboard. You can see the sentence — the ink. Now write “Schnee ist weiss.” Different ink, different shapes, same thing said. What you can see is the sentence; what the two share is the proposition. Erase both. Has the proposition stopped being true? Clearly not. So the proposition is not the ink. Nor is it your thought about snow, since your thought and mine are numerically different acts while what we think is the same. This is what motivates treating propositions as abstract objects.\n\n**The three positions as answers to one question.** Ask: when Socrates and Fido are both animals, what makes that true? The nominalist says: nothing beyond Socrates and Fido plus our habit of applying one word. The conceptualist says: our concept *animal*, which we formed. The realist says: a genuine pattern that both instantiate. Feser’s worry about the first two is the same in both cases — they make the truths of logic, mathematics, and science depend on us, when those truths are precisely the ones that seem most independent of us.\n\n**A nuance that trips people up.** “Mind-independent” in this debate means independent of *human* minds. Scholastic realism says universals are mind-independent in that sense while still existing in a mind — God’s. That is not a contradiction, though it sounds like one until you notice the qualification.\n\n**How it feeds the arguments.** Chapter 3 is the only one of the five that is not a causal argument at all, which is why Feser notes in chapter 7 that “what caused God?” is not even prima facie relevant to it. Its conclusion — a necessarily existing intellect — is then shown in chapter 6 to be the same God the other four proofs reach.\n\n**The usual confusion.** People assume “abstract object” means “imaginary” or “made up.” In philosophy it means the opposite of concrete: real, but not in space and time, and not causally interacting.",
+   "checks": [
+    {
+     "q": "Nominalism is the view that…",
+     "options": [
+      "universals exist only as concepts in human minds",
+      "universals exist in a realm of their own, apart from all minds",
+      "only particular things exist; universals are merely names we apply",
+      "universals exist as ideas in a divine intellect"
+     ],
+     "answer": 2,
+     "explanation": "Nominalism (from Latin nomen, name) denies that there is anything real corresponding to general terms. The other options describe conceptualism, Platonic realism, and Scholastic realism respectively.",
+     "level": "recall"
+    },
+    {
+     "q": "Why does Feser think propositions cannot be merely human thoughts?",
+     "options": [
+      "because human thoughts are private",
+      "because propositions can be written in many languages",
+      "because thoughts can be false and propositions cannot",
+      "because truths such as mathematical ones held before humans existed and would hold if humanity vanished"
+     ],
+     "answer": 3,
+     "explanation": "Conceptualism makes abstract truths depend on us, but such truths seem to hold independently of whether anyone ever thinks them. That is the key objection developed in chapter 3.",
+     "level": "understand"
+    },
+    {
+     "q": "Feser’s Augustinian proof rejects Plato’s version of realism mainly because…",
+     "options": [
+      "a realm of causally inert objects standing apart from everything leaves it mysterious how they relate to the world and how we know them",
+      "Plato’s Forms are too few in number",
+      "universals turn out not to exist after all",
+      "Plato was not a Christian"
+     ],
+     "answer": 0,
+     "explanation": "The objection is philosophical, not biographical: a free-floating third realm is disconnected and epistemically inaccessible. Grounding the objects in an intellect solves both problems.",
+     "level": "analyze"
+    }
+   ],
+   "terms": [
+    "Universal",
+    "Particular",
+    "Abstract object",
+    "Concrete object",
+    "Proposition",
+    "Realism (about universals)",
+    "Nominalism",
+    "Conceptualism",
+    "Scholastic realism",
+    "Form (Platonic)",
+    "Possible world",
+    "Intellect",
+    "Abstraction"
+   ]
+  },
+  {
+   "heading": "12. Parts and composition: what “simple” means in philosophy",
+   "plain": "In ordinary speech “simple” means easy. In philosophy it means something completely different: having no parts at all. A thing with parts depends on those parts and on whatever holds them together — so if something is going to be the ultimate explanation of everything else, it had better not be made of anything.",
+   "body": "Look at the chair you are sitting on. It has legs, screws, a frame, a seat, a cushion. It exists only if those parts exist and are arranged in the right way. Pile them in a heap and there is no chair. So a **composite** — anything made of parts — depends on its parts. This is not primarily a point about assembly over time. Your body’s organs were never manufactured separately and then bolted together; they developed together in the womb. And even a chair that had always existed would still depend, at every moment, on its parts existing and being arranged as they are.\n\nSo there are two dependencies, and the second is the one that matters: at any given instant, a composite thing exists only because its parts exist and are combined then. And the whole cannot be what combines them, because the whole's existence already presupposes that combining — that would be an explanatory circle. So there must be something distinct from the composite that accounts for its parts being united.\n\nHere is where the word gets technical. Something is **simple** in the philosophical sense when it has **no parts whatsoever** — not that it is easy to understand. Indeed, divine simplicity is one of the hardest doctrines in the book.\n\nAnd “parts” is meant more broadly than beginners expect. Besides **physical parts** (legs, atoms), the tradition counts **metaphysical parts** — the distinguishable principles within a thing that are not themselves separable objects:\n\n- **form and matter** in any physical substance;\n- **essence and existence** in anything contingent;\n- **substance and accidents** — the thing itself and the features it has;\n- **actuality and potentiality** in anything changeable;\n- **genus and specific difference** — being an animal, plus being rational.\n\nSo when chapter 2 argues that the ultimate cause of composite things must be absolutely simple, it is claiming something very strong: no physical parts, no matter, no accidents distinct from its substance, no potentiality distinct from its actuality, no essence distinct from its existence. That is why Feser can say, in chapter 6, that the five proofs converge — each identifies one kind of composition and eliminates it.\n\nOne consequence worth noting now, because it prevents much later confusion. If God is absolutely simple, then God’s power, knowledge, and goodness are not three separate components bolted together. They are one reality, which we grasp in several incomplete ways through several different concepts. Lesson 14, on analogy, explains how that can be coherent.\n\nSimplicity is not a fringe view. Feser stresses that it has been insisted on across the tradition — by pagans like Aristotle and Plotinus, Jews like Maimonides, Muslims like Avicenna and Averroes, Christians like Augustine, Anselm, and Aquinas — and that it is the core of **classical theism**.",
+   "takeaway": "A composite thing depends at every moment on its parts and on whatever unites them, so the ultimate cause must be simple — having no parts at all, physical or metaphysical — which is why the five proofs converge on one and the same conclusion.",
+   "deepDive": "**The explanatory-circle argument, slowly.** The chair exists only because its parts exist and are arranged chairwise at this moment. Could the chair itself be what arranges them? No: to do any arranging it would have to exist already, and its existing already presupposes the arrangement. So we would be explaining the arrangement by something whose existence the arrangement explains — a vicious circle. Hence something *outside* the composite must account for the union of its parts. Chapter 2 then asks what accounts for *that* thing, generating a hierarchical series that can only terminate in something with no parts to be united in the first place.\n\n**Why “metaphysical parts” is not cheating.** A newcomer may protest: form and matter are not parts the way legs are; you cannot put them in separate boxes. Correct — and the tradition agrees. They are called **principles**: really distinct aspects within one thing, neither of which exists on its own. The argument does not need them to be separable. It needs only that they are really distinct, so that their being together in one thing is a fact requiring explanation. That is exactly the point chapter 4 establishes for essence and existence.\n\n**A worked example.** Consider yourself. You have physical parts (organs). You have matter and a form organizing it. You have accidents (your current mood) distinct from you. You have potentials (to learn Greek) unrealized. You have an essence, and the separate fact that you exist. Six kinds of composition, each of which is a dependency. Remove them all and what is left is not a very impressive being — it is not a being of that sort at all. That is the point of insisting that God is not an item on the list of things, but sheer actuality.\n\n**The qualification Feser adds.** Simplicity does not mean God lacks the perfections we attribute to him, or that our different words for God are all synonyms. It means those perfections are not distinct constituents. The hardest form of this objection comes from Alvin Plantinga, who argues that if God is identical with each of his properties then God has only one property and is himself a property — an abstract object. Chapter 6 answers that this misreads the doctrine by importing a Platonic account of properties and a univocal account of religious language, neither of which classical theists accept.\n\n**How it feeds the argument.** This is what secures the simplicity conclusion of chapter 2 and, by way of it, the immutability, immateriality, eternity and unity of God that the later stages derive.\n\n**The usual confusion.** People read “God is simple” as “God is easy to understand,” which is nearly the reverse of the truth. Feser holds that God is **incomprehensible** — not fully graspable by a finite intellect — precisely because of what simplicity involves.",
+   "checks": [
+    {
+     "q": "In philosophy, to say something is “simple” means that it…",
+     "options": [
+      "has no parts of any kind",
+      "is easy to understand",
+      "has only one physical part",
+      "is uncomplicated in behaviour"
+     ],
+     "answer": 0,
+     "explanation": "Philosophical simplicity is non-compositeness — no physical or metaphysical parts. It has nothing to do with ease of understanding; Feser in fact holds God to be incomprehensible.",
+     "level": "recall"
+    },
+    {
+     "q": "Which of the following counts as a metaphysical part?",
+     "options": [
+      "a chair’s legs",
+      "an animal’s heart",
+      "the distinction between a thing’s essence and its existence",
+      "a book’s pages"
+     ],
+     "answer": 2,
+     "explanation": "Metaphysical parts are really distinct principles within one thing — form and matter, essence and existence, act and potency — not separable physical components.",
+     "level": "understand"
+    },
+    {
+     "q": "Why can’t a composite thing be the cause of its own parts being united?",
+     "options": [
+      "because parts are always older than wholes",
+      "because that would be circular: the whole exists only given the union it is supposed to explain",
+      "because composites have no causal powers at all",
+      "because the parts might be infinite in number"
+     ],
+     "answer": 1,
+     "explanation": "The whole’s existence presupposes that the parts are already combined, so it cannot be what combines them. Something distinct from the composite must account for the union.",
+     "level": "analyze"
+    }
+   ],
+   "terms": [
+    "Composite",
+    "Simplicity (divine)",
+    "Metaphysical parts",
+    "Physical parts",
+    "Principle (metaphysical)",
+    "Form",
+    "Matter",
+    "Essence",
+    "Existence",
+    "Classical theism",
+    "Incomprehensibility",
+    "Explanatory circle"
+   ]
+  },
+  {
+   "heading": "13. Classical theism versus “a very powerful being”: the single biggest source of confusion",
+   "plain": "Most arguments about God go nowhere because the two sides mean different things by the word. Many people — believers and atheists alike — picture God as an extremely impressive being: very powerful, very knowing, very good, but still a being, one item among the things that exist. That is not what this book is defending. Classical theism says God is not an item in the universe’s inventory at all, but pure actuality, the source of the existence of everything else.",
+   "body": "Here is the view Feser defends, attribute by attribute, in the plainest terms available.\n\n- **Pure actuality**: God has no unrealized potentials. He is not a thing that *could* become something else. All the other attributes fall out of this one.\n- **Simplicity**: no parts, physical or metaphysical. God’s essence just *is* his existence; his power and knowledge are not distinct components.\n- **Immutability**: unchanging — because to change is to have a potential actualized, and there are none.\n- **Eternity**: not merely everlasting in time, but outside time altogether. Something in time undergoes change, and God does not.\n- **Necessity**: could not possibly have failed to exist, because there is nothing in him that could have been otherwise.\n- **Omnipotence**: being that from which all causal power derives — not “can do absolutely anything, including contradictions.”\n- **Omniscience**: knowing all things, because the forms or patterns of everything caused must in some way be in the cause.\n- **Perfect goodness**: to fall short of goodness is to fail to actualize something one could have; pure actuality has no such shortfall.\n- **Immateriality and incorporeality**: matter involves potentiality, so what is purely actual cannot be material.\n- **Unity**: there cannot even in principle be two such beings, since differentiating them would require a feature one has and the other lacks — and each would then be “pure actuality PLUS something,” hence not pure actuality.\n\nNow the contrast. Philosophers have coined the labels **theistic personalism** and **neo-theism** for a family of contemporary views that treat God as, in effect, the unique member of a species falling under the genus *person*, alongside human beings and angels, differing from them by lacking their limitations in power, knowledge, and goodness. Feser is careful about what the disagreement is and is not. It is **not** that classical theists deny God is personal — most attribute intellect and will to God and regard him as personal. The disagreement is that theistic personalists take God’s being personal to entail that he falls under a genus, and so is not simple. Some go further: process theologians such as Charles Hartshorne deny God is immutable, holding that God changes as persons do. But to be changeable is to have potentials as well as actualities, and so to be composite rather than simple.\n\nWhy does this matter so much for a beginner? Because almost every popular objection to theism is aimed at the personalist picture. “God is just a bigger version of us.” “Who designed the designer?” “God is an unnecessary extra entity — Ockham’s razor shaves him off.” Each of these presupposes that God is one being among others, subject to the same questions. Against classical theism they do not land, because the arguments conclude to something that could not in principle be another item in the inventory.\n\nFeser makes the point with real force: on classical theist premises, to deny that anything is simple or non-composite would effectively be to deny that there is anything with the ultimacy that makes something God at all.",
+   "takeaway": "Classical theism holds that God is pure actuality — simple, immutable, eternal, necessary, omnipotent, omniscient, perfectly good, and the unique source of all power and existence — not an extremely impressive being alongside others, which is what theistic personalism makes him.",
+   "deepDive": "**Getting the disagreement exactly right.** It is tempting, and wrong, to summarize the difference as “classical theists think God is impersonal.” Feser explicitly denies this. Classical theists attribute intellect and will to God; the Augustinian proof concludes to a divine *intellect*. The real difference is structural: does God fall under a genus, as one kind of person among possible kinds? If yes, he has an essence distinct from what differentiates him within the genus, hence composition, hence dependence — and hence, on the arguments of this book, he is not the ultimate explanation at all but one more thing needing one.\n\n**Why omnipotence is not “can do anything.”** A beginner asked whether God can make a square circle usually expects a squirm. The classical answer is that a square circle is not a thing God cannot do; it is not a thing at all — the words describe nothing. Feser’s derivation is more interesting than the usual formula: to have power is to be able to actualize potentials; every actualized potential traces to the purely actual actualizer; therefore all power derives from it; and to be that from which all power derives is what omnipotence means. Omnipotence is thus a *conclusion*, not a definition chosen in advance.\n\n**A worked example of the confusion in action.** Someone says: “Adding God to your explanation of the universe violates Ockham’s razor — you have posited an extra entity.” Notice the assumption: God is an entity, of the same general sort as electrons and galaxies, and we are counting. On classical theism, what the arguments conclude to is not a further item on the list but that in virtue of which anything is on the list at all. Whether the arguments succeed is a fair question; whether they posit an ordinary extra entity is not.\n\n**Why the derivations matter more than the list.** You could memorize the ten attributes and still miss the point. Almost all of them are derived from pure actuality by the same move: attribute X would require an unactualized potential; there are none; therefore X’s opposite. That is the pattern of steps 19–32 in chapter 1’s formal argument. If you learn the pattern you can reconstruct the list.\n\n**The usual confusion.** People assume classical theism is a later, colder, more abstract development, and personalism the original, warm, biblical view. Feser argues the reverse: divine simplicity is the mainstream of the Western tradition across pagan, Jewish, Muslim, and Christian thinkers and was taught as binding doctrine by two Catholic councils; theistic personalism is the recent departure.",
+   "checks": [
+    {
+     "q": "What distinguishes theistic personalism from classical theism?",
+     "options": [
+      "theistic personalism denies God exists",
+      "classical theism denies God is personal, while theistic personalism affirms it",
+      "theistic personalism takes God to fall under a genus and so to be composite rather than simple",
+      "classical theism denies God is good"
+     ],
+     "answer": 2,
+     "explanation": "Feser is explicit that the difference is not over whether God is personal — most classical theists attribute intellect and will to God. It is over whether God falls under a genus and is composite.",
+     "level": "understand"
+    },
+    {
+     "q": "In classical theism, God’s eternity means that God…",
+     "options": [
+      "will exist for an infinitely long time",
+      "exists outside of time altogether, since existing in time would involve change",
+      "began at the Big Bang and continues forever",
+      "experiences time faster than we do"
+     ],
+     "answer": 1,
+     "explanation": "Eternity here is timelessness, not endless duration. Step 22 of chapter 1’s argument reasons that existing in time would involve change, which pure actuality excludes.",
+     "level": "understand"
+    },
+    {
+     "q": "An atheist argues: “Positing God adds an extra entity, so Ockham’s razor tells against it.” The classical theist’s most accurate reply is:",
+     "options": [
+      "Ockham’s razor is a discredited principle",
+      "God is a simpler entity than the universe, so the razor favours theism",
+      "the argument concludes not to a further item in the inventory of things but to that in virtue of which anything exists at all",
+      "we should multiply entities whenever it is convenient"
+     ],
+     "answer": 2,
+     "explanation": "The objection presupposes the theistic-personalist picture of God as one being among others. Classical theism denies that framing; the conclusion is the source of existence, not another instance of it.",
+     "level": "analyze"
+    }
+   ],
+   "terms": [
+    "Classical theism",
+    "Theistic personalism",
+    "Neo-theism",
+    "Pure actuality",
+    "Simplicity (divine)",
+    "Immutability",
+    "Eternity",
+    "Necessity (divine)",
+    "Omnipotence",
+    "Omniscience",
+    "Perfect goodness",
+    "Immateriality",
+    "Incorporeality",
+    "Ockham's razor",
+    "Process theology",
+    "Genus"
+   ]
+  },
+  {
+   "heading": "14. Analogy: univocal, equivocal, and analogical talk about God",
+   "plain": "If God is nothing like anything else, how can our words apply to him at all? The classical answer is that words like “good” and “wise” are used of God neither in exactly the sense they have for us, nor in a totally unrelated sense, but in a related, stretched sense — the way “good” means something different yet related in “good wine” and “good man.” That middle option is called analogy, and getting it straight defuses a surprising number of objections.",
+   "body": "There are three ways a word can be used across two cases.\n\n**Univocal** — exactly the same sense. “Fido is a dog” and “Rover is a dog.” The word means one thing in both.\n\n**Equivocal** — completely different and unrelated senses that happen to share a spelling. “A bat flew around the attic” and “I swung the bat at it.” Nothing but the noise is shared.\n\n**Analogical** — an in-between usage: related but not identical senses. “This wine is still good” and “George is a good man.” The goodness of wine is not the goodness of a man; a good man is not merely un-spoiled. Yet the two are not unrelated either: in each case something is functioning well and completely as the kind of thing it is.\n\nClassical theists say our talk of God is **analogical**. When we call God good, wise, or powerful, we are not saying he has exactly what we call goodness, wisdom and power in us — that would be univocal talk, and would make God a being of our kind with the limits removed. Nor are we speaking pure nonsense or metaphor — that would be equivocal, and would make theology empty noise. We are saying that there is in God something genuinely analogous to what goodness and knowledge are in us.\n\nTwo points that Feser is careful about and that beginners usually get wrong.\n\nFirst: **analogical is not the same as metaphorical.** When we say “God is a rock,” that is metaphor. When we say “God is good,” that is a *literal* claim used analogically. Feser objects to Plantinga's rendering of Aquinas’ view as the thesis that our language about God is “analogical rather than literal.” Non-univocal does not entail non-literal.\n\nSecond: **analogy is also at work far below theology.** Feser introduces it in chapter 2 and develops it in chapter 6 under the heading “the analogy of being.” Consider a stone and the stone's colour and shape. Both the stone and its colour are real — but the reality of a colour is not the same kind of reality as the reality of a stone, since a colour exists only *in* something else. We use “real” and “exists” analogically all the time without noticing.\n\nWhy does this matter so much? Because a great many objections to classical theism are powered by an unnoticed assumption of univocity. If “knowledge” and “power” mean in God precisely what they mean in us, then since our knowledge and our power are distinct things, God's must be too — and divine simplicity collapses. That is exactly the shape of Plantinga’s objection in chapter 6, and Feser's reply is that the assumption of univocity is not one classical theists ever granted. Similarly, if “person” means the same for God and for us, then God is one more person among persons, and the atheist’s “one god further” jibe gets traction. Analogy blocks these moves not by evasion but by insisting on a distinction the tradition drew long before the objections were framed.",
+   "takeaway": "Words applied to God are used neither univocally (the same sense as in us) nor equivocally (an unrelated sense) but analogically — a related, literal, stretched sense — and many standard objections to classical theism quietly assume univocity.",
+   "deepDive": "**The pressure that makes analogy necessary.** Run the alternatives and watch both fail. Suppose our words apply to God univocally. Then God's goodness is the same kind of thing as human goodness, differing only in degree. But human goodness is an accident of a composite being, limited and capable of increase. A God of whom that is literally true is composite, and the arguments of chapters 1–5 show that such a thing needs a cause. Now suppose our words apply equivocally. Then calling God good conveys no more than calling him *blorp*; every theological sentence becomes noise, and the conclusions of the proofs would be unstatable. Analogy is what is left when both extremes are excluded — not a convenient fudge, but the only remaining option.\n\n**A worked example to run on yourself.** Take “healthy.” A person is healthy. A diet is healthy. A complexion is healthy. These are not the same sense: a diet does not have a pulse. But they are not unrelated either — the diet causes health, the complexion signifies it, the person possesses it. The tradition calls this the **analogy of attribution**. Something similar happens with “good,” where the relation is one of proportion rather than causation: as a knife’s sharpness is to a knife, so a person’s justice is to a person. That is the **analogy of proper proportionality**. You do not need to memorize the labels, but you should notice that ordinary language already does this constantly and nobody finds it mysterious.\n\n**The nuance Feser insists on.** Analogical predication is literal. To say “God is wise” is to make a true, literal claim about God. What is denied is only that “wise” carries precisely the content it carries when said of Socrates. Keep those apart and you will avoid the common misreading that classical theism is a genteel form of agnosticism.\n\n**How it feeds the arguments.** Analogy is one of three background principles Feser sets out at the start of chapter 6, alongside the principle of proportionate causality and *agere sequitur esse*. All three are then used to derive the divine attributes from the nature of the world considered as an effect. Without analogy, the derivations in chapter 1’s steps 28–47 would generate contradictions rather than conclusions.\n\n**The usual confusion.** People take “we speak of God analogically” to mean “we don’t really know what we are saying.” It means almost the opposite: we know what we are saying, and we also know that the reality exceeds the way our concepts carve it up.",
+   "checks": [
+    {
+     "q": "“There was a bat in the attic” and “I swung the bat.” This is an example of…",
+     "options": [
+      "equivocal use",
+      "univocal use",
+      "analogical use",
+      "metaphorical use"
+     ],
+     "answer": 0,
+     "explanation": "Equivocal terms share only a spelling or sound; the senses are wholly unrelated. Univocal use would be identical sense, analogical a related but not identical sense.",
+     "level": "recall"
+    },
+    {
+     "q": "Feser insists that analogical language about God is…",
+     "options": [
+      "purely metaphorical",
+      "literal, though not univocal",
+      "univocal but imprecise",
+      "meaningless but psychologically useful"
+     ],
+     "answer": 1,
+     "explanation": "Non-univocal does not entail non-literal. Feser criticises the characterization of Aquinas’ view as the thesis that God-talk is analogical rather than literal; the analogy of attribution and of proper proportionality are literal uses.",
+     "level": "understand"
+    },
+    {
+     "q": "An objector argues: “Power and knowledge are distinct in us, so they must be distinct in God; divine simplicity is therefore incoherent.” Which assumption is doing the work?",
+     "options": [
+      "that God exists",
+      "that knowledge is a kind of power",
+      "that God has parts",
+      "that ‘power’ and ‘knowledge’ apply univocally to God and to us"
+     ],
+     "answer": 3,
+     "explanation": "The inference only goes through if the terms mean exactly the same thing in both cases. Classical theists apply them analogically, so what is distinct in us need not be distinct in God.",
+     "level": "analyze"
+    }
+   ],
+   "terms": [
+    "Univocal",
+    "Equivocal",
+    "Analogical",
+    "Analogy of attribution",
+    "Analogy of proper proportionality",
+    "Analogy of being",
+    "Metaphor",
+    "Predication",
+    "Simplicity (divine)",
+    "Incomprehensibility"
+   ]
+  },
+  {
+   "heading": "15. How to read Feser’s book: the two-stage pattern, the fifty-step wall, and a routine that works",
+   "plain": "The book has a repeating shape, and once you see it you will always know where you are. Each of the first five chapters tells the argument twice — first in a relaxed, chatty way, then as a numbered list — and then answers objections. The numbered lists can look terrifying. They are not; they are just a summary of what you already read, in bullet form. Here is a routine for getting through it without panic.",
+   "body": "**The architecture.** Feser explains it himself in the Introduction, and it holds for chapters 1 through 5.\n\n1. **Informal statement, Stage 1** — a discursive, leisurely argument that something exists fitting a key description: a purely actual actualizer, an absolutely simple cause, a divine intellect, a cause whose essence is existence, a necessary being.\n2. **Informal statement, Stage 2** — an argument that anything fitting that description must have the divine attributes: unity, immateriality, eternity, omnipotence, omniscience, perfect goodness. This is the stage that answers “sure, but why call *that* God?”\n3. **Formal statement** — the same reasoning as an explicit numbered list, so the logical structure is visible. Chapter 1’s runs to fifty steps.\n4. **Objections** — often the most technical material in the chapter.\n\nFeser describes the method as starting at the shallowest part of the shallow end and ending in the deepest part of the deep end. Expect that. If a chapter gets hard near the end, that is the design working, not you failing.\n\n**How to face a fifty-step argument calmly.** Four habits help enormously.\n\n- **Remember it is a recap.** The formal statement introduces no new material. If a step baffles you, the explanation is in the informal pages you already read.\n- **Find the joints.** Long arguments come in blocks. In chapter 1: steps 1–5 set up change and the principle of causality; 6–14 run the hierarchical-series argument to a purely actual actualizer; 15–18 establish uniqueness; and 19–47 derive the attributes one at a time. Nobody reads fifty steps as fifty; read four blocks.\n- **Label every step.** Each is a premise, an inference, or the conclusion. For inferences, write in the margin which earlier steps it comes from. Steps beginning “So,” are inferences; they need no independent defence, only a valid link.\n- **Attack, don’t absorb.** After each block ask: which single step here would I challenge first? Even if you end up agreeing, you will understand far more.\n\n**A reading routine for each module of this course.**\n\n1. **Prepare here.** Read the module’s plain-English summaries, then the full bodies, then the deep dives. Do the section checks.\n2. **Watch the video.** Each module has a study document for NotebookLM, which will generate a video overview. Watch it before reading the chapter, as an orientation.\n3. **Read the chapter**, using the module’s reading map to know which pages deserve slow attention and which can be skimmed first time.\n4. **Come back and practise.** Work the argument walkthrough, the objections, the quiz, the flashcards, and the teach-back challenge.\n\n**Taking notes that are worth having.** Skip highlighting; it feels productive and teaches little. Instead keep a running page with four columns for each chapter: *terms* (word, one-line definition, the page where it was introduced); *steps* (the numbered argument in your own compressed words); *objections* (objection, reply, how convinced you are, 1–5); and *questions* (things you did not follow, with page numbers, to revisit after the chapter). If you can produce those four columns for a chapter, you have understood it.",
+   "takeaway": "Every proof chapter runs informal Stage 1, informal Stage 2, formal numbered statement, then objections — so the numbered argument is always a recap, best read in blocks with each step labelled as premise, inference, or conclusion.",
+   "deepDive": "**Why the two stages exist, and why Stage 2 is the one people skip.** Beginners often stop at Stage 1, satisfied or unsatisfied, and never engage Stage 2. That is a mistake, because the standard complaint — “even if you got to some first cause, why think it’s *God*, rather than a brute force or an undetected particle?” — is exactly what Stage 2 answers. Feser's strategy is to show that anything fitting the Stage 1 description must, by the same metaphysics, be one, immaterial, eternal, omnipotent, omniscient, and perfectly good. If you do not follow Stage 2 you will not be able to answer the most common objection you will meet in conversation.\n\n**Working a formal step properly — a demonstration.** Take step 11 of chapter 1: a regress of concurrent actualizers would constitute a hierarchical causal series, and such a series cannot regress infinitely. Ask four questions of it. *What kind of step is it?* A premise, resting on the earlier informal argument. *What does it claim, in my own words?* That a stack of borrowers cannot go on forever, because borrowing never creates what is borrowed. *What is the natural objection?* That an infinite series needs no first member — every member has a predecessor, so every member is accounted for. *What is the reply?* That this works for linear series but not hierarchical ones: an infinitely long paintbrush handle still does not paint, and an infinite stack of desks holds up nothing. Four questions, three minutes, and the step is yours. Do that for the steps that carry weight — usually the premises, rarely the inferences.\n\n**What to skim on a first pass.** Feser says the objection sections are in some cases where the most technical material appears. On a first read of chapter 1 you can skim the discussions of Newton, Einstein and quantum mechanics (roughly pages 43–63) and return later; the same goes for Kenny’s objection in chapter 4 and the Leftow and Grim material in chapter 3. Skimming with intent to return is a reading strategy, not a retreat.\n\n**A pacing suggestion.** At perhaps twelve to fifteen pages an hour with notes, chapter 1 is four or five sittings, not one. Chapter 6 is eighty pages and should be split; this course splits it into two modules for exactly that reason.\n\n**The usual confusion.** People treat the numbered argument as the real argument and the informal pages as throat-clearing. It is closer to the reverse: the informal statement carries the justification, the numbered statement carries the structure. You need both, and you should read them in that order.",
+   "checks": [
+    {
+     "q": "In each of the first five chapters, what does Stage 2 of the informal statement do?",
+     "options": [
+      "argues that whatever fits the Stage 1 description must have the divine attributes",
+      "answers objections from critics",
+      "restates the argument as a numbered list",
+      "surveys the history of the argument"
+     ],
+     "answer": 0,
+     "explanation": "Stage 1 argues that something fitting a key description exists; Stage 2 argues that anything fitting it must have attributes such as unity, eternity, omnipotence, omniscience, and perfect goodness.",
+     "level": "recall"
+    },
+    {
+     "q": "A step in the formal argument that begins “So, …” is most likely…",
+     "options": [
+      "a premise needing independent defence",
+      "an objection",
+      "an inference drawn from earlier steps",
+      "a definition"
+     ],
+     "answer": 2,
+     "explanation": "“So” is an inference indicator. Such steps need only a valid link to earlier steps; the independent defence belongs to the premises.",
+     "level": "apply"
+    },
+    {
+     "q": "What is the best first response to feeling overwhelmed by a fifty-step argument?",
+     "options": [
+      "read all fifty steps repeatedly until they stick",
+      "skip the formal statement entirely",
+      "start with the objections section instead",
+      "recall that it recaps the informal pages, and break it into blocks of steps that do one job each"
+     ],
+     "answer": 3,
+     "explanation": "The formal statement introduces nothing new. Reading it as four or five functional blocks, each with a job, makes a long argument tractable.",
+     "level": "apply"
+    }
+   ],
+   "terms": [
+    "Informal statement",
+    "Formal statement",
+    "Stage 1",
+    "Stage 2",
+    "Premise",
+    "Inference",
+    "Conclusion",
+    "Indicator words",
+    "Demonstration",
+    "Divine attributes"
+   ]
+  }
+ ]
+}

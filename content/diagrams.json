@@ -503,43 +503,6 @@
       ]
     },
     {
-      "id": "proportionate-causality-20-dollars",
-      "title": "Three ways a cause can have what it gives: the $20",
-      "caption": "A cause cannot give what it hasn't got — but 'having' comes in three grades. This is what licenses the step from cause of all things to intelligence.",
-      "where": "The principle of proportionate causality: the $20 gift",
-      "kind": "compare",
-      "columns": [
-        {
-          "label": "Formally",
-          "sub": "has the very thing itself",
-          "items": [
-            "A $20 bill is in my wallet and I hand it to you",
-            "I am myself an instance of what you end up with",
-            "Fire has heat formally, and heats the pan"
-          ]
-        },
-        {
-          "label": "Virtually",
-          "sub": "has the power to lay hands on it",
-          "items": [
-            "No cash on me, but $20 sits in my bank account",
-            "Or I can borrow it, or work an hour for it",
-            "I don't hold the thing; I hold the ability to get it"
-          ]
-        },
-        {
-          "label": "Eminently",
-          "sub": "has something higher — can make it exist",
-          "items": [
-            "Congress lets me print my own legal $20 bills",
-            "Not just getting hold of one — bringing one into being",
-            "A greater way of having it, not a lesser one"
-          ]
-        }
-      ],
-      "note": "The principle of proportionate causality says whatever is in an effect must be in its cause in one of these three ways. God is not a stone or a tree formally — being immaterial, he cannot be — but the patterns of every possible thing are in him eminently, as plans are in an architect's mind."
-    },
-    {
       "id": "anatomy-what-caused-god",
       "title": "Objection anatomy: 'What caused God?'",
       "caption": "The most popular objection to any first-cause argument, and the one that misses hardest. Watch where the premise gets swapped.",
@@ -628,6 +591,425 @@
       ],
       "breaks": "It lumps Aristotle's dated astronomy and physics together with his metaphysics. Geocentrism was an empirical claim, and it lost. That change is the actualization of a potential is not an empirical claim at all — and every experiment already presupposes it.",
       "reply": "Yes, Aristotle's astronomy is dead, and good riddance. But 'change is a potential being made actual' isn't competing with any experiment; it is what doing an experiment already assumes, since setting one up and then reading the result means going from not knowing to knowing. You can't refute it with science, because doing science is an instance of it."
+    }
+  ],
+  "ch6a": [
+    {
+      "id": "formally-virtually-eminently",
+      "title": "Three ways a cause can have what it gives",
+      "caption": "A cause cannot give what it hasn't got — but 'having' comes in three grades. Feser's $20 example, laid out.",
+      "where": "The principle of proportionate causality: formally, virtually, eminently",
+      "kind": "compare",
+      "columns": [
+        {
+          "label": "Formally",
+          "sub": "has the very thing itself",
+          "items": [
+            "A $20 bill is in my wallet and I hand it to you",
+            "I am myself an instance of what you end up with",
+            "Fire is hot, and that is how it makes the pan hot"
+          ]
+        },
+        {
+          "label": "Virtually",
+          "sub": "has the power to lay hands on it",
+          "items": [
+            "No cash on me, but $20 sits in my bank account",
+            "I hold no bill; I hold the ability to get one",
+            "A boy need not have a black eye to give one"
+          ]
+        },
+        {
+          "label": "Eminently",
+          "sub": "has something higher — can make it exist",
+          "items": [
+            "I can have a genuine $20 bill printed on demand",
+            "Not getting hold of one — bringing one into being",
+            "A greater way of having it, not a lesser one"
+          ]
+        }
+      ],
+      "note": "Whatever is in an effect must be in its total cause in one of these three ways. Cottingham's counterexamples (helium from hydrogen, sponginess from eggs and flour) only ever look at the materials, and the principle was never about materials alone."
+    },
+    {
+      "id": "agere-sequitur-esse",
+      "title": "Action follows being",
+      "caption": "The companion principle to proportionate causality: what a thing does can never outrun what it is. It is what closes the door on 'potential in God's activity'.",
+      "where": "Agere sequitur esse: action follows being",
+      "kind": "flow",
+      "nodes": [
+        {
+          "text": "A thing's nature is what makes it the kind of thing it is",
+          "step": 1
+        },
+        {
+          "text": "What a thing does flows from what it is",
+          "step": 2,
+          "note": "Eyes and ears work differently because they are built differently. Plants feed, grow and reproduce; stones do not, because stones are not alive."
+        },
+        {
+          "text": "So its activities cannot go beyond its nature",
+          "step": 3,
+          "note": "A stone cannot take in nutrients under its own power. Anything that could would not be a stone in the first place."
+        },
+        {
+          "text": "Otherwise the surplus activity would have no explanation",
+          "step": 4,
+          "note": "The same shape of reasoning as proportionate causality, shifted from efficient causes to natures."
+        },
+        {
+          "text": "Now: God's very existence is purely actual",
+          "step": 5
+        },
+        {
+          "text": "So his acting cannot involve potentiality either",
+          "step": 6,
+          "note": "Existence is what is most basic about a thing; everything else follows from it. There is nowhere for potentials-for-activity to come from."
+        }
+      ]
+    },
+    {
+      "id": "univocal-equivocal-analogical",
+      "title": "Three ways to use a word",
+      "caption": "The distinction that lets us say something true about God without turning him into a large man or into a blank. Analogy is literal, not metaphor.",
+      "where": "The analogy of being: univocal, equivocal, analogical",
+      "kind": "compare",
+      "columns": [
+        {
+          "label": "Univocal",
+          "sub": "exactly the same sense both times",
+          "items": [
+            "'Fido is a dog' and 'Rover is a dog'",
+            "One concept, applied in the very same way",
+            "Said of God: he becomes a bigger version of us"
+          ]
+        },
+        {
+          "label": "Equivocal",
+          "sub": "totally unrelated senses",
+          "items": [
+            "'A bat flew past' and 'I swung the bat'",
+            "Two unconnected concepts wearing one word",
+            "Said of God: the words carry no content at all"
+          ]
+        },
+        {
+          "label": "Analogical",
+          "sub": "related, but not identical, senses",
+          "items": [
+            "'This wine is good' and 'George is a good man'",
+            "'I see the tree' and 'I see that the proof works'",
+            "Said of God: literal, positive, and not univocal"
+          ]
+        }
+      ],
+      "note": "Analogy was not invented to rescue theology. We already use it for goodness, life and seeing. Physics uses it too — calling one thing both wave and particle, or calling space itself curved."
+    },
+    {
+      "id": "why-being-is-analogical",
+      "title": "The argument that 'being' is analogical",
+      "caption": "Feser grounds analogy in the act/potency distinction from chapter 1 — so it stands independently of any argument for God.",
+      "where": "The argument that being is analogical",
+      "kind": "flow",
+      "nodes": [
+        {
+          "text": "Actuality is real — it has being",
+          "step": 1,
+          "note": "Deny this and you are Heraclitus: nothing stable at all, not even the self who follows your argument to its conclusion."
+        },
+        {
+          "text": "Potentiality is real too — it has being",
+          "step": 2,
+          "note": "Deny this and you are Parmenides: change would be something out of nothing, and change cannot coherently be denied."
+        },
+        {
+          "text": "Potentiality is really distinct from actuality",
+          "step": 3
+        },
+        {
+          "text": "If both had being in one sense, they would not be distinct",
+          "step": 4,
+          "note": "Then potentiality would just be a kind of actuality, or the other way round."
+        },
+        {
+          "text": "If potentiality's sense were unrelated, it would be unreal",
+          "step": 5
+        },
+        {
+          "text": "Univocal, equivocal, analogical exhaust the options",
+          "step": 6
+        },
+        {
+          "text": "So 'being' is said of things analogically",
+          "step": 7,
+          "note": "Which is why we can say something literal and positive about a God who shares no genus with anything we have met."
+        }
+      ]
+    },
+    {
+      "id": "one-god-five-paths",
+      "title": "Five proofs, one God",
+      "caption": "Each of these descriptions holds if and only if the others do. So the five arguments do not stack up five deities — they circle one, seen from five angles.",
+      "where": "One God, five paths",
+      "kind": "tree",
+      "root": {
+        "text": "Purely actual, with no potentiality",
+        "note": "The terminus of the Aristotelian proof of chapter 1. Every branch below is equivalent to it, and each is where a different proof ended up."
+      },
+      "branches": [
+        {
+          "text": "Absolutely simple — the One of chapter 2",
+          "why": "Anything with parts is only potentially a whole until combined, so what is purely actual has no parts. And whatever is simple can have no merely potential part. Each entails the other."
+        },
+        {
+          "text": "Subsistent existence itself — chapter 4",
+          "why": "Where essence and existence differ they stand as potential to actual. Pure actuality rules that out, so here essence just is existence. And what just is existence cannot depend on anything."
+        },
+        {
+          "text": "Absolutely necessary — chapter 5",
+          "why": "Contingency would mean a potential for existence waiting to be actualized, or parts waiting to be combined. Neither is on offer. And a necessary being can have neither."
+        },
+        {
+          "text": "A necessarily existing intellect — chapter 3",
+          "why": "The Augustinian proof needs universals, numbers and propositions to reside in a necessarily existing mind — and there is only one necessary being to be that mind."
+        },
+        {
+          "text": "Unique — there cannot be a second",
+          "why": "Two of a kind need genus plus difference, or matter plus essence, and that means parts and so potentiality. With no parts, there is nothing left to tell a second one apart."
+        }
+      ]
+    },
+    {
+      "id": "attributes-from-simplicity",
+      "title": "What follows from pure actuality and simplicity",
+      "caption": "Every attribute in this chapter is read off one root. Simplicity is not a curiosity bolted on at the end — it is what makes God God rather than the greatest creature.",
+      "where": "Simplicity: the heart of classical theism",
+      "kind": "tree",
+      "root": {
+        "text": "Purely actual, and so absolutely simple",
+        "note": "Two ways of saying one thing: whatever has parts is potential until combined, and whatever has no potentiality can have no parts."
+      },
+      "branches": [
+        {
+          "text": "One",
+          "why": "A second would need some feature marking it off, and any such feature means genus and difference, or matter and essence — parts, and so potentiality."
+        },
+        {
+          "text": "Simple — no parts, not even essence and existence",
+          "why": "Parts are merely potentially combined until something combines them, and that something would be a cause of God. A first cause can have no cause."
+        },
+        {
+          "text": "Immutable",
+          "why": "Real change needs both potentiality (something to be actualized) and parts (something that stays while something else goes). God has neither."
+        },
+        {
+          "text": "Immaterial and incorporeal",
+          "why": "Matter just is the potentiality to take on form, and every material thing has parts that could be rearranged. Even fundamental particles come to be and pass away."
+        },
+        {
+          "text": "Eternal — outside time, not merely everlasting",
+          "why": "In time he would add new moments to his life, act one way then another, and have distinct stages as parts. All of that is change and composition."
+        },
+        {
+          "text": "Necessary",
+          "why": "To be contingent is to have a potential for existence needing actualization, or parts needing combination. Neither applies to what is purely actual."
+        },
+        {
+          "text": "Alive, in the fullest possible way",
+          "why": "To be alive is to act from an inner principle rather than being pushed about from outside. Animals must still eat and breathe; nothing whatever acts on God."
+        }
+      ]
+    },
+    {
+      "id": "classical-theism-or-superhero-god",
+      "title": "Drill: classical theism or superhero god?",
+      "caption": "Theistic personalism keeps the word 'God' but makes him a member of a kind — a person like us with the limits removed. Twelve statements: which picture is each one describing?",
+      "where": "Theistic personalism and Plantinga’s critique",
+      "kind": "sorter",
+      "prompt": "Does this describe the God of classical theism, or a superhero god?",
+      "buckets": [
+        "Classical theism",
+        "Superhero god (theistic personalism)"
+      ],
+      "items": [
+        {
+          "text": "A person like us, but without our limits on power and knowledge",
+          "bucket": 1,
+          "why": "This makes God one species under the genus person — a member of a kind, and so composite."
+        },
+        {
+          "text": "Not one being among beings, but subsistent existence itself",
+          "bucket": 0,
+          "why": "He is not an item on the list of things that exist; he is why there is a list."
+        },
+        {
+          "text": "His power and his knowledge are two really distinct things in him",
+          "bucket": 1,
+          "why": "Two real constituents are parts, and parts need something to combine them — which would be a cause of God."
+        },
+        {
+          "text": "Whatever we truly say of him we say analogically, not univocally",
+          "bucket": 0,
+          "why": "'Wise' said of Socrates and of God are related but not identical. Plantinga's critique assumes otherwise."
+        },
+        {
+          "text": "He changes his mind when circumstances change",
+          "bucket": 1,
+          "why": "Change is a potential actualized. Process theologians accept this openly; a purely actual God cannot."
+        },
+        {
+          "text": "There could not even in principle be a second one of him",
+          "bucket": 0,
+          "why": "Not a lucky fact about how many gods there happen to be. With no parts, nothing could differentiate a rival."
+        },
+        {
+          "text": "He is extremely powerful — the most powerful being there happens to be",
+          "bucket": 1,
+          "why": "'Happens to be' makes his supremacy a contingent fact rather than what he is."
+        },
+        {
+          "text": "He is the reason anything at all exists at this very instant",
+          "bucket": 0,
+          "why": "Ultimacy, not merely superiority. This is the God the five proofs actually reach."
+        },
+        {
+          "text": "Immaterial, so a kind of very great spirit or superangel",
+          "bucket": 1,
+          "why": "Immaterial but still composite is a grander creature, not God. Feser says worshipping it would be idolatry."
+        },
+        {
+          "text": "His essence and his existence are not two things in him",
+          "bucket": 0,
+          "why": "He does not have existence; he is existence. Anything else would need a cause for the joining."
+        },
+        {
+          "text": "He has a nature, which he possesses the way we possess ours",
+          "bucket": 1,
+          "why": "Having a nature, rather than being it, means essence and existence come apart — and something must join them."
+        },
+        {
+          "text": "Immutable — and creating the world worked no change in him",
+          "bucket": 0,
+          "why": "The change is in the world, which now exists. Becoming Creator is a Cambridge change, not a real one."
+        }
+      ]
+    },
+    {
+      "id": "eternity-vs-everlastingness",
+      "title": "Eternal, not merely everlasting",
+      "caption": "Most people imagine God's eternity as unlimited longevity. Feser means something stronger and stranger: no location in time at all.",
+      "where": "Eternity: no beginning, no end — and no time",
+      "kind": "compare",
+      "columns": [
+        {
+          "label": "Everlasting",
+          "sub": "inside time, but for all of it",
+          "items": [
+            "Existed at every past moment, will exist at every future one",
+            "Keeps adding new seconds, days and years to his life",
+            "Learns it is now Tuesday, then learns it is now Wednesday",
+            "Has earlier and later stages — and stages are parts"
+          ]
+        },
+        {
+          "label": "Eternal",
+          "sub": "outside time altogether",
+          "items": [
+            "At no moment at all, so before and after do not apply",
+            "Nothing is ever added; there are no stages to add to",
+            "One single act, not one act now and another later",
+            "Causing a world with a history is not having a history"
+          ]
+        }
+      ],
+      "note": "Feser's image: an author who conceives a whole novel in a single flash of insight. Inside the story the middle follows the beginning, but he did not think of the beginning first. God causes what exists at every time, in one act, without acting first at one time and then at another."
+    },
+    {
+      "id": "anatomy-god-talk-empty",
+      "title": "Objection anatomy: anthropomorphic or empty?",
+      "caption": "A clean-looking dilemma with a hidden third option. Spotting it is the whole point of the analogy of being.",
+      "where": "God-talk is either anthropomorphic or empty",
+      "kind": "anatomy",
+      "says": "Either your words about God mean what they normally mean, in which case your God is a very large man in the sky, or they don't, in which case you are making noises with no content. Take your pick.",
+      "assumes": [
+        "That a word is used either in exactly the same sense or in totally unrelated ones",
+        "That any non-univocal use is metaphor, and so not literal",
+        "That analogy is a device invented to get theologians off this hook"
+      ],
+      "breaks": "It offers two roads where there are three. Between univocal and equivocal usage lies analogy — and analogy of attribution and of proper proportionality are literal uses, not figures of speech. We rely on them already, outside theology, for goodness, life, seeing, and for being itself.",
+      "reply": "There's a third option you left out. When I call wine good and a man good, I'm not saying one thing twice, and I'm not equivocating the way 'bat' does in baseball and in a cave. I'm speaking analogically — literally, by a real proportion: the wine stands to what wine is for as the man stands to what a man is for. Divine power is like that. Not Zeus's biceps, and not a blank."
+    },
+    {
+      "id": "anatomy-plantinga-property",
+      "title": "Objection anatomy: Plantinga on simplicity",
+      "caption": "The most cited philosophical objection to divine simplicity. Feser's answer is that it imports three assumptions no classical theist holds.",
+      "where": "Plantinga: simplicity makes God a single property — an abstract object",
+      "kind": "anatomy",
+      "says": "If God is identical with each of his properties, then all his properties are identical with one another, so he has exactly one. But plainly he has several — power and mercy aren't the same thing. And if God is a property, God is an abstract object, and abstract objects don't create worlds.",
+      "assumes": [
+        "That 'property' covers everything we can predicate — essence, properties, contingent accidents, bare relations",
+        "That properties are Platonic abstract objects that a thing participates in",
+        "That 'God is wise' and 'Socrates is wise' use 'wise' in the same sense"
+      ],
+      "breaks": "Classical theists reject all three. They distinguish a thing's essence from its properties, its properties from its contingent accidents, and its intrinsic accidents from mere relations. They hold these are concrete constituents of the thing, not items in a third realm. And they say power and knowledge are said of God analogically. Take those three away and the objection has nothing to stand on.",
+      "reply": "Nobody in this tradition says God is a property. That word is carrying far too much in your objection — you've swept essence, properties, accidents and relations into one bin and then put the bin in Plato's heaven. Aquinas does neither. And since 'knowledge' and 'power' are said of God analogically, the fact that they're two different things in us is no reason to think they're two different things in him."
+    },
+    {
+      "id": "anatomy-personalism-simple",
+      "title": "Objection anatomy: a personal God needn't be simple",
+      "caption": "Theistic personalism's core move, and why Feser thinks it costs far more than its defenders notice.",
+      "where": "Theistic personalism: a personal God need not be simple",
+      "kind": "anatomy",
+      "says": "God is a person. Persons have natures, have distinct attributes, make free choices, respond to what we do. A partless God with no real properties isn't a person at all — he's an inert abstraction. Keep the personal God and drop the medieval simplicity talk.",
+      "assumes": [
+        "That being personal requires being a member of the kind 'person'",
+        "That simplicity can be dropped with nothing else going with it",
+        "That classical theists deny God is personal"
+      ],
+      "breaks": "The dispute was never personal versus impersonal — classical theists attribute intellect and will to God too. It is whether God falls under a genus. And simplicity is not detachable: whatever has parts needs something to combine them, so a composite God would require a cause, could not be the first cause, and could in principle have a twin.",
+      "reply": "I agree God has intellect and will. What I deny is that he is one species of a kind called 'person', standing alongside you, me and the angels. Make him that and he is composite — which means something had to put him together, and there could have been two of him. What you'd be holding is a superangel, and none of the five proofs ever delivered one of those."
+    },
+    {
+      "id": "anatomy-cambridge-properties",
+      "title": "Objection anatomy: necessary and contingent in God",
+      "caption": "Morris's objection, and the distinction between a real change and a merely Cambridge change that answers it.",
+      "where": "Necessary and contingent properties can’t be identical",
+      "kind": "anatomy",
+      "says": "God is necessarily omnipotent but only contingently the creator — he could have refrained from making anything. So he has both necessary and contingent properties. A necessary property can't be identical with a contingent one, so not all God's properties are identical. Simplicity fails.",
+      "assumes": [
+        "That being the creator is a real feature of God, on a par with omnipotence",
+        "That every true description of a thing marks some real feature in it"
+      ],
+      "breaks": "It runs together real properties and what Geach called Cambridge properties. When Plato grows taller it becomes true that Socrates is shorter than Plato — but nothing at all changed in Socrates. Simplicity says God has no contingent real properties. It never said he has no contingent Cambridge properties.",
+      "reply": "Being creator is a Cambridge property, like Socrates becoming the shorter of the two. What actually changed is the world, which now exists — not God. Simplicity claims that God's real features are all one; 'having created' was never one of them, so your two descriptions were never rival candidates for being identical."
+    },
+    {
+      "id": "anatomy-to-act-is-to-change",
+      "title": "Objection anatomy: 'to act is to change'",
+      "caption": "The standard objection to immutability. It commits a fallacy logicians have had a name for since antiquity.",
+      "where": "To act is to change",
+      "kind": "anatomy",
+      "says": "When I type, my fingers move, my neurons fire, my thoughts shift. Acting always changes the one acting, not just the thing acted on. So if God creates, God changes — and your immutable God is a contradiction.",
+      "assumes": [
+        "That because every agent we have met changes while acting, every possible agent must",
+        "That what is essential to acting is the agent's own alteration"
+      ],
+      "breaks": "A fallacy of accident: turning a feature that happens to accompany the cases we know into a feature of the thing as such. Every college professor who ever lived was under nine feet tall; that sets no limit on possible professors. What is essential to acting is producing an effect in another thing, not being altered oneself.",
+      "reply": "We change when we act because we are limited — I have to move my fingers to get words onto the screen. That's a fact about me, not about acting. What acting is, is bringing about an effect in something else. Teaching is making someone learn; whether by lecturing or by writing is incidental. God's creating is simply his causing the world to be."
+    },
+    {
+      "id": "anatomy-acting-in-time",
+      "title": "Objection anatomy: acting at t1 and at t2",
+      "caption": "A sharp objection to divine timelessness, defused by noticing where the date in the sentence really belongs.",
+      "where": "Causing at t1 and at t2 means acting in time",
+      "kind": "anatomy",
+      "says": "You say God holds everything in being at every moment. Then he acts in 469 BC and he acts again in 1961. Anything that acts at one time and then at another is in time. So a timeless God cannot be sustaining a temporal world.",
+      "assumes": [
+        "That 'God causes X to exist at t' means the same as 'at t, God causes X to exist'",
+        "That one cause with effects at many times must itself be spread across those times"
+      ],
+      "breaks": "It slides the time index off the effect and onto the cause. Those two sentences are not equivalent. God's single timeless act causes a world that has a history; it is not a series of acts strung out along that history, one per moment.",
+      "reply": "Watch where the date sits. Saying God causes something to exist in 1961 is not saying that in 1961 God did something. Picture an author who sees a whole novel in one flash: inside the book chapter two follows chapter one, but he did not think chapter one first and chapter two later. In one act, God causes a world in which things happen at different times."
     }
   ]
 }

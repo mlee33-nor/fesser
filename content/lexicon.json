@@ -126,6 +126,7 @@
    "scientists"
   ],
   "demonstration": [
+   "deductive proof",
    "demonstration"
   ],
   "miracle": [
@@ -674,6 +675,60 @@
    "scholasticist",
    "scholasticists"
   ],
+  "substance": [
+   "substance",
+   "substant"
+  ],
+  "essence": [
+   "essence"
+  ],
+  "potential for existence": [
+   "potential for existence",
+   "potential for existences"
+  ],
+  "simultaneous vs instantaneous": [
+   "simultaneous vs. instantaneous"
+  ],
+  "infinite regress": [
+   "infinite regress"
+  ],
+  "premise and conclusion": [
+   "premise and conclusion",
+   "premise and conclusions"
+  ],
+  "valid vs sound argument": [
+   "valid vs. sound argument",
+   "valid vs. sound arguments"
+  ],
+  "aquinas and thomism": [
+   "aquinas and thomism",
+   "aquinas and thomisms"
+  ],
+  "big bang": [
+   "big bang",
+   "big bangs"
+  ],
+  "accident": [
+   "accident",
+   "accidental form"
+  ],
+  "problem of evil": [
+   "problem of evil",
+   "problem of evils"
+  ],
+  "kant s objection": [
+   "kant’s objection",
+   "kant’s objections",
+   "limits of causal reasoning"
+  ],
+  "russell s rejection of causation": [
+   "russell’s rejection of causation",
+   "russell’s rejection of causations"
+  ],
+  "radioactive decay": [
+   "radioactive decay",
+   "radioactive decays"
+  ],
   "composite": [
    "composed of parts",
    "composite"
@@ -704,9 +759,6 @@
   "explanatory vicious circle": [
    "explanatory vicious circle",
    "explanatory vicious circles"
-  ],
-  "essence": [
-   "essence"
   ],
   "existence": [
    "existence",
@@ -744,9 +796,6 @@
   "integral parts": [
    "integral parts"
   ],
-  "infinite regress": [
-   "infinite regress"
-  ],
   "soul": [
    "in plotinus",
    "soul"
@@ -770,6 +819,96 @@
   "vallicella s fourfold classification": [
    "vallicella's fourfold classification",
    "vallicella's fourfold classifications"
+  ],
+  "hypostasis": [
+   "hypostasis"
+  ],
+  "pantheism": [
+   "pantheism",
+   "pantheist",
+   "pantheists"
+  ],
+  "hylomorphism": [
+   "hylomorphism",
+   "hylomorphist",
+   "hylomorphists"
+  ],
+  "contingency": [
+   "contingency",
+   "contingent"
+  ],
+  "uncaused": [
+   "uncaused"
+  ],
+  "uniqueness": [
+   "uniqueness"
+  ],
+  "divine incomprehensibility": [
+   "divine incomprehensibility",
+   "divine incomprehensibilitys"
+  ],
+  "quantum indeterminism": [
+   "quantum indeterminism",
+   "quantum indeterminisms"
+  ],
+  "bradley s regress": [
+   "bradley's regress"
+  ],
+  "process theology": [
+   "process theology",
+   "process theologys"
+  ],
+  "mereology": [
+   "mereology"
+  ],
+  "accidental form": [
+   "accidental forms"
+  ],
+  "thomism": [
+   "thomism",
+   "thomist",
+   "thomists"
+  ],
+  "inference": [
+   "inference",
+   "inferent"
+  ],
+  "divine attribute": [
+   "divine attribute"
+  ],
+  "causal power": [
+   "causal power",
+   "causal powers"
+  ],
+  "everlastingness": [
+   "everlastingness"
+  ],
+  "thomas aquinas": [
+   "thomas aquinas"
+  ],
+  "gottlob frege": [
+   "gottlob frege",
+   "gottlob freges"
+  ],
+  "william vallicella": [
+   "william vallicella",
+   "william vallicellas"
+  ],
+  "lloyd gerson": [
+   "lloyd gerson",
+   "lloyd gersons"
+  ],
+  "david hume": [
+   "david hume",
+   "david humes"
+  ],
+  "multiplicity": [
+   "multiplicity",
+   "the many"
+  ],
+  "metaphysical bootstrapping": [
+   "metaphysical bootstrapping",
+   "metaphysical bootstrappings"
   ],
   "abstract object": [
    "abstract object"
@@ -823,10 +962,6 @@
    "aristotelian realism",
    "aristotelian realisms"
   ],
-  "substance": [
-   "substance",
-   "substant"
-  ],
   "scholastic realism": [
    "scholastic realism",
    "scholastic realisms"
@@ -871,10 +1006,6 @@
   "form and participation": [
    "form and participation",
    "form and participations"
-  ],
-  "contingent": [
-   "contingency",
-   "contingent"
   ],
   "uninstantiated universal": [
    "uninstantiated universal",
@@ -1002,6 +1133,24 @@
   "representation": [
    "representation"
   ],
+  "individuating features": [
+   "individuating features"
+  ],
+  "modus ponens": [
+   "modus ponens"
+  ],
+  "antecedent and consequent": [
+   "antecedent and consequent",
+   "antecedent and consequents"
+  ],
+  "determinate vs determinable": [
+   "determinate vs. determinable",
+   "determinate vs. determinables"
+  ],
+  "truth value": [
+   "truth value",
+   "truth values"
+  ],
   "real distinction": [
    "of essence and existence",
    "real distinctions"
@@ -1065,9 +1214,6 @@
    "metaphysical composition",
    "metaphysical compositions"
   ],
-  "accident": [
-   "accident"
-  ],
   "existential quantifier": [
    "existential quantifier",
    "existential quantifiers"
@@ -1123,11 +1269,6 @@
   ],
   "generation": [
    "generation"
-  ],
-  "pantheism": [
-   "pantheism",
-   "pantheist",
-   "pantheists"
   ],
   "five ways": [
    "five ways"
@@ -1244,7 +1385,6 @@
    "reductive materialisms"
   ],
   "cyclic universe": [
-   "big bang",
    "big crunch",
    "cyclic universe",
    "cyclic universes"
@@ -1315,11 +1455,6 @@
    "kalam cosmological argument",
    "kalam cosmological arguments"
   ],
-  "thomism": [
-   "thomism",
-   "thomist",
-   "thomists"
-  ],
   "platonism": [
    "platonism",
    "platonist",
@@ -1350,10 +1485,6 @@
   "metaphysical demonstration": [
    "metaphysical demonstration",
    "metaphysical demonstrations"
-  ],
-  "kant s objection": [
-   "kant’s objection",
-   "kant’s objections"
   ],
   "law of non contradiction": [
    "first principle",
@@ -1426,10 +1557,6 @@
    "property dualism",
    "property dualisms"
   ],
-  "process theology": [
-   "process theology",
-   "process theologys"
-  ],
   "platonic participation the third realm": [
    "platonic participation",
    "platonic participations",
@@ -1467,9 +1594,6 @@
   ],
   "numbers vs numerals": [
    "numbers vs. numerals"
-  ],
-  "everlastingness": [
-   "everlastingness"
   ],
   "anthropomorphism": [
    "anthropomorphism",
@@ -1742,9 +1866,6 @@
    "terminus of explanation",
    "terminus of explanations"
   ],
-  "big bang": [
-   "big bangs"
-  ],
   "quantum mechanics": [
    "quantum mechanics"
   ],
@@ -1989,10 +2110,6 @@
   "priori vs a posteriori": [
    "priori vs. a posteriori",
    "priori vs. a posterioris"
-  ],
-  "divine incomprehensibility": [
-   "divine incomprehensibility",
-   "divine incomprehensibilitys"
   ],
   "premise inference conclusion": [
    "premise, inference, conclusion",
