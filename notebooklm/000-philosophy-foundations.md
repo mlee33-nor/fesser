@@ -8,9 +8,9 @@ This is the opening module of a course on Edward Feser's *Five Proofs of the Exi
 
 Feser writes for non-specialists. He says in his Introduction that he always tries to begin in the shallowest part of the shallow end of the pool, even though every chapter ends in the deepest part of the deep end, and that he introduces his technical apparatus as he goes rather than front-loading seventy pages of metaphysics.
 
-But the introductions are quick. A handful of ideas appear on page 18 and are used on every page for the next three hundred: potentiality and actuality, hierarchical causal series, essence and existence, the principle of sufficient reason, universals, simplicity, the analogical use of words. Readers who lose one of these do not merely miss a paragraph; they lose the thread and never find it again.
+But the introductions are quick. A handful of ideas appear on page 18 and are used on every page for the next three hundred: potentiality and actuality, hierarchical causal series, essence and existence, the principle of sufficient reason, universals, simplicity, analogy. Lose one and you do not merely miss a paragraph; you lose the thread and never find it again.
 
-This document teaches those ideas in advance, with everyday examples — cooling coffee, a cup on a desk, a twenty-dollar bill, a lion. It argues for nothing and tries to persuade nobody that God does or does not exist. It also explains what Feser means by the word "God," since the commonest reason these debates go nowhere is that the two sides mean different things by it, and how the book is built, so that a fifty-step formal argument arrives as a summary rather than a wall.
+This document teaches those ideas in advance, with everyday examples — cooling coffee, a cup on a desk, a twenty-dollar bill, a lion. It argues for nothing. It also explains what Feser means by the word "God," since the commonest reason these debates go nowhere is that the two sides mean different things by it, and how the book is built, so that a fifty-step formal argument arrives as a summary rather than a wall.
 
 ## 2. Why this matters
 
@@ -20,17 +20,17 @@ The first is the design argument: the eye looks engineered, the constants of phy
 
 Here is the thing. **None of the five proofs in this book is either of those arguments.** Not one of them appeals to biology, cosmology, or the appearance of design. Not one of them uses the premise "everything has a cause." Not one of them needs the universe to have had a beginning — Feser explicitly grants an eternal universe or multiverse for the sake of argument. And none of them claims that God is the most probable explanation of anything. He claims *demonstration*: valid deductive arguments from premises he says are certain, of the sort that make a geometrical theorem follow from axioms.
 
-So a reader who arrives with the familiar objections loaded will spend the book firing at targets that are not there. The objections that matter here are different and considerably harder; chapter 7 is largely an exercise in showing that the famous ones miss. This primer is the difference between reading the book and reading past it.
+So a reader who arrives with the familiar objections loaded will spend the book firing at targets that are not there. The objections that matter here are different and harder; chapter 7 is largely an exercise in showing that the famous ones miss. This primer is the difference between reading the book and reading past it.
 
 ## 3. Key concepts and vocabulary
 
 ### About arguments
 
-**Argument.** In philosophy this is not a quarrel. It is a set of statements (premises) offered as reasons for accepting another statement (the conclusion). It is a structure to be inspected link by link.
+**Argument.** In philosophy this is not a quarrel but a set of statements (premises) offered as reasons for accepting another statement (the conclusion) — a structure to be inspected link by link.
 
 **Premise and conclusion.** Premises are the reasons; the conclusion is what they support. In ordinary prose they are flagged by **indicator words**. *Because, since, given that, for* introduce premises. *Therefore, so, hence, thus, it follows that* introduce conclusions.
 
-**Hidden premise.** An assumption an argument needs but does not state. "He's a politician, so he's lying" quietly relies on "all politicians lie." Finding hidden premises is the most useful single habit in reading argumentative prose, because that is usually where the weakness lives.
+**Hidden premise.** An assumption an argument needs but does not state. "He's a politician, so he's lying" quietly relies on "all politicians lie." Finding hidden premises is the most useful habit in reading argumentative prose, because that is usually where the weakness lives.
 
 **Validity and soundness.** An argument is **valid** when, *if* its premises were true, its conclusion would have to be true — a matter of form only, so that "All cats are reptiles; Fido is a cat; therefore Fido is a reptile" is perfectly valid with two false premises. It is **sound** when it is valid *and* its premises are actually true. Hence the two — and only two — honest ways to attack a deductive argument: show a premise false, or show that an inference does not follow. Disliking the conclusion or doubting the author's motives leaves it entirely untouched.
 
@@ -61,7 +61,7 @@ So a reader who arrives with the familiar objections loaded will spend the book 
 
 **Form and matter.** Every physical thing combines **matter** (the stuff) with **form** (the organizing pattern making it that kind of thing). The same bronze can have the form of a statue or of a doorstop. The doctrine is **hylomorphism**, from Greek *hylē* (matter) and *morphē* (form).
 
-**The four causes.** "Why?" can mean four questions. For a wooden chair: **material cause**, the wood; **formal cause**, its chair-structure; **efficient cause**, the carpenter; **final cause**, what it is for. These are complementary, not competing. Modern people usually mean only the efficient cause by "cause," which is a large part of why classical arguments get misread.
+**The four causes.** "Why?" can mean four questions. For a wooden chair: **material cause**, the wood; **formal cause**, its chair-structure; **efficient cause**, the carpenter; **final cause**, what it is for. These are complementary, not competing. Modern usage means only the efficient cause by "cause," which is a large part of why classical arguments get misread.
 
 **Actuality and potentiality.** The pair that matters most. **Actuality** is the way a thing really is right now; **potentiality** is a real capacity it has but is not exercising. The coffee is actually hot and potentially cold, potentially spilled, potentially a stain. Crucially, potentials are *limited by what the thing actually is*: the coffee has no potential to become chicken soup or a live chicken. That it has some and lacks others is what shows potentiality is a real feature of it and not simply nothing.
 
@@ -69,7 +69,7 @@ So a reader who arrives with the familiar objections loaded will spend the book 
 
 **Cause**, in Feser's central sense, is whatever **actualizes a potential** — including the desk that actualizes the cup's potential to be three feet off the floor, which involves no change over time at all.
 
-**Sustaining (here-and-now) cause** versus **originating cause**. Ask what caused your coffee and you will describe a pour twenty minutes ago. Feser asks instead what makes it true that the coffee exists *at this instant*.
+**Sustaining (here-and-now) cause** versus **originating cause**. Ask what caused your coffee and you describe a pour twenty minutes ago. Feser asks what makes it true that the coffee exists *at this instant*.
 
 **Per accidens (linear) series.** A chain running backward through time whose members keep their causal power once they have it: grandfather, father, son.
 
@@ -143,7 +143,7 @@ One qualification, because missing it produces a bad objection: he does *not* cl
 
 Now we get to the heart of the book, and it deserves to be taken slowly.
 
-When one thing actualizes another, we often get a series. The coffee was cooled by the air, which was cooled by the air conditioner, which went on because you pressed a button, which you did because you were hot. That series runs backward through time, and Feser calls it **linear**.
+When one thing actualizes another, we often get a series. The coffee was cooled by the air, which was cooled by the air conditioner, which went on because you pressed a button. That series runs backward through time, and Feser calls it **linear**.
 
 Suppose it goes back forever — the universe, or a multiverse, always existing and always changing. Aristotle thought so; some cosmologists suggest our Big Bang branched off from a prior universe in a beginningless series. Feser's attitude is striking: he calls it very dubious, and says **it does not matter**. He grants it for the sake of argument.
 
@@ -155,7 +155,7 @@ Notice two things. First, this need not be thought of as extending backward in t
 
 Second — and this, not simultaneity, is what actually matters — there is a particular kind of dependence here. The cup has no capacity of its own to be three feet up, and neither does the desk have any power of its own to keep it there. The desk would fall to the earth too if the floor were not holding it, and the floor holds the desk only because the foundation holds the floor. Every member except the last is *borrowing*.
 
-Feser's image is instrumental: the desk and floor are like tools. It is not a brush that paints a picture but the painter who uses it, and in the same way it is really the earth holding up the cup, through intermediaries.
+Feser's image is instrumental: the desk and floor are like tools. It is not a brush that paints a picture but the painter who uses it; in the same way it is really the earth holding up the cup, through intermediaries.
 
 That derivative, instrumental character is what makes a series **hierarchical**. And simultaneity is a teaching aid, not the definition — which is why a critic who says "relativity shows there is no absolute simultaneity" has attacked the scaffolding rather than the building.
 
@@ -215,25 +215,25 @@ There is a companion argument against **brute facts**. Suppose the book has not 
 
 Three more pieces, more briefly.
 
-**Universals.** Look at a pool table. Many cues, many balls, one rack — and each is an instance of a general pattern. Some balls share *redness* with stop signs and strawberries; the rack shares *triangularity* with pyramids and dunce caps. Are those patterns real?
+**Universals.** Look at a pool table. Many cues, many balls, one rack — and each is an instance of a general pattern: *redness*, shared with stop signs and strawberries; *triangularity*, shared with pyramids and dunce caps. Are those patterns real?
 
-Chapter 3 argues that nominalism and conceptualism both fail because both make abstract truths depend on us. Seven was prime before there were any humans, and would be if humanity vanished. Erase every instance of "Snow is white" and of "Schnee ist weiss" in every language and the proposition they expressed is still true. Names and concepts are things we make; these truths are not. But Feser also rejects Plato's separate third realm, since causally inert objects standing apart from everything leave it mysterious how they relate to the world and how we could know them. What remains is Scholastic realism: the patterns exist as ideas in an intellect.
+Chapter 3 argues that nominalism and conceptualism both fail because both make abstract truths depend on us. Seven was prime before there were any humans, and would be if humanity vanished. Erase every instance of "Snow is white" in every language and the proposition it expressed is still true. Names and concepts are things we make; these truths are not. But Feser also rejects Plato's separate third realm, since causally inert objects standing apart from everything leave it mysterious how they relate to the world and how we could know them. What remains is Scholastic realism: the patterns exist as ideas in an intellect.
 
 **Composition.** Your chair exists only if its legs, frame, and seat exist and are arranged chairwise — and not primarily because of assembly over time, since your organs were never made separately and bolted together, and even a chair that had always existed would depend at every moment on its parts. The chair cannot be what unites its own parts, since it exists only given that union; that would be an explanatory circle. So something distinct from a composite must account for the union of its parts, and that regress must end in something with no parts at all.
 
-**Classical theism.** Now put it together. The God Feser defends is pure actuality: no unrealized potentials. From that almost everything else follows by one repeating pattern — *attribute X would require an unactualized potential; there are none; therefore not-X*. Immutable, because change is the actualization of a potential. Eternal, because existing in time involves change. Immaterial, because matter involves potentiality. Unique, because differentiating two purely actual things would make each "pure actuality plus something." Omnipotent, in the sense of being that from which all causal power derives. Omniscient, because the patterns of everything caused must be in the cause, and in a purely actual immaterial cause they can only be present in the manner of intellect. Perfectly good, because falling short of goodness is failing to actualize something, and there is no such failure.
+**Classical theism.** Now put it together. The God Feser defends is pure actuality: no unrealized potentials. From that almost everything else follows by one repeating pattern — *attribute X would require an unactualized potential; there are none; therefore not-X*. Immutable, because change is the actualization of a potential. Eternal, because existing in time involves change. Immaterial, because matter involves potentiality. Unique, because differentiating two purely actual things would make each "pure actuality plus something." Omnipotent, as that from which all causal power derives. Omniscient, because the patterns of everything caused must be in the cause, and in a purely actual immaterial cause they can be present only in the manner of intellect. Perfectly good, because falling short of goodness is failing to actualize something, and there is no such failure.
 
 Against this stands **theistic personalism**: God as the unique member of a species under the genus *person*, immensely powerful but still one being among others. The difference is not whether God is personal — most classical theists attribute intellect and will to God. It is whether God falls under a genus and is therefore composite.
 
 This distinction matters more than any other for a beginner's sanity, because nearly every popular objection targets the personalist picture: "who designed the designer?", "God is an unnecessary extra entity," "you're an atheist about every god but one." Against classical theism these do not land, because the conclusion is not another item in the world's inventory but that in virtue of which anything is in it.
 
-**And finally, analogy.** If God is that unlike everything else, how can our words apply? Analogically. Not univocally, which would make God a being of our kind with the limits removed — and would collapse divine simplicity, since our knowledge and power are distinct. Not equivocally, which would make theology noise. But in the related-though-not-identical way "good" works in "good wine" and "good man," or "healthy" of a person, a diet, and a complexion. Note that analogical predication is **literal**: "God is a rock" is metaphor, "God is good" is analogy. And analogy is not confined to theology — we call a stone and the stone's colour both "real" while meaning different things by it.
+**And finally, analogy.** If God is that unlike everything else, how can our words apply? Analogically. Not univocally, which would make God a being of our kind with the limits removed — and would collapse divine simplicity, since our knowledge and power are distinct. Not equivocally, which would make theology noise. But in the related-though-not-identical way "good" works in "good wine" and "good man." Note that analogical predication is **literal**: "God is a rock" is metaphor, "God is good" is analogy. And analogy is not confined to theology — we call a stone and the stone's colour both "real" while meaning different things by it.
 
 ## 5. A worked argument, step by step
 
-The best way to fix all this is to watch it operate. Below is a beginner's compression of chapter 1's Aristotelian proof: ten steps where Feser has fifty. It keeps the logical spine and drops the derivation of the individual divine attributes, which occupies steps 15–47 of the real thing. Treat it as a map to hold in your head, not as a quotation.
+The best way to fix all this is to watch it operate. Below is a beginner's compression of chapter 1's Aristotelian proof: ten steps where Feser has fifty. It keeps the logical spine and drops the derivation of the individual divine attributes (steps 15–47 of the real thing). Treat it as a map, not a quotation.
 
-**1. Change really happens.** Our senses show it constantly. Even if they deceived us entirely, we would still be having one experience after another, which is itself change. And anyone who argues that change is an illusion must move through the steps of his argument, which is a change — so the denial cannot be coherently made.
+**1. Change really happens.** Our senses show it constantly; even if they deceived us entirely, we would still be having one experience after another, which is itself change. And anyone arguing that change is an illusion must move through the steps of his argument — so the denial cannot be coherently made.
 
 **2. Change is the actualization of a potential.** Water in the freezer is actually liquid and potentially solid; freezing actualizes that potential. This is Aristotle's analysis, adopted because it dissolves Parmenides' problem: a potential is not nothing.
 
@@ -243,15 +243,15 @@ The best way to fix all this is to watch it operate. Below is a beginner's compr
 
 **4. So whenever something changes, something already actual is actualizing it.** This follows from 2 and 3. Nothing new is claimed.
 
-**5. A thing's existing at this very moment is itself the actualization of a potential, and so needs an actualizer here and now.** This is the step that turns the argument from a story about the past into an argument about the present, and beginners most often skate past it. The water exists now only because certain potentials of hydrogen and oxygen are being actualized as water rather than as separate gases.
+**5. A thing's existing at this very moment is itself the actualization of a potential, and so needs an actualizer here and now.** This is the step that turns the argument from a story about the past into one about the present, and beginners most often skate past it. The water exists now only because certain potentials of hydrogen and oxygen are being actualized as water rather than as separate gases.
 
-*The natural objection: why not say things simply keep existing on their own? That thesis is called existential inertia, and it is one of the genuinely live debates. Chapter 1 argues against it, and chapter 4 comes at it from the direction of essence and existence.*
+*The natural objection: why not say things simply keep existing on their own? That thesis, **existential inertia**, is one of the genuinely live debates. Chapter 1 argues against it; chapter 4 comes at it from the direction of essence and existence.*
 
 **6. That actualizer, if it too is having its own potentials actualized, needs an actualizer of its own — so we have a series.** The reasoning of 3 and 5 applies to the actualizer just as much as to the thing actualized.
 
 **7. This is a hierarchical series, not a linear one: every member except the first has its power only by deriving it at the moment it acts.** Cup, desk, floor, foundation, earth. The defining mark is derivative, instrumental power, not simultaneity.
 
-**8. A hierarchical series cannot go on forever, because its members are all borrowers, and no number of borrowers produces what none of them has.** The paintbrush with the infinitely long handle. An infinite stack of desks holds up a cup exactly as well as one desk does. This is the load-bearing premise of the whole proof.
+**8. A hierarchical series cannot go on forever, because its members are all borrowers, and no number of borrowers produces what none of them has.** The paintbrush with the infinitely long handle; an infinite stack of desks holds up a cup exactly as well as one desk does. This is the load-bearing premise of the whole proof.
 
 **9. So the series terminates in something that can actualize without being actualized — something purely actual.** And "first" here means non-derivative, not earliest. Not a starting gun at the Big Bang, but the painter at the end of the handle, however long the handle.
 
@@ -269,7 +269,7 @@ This is an argument about arguers, not arguments — an ad hominem, however poli
 
 ### "Hasn't science made all this obsolete?"
 
-Two things are being run together. Science asks how things within the world behave — what mechanisms operate, under what laws, in what order. These arguments ask why there is anything at all and what sustains it from moment to moment. No measurement answers those, since any measurement presupposes something there to measure.
+Two things are being run together. Science asks how things within the world behave — what mechanisms operate, under what laws. These arguments ask why there is anything at all and what sustains it from moment to moment. No measurement answers those, since any measurement presupposes something there to measure.
 
 That is also why this is not god-of-the-gaps reasoning. A gaps argument says "science hasn't explained X yet, so God." These arguments start from features anything whatever must have — that it changes, that it has parts, that its essence is not its existence — and any mechanism you propose has those same features. If the objector escalates to "science is the only source of knowledge," he has stated **scientism**, which fails its own test, since the claim itself is not a scientific result. Chapter 7 develops this from around page 273.
 
@@ -279,7 +279,7 @@ Feser opens chapter 7 by calling this painfully inept, for two reasons stacked o
 
 First, no argument here uses the premise "everything has a cause." The principle of causality concerns potentials being actualized, so something with no potentials is not an exception to the rule; the rule has nothing to say about it.
 
-Second, and more importantly, the arguments do not merely decline to apply the rule — they explain why the terminus could not in principle have a cause. Things need causes because they are mixtures of actuality and potentiality, or have parts needing to be united, or have an essence distinct from their existence, or are contingent. What is purely actual has no potentials to actualize; what is absolutely simple has no parts to assemble; what just *is* existence has no essence to be joined to existence. So the question amounts to "what actualized the potentials in that which has none?" — not a hard question but an empty one.
+Second, and more importantly, the arguments do not merely decline to apply the rule — they explain why the terminus could not in principle have a cause. Things need causes because they are mixtures of actuality and potentiality, or have parts needing to be united, or have an essence distinct from their existence, or are contingent. What is purely actual has no potentials to actualize; what is simple has no parts to assemble; what just *is* existence has no essence to be joined to it. So the question amounts to "what actualized the potentials in that which has none?" — not a hard question but an empty one.
 
 The serious follow-up, which you should welcome, is why the *universe* cannot be the uncaused thing. The answer is that the universe has every feature that makes things need causes. Chapter 5 (around page 167) and chapter 7 both take it up.
 
@@ -299,30 +299,28 @@ Be honest about the limits, though. Natural theology delivers no particular reve
 
 ### "This commits the fallacy of composition"
 
-Two replies. First, the arguments need make no claim about the universe as a whole; they reason about any individual changing, composite, or contingent thing, so there is no part-to-whole inference to be fallacious. Second, Feser argues in chapter 7 that it is the objector who reasons badly. Leibniz's example: a geometry book copied from an earlier copy, infinitely — every individual copy is accounted for, and why the series contains geometry at all remains untouched.
+Two replies. The arguments need make no claim about the universe as a whole; they reason about any individual changing, composite, or contingent thing, so there is no part-to-whole inference to be fallacious. And Feser argues in chapter 7 that it is the objector who reasons badly — witness Leibniz's geometry book copied from an earlier copy, infinitely: every copy is accounted for, and why the series contains geometry at all remains untouched.
 
 ## 7. Common misunderstandings
 
 - **"Natural theology" means theology about nature.** It means what unaided reason can establish about God, apart from revelation.
-- **A "valid" argument is one with true premises.** Validity is form only. Valid *plus* true premises is called sound.
-- **"Everything has a cause" is the first premise.** No argument in the book uses it. The principle of causality concerns potentials being actualized.
-- **"First cause" means earliest cause.** It means non-derivative — power built in rather than borrowed. Picture a stack, not a timeline.
+- **A "valid" argument is one with true premises.** Validity is form only; valid *plus* true premises is called sound.
+- **"Everything has a cause" is the first premise.** No argument in the book uses it. The principle of causality concerns potentials being actualized, and **"first cause" means non-derivative**, not earliest — picture a stack, not a timeline.
 - **A potential is just a logical possibility, so it explains nothing.** Potentials are specific and grounded in what a thing actually is.
 - **Aristotelian "motion" means movement through space.** It covers every kind of change, including a fly's dying.
 - **"Simple" means easy to understand.** It means having no parts of any kind. Feser holds God to be incomprehensible.
 - **Classical theists think God is impersonal.** Most attribute intellect and will to God. The dispute with theistic personalism is whether God falls under a genus.
 - **Analogical talk means we don't really know what we're saying.** Analogical predication is literal; what is denied is only that the word carries precisely the content it has when said of creatures.
-- **This is a design argument.** None of the five is. Design arguments infer to the best explanation of particular features of the world; these claim to demonstrate from features anything whatever must have.
-- **The numbered argument is the real argument and the prose is warm-up.** Closer to the reverse: the informal statement carries the justification, the formal statement displays the structure.
-- **An "abstract object" is something vague or made up.** It means real but not in space or time and not causally interacting.
+- **The numbered argument is the real argument and the prose is warm-up.** Closer to the reverse: the informal statement carries the justification, the formal one displays the structure.
+- **An "abstract object" is vague or made up.** It means real but not in space or time and not causally interacting.
 - **These arguments define God into existence.** That describes the *ontological* argument, which reasons from the concept of God alone. Each of the five here begins from a checkable premise about the world, and the description of God is the conclusion.
-- **If I can't picture it, it's nonsense.** Imaginability is not the test of intelligibility. You cannot picture the number seventeen or a thousand-sided polygon, yet you reason about both rigorously.
+- **If I can't picture it, it's nonsense.** Imaginability is not the test of intelligibility: you cannot picture the number seventeen, yet you reason about it rigorously.
 
 ## 8. How to explain it to others
 
 ### The simple version
 
-Imagine a coffee cup on a desk. Why is it in the air instead of on the ground? The desk holds it. What holds the desk? The floor, then the foundation, then the earth. Now notice: the desk cannot hold anything up *by itself*. Take away the floor and the desk falls with the cup. Every one of them is borrowing the ability to hold things up.
+Imagine a coffee cup on a desk. Why is it in the air instead of on the ground? The desk holds it. What holds the desk? The floor, then the foundation, then the earth. Now notice: the desk cannot hold anything up *by itself*. Take away the floor and it falls with the cup. Every one of them is borrowing the ability to hold things up.
 
 Could that go on forever? Imagine a million desks stacked up, all borrowing. A billion. Infinitely many. Does the cup stay up? No — because none of them ever had the ability. They were passing along something that has to start somewhere.
 
@@ -334,11 +332,11 @@ The infinitely long paintbrush, used physically. Hold an imaginary brush and kee
 
 ### Traps to avoid when explaining
 
-- Saying "cause" without specifying which kind. Your listener will import the past-tense picture and hear an argument about the Big Bang. Say "holding it in being right now" before you ever say "cause" — and never say "first cause" without immediately defining it as non-derivative.
+- Saying "cause" without specifying which kind. Your listener will import the past-tense picture and hear an argument about the Big Bang. Say "holding it in being right now" first — and never say "first cause" without immediately defining it as non-derivative.
 - Arguing about the age of the universe. Concede it loudly and early, as Feser does, then show the question is untouched.
 - Citing a scientific mystery (consciousness, fine-tuning, the origin of life) as support. You will have built a god-of-the-gaps argument on your own initiative.
 - Defending a God your listener already rejects. Find out what they mean by the word in the first two minutes; you may find you agree with their rejection.
-- Reciting a numbered list aloud, or bluffing past a question you cannot answer. "I don't know, that's in chapter 5" costs nothing and buys enormous credibility.
+- Reciting a numbered list aloud, or bluffing. "I don't know, it's in chapter 5" buys credibility.
 
 ## 9. Key takeaways and review questions
 
@@ -355,16 +353,16 @@ The infinitely long paintbrush, used physically. Hold an imaginary brush and kee
 ### Ten review questions with brief answers
 
 **1. What is natural theology, and how does it differ from revealed theology?**
-It is what can be known about God's existence and nature by unaided reason, apart from revelation. Revealed theology reasons from what God is taken to have disclosed; natural theology uses no such premise.
+It is what can be known about God by unaided reason, apart from revelation. Revealed theology reasons from what God is taken to have disclosed; natural theology uses no such premise.
 
 **2. What is the difference between validity and soundness?**
-Validity is a matter of form: if the premises were true, the conclusion would have to be true. Soundness is validity plus premises that are actually true. "All cats are reptiles; Fido is a cat; so Fido is a reptile" is valid and unsound.
+Validity is form: if the premises were true, the conclusion would have to be true. Soundness is validity plus premises that are actually true. "All cats are reptiles; Fido is a cat; so Fido is a reptile" is valid and unsound.
 
 **3. State the principle of causality in Feser's form, and say why it is not "everything has a cause."**
 No potential can be actualized unless something already actual actualizes it. Something with no potentials is not an exception — the principle simply does not reach it. This is why "who made God?" attacks a position nobody in the book holds.
 
 **4. Distinguish a linear from a hierarchical causal series, with an example of each.**
-Linear: runs back through time, members keep their power once they have acted — grandfather, father, son. Hierarchical: every member but the first has power only derivatively, received at the moment it acts — cup, desk, floor, foundation, earth.
+Linear: runs back through time, members keeping their power once they have acted — grandfather, father, son. Hierarchical: every member but the first has power only derivatively, received as it acts — cup, desk, floor, earth.
 
 **5. Why must a hierarchical series have a first member, and what does "first" mean?**
 Because all its members are borrowers, and adding borrowers never produces a lender — a paintbrush would not move itself even with an infinitely long handle. "First" means non-derivative, having the power built in, not earliest in time.
@@ -373,7 +371,7 @@ Because all its members are borrowers, and adding borrowers never produces a len
 Because potentials discriminate: the coffee has a potential to grow cold and none to become chicken soup. If potentiality were sheer nothingness there would be nothing to distinguish the potentials a thing has from those it lacks. This is Aristotle's answer to Parmenides.
 
 **7. What are the three arguments that essence and existence are really distinct?**
-From knowledge (a complete description of lions, pterodactyls and unicorns does not tell you which exists); from contingency (if existence belonged to a lion's essence, lions could not fail to exist); and from uniqueness (there could be at most one thing whose essence just is existence, yet ordinary kinds come in multiples).
+From knowledge (a full description of lions, pterodactyls and unicorns does not tell you which exists); from contingency (if existence belonged to a lion's essence, lions could not fail to exist); from uniqueness (there could be at most one thing whose essence just is existence, yet ordinary kinds come in multiples).
 
 **8. How does PSR differ from PC?**
 A cause must be distinct from its effect; a sufficient reason need not be, so something could be self-explanatory. PSR entails that everything has a reason; PC does not entail that everything has a cause. All causes are reasons; not all reasons are causes.
@@ -382,8 +380,8 @@ A cause must be distinct from its effect; a sufficient reason need not be, so so
 Classical theism holds God to be pure actuality and absolutely simple, not a being among beings; theistic personalism makes him the unique member of a genus of persons, and therefore composite. It is *not* a dispute about whether God is personal. It matters because most popular objections — "who designed the designer?", "an unnecessary extra entity," "one god further" — only work against the personalist picture.
 
 **10. What are univocal, equivocal and analogical predication, and which applies to God?**
-Univocal: exactly the same sense ("Fido is a dog," "Rover is a dog"). Equivocal: wholly unrelated senses (the bat in the attic, the bat in your hand). Analogical: related but not identical ("good wine," "good man"). Talk of God is analogical — and it is literal, not metaphorical.
+Univocal: the same sense ("Fido is a dog," "Rover is a dog"). Equivocal: unrelated senses (the bat in the attic, the bat in your hand). Analogical: related but not identical ("good wine," "good man"). Talk of God is analogical — and literal, not metaphorical.
 
 ### Where to go next
 
-Read Feser's Introduction, pages 9–15. It is short, it will now be easy, and it tells you in the author's own words what the book is for. Then begin chapter 1 — and when you reach the coffee, the flyswatter, and the cup on the desk, you will already know what they are doing there.
+Read Feser's Introduction, pages 9–15. It is short, now easy, and tells you in the author's own words what the book is for. Then begin chapter 1 — and when you reach the coffee, the flyswatter, and the cup on the desk, you will know what they are doing there.
