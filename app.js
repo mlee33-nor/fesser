@@ -333,9 +333,8 @@
     const e = GL.byKey.get(btn.dataset.k); if (!e) return;
     popFor = btn; pop.innerHTML = popHTML(e); pop.hidden = false; popBack.hidden = false;
     Array.prototype.forEach.call(pop.querySelectorAll('.gp-x'), function (b) {
-      b.addEventListener('click', function (ev) { ev.preventDefault(); ev.stopPropagation(); hidePop(); });
-      b.addEventListener('pointerup', function (ev) { ev.preventDefault(); ev.stopPropagation(); hidePop(); });
-    }); popBack.hidden = false;
+      b.onclick = function (ev) { ev.preventDefault(); ev.stopPropagation(); hidePop(); };
+    });
     const sheet = window.innerWidth <= 680; pop.classList.toggle('sheet', sheet);
     if (!sheet) {
       const r = btn.getBoundingClientRect(); const w = Math.min(400, window.innerWidth - 24);
@@ -351,7 +350,9 @@
   }
   const popBack = document.createElement('div');
   popBack.className = 'gpop-back'; popBack.hidden = true; document.body.appendChild(popBack);
+  let lastClose = 0;
   function hidePop() {
+    if (!pop.hidden) lastClose = Date.now();
     pop.hidden = true; popBack.hidden = true; popFor = null;
     document.body.classList.remove('pop-open');
   }
@@ -359,11 +360,17 @@
   popBack.addEventListener('touchstart', hidePop, { passive: true });
   document.addEventListener('click', e => {
     const t = e.target;
-    if (t.closest && t.closest('.gp-x')) { e.preventDefault(); hidePop(); return; }
-    const g = t.closest && t.closest('.gl');
-    if (g) { e.preventDefault(); if (popFor === g && !pop.hidden) hidePop(); else showPop(g); return; }
-    if (!pop.hidden && (!t.closest || !t.closest('.gpop') || t.closest('a'))) hidePop();
-  });
+    if (!t || !t.closest) return;
+    if (t.closest('.gp-x')) { e.preventDefault(); e.stopPropagation(); hidePop(); return; }
+    const g = t.closest('.gl');
+    if (g) {
+      e.preventDefault(); e.stopPropagation();
+      if (Date.now() - lastClose < 400) return;          // a close just happened underneath
+      if (popFor === g && !pop.hidden) hidePop(); else showPop(g);
+      return;
+    }
+    if (!pop.hidden && (!t.closest('.gpop') || t.closest('a'))) hidePop();
+  }, true);
   document.addEventListener('keydown', e => { if (e.key === 'Escape' && !pop.hidden) hidePop(); });
   window.addEventListener('scroll', () => { if (!pop.hidden) hidePop(); }, { passive: true });
   window.addEventListener('hashchange', hidePop);
