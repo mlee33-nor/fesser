@@ -326,12 +326,12 @@
       (t.origin ? '<p class="gp-o">' + inline(t.origin) + '</p>' : '') + '<p class="gp-d">' + inline(t.definition) + '</p>' +
       (t.example ? '<p class="gp-e"><i>Example</i>' + inline(t.example) + '</p>' : '') +
       (t.confuseWith ? '<p class="gp-e"><i>Don’t confuse with</i>' + inline(t.confuseWith) + '</p>' : '') +
-      '<div class="gp-f"><span>' + e.mods.filter(x => OUT[x]).map(x => '<a href="#/m/' + x + '/concepts">' + esc(OUT[x].short) + '</a>').join('') + '</span><a href="#/glossary/find/' + encodeURIComponent(baseTerm(t)) + '">All vocabulary →</a></div>';
+      '<div class="gp-f"><span>' + e.mods.filter(x => OUT[x]).map(x => '<a href="#/m/' + x + '/concepts">' + esc(OUT[x].short) + '</a>').join('') + '</span><a href="#/glossary/find/' + encodeURIComponent(baseTerm(t)) + '">All vocabulary →</a></div>' + '<button class="btn sm gp-x" type="button">Close</button>';
   }
   function showPop(btn) {
     if (!GL) buildGL();
     const e = GL.byKey.get(btn.dataset.k); if (!e) return;
-    popFor = btn; pop.innerHTML = popHTML(e); pop.hidden = false;
+    popFor = btn; pop.innerHTML = popHTML(e); pop.hidden = false; popBack.hidden = false;
     const sheet = window.innerWidth <= 680; pop.classList.toggle('sheet', sheet);
     if (!sheet) {
       const r = btn.getBoundingClientRect(); const w = Math.min(400, window.innerWidth - 24);
@@ -345,36 +345,25 @@
       pop.style.left = left + 'px'; pop.style.top = Math.max(12, top) + 'px';
     } else { pop.style.left = ''; pop.style.top = ''; pop.style.width = ''; pop.style.maxHeight = ''; }
   }
-  let noHover = null;
-  function hidePop(byUser) {
-    pop.hidden = true;
-    clearTimeout(hoverT); clearTimeout(leaveT);
-    if (byUser) noHover = popFor;
-    popFor = null;
+  const popBack = document.createElement('div');
+  popBack.className = 'gpop-back'; popBack.hidden = true; document.body.appendChild(popBack);
+  function hidePop() {
+    pop.hidden = true; popBack.hidden = true; popFor = null;
+    document.body.classList.remove('pop-open');
   }
+  popBack.addEventListener('click', hidePop);
+  popBack.addEventListener('touchstart', hidePop, { passive: true });
   document.addEventListener('click', e => {
-    const x = e.target.closest && e.target.closest('.gp-x');
-    if (x) { e.preventDefault(); e.stopPropagation(); hidePop(true); return; }
-    const g = e.target.closest && e.target.closest('.gl');
-    if (g) { e.preventDefault(); if (popFor === g && !pop.hidden) hidePop(true); else { noHover = null; showPop(g); } return; }
-    if (!e.target.closest('.gpop')) hidePop(true);
-    else if (e.target.closest('a')) hidePop(true);
+    const t = e.target;
+    if (t.closest && t.closest('.gp-x')) { e.preventDefault(); hidePop(); return; }
+    const g = t.closest && t.closest('.gl');
+    if (g) { e.preventDefault(); if (popFor === g && !pop.hidden) hidePop(); else showPop(g); return; }
+    if (!pop.hidden && (!t.closest || !t.closest('.gpop') || t.closest('a'))) hidePop();
   });
-  document.addEventListener('keydown', e => { if (e.key === 'Escape' && !pop.hidden) hidePop(true); });
-  window.addEventListener('scroll', () => { if (!pop.hidden && !pop.classList.contains('sheet')) hidePop(); }, { passive: true });
-  if (window.matchMedia && window.matchMedia('(hover: hover) and (pointer: fine)').matches) {
-    document.addEventListener('mouseover', e => {
-      const g = e.target.closest && e.target.closest('.gl');
-      if (g) { if (g === noHover) return; clearTimeout(leaveT); clearTimeout(hoverT); hoverT = setTimeout(() => showPop(g), 380); }
-      else if (e.target.closest && e.target.closest('.gpop')) clearTimeout(leaveT);
-    });
-    document.addEventListener('mouseout', e => {
-      const g = e.target.closest && e.target.closest('.gl');
-      if (g && g === noHover) noHover = null;
-      const any = g || (e.target.closest && e.target.closest('.gpop'));
-      if (any) { clearTimeout(hoverT); clearTimeout(leaveT); leaveT = setTimeout(() => { if (!pop.matches(':hover')) hidePop(); }, 260); }
-    });
-  }
+  document.addEventListener('keydown', e => { if (e.key === 'Escape' && !pop.hidden) hidePop(); });
+  window.addEventListener('scroll', () => { if (!pop.hidden) hidePop(); }, { passive: true });
+  window.addEventListener('hashchange', hidePop);
+  window.addEventListener('resize', () => { if (!pop.hidden) hidePop(); });
 
   function termChips(terms) {
     if (!GL) buildGL();

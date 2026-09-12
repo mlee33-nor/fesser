@@ -4,7 +4,7 @@
 
 ## 1. Orientation
 
-This is the opening module of a course on Edward Feser's *Five Proofs of the Existence of God* (Ignatius Press, 2017), and it is unusual among the modules because it covers no chapter of the book. It comes before the book. It is for a reader who has never taken a philosophy class and who is about to open a work of serious philosophy for the first time.
+This is the opening module of a course on Edward Feser's *Five Proofs of the Existence of God* (Ignatius Press, 2017), and it is unusual because it covers no chapter of the book. It comes before the book, for a reader who has never taken a philosophy class and is about to open a work of serious philosophy for the first time.
 
 Feser writes for non-specialists. He says in his Introduction that he always tries to begin in the shallowest part of the shallow end of the pool, even though every chapter ends in the deepest part of the deep end, and that he introduces his technical apparatus as he goes rather than front-loading seventy pages of metaphysics.
 
@@ -32,11 +32,7 @@ So a reader who arrives with the familiar objections loaded will spend the book 
 
 **Hidden premise.** An assumption an argument needs but does not state. "He's a politician, so he's lying" quietly relies on "all politicians lie." Finding hidden premises is the most useful single habit in reading argumentative prose, because that is usually where the weakness lives.
 
-**Validity.** An argument is valid when, *if* its premises were true, its conclusion would have to be true. Validity is about form only. "All cats are reptiles; Fido is a cat; therefore Fido is a reptile" is perfectly valid and has two false premises.
-
-**Soundness.** Valid *plus* all the premises actually true. A sound argument's conclusion is established. Every sound argument is valid; not every valid argument is sound.
-
-This gives us the two — and only two — honest ways to attack a deductive argument: show that a premise is false, or show that an inference does not follow. Disliking the conclusion, doubting the author's motives, or observing that clever people disagree leaves the argument entirely untouched.
+**Validity and soundness.** An argument is **valid** when, *if* its premises were true, its conclusion would have to be true — a matter of form only, so that "All cats are reptiles; Fido is a cat; therefore Fido is a reptile" is perfectly valid with two false premises. It is **sound** when it is valid *and* its premises are actually true. Hence the two — and only two — honest ways to attack a deductive argument: show a premise false, or show that an inference does not follow. Disliking the conclusion or doubting the author's motives leaves it entirely untouched.
 
 **Deduction, induction, and inference to the best explanation.** In a **deduction** the conclusion follows necessarily: if the premises are true it cannot be false. In an **induction** we move from observed cases to a general claim — every raven so far has been black, so all ravens are black — and true premises make the conclusion only probable. In an **inference to the best explanation** (or abduction) we accept the hypothesis that accounts for the evidence better than rivals: the mouse explains the crumbs, the droppings, and the gnaw marks. Most contemporary arguments for God are of this last kind, and their conclusions are defeasible.
 
@@ -149,7 +145,7 @@ Now we get to the heart of the book, and it deserves to be taken slowly.
 
 When one thing actualizes another, we often get a series. The coffee was cooled by the air, which was cooled by the air conditioner, which went on because you pressed a button, which you did because you were hot. That series runs backward through time, and Feser calls it **linear**.
 
-Suppose it goes back forever — the universe, or a multiverse containing ours and others, always existing and always changing. Aristotle thought so; some cosmologists suggest our Big Bang was a branching-off from a prior universe in a beginningless series. Feser's attitude is striking: he says it is very dubious, and that **it does not matter**. He grants it for the sake of argument.
+Suppose it goes back forever — the universe, or a multiverse, always existing and always changing. Aristotle thought so; some cosmologists suggest our Big Bang branched off from a prior universe in a beginningless series. Feser's attitude is striking: he calls it very dubious, and says **it does not matter**. He grants it for the sake of argument.
 
 Because there is another kind of series, and this one must have a first member.
 
@@ -191,9 +187,7 @@ This is the cup and the desk again — but now it is the very *existence* of a t
 
 Chapter 4 reaches the same territory by a different road, and the road is worth knowing because it is beautifully simple.
 
-Take any ordinary thing — a stone, a tree, a lion. Two different things can be known about it. What it is (its **essence**) and that it is (its **existence**). Are these really two features of reality, or just two ways of talking?
-
-Feser gives three arguments that the distinction is real.
+Take any ordinary thing — a stone, a tree, a lion. Two different things can be known about it: what it is (its **essence**) and that it is (its **existence**). Are these two features of reality, or just two ways of talking? Feser gives three arguments that the distinction is real.
 
 **From knowledge.** Find someone who has never heard of lions, pterodactyls, or unicorns. Describe each one completely. Now ask which exists, which is extinct, and which never existed. He cannot say. But what a thing is belongs to its objective reality, and if a thing exists, so does the fact that it exists. If essence and existence were not distinct features of reality, grasping the first would deliver the second.
 
@@ -207,9 +201,9 @@ The upshot: anything in which essence and existence are really distinct needs so
 
 ### Explanation and the principle of sufficient reason
 
-Chapter 5 starts from a different observation: we expect things to have explanations, and we are usually right. You find unfamiliar sunglasses on your sofa and ask around until you learn a friend left them. Even when a murder goes unsolved, you assume there is an explanation and often can explain why you lack it. **PSR** is the thesis that this expectation is always correct: everything has an explanation of why it exists and why it is as it is.
+Chapter 5 starts from a different observation: we expect things to have explanations, and we are usually right. You find unfamiliar sunglasses on your sofa and ask around until you learn a friend left them. Even when a murder goes unsolved, you assume there is an explanation. **PSR** is the thesis that this expectation is always correct.
 
-Hold PSR next to PC, because chapter 5 insists they are distinct. A *cause* must be distinct from its effect — nothing causes itself. A *reason* need not be distinct from what it explains, so something could in principle be self-explanatory. And critically: PC does **not** entail that everything has a cause, whereas PSR **does** entail that everything has a sufficient reason. All causes are reasons; not all reasons are causes.
+Hold PSR next to PC, because chapter 5 insists they are distinct. A *cause* must be distinct from its effect; a *reason* need not be, so something could in principle be self-explanatory. And critically: PC does **not** entail that everything has a cause, whereas PSR **does** entail that everything has a sufficient reason. All causes are reasons; not all reasons are causes.
 
 Why believe PSR? There is an inductive case — we keep finding explanations, and a world where PSR failed should be full of constantly occurring inexplicable events, so that the intelligibility making science work would be a miracle. But Feser thinks PSR is more certain than any empirical hypothesis and argues for it indirectly, by *reductio ad absurdum*.
 
@@ -271,7 +265,7 @@ A note on reading the real thing. When you meet fifty steps on pages 35–37, do
 
 ### "Isn't this just faith dressed up in fancy words?"
 
-This is an argument about arguers, not arguments — an ad hominem, however politely meant. Whether a premise is true and an inference valid has nothing to do with why anyone finds the conclusion attractive; atheists have motives too. More importantly, natural theology is by definition the attempt to say what can be known by unaided reason apart from revelation, and Feser keeps to it: no premise in the book is drawn from scripture, church authority, or religious experience. And the arguments come with their own falsification conditions — a demonstration is refuted by a false premise or an invalid step, and the objection sections tell you where the best attempts are.
+This is an argument about arguers, not arguments — an ad hominem, however politely meant. Whether a premise is true has nothing to do with why anyone finds the conclusion attractive; atheists have motives too. And natural theology is by definition what can be known by unaided reason apart from revelation: no premise in the book is drawn from scripture, church authority, or religious experience. The arguments also come with their own falsification conditions, and the objection sections tell you where the best attempts to meet them are.
 
 ### "Hasn't science made all this obsolete?"
 
@@ -299,13 +293,13 @@ The premise is true and the inference does not follow. Informed people still dis
 
 ### "Even if there's a first cause, why call it God?"
 
-This is the best of the beginner-level objections, and Stage 2 of every proof chapter exists to answer it. The strategy is to show that anything fitting the Stage 1 description must, by the same metaphysics, be immaterial, eternal, unique, omnipotent, omniscient, and perfectly good. A quantum vacuum fails as a rival candidate because it is one physical thing among others, with states, parts and potentials — a candidate for a member of the series, not its terminus.
+This is the best of the beginner-level objections, and Stage 2 of every proof chapter exists to answer it: anything fitting the Stage 1 description must, by the same metaphysics, be immaterial, eternal, unique, omnipotent, omniscient, and perfectly good. A quantum vacuum fails as a rival candidate because it is one physical thing among others, with states, parts and potentials — a candidate for a member of the series, not its terminus.
 
-Be honest about the limits, though. Natural theology does not deliver any particular revealed religion, and Feser says so plainly: he thinks the real debate begins where natural theology leaves off, among theists of different stripes.
+Be honest about the limits, though. Natural theology delivers no particular revealed religion, and Feser says so plainly: the real debate begins where natural theology leaves off.
 
 ### "This commits the fallacy of composition"
 
-Two replies. First, the arguments do not, or need not, make any claim about the universe as a whole; they reason about any individual changing, composite, or contingent thing, so there is no part-to-whole inference to be fallacious. Second, Feser argues in chapter 7 that it is the objector who reasons badly: from the fact that stick A is moved by stick B, and B by C, forever, it does not follow that you have explained why there is any motion in the series. Leibniz's version is a geometry book copied from an earlier copy, infinitely — every individual copy is accounted for, and why the series contains geometry at all remains untouched.
+Two replies. First, the arguments need make no claim about the universe as a whole; they reason about any individual changing, composite, or contingent thing, so there is no part-to-whole inference to be fallacious. Second, Feser argues in chapter 7 that it is the objector who reasons badly. Leibniz's example: a geometry book copied from an earlier copy, infinitely — every individual copy is accounted for, and why the series contains geometry at all remains untouched.
 
 ## 7. Common misunderstandings
 
@@ -328,9 +322,7 @@ Two replies. First, the arguments do not, or need not, make any claim about the 
 
 ### The simple version
 
-Imagine a coffee cup on a desk. Why is it in the air instead of on the ground? The desk holds it. What holds the desk? The floor. What holds the floor? The foundation, then the earth.
-
-Now notice: the desk cannot hold anything up *by itself*. Take away the floor and the desk falls with the cup. Every one of them is borrowing the ability to hold things up.
+Imagine a coffee cup on a desk. Why is it in the air instead of on the ground? The desk holds it. What holds the desk? The floor, then the foundation, then the earth. Now notice: the desk cannot hold anything up *by itself*. Take away the floor and the desk falls with the cup. Every one of them is borrowing the ability to hold things up.
 
 Could that go on forever? Imagine a million desks stacked up, all borrowing. A billion. Infinitely many. Does the cup stay up? No — because none of them ever had the ability. They were passing along something that has to start somewhere.
 
@@ -394,4 +386,4 @@ Univocal: exactly the same sense ("Fido is a dog," "Rover is a dog"). Equivocal:
 
 ### Where to go next
 
-Read Feser's Introduction, pages 9–15. It is short, it will now be easy, and it will tell you in the author's own words what the book is for. Then begin chapter 1 — and when you reach the coffee, the flyswatter, and the cup on the desk, you will already know what they are doing there.
+Read Feser's Introduction, pages 9–15. It is short, it will now be easy, and it tells you in the author's own words what the book is for. Then begin chapter 1 — and when you reach the coffee, the flyswatter, and the cup on the desk, you will already know what they are doing there.

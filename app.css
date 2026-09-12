@@ -634,3 +634,10 @@ details.doc .prose { padding: 4px 26px 30px; max-height: 70vh; overflow-y: auto;
 }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } *, *::before, *::after { transition: none !important; animation: none !important; } }
 @media print { .sidebar, .topbar, .stepper, .pane-foot, .toc { display: none !important; } .shell { display: block; } body { background: #fff; } }
+
+/* definition popover: backdrop + dismissal */
+.gpop-back { position: fixed; inset: 0; z-index: 79; background: transparent; }
+.gpop.sheet ~ .gpop-back, body.pop-open .gpop-back { background: rgba(10, 13, 20, .35); }
+.gpop .gp-x.btn { justify-self: start; margin-top: 2px; }
+.gpop .gp-h .gp-x { font-size: 30px; line-height: .8; padding: 2px 10px; }
+@media (max-width: 680px) { .gpop.sheet .gp-x.btn { width: 100%; justify-self: stretch; padding: 13px; } }
